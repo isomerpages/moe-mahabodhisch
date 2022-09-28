@@ -27,7 +27,5 @@ description: ""
 
 
 #### Our Crest
-![](/images/mbs_logo.png)
-
-
+<img style="width: 20%;" src="/images/mbs_logo.png" align = "left" /> 
 
