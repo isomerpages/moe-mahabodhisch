@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - English/Programmes.md
       - English/Department Goals.md
       - English/.keep
