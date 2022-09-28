@@ -1,4 +1,5 @@
 collections:
   about-mbs:
     output: true
-    order: []
+    order:
+      - Vision & Mission.md
