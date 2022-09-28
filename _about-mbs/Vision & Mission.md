@@ -17,4 +17,5 @@ To develop the potential of every child to the fullest and nurture them to be co
 
 发展每个学生的潜能, 并培育他们成为有华族文化素养、品德高尚的社会栋梁
 
-[here](/files/2022%20SEd%20Opt%20Out%20form.pdf)
+[here](/files/2022SEdOptOutform.pdf)
+
