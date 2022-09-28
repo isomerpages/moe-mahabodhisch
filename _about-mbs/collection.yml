@@ -1,0 +1,4 @@
+collections:
+  about-mbs:
+    output: true
+    order: []
