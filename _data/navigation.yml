@@ -1,5 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About-MBS
+    collection: about-mbs
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
