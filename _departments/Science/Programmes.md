@@ -16,10 +16,6 @@ Learning journeys provide opportunities for students to learn science beyond the
 
 ### P3 – Camp @ Singapore Zoological Garden
 
-
-
 |  | |
 | -------- | -------- | 
-|    ![](/images/p3-camp-1.jpeg) | ![](/images/p3-camp-2.jpeg)|    
-
-
+|    ![](/images/p3-camp-1.jpeg) | ![](/images/p3-camp-2.jpeg)|
