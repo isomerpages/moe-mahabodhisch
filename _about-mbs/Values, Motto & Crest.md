@@ -6,10 +6,10 @@ description: ""
 ## Values, Motto & Crest
 
 #### Our Motto
-|     |     |    |     |
-|:---:|:---:|:--:|:---:|
-|  敦 |  品 | 励 |  学 |
-| dun | pin | li | xue |
+**敦 品 励 学**<br>
+dun pin li xue
+
+
 
 
 |        |                                                                                  |
