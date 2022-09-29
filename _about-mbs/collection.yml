@@ -2,7 +2,6 @@ collections:
   about-mbs:
     output: true
     order:
-      - Chinese Teachers.md
       - Vision & Mission.md
       - Values, Motto & Crest.md
       - History.md
@@ -19,3 +18,4 @@ collections:
       - Our People/Primary 4 Teachers.md
       - Our People/Primary 5 Teachers.md
       - Our People/Primary 6 Teachers.md
+      - Chinese Teachers.md
