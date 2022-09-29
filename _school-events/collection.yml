@@ -1,5 +1,5 @@
 collections:
-  important-information:
+  school-events:
     output: true
     order:
       - 2022 Maha Bodhi School Events.md
