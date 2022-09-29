@@ -102,3 +102,20 @@ The 2-day and 1-night camp seeks to introduce students to outdoor camping. The f
 
 The camp provides the opportunity for the students to learn to conquer their fears through the high elements stations. While it is a challenge-by-choice option where students only attempt the high elements if they are comfortable, students are highly encouraged to participate in the activities. Students will also have team-building activities and light trekking to build up their resilience and ruggedness. The camp facilitates social & emotional learning and provides confidence-building experiences in a fun and exciting outdoor environment. The values of Resilience and Excellence are emphasised in the camp.
 
+![](/images/adventurecamp.jpeg)
+
+**<u>Swimming</u>**
+
+Swimming develops students’ confidence to manoeuvre their bodies with control while experiencing the sensation of water balance, buoyancy and propulsion, in order to facilitate floating and moving in, under, and on water. The SwimSafer Programme for our Primary 3 students aims to equip our students with water survival skills and develop his/her self-confidence. The areas covered under the swimming programme are:
+
+a. Survival Skills. Covers drowning prevention techniques in addition to swimming ability. Pupils would be introduced to flotation survival techniques on how to stay alive in water.
+
+b. Education and Awareness Component. Pupils are taught water safety knowledge, such as rules of behaviour at the pool or near open waters, and water survival knowledge, which include learning how to signal for distress and survive in water long enough before being rescued.
+
+ The SwimSafer Programme has an instructor-pupil ratio of 1:10. The lower ratio is beneficial from a safety and educational perspective as it allows instructors to supervise pupils more closely and devote more attention towards individual pupils.
+ 
+ ![](/images/swimming.jpeg)
+ 
+ **<u>Physical Health and Fitness</u>**
+
+Physical Health and Fitness stimulates students’ interest in physical activity as meaningful connections between health concepts and practical applications are made through experiential learning. Our students learn and understand good health practices in nutrition, exercise, safety and hygiene. Students also learn good practices in safety which includes areas such as road, fire and water safety. With these, students will then be equipped with the knowledge, skills and motivation to make informed personal decisions to stay active and healthy.
