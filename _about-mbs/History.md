@@ -10,3 +10,4 @@ delegated Miss Pitt Chin Hui and others, aided by Buddhist believers, to underta
 establishing of Maha Bodhi School. A shophouse at No. 743, Geylang Road became a temporary  
 school building with about 40 pupils. On 12 January 1948, the school was officially declared  
 open. The first principal was Sister Wong Loon Soo.
+
