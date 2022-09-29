@@ -22,17 +22,17 @@ As part of the launch, the English Department had also specially arranged for th
 <img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-2.jpeg"/> 
 
 
-**EL Department TikTok-inspired Challenge**
+**<center>EL Department TikTok-inspired Challenge</center>**
 
 <img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-3.jpeg" />
 
-**Character Dress-up**
+**<center>Character Dress-up</center>**
 
 In the classrooms, similar to last year, pupils participated in group activities such as Heads-Up Charades, Choral Recitation and Group Spelling challenge. This year, we have introduced new activities ‘Hear Me Out’ and ‘Lost in Space’ to further engage the pupils.
 
-<img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-5.jpeg" />
+<img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-5.jpeg"/>
 
-**P1F Choral Recitation**
+**<center>P1F Choral Recitation</center>**
 
 <img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-4.jpeg" />
 
@@ -43,10 +43,3 @@ In the classrooms, similar to last year, pupils participated in group activities
 **P3 Best Dress-up Class**
 
 <img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-.jpeg" />
-
-
-
-
-
-
-
