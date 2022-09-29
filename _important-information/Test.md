@@ -281,5 +281,189 @@ description: ""
 </table>
 		</div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8"><h5 style="color:red">Mother Tongue Department</h5></label>
+	<div>
+		<p></p>
+		<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-efrg{background-color:#FFF;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-11zx{background-color:#FFF;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-efrg"><span style="font-weight:700;font-style:inherit">Head of Mother Tongue Languages</span></th>
+    <th class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Ms Ho Kar Hui</span><br><a href="mailto:ho.kar.hui@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">ho.kar.hui@vjc.edu.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-efrg"><span style="font-weight:700;font-style:inherit">Subject Head | Mother Tongue Languages</span></td>
+    <td class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Mr Ng Kok Hwa</span><br><a href="mailto:ng.kok.hwa@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">ng.kok.hwa@vjc.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+		</div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9"><h5 style="color:red">School Leaders</h5></label>
+	<div>
+		<p></p>
+		<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-efrg{background-color:#FFF;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-11zx{background-color:#FFF;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-efrg"><span style="font-weight:700;font-style:inherit">Head of Mother Tongue Languages</span></th>
+    <th class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Ms Ho Kar Hui</span><br><a href="mailto:ho.kar.hui@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">ho.kar.hui@vjc.edu.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-efrg"><span style="font-weight:700;font-style:inherit">Subject Head | Mother Tongue Languages</span></td>
+    <td class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Mr Ng Kok Hwa</span><br><a href="mailto:ng.kok.hwa@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">ng.kok.hwa@vjc.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+		</div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10"><h5 style="color:red">Physical Department & CCA</h5></label>
+	<div>
+		<p></p>
+		<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-efrg{background-color:#FFF;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-11zx{background-color:#FFF;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-efrg"><span style="font-weight:700;font-style:inherit">Head of Physical Education &amp; CCA</span></th>
+    <th class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Mr Tan Yew Hwee</span><br><a href="mailto:tan.yewhwee@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">tan.yewhwee@vjc.edu.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-efrg"><span style="font-weight:700;font-style:inherit">Subject Head | CCA</span></td>
+    <td class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Mr Lim Peng Yeow</span><br><a href="mailto:lim.pengyeow@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">lim.pengyeow@vjc.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="font-weight:700;font-style:inherit">Subject Head | Aesthetics</span></td>
+    <td class="tg-0lax"><span style="font-weight:inherit;font-style:inherit">Ms Ding Yih</span><br><a href="mailto:ding.yih@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">ding.yih@vjc.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+		</div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11"><h5 style="color:red">Project Work Department</h5></label>
+	<div>
+		<p></p>
+		<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-efrg{background-color:#FFF;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-11zx{background-color:#FFF;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-efrg"><span style="font-weight:700;font-style:inherit">Head of Project Work</span></th>
+    <th class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Ms Cai Xirui</span><br><a href="mailto:cai.xirui@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">cai.xirui@vjc.edu.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-efrg"><span style="font-weight:700;font-style:inherit">Senior Teacher | Project Work</span></td>
+    <td class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Mrs Ting Siang Leng</span><br><a href="mailto:goh.siangleng@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">goh.siangleng@vjc.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+		</div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12"><h5 style="color:red">Science Department</h5></label>
+	<div>
+		<p></p>
+		<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-efrg{background-color:#FFF;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-11zx{background-color:#FFF;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-efrg"><span style="font-weight:700;font-style:inherit">Head of Science</span></th>
+    <th class="tg-efrg"><span style="font-weight:inherit;font-style:inherit">Ms Toh Chui Hoon</span><br><a href="mailto:toh.chuihoon@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">toh.chuihoon@vjc.edu.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-efrg"><span style="font-weight:700;font-style:inherit">Head of Science</span><br></td>
+    <td class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Mrs Toh Chin Ling</span><br><a href="mailto:leong.chinling@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">leong.chinling@vjc.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:700;font-style:inherit">Lead Teacher | Biology</span><br></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Yeo Leng Choo</span><br><a href="mailto:yeo.lengchoo@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">yeo.lengchoo@vjc.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:700;font-style:inherit">Subject Head | Biology</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Heman Kwok Ho Man</span><br><a href="mailto:kwok.ho.man.heman@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">kwok.ho.man.heman@vjc.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:700;font-style:inherit">Subject Head | Physics</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Lee Keng Hua</span><br><a href="mailto:lee.kenghua@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">lee.kenghua@vjc.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:700;font-style:inherit">Subject Head | Science Research</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Dr Wu Jiang</span><br><a href="mailto:wu.jiang@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">wu.jiang@vjc.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:700;font-style:inherit">Senior Teacher | Chemistry</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Lim Cher Chuan Edwin</span><br><a href="mailto:lim.cherchuan@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">lim.cherchuan@vjc.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:700;font-style:inherit">Senior Teacher | Physics</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Chan Soo Heong Julius</span><br><a href="mailto:chan.sooheong.julius@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">chan.sooheong.julius@vjc.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+		</div>
+	</li>
 		
 		
+	
+	
