@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Aesthetics.md
       - English/.keep
       - English/Department Goals.md
       - English/Programmes.md
@@ -27,3 +26,4 @@ collections:
       - Character & Citizenship (CCE)/.keep
       - Character & Citizenship (CCE)/Mission & Vision.md
       - Character & Citizenship (CCE)/Programmes.md
+      - Aesthetics.md
