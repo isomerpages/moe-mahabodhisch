@@ -53,3 +53,17 @@ Gives opportunities to students to apply psychomotor skills in a fun, cooperativ
 
 ![](/images/massgames.jpeg)
 
+#### Mass Games Day (P3-P5)
+
+Provides opportunities for every student to put in practice what they have learnt during PE lessons in a competitive setting where the students complete in several stations and collect as many points as they can to contribute to the class’ total score. The activities also seek to build class affiliation.
+
+![](/images/massgames2.jpeg)
+
+#### Inter-Class Games (P6)
+
+Allow students to apply what they have learnt during PE lessons and play games against other classes with the spirit of competition. Students will be able to cheer for their classmates as they strategise to overcome their opponents.
+
+![](/images/interclass.jpeg)
+
+
+
