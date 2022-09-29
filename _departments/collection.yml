@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics/Mission & Vision.md
       - Aesthetics/.keep
       - English/.keep
       - English/Department Goals.md
