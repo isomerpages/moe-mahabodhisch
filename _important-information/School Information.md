@@ -122,3 +122,110 @@ description: ""
 </table>
 </div>
 </li>
+	<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Performing Arts</label>
+<div>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Performing Arts</strong></p>
+</td>
+<td>
+<p><strong>Name</strong></p>
+</td>
+<td>
+<p><strong>&nbsp;Dept</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chinese Orchestra</p>
+</td>
+<td>
+<p>Ms Wang Min<br /><a href="mailto:wang_min@moe.edu.sg" target="">wang_min@moe.edu.sg</a></p>
+</td>
+<td>
+<p>Language</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Choir</p>
+</td>
+<td>
+<p>Mr Yeo Jia Tian<br /><a href="mailto:yeo_jia_tian@moe.edu.sg">yeo_jia_tian@moe.edu.sg</a></p>
+</td>
+<td>
+<p>Chem</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Concert Band</p>
+</td>
+<td>
+<p>Ms Eve Ong<br /><a href="mailto:ong_yew_yi_eve@moe.edu.sg">ong_yew_yi_eve@moe.edu.sg</a></p>
+</td>
+<td>
+<p>Humanities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dance Society</p>
+</td>
+<td>
+<p>Mdm Teres Lim Yan Ling<br /><a href="mailto:teres_lim_yan_ling@moe.edu.sg">teres_lim_yan_ling@moe.edu.sg</a></p>
+</td>
+<td>
+<p>Econs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Drama Club</p>
+</td>
+<td>
+<p>Ms Salome Choa<br /><a href="mailto:salome_choa_jia_xin@moe.edu.sg">salome_choa_jia_xin@moe.edu.sg</a></p>
+</td>
+<td>
+<p>English</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Guitar Ensemble</p>
+</td>
+<td>
+<p>Ms Loh Lih Yeh<br /><a href="mailto:loh_lih_yeh@moe.edu.sg">loh_lih_yeh@moe.edu.sg</a></p>
+</td>
+<td>
+<p>Language</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Indian Cultural Society</p>
+</td>
+<td>
+<p>Mr Ganapathy Rajagopalan<br /><a href="mailto:ganapathy_rajagopalan@moe.edu.sg">ganapathy_rajagopalan@moe.edu.sg</a></p>
+</td>
+<td>
+<p>Language</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Malay Cultural Society</p>
+</td>
+<td>
+<p>Ms Noraidee Abdul Sukor<br /><a href="mailto:noraidee_abdul_sukor@moe.edu.sg">noraidee_abdul_sukor@moe.edu.sg</a></p>
+</td>
+<td>
+<p>Language</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
