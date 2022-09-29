@@ -13,7 +13,7 @@ third_nav_title: Our People
 | Mdm Lee Teck Lan                  | lee_teck_lan@moe.edu.sg |
 
 <br>
-</br>
+
 
 |      Class      |           Form Teachers           |                Emails               |
 |:---------------:|:---------------------------------:|:-----------------------------------:|
