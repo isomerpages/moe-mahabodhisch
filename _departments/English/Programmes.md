@@ -101,4 +101,10 @@ _Pupils guessing the word @ Heads Up Charade_
 ![](/images/Book-Sharing-by-Reading-Champs.jpeg)
 _Book Sharing by Reading Champs_
 
+### 2020 MBS Stay Home and Read Challenge
+
+
+**#MBSStayHomeAndReadChallenge**
+
+As part of the post-FHBL May holiday activities, the English department implemented our first MBS Stay Home and Read Challenge. In the midst of the COVID-19 situation, the objectives of the challenge were for our pupils to read more storybooks and also to encourage parents to read together with their child, promoting family bonding. Also we would like our pupils and teachers to pass on the love for reading by recommending the books they had enjoyed reading. The SLS package consisted of an array of activities and resources that included MBS Recommended Book Lists with the links of e-books specially curated and videos of MBS teachers recommending the books that they had read. Padlet links were provided for pupils and teachers to upload their videos and photos of their book recommendations. This initiative was met with an overwhelming response as many pupils shared and uploaded their book recommendations.
 
