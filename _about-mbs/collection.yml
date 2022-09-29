@@ -2,6 +2,7 @@ collections:
   about-mbs:
     output: true
     order:
+      - Financial Information.md
       - Vision & Mission.md
       - Values, Motto & Crest.md
       - History.md
