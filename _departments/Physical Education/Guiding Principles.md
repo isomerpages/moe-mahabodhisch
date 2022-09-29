@@ -11,7 +11,8 @@ third_nav_title: Physical Education
 Maha Bodhi School’s PE curriculum is guided by Ministry of Education’s Framework for 21st Century Competencies and Student Outcomes.
 
 
-![](/images/swissroll.jpeg)
+<img style="width: 55%;" src="/images/swissroll.jpeg" /> 
+
 
 ### 21st Century Competencies
 
