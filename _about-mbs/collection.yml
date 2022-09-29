@@ -2,6 +2,7 @@ collections:
   about-mbs:
     output: true
     order:
+      - Parent Support Group/PSG Page.md
       - Parent Support Group/.keep
       - Vision & Mission.md
       - Values, Motto & Crest.md
