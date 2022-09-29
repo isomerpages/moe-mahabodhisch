@@ -52,3 +52,4 @@ The P2 pupils had their Station Learning whereby they learnt more about the faci
 
 The P3 pupils had a chance to put the skills they have learnt into use during the P3 Station Learning i.e. map reading and locating places of interests in Singapore, identifying the common trees found in Singapore and planning the MRT route to take from one location to another. The theme for the P3 revolves within Singapore so this activity allows them to learn more about the landscape and infrastructure of Singapore.
 
+![](/images/p3station.jpeg)
