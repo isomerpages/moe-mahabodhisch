@@ -13,3 +13,8 @@ Students participate in activities and competitions, which are organised to prom
 ### Learning Journeys
 
 Learning journeys provide opportunities for students to learn science beyond the confines of the classroom in a fun and enjoyable way.  They are also planned to stimulate students’ interest and curiosity in the environment and to instil in them a sense of personal responsibility and concern for the environment, and caring for living things.
+
+### P3 – Camp @ Singapore Zoological Garden
+
+[![](https://www.mahabodhi.moe.edu.sg/programmes-6/science/programmes-2/)](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2016/12/p3-camp-2.jpg "p3-camp-2")
+
