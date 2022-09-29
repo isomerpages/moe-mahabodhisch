@@ -12,6 +12,8 @@ third_nav_title: Our People
 |:----------------------------------:|:-------------------------:|
 | Mrs Yeo-Ang Hwee Pheng             | ang_hwee_pheng@moe.edu.sg |
 
+</br>
+
 |          Class         |       Form Teachers       |             Emails             |
 |:----------------------:|:-------------------------:|:------------------------------:|
 | P3 Appreciation        | Ms Por Pei Yi             | por_pei_yi@moe.edu.sg          |
