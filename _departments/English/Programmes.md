@@ -69,3 +69,11 @@ For the second year running, the MBS English Reading Day, akin to World Book Day
 
 **Pupils and some of their family members posted photos of themselves reading books by award- winning authors on Padlet.**
 
+![](/images/Primary-4-class-listens-to-the-story-by-Beverly-Cleary.jpeg)
+
+**A Primary 4 class listens to the story by Beverly Cleary. The animations on the slides helped to captivate the pupils’ attention too.**
+
+![](/images/The-Jeopardy-games.jpeg)
+
+**A Primary 1 class participated actively in the Jeopardy games related to the story A Cat in the Hat by Dr Seuss.**
+
