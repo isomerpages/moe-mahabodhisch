@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Co curricular Activities (CCA).md
       - English/.keep
       - English/Department Goals.md
       - English/Programmes.md
@@ -23,3 +22,4 @@ collections:
       - Physical Education/Programme for Active Learning.md
       - Physical Education/PE Curriculum.md
       - Physical Education/Safety is for Everyone.md
+      - Co curricular Activities (CCA).md
