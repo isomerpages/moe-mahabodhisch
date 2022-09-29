@@ -18,7 +18,14 @@ The annual GEM (Good English Movement) Week was held in Term 2, Week 5 from 18 A
 Interesting class activities that were based on the topic of outer space had been planned for pupils to practice and showcase their language skills, ranging from speaking to writing.  
 As part of the launch, the English Department had also specially arranged for the character dress-up at recess, where several characters, Darth Vader, Sky Walker, Han Solo, Princess Leia, Jedi made their special appearances, entertaining the pupils while they were eating in the canteen. In addition, many teachers also participated in the TikTok-inspired challenge where they transformed into space characters of their choice. Not only that, the pupils in Drama Club had put on a skit at the launch on the importance of speaking standard English.
 
-![](/images/Good-English-Movement-week-Picture-2.jpeg)
+<img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-2.jpeg" align = "left" /> 
+<br><br><br><br><br><br>
+
+**EL Department TikTok-inspired Challenge**
+
+<img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-3.jpeg" align = "left" /> 
+
+
 
 
 
