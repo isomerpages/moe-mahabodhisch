@@ -2,9 +2,5 @@ logo: /images/schoollogo.jpg
 links:
   - title: About-MBS
     collection: about-mbs
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: "Departments "
+    collection: departments
