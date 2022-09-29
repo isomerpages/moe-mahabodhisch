@@ -2,7 +2,7 @@
 layout: homepage
 title: Maha Bodhi School
 description: An Isomer site of the Singapore Government
-image: /images/school_logo.jpg
+image: /images/schoollogo.jpg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -29,6 +29,7 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 
 
