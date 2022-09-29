@@ -90,10 +90,15 @@ Throughout the week, similar to last year, pupils participated in activities in 
 The English department garnered the strong support of the English teachers as well as the school leaders, who participated and contributed to the success of GEM Week. The GEM Week, though a scaled-down version, provided an unforgettable and exciting experience, not only for our pupils but our teachers as well.
 
 ![](/images/Teachers-dressing-up-as-frontline-worker.jpg)
-
 _Theme of 2020 GEM: Our Everyday Heroes. Teachers dressing up as frontline workers._
 
 ![](/images/Pupils-dressing-up-as-frontline-workers.jpeg)
-
 _Pupils dressing up as frontline workers_
+
+![](/images/Pupils-guessing-the-word-@-Heads-Up-Charade.png)
+_Pupils guessing the word @ Heads Up Charade_
+
+![](/images/Book-Sharing-by-Reading-Champs.jpeg)
+_Book Sharing by Reading Champs_
+
 
