@@ -10,21 +10,10 @@ description: ""
 <tbody>
 <tr>
 <td>
-<p><strong>Club &amp; Society</strong></p>
+	<p><strong>Principal</strong></p>
 </td>
 <td>
-<p><strong>Name</strong></p>
-</td>
-<td>
-<p><strong>Dept</strong></p>
-</td>
-</tr>
-<tr>
-<td>
-<p>AVA &amp; PA Club</p>
-</td>
-<td>
-<p>Mr Fong Choo Wah<br /><a href="mailto:fong_choo_wah@moe.edu.sg">fong_choo_wah@moe.edu.sg</a></p>
+<p>Mr Jeffrey Low<br /><a href="mailto:Jeffrey_Low@schools.gov.sg">Jeffrey_Low@schools.gov.sg</a></p>
 </td>
 <td>
 <p>Phy</p>
