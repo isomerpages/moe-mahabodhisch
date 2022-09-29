@@ -4,3 +4,14 @@ permalink: /departments/Mathematics/Department-Goals/
 description: ""
 third_nav_title: Mathematics
 ---
+## Mathematics
+
+### Department Goals
+
+**Department Goals**
+
+To enable pupils to:
+
+*   acquire mathematical concepts and skills
+*   develop into confident problem solvers and effective communicators
+*   cultivate an interest in mathematics
