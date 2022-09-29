@@ -39,7 +39,4 @@ description: ""
 </tbody>
 </table>
 		</div>
-	</li>
-</ul>
-			
-		
+
