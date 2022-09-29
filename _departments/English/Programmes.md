@@ -65,4 +65,7 @@ For the second year running, the MBS English Reading Day, akin to World Book Day
 
 ![](/images/MBS-Reading-day-Picture-1.png)
 
+![](/images/MBS-Reading-3.png)
+
+**Pupils and some of their family members posted photos of themselves reading books by award- winning authors on Padlet.**
 
