@@ -38,6 +38,14 @@ In the classrooms, similar to last year, pupils participated in group activities
 
 **P1F Spelling Challenge**
 
+<img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-6.jpeg" />
+
+**P3 Best Dress-up Class**
+
+<img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-.jpeg" />
+
+
+
 
 
 
