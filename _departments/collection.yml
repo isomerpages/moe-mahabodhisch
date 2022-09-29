@@ -2,8 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - Mathematics.md
       - English/.keep
       - English/Department Goals.md
       - English/Programmes.md
       - Chinese.md
+      - Mathematics.md
