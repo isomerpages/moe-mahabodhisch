@@ -37,7 +37,26 @@ Learning journeys provide opportunities for students to learn science beyond the
 
 |  | |  
 | -------- | -------- | 
-|  ![](/images/p6-journey-2.jpeg)   |   ![](/images/p6-journey-1.jpeg)   |     
+|  ![](/images/p6-journey-2.jpeg)   |   ![](/images/p6-journey-1.jpeg)   |
+
+### Learning Science with ICT
+
+
+The learning of science is enhanced through the use of information technology.  Students use internet and equipment such as data loggers and digital cameras to source and collect information and data, and synthesise reports for Science investigations.
+
+### Science Learning Centres
+
+
+Students explore and experience scientific concepts by participating in activities and quizzes at the various learning centres, such as the Einstein Corner, Eco-pond, Science Garden, Desert Plot, Butterfly Trail, Worms@Work, Stick Insects and Frog Vivaria around the school.
+
+### Students at Worm@Work
+
+|  |  |
+| -------- | -------- |
+|   ![](/images/worms-2.jpeg)  |  ![](/images/worms-1.jpeg)    | 
+
+
+
 
 
 
