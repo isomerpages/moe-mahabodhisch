@@ -3,7 +3,7 @@ url: https://www.mahabodhi.moe.edu.sg
 favicon: /images/mbs_logo.png
 colors:
   primary-color: "#507a0b"
-  secondary-color: "#7fd819"
+  secondary-color: "#4f8d06"
   media-colors:
     - title: media-color-one
       color: "#62a017"
@@ -12,7 +12,7 @@ colors:
     - title: media-color-three
       color: "#64bb0b"
     - title: media-color-four
-      color: "#7ed80c"
+      color: "#4e8507"
     - title: media-color-five
       color: "#407a07"
 description: An Isomer site of the Singapore Government
