@@ -27,3 +27,6 @@ third_nav_title: Aesthetics
 | SYF – Visual Art        | –        | NA     | –                 | NA                | –                   | NA                | 1 Silver | NA                | 2 Silver 1 Bronze | NA                | Recognition | NA             |
 | Physical Fitness        | Silver   | Gold   | Silver            | Gold              | Gold                | Gold              | Silver   | Silver            | Silver            | NA                |             |                |
 | School Video Award      | 1 Silver | NA     | 1 Platinum 1 Gold | 1 Gold 1 Silver   | 1 Platinum 1 Silver | 1 Gold 1 Silver   | 1 Gold   | 1 Gold 1 Merit    | 1 Gold 1 Silver   | 1 Gold 1 Silve    |             |                |
+
+_\* Best Symphonic Band of the Year_
+
