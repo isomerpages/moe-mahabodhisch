@@ -61,4 +61,8 @@ For the second year running, the MBS English Reading Day, akin to World Book Day
 
 <img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-9.jpeg" />
 
+![](/images/MBS-Reading-day-Picture-2.png)
+
 ![](/images/MBS-Reading-day-Picture-1.png)
+
+
