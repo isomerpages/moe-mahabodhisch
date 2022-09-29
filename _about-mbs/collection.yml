@@ -2,6 +2,6 @@ collections:
   about-mbs:
     output: true
     order:
-      - History.md
       - Vision & Mission.md
       - Values, Motto & Crest.md
+      - History.md
