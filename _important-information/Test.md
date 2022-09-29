@@ -3,7 +3,7 @@ title: Test
 permalink: /important-information/permalink/
 description: ""
 ---
- <li>
+<li>
 
     <input type="checkbox" id="accordion1">
 
