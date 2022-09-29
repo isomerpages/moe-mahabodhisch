@@ -2,7 +2,6 @@ collections:
   important-information:
     output: true
     order:
-      - Test 3.md
       - Test2.md
       - Test.md
       - School Information.md
