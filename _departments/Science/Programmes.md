@@ -51,12 +51,17 @@ Students explore and experience scientific concepts by participating in activiti
 
 ### Students at Worm@Work
 
+
 |  |  |
 | -------- | -------- |
-|   ![](/images/worms-2.jpeg)  |  ![](/images/worms-1.jpeg)    | 
+|   ![](/images/worms-2.jpeg)  |  ![](/images/worms-1.jpeg)    |
 
+Hydroponics Cultivation for the P4
+----------------------------------
 
+The school has set up a Hydroponics Greenhouse, which makes use of solar panels to generate electricity to power the circulation of the nutrient solution. The hydroponics cultivation of vegetables has been incorporated into the P4 curriculum to expose our students to an alternative method of growing plants without soil.  Students observe the growth and development of the plants in the hydroponics system and also note the effects of different amounts of nutrients on the plants. Students are involved hands-on from the beginning with the transplanting of seedlings onto the culture boards right up to the harvesting of the crops.
 
-
-
+|  |  | |
+| -------- | -------- | -------- |
+| ![](/images/hydroponics-3.jpeg)  |   ![](/images/hydroponics-1.jpeg)  |  ![](/images/hydroponics-2.jpeg) |
 
