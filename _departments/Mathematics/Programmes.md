@@ -19,3 +19,7 @@ Math and Science Fiesta is carried out in Term 3 every year. It aims to be an en
 ![](/images/math-and-science-fiesta_1.jpeg)
 
 ![](/images/math-and-science-fiesta_2.jpeg)
+
+*   **E2K (Mathematics)**
+
+The E2K Math Programme is designed to enrich the learning experiences of selected pupils who have demonstrated aptitude for mathematics. The E2K Math Programme aims to foster independence in mathematical thinking skills and the love for mathematics through activities such as stories, games and puzzles. Various strategies in problem solving will be explored and higher order thinking skills will be applied to formulate solutions and communicate mathematical reasoning.
