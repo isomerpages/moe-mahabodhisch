@@ -28,4 +28,8 @@ Learning journeys provide opportunities for students to learn science beyond the
 
 ### P5 – Learning Journey to Bukit Timah Nature Reserve
 
+|  |  | |
+| -------- | -------- | -------- |
+|   ![](/images/p5-journey-5.jpeg)   |    ![](/images/p5-journey-1.jpeg)  |   ![](/images/p5-journey-2.jpeg)   |
+|   ![](/images/p5-journey-3.jpeg)   |    ![](/images/p5-journey-4.jpeg)  |     |
 
