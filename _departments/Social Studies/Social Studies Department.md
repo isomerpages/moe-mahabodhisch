@@ -89,3 +89,49 @@ The exhibition invited pupils to take a closer look at some National Monuments a
 **<u>Current Affairs Programme</u>**
 
 The Current Affairs Programme was launched to stir curiosity and create interest in the happenings locally and around the world. The NE Ambassador of each class is in charge of posting up a newspaper article fortnightly. They would then encourage their classmates to read the article and pen down their reflections and comments for the class to read. This is done in their free time and hence meaningful self-directed learning takes place. A platform has been created for pupils to think about and engage in common discussion about the events that impact our society. The department has also collaborated with old girls from MBS who were doing a project on media literacy. They came to school to conduct activities to raise awareness of the importance of media literacy. The department also printed a publication that the girls had crafted on current affairs for the P5s and P6s. The P5s also subscribe to a children’s newspaper called What’s up.
+
+![](/images/currentaffair.jpeg)
+
+**<u>HDB Road Show</u>**
+
+The department arranged for HDB to put up a road show in school for the pupils to visit during their recess times. The theme was gracious and responsible heartland living. There were info panels for pupils to read. There were e-games, board games, puzzles, spin-a-wheel game etc. There was even a photo booth for the pupils to take photos with their friends. Through these activities, pupils were engaged to think about how they can be better neighbours.
+
+![](/images/HDB.jpeg)
+
+**<u>P5 National Education Show</u>**
+
+Since 1997, the National Education (NE) Show has been organised for all Primary 5 pupils to instil a sense of belonging and to bring across the significance of our National Day. The chosen theme for National Day Parade 2016 was “Building our Singapore of Tomorrow”. The theme was a call to action for Singaporeans to build our future together. NDP 2016 marks the first NDP for the next 50 years in our journey towards SG100. It was held at the iconic National Stadium after a ten year hiatus. It was a fruitful and exciting night for the pupils and teachers.
+
+![](/images/neshow.jpeg)
+
+**<u>Cultural Festival</u>**
+
+Maha Bodhi School held its inaugural Cultural Festival in 2016. Being a SAP school, majority of our pupils are Chinese. The purpose of this event is to expose our pupils to the different customs and practices of the other ethnic communities (i.e. Malays and Indians) in Singapore. Parents of our Primary 1 and Primary 2 pupils were invited to the event for this learning and bonding opportunity. Participants had the chance to have a hands-on experience of Bunga Rumpai, Henna, Ssri Tying, Silat, Traditional Games and Dance. It was a colourful and fun fiesta for pupils and parents alike.
+
+![](/images/culturalfestival.jpeg)
+
+**<u>P1 Bird Park Flies to School</u>**
+
+The Bird Park Flies to School programme is an assembly talk which enables pupils to learn about the different types of flightless birds and how to take care of them. The theme of birds ties in with a Social Studies reader. Pupils found out about whether all birds lay eggs or fly. They were excited to meet a real life cockatoo that the bird park brought along.
+
+![](/images/birdparkinschool.jpeg)
+
+**<u>NHB Heritage Explorer Cards for the P3 pupils</u>**
+
+The Heritage Explorers Programme by NHB is adopted for our P3 pupils. The programme aims to raise students’ awareness and interest in local and community heritage. By role-playing heritage professions such as curator, educator, designer, historian or ambassador, students can discover and have better understanding of the heritage of their family, the community and the nation. Upon completion of the tasks, each pupil received the Heritage Explorers Badge(s).
+
+![](/images/NHB.jpeg)
+
+### <center>NE Ambassadors </center>
+
+**<u>Future of us Exhibition</u>**
+
+The department arranged a Learning Journey for our P5 and 6 NE Ambassadors to the Future of Us Exhibition at the Gardens by the Bay. The exhibition was an immersive and multi-sensory experience that offered a glimpse into the possibilities of how Singaporeans can live, work, play, care and learn in the future. The exhibition called on Singaporeans to share their hopes and dreams for themselves, their family and the nation, and to participate in steering the Singapore journey towards the future. It is the capstone event to round up Singapore’s SG50 year of celebrations. Objective of the trip was to enhance pupils’ learning and arouse their interest in National Education.
+
+![](/images/futureofus.jpeg)
+
+**<u>HDB Youthoria Carnival</u>**
+
+Heartland Youthoria! is an annual carnival organised as part of HDB Community Week to celebrate our youth’s involvement in community building. The department brought our NE Ambassadors to take part in interactive activities and exciting games where they were inspired to join HDB on the journey in building heartland communities. The exhibition also showcased success stories of youth’s leadership and involvement in the heartlands, and raised their awareness on community bonding in the heartlands. The pupils participated in a workshop where they picked up creative doodling skills and sketched their lively neighbourhood.
+
+![](/images/carnival.jpeg)
