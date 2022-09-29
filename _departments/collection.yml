@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Character & Citizenship (CCE)/Mission & Vision.md
       - Character & Citizenship (CCE)/.keep
       - English/.keep
       - English/Department Goals.md
