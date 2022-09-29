@@ -2,8 +2,6 @@ collections:
   about-mbs:
     output: true
     order:
-      - Parent Support Group/PSG Page.md
-      - Parent Support Group/.keep
       - Vision & Mission.md
       - Values, Motto & Crest.md
       - History.md
@@ -23,3 +21,5 @@ collections:
       - Our People/Chinese Teachers.md
       - Our People/Allied Educators.md
       - Our People/School Admin Team.md
+      - Parent Support Group/.keep
+      - Parent Support Group/PSG Page.md
