@@ -77,3 +77,4 @@ Drama is an effective way of building a variety of communication skills in an em
 | Videography                                          | Ms Lim Mei Xin Josie  lim_mei_xin_josie@moe.edu.sg                   |
 | *Wushu & Lion Dance                                  | Ms Wong Li Sher  wong_li_sher@moe.edu.sg                             |
 
+\***These CCAs may require your child to stay back after school for additional training sessions.**
