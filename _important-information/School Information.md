@@ -4,10 +4,10 @@ permalink: /Imporatant-Information/School-Information/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-  <li>
+	<li>
     <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5 style="color:blue">School Leaders</h5></label>
-    <div>		
+   <div>		
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -38,5 +38,5 @@ description: ""
   </tr>
 </tbody>
 </table>
-		</div>
-	</li>
+  </div>
+ </li>
