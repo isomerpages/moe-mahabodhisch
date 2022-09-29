@@ -59,8 +59,6 @@ All these activities, from the poll to the launch to the GEM activities, were a 
 
 For the second year running, the MBS English Reading Day, akin to World Book Day, was conducted on 13 April 2022. This event aims to encourage our pupils to discover the joy of reading. This year, the MBS English Reading Day celebrated award-winning authors as it showcased their lives and their famous works. The specially curated authors by the English department were Dr Seuss, Beverly Cleary and Madeleine L’Engle. Through MBS English Reading Day, the children immersed themselves in the minds of these talented authors as they listened to excerpts of the stories, played Jeopardy games related to the values displayed by the characters in the stories and watched trailers of their movie adaptations. Most importantly, the MBS English Reading Day also set out to promote parent-child bonding as parents and pupils were encouraged to share their favorite storybooks on Padlet. We hope that through the MBS English Reading Day, the joy of reading has been rubbed off on the pupils, thereby spreading the love of reading among them.
 
-<img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-9.jpeg" />
-
 ![](/images/MBS-Reading-day-Picture-2.png)
 
 ![](/images/MBS-Reading-day-Picture-1.png)
@@ -78,8 +76,9 @@ For the second year running, the MBS English Reading Day, akin to World Book Day
 **A Primary 1 class participated actively in the Jeopardy games related to the story A Cat in the Hat by Dr Seuss.**
 
 ![](/images/Jeopardy.jpeg)
-**2020 GEM Week**
-=================
+
+### 2020 GEM Week
+
 
 In 2020, GEM (Good English Movement) Week was held in Term 3 Week 4 (13 July – 16 July 2020). Due to the current COVID-19 situation the English department carried out interesting activities to promote the use of Standard English and reading of storybooks while observing the safe distancing measures. 
 
@@ -88,3 +87,4 @@ To bring about greater awareness and deeper appreciation for the frontline worke
 Throughout the week, similar to last year, pupils participated in activities in class such as Heads-Up Charades, Readers’ Theatre, Choral Recitation, Group Spelling challenge and Debates all in the spirit of teamwork and inculcating the joy of learning in English, revolving around the theme – Our Everyday Heroes. In place of the physical treasure hunt that we used to have, a new online treasure hunt ‘E-treasure Hunt’ was designed – an adaptation of the well-known reality game, Escape Room. Pupils had to work for clues before they could open the next one and solve the Mystery Word. They were allowed to do this via SLS.
 
 The English department garnered the strong support of the English teachers as well as the school leaders, who participated and contributed to the success of GEM Week. The GEM Week, though a scaled-down version, provided an unforgettable and exciting experience, not only for our pupils but our teachers as well.
+
