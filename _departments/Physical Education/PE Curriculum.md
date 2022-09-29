@@ -75,8 +75,8 @@ Gymnastics in Maha Bodhi School emphasises on challenging students, working eith
 
 ![](/images/gymnastics.jpeg)
 
-Outdoor Education 
-------------------
+#### <u>Outdoor Education</u>
+
 
 **Physical Education**
 
@@ -95,3 +95,10 @@ Outdoor Education, otherwise defined as experiential learning in, for or about t
  **Primary 3 2D 1N Outdoor Adventure Camp \[Interaction with the Environment\]**
 
 The 2-day and 1-night camp seeks to introduce students to outdoor camping. The focus of the camp is on interacting with the environment. In collaboration with the Science Department, we organise our school camp with a trip to the zoo so that they will be able to learn more about animals and its interaction with nature. The team-building activities incorporated in the camp helps students learn to work with one another and learn to share, work and care for one another.
+
+![](/images/adventure.jpeg)
+
+**Primary 5 3D 2N Outdoor Adventure Camp** **\[Introduction to High Elements\]**
+
+The camp provides the opportunity for the students to learn to conquer their fears through the high elements stations. While it is a challenge-by-choice option where students only attempt the high elements if they are comfortable, students are highly encouraged to participate in the activities. Students will also have team-building activities and light trekking to build up their resilience and ruggedness. The camp facilitates social & emotional learning and provides confidence-building experiences in a fun and exciting outdoor environment. The values of Resilience and Excellence are emphasised in the camp.
+
