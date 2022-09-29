@@ -12,7 +12,7 @@ third_nav_title: Our People
 |:-----------------------:|:------------------------:|
 | Ms Ang Chew Peng        | ang_chew_peng@moe.edu.sg |
 
-<br>
+</br>
 
 
 
