@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Character & Citizenship (CCE)/Mission & Vision.md
-      - Character & Citizenship (CCE)/.keep
       - English/.keep
       - English/Department Goals.md
       - English/Programmes.md
@@ -25,3 +23,5 @@ collections:
       - Physical Education/PE Curriculum.md
       - Physical Education/Safety is for Everyone.md
       - Co curricular Activities (CCA).md
+      - Character & Citizenship (CCE)/.keep
+      - Character & Citizenship (CCE)/Mission & Vision.md
