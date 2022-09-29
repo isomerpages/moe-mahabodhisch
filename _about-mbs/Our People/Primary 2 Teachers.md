@@ -12,6 +12,8 @@ third_nav_title: Our People
 |:---------------------------------:|:-----------------------:|
 | Mdm Lee Teck Lan                  | lee_teck_lan@moe.edu.sg |
 
+</br>
+
 |      Class      |           Form Teachers           |                Emails               |
 |:---------------:|:---------------------------------:|:-----------------------------------:|
 | P2 Appreciation | Mrs Thong-Tan Siao Yean           | tan_siao_yean@moe.edu.sg            |
