@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
+      - Cyber Wellness/.keep
+      - Cyber Wellness/Cyberbullying Awareness Workshop.md
       - "Cyber Wellness/Digital Parenting: 8 Must Have Skills for your Child to
         Succeed Today.md"
-      - Cyber Wellness/Cyberbullying Awareness Workshop.md
-      - Cyber Wellness/.keep
       - English/.keep
       - English/Department Goals.md
       - English/Programmes.md
