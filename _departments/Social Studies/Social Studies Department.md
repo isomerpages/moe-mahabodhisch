@@ -74,5 +74,13 @@ Our P5 and P6 pupils wrote a letter of encouragement to motivate our young soldi
 
 ![](/images/letters.jpeg)
 
+**<u>Exhibition on Botanical Gardens by National Heritage Board</u>**
 
+The department arranged for NHB to bring in “More than a Garden” travelling exhibition to educate the pupils about our very own UNESCO world Heritage Site. The children found out how the Gardens has changed the world through its contributions to the rubber industry in Southeast Asia. They also learned about the pioneers who made it possible.
+
+![](/images/botanicgarden.jpeg)
+
+**<u>Insight – A 3D Monumental Journey Exhibition</u>**
+
+The exhibition invited pupils to take a closer look at some National Monuments and admire their features to find out what makes each one unique. Each building has its own story and these combine to tell the grand narrative of Singapore’s development, both as a city and a multicultural society. As pupils examined the images and read the interesting facts, we hope they had gained insights into our history and inheritance. The pupils made use of 3D glasses to admire the 3D stereograms and were delighted to see the buildings come to life.
 
