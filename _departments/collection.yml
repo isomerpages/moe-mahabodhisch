@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Social Studies/Mission & Vision.md
       - Social Studies/.keep
       - English/.keep
       - English/Department Goals.md
