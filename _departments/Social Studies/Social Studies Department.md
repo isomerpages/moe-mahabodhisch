@@ -42,4 +42,13 @@ The P4 pupils went for their Field Based Learning to Kampong Glam. Pupils learnt
 
 #### <center>Social Studies Learning Stations</center>
 
+**<u>P2 Station Learning</u>**
+
+The P2 pupils had their Station Learning whereby they learnt more about the facilities around their neighbourhood and the unique features of the various ethnic costumes. Pupils learnt that they can have family bonding time at the various facilities around their neighbourhood. They build a scene of a family spending time at the neighbouring facilities. They also designed a uniquely Singapore costumes by incorporating the uniques features of the costumes of the various ethnic groups in Singapore. Through this Station Learning, they also learnt more about teamwork and cooperativeness.
+
+![](/images/p2station.jpeg)
+
+**<u>P3 Social Studies Station Learning</u>**
+
+The P3 pupils had a chance to put the skills they have learnt into use during the P3 Station Learning i.e. map reading and locating places of interests in Singapore, identifying the common trees found in Singapore and planning the MRT route to take from one location to another. The theme for the P3 revolves within Singapore so this activity allows them to learn more about the landscape and infrastructure of Singapore.
 
