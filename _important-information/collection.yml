@@ -2,4 +2,5 @@ collections:
   important-information:
     output: true
     order:
+      - Contact/.keep
       - School Information.md
