@@ -16,5 +16,10 @@ Learning journeys provide opportunities for students to learn science beyond the
 
 ### P3 – Camp @ Singapore Zoological Garden
 
-[![](https://www.mahabodhi.moe.edu.sg/programmes-6/science/programmes-2/)](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2016/12/p3-camp-2.jpg "p3-camp-2")
+
+
+|  | |
+| -------- | -------- | 
+|    ![](/images/p3-camp-1.jpeg) | ![](/images/p3-camp-2.jpeg)|    
+
 
