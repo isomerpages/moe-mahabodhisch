@@ -2,7 +2,6 @@ collections:
   about-mbs:
     output: true
     order:
-      - Parent Support Group.md
       - Vision & Mission.md
       - Values, Motto & Crest.md
       - History.md
