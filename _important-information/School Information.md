@@ -3,12 +3,42 @@ title: School Information
 permalink: /Imporatant-Information/School-Information/
 description: ""
 ---
-<ul>
-<li>
-<input id="accordion1" type="checkbox">
-<label for="accordion1">School Leaders</label>
-<div>
-<br><table><tbody><tr><td>Principal</td><td>Mr Jeffrey Low<br><a href="mailto:Jeffrey_Low@schools.gov.sg">Jeffrey_Low@schools.gov.sg</a></td></tr></tbody></table>
-    </div>
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+		<label for="accordion1"><h5 style="color:blue">School Leaders</h5></label>
+    <div>		
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:700;font-style:inherit">Principal</span></th>
+    <th class="tg-0pky"><span style="font-weight:inherit;font-style:inherit">Mr Jeffrey Low</span><br><a href="mailto:Jeffrey_Low@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">Jeffrey_Low@schools.gov.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:inherit">Vice-Principal</span></td>
+    <td class="tg-0pky"><span style="font-weight:inherit;font-style:inherit">Mr Gurusharan Singh S/O Major Singh</span><br><a href="mailto:Gurusharan_M_SINGH@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">Gurusharan_M_SINGH@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:inherit">Vice-Principal</span></td>
+    <td class="tg-0pky"><span style="font-weight:inherit;font-style:inherit">Ms Grace Lee Yun Yun</span><br><a href="mailto:LEE_Yun_Yun_Grace@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">LEE_Yun_Yun_Grace@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:inherit">Vice-Principal (Administration)</span></td>
+    <td class="tg-0pky"><span style="font-weight:inherit;font-style:inherit">Mr Kyle Lim Kwee Hong</span><br><a href="mailto:kyle_lim@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">Kyle_lim@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+	</li>	
+		</div>
 	</li>
-</ul>
+	
