@@ -4,9 +4,7 @@ permalink: /departments/Mathematics/Department-Goals/
 description: ""
 third_nav_title: Mathematics
 ---
-## Mathematics
-
-### Department Goals
+## Department Goals
 
 **Department Goals**
 
