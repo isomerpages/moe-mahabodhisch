@@ -19,3 +19,13 @@ Learning journeys provide opportunities for students to learn science beyond the
 |  | |
 | -------- | -------- | 
 |    ![](/images/p3-camp-1.jpeg) | ![](/images/p3-camp-2.jpeg)|
+
+### P4 – Enrichment Experience @ Science Centre
+
+
+
+|  | |
+| -------- | -------- | 
+|   ![](/images/p4-camp-2.jpeg)  | ![](/images/p4-camp-1.jpeg)   | 
+
+
