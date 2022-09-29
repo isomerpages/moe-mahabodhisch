@@ -245,4 +245,41 @@ description: ""
 </table>
 		</div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7"><h5 style="color:red">Mathematics Department</h5></label>
+	<div>
+		<p></p>
+		<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-efrg{background-color:#FFF;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-11zx{background-color:#FFF;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-efrg"><span style="font-weight:700;font-style:inherit">Head of Mathematics</span></th>
+    <th class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Mrs Ang Chiou Lian</span><br><a href="mailto:tong.chioulian@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">tong.chioulian@vjc.edu.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-efrg"><span style="font-weight:700;font-style:inherit">Level Head (Year 1)</span></td>
+    <td class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Mrs Jean Chong</span><br><a href="mailto:tan.yenjun@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">tan.yenjun@vjc.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:700;font-style:inherit">Level Head (Year 2)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mrs Koh Sook Mui</span><br><a href="mailto:loh.sookmui@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">loh.sookmui@vjc.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+		</div>
+	</li>
+		
 		
