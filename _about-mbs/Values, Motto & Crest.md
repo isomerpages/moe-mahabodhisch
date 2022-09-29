@@ -26,7 +26,7 @@ description: ""
 
 #### Our Crest
 <img style="width: 10%;" src="/images/mbs_logo.png" align = "left" /> 
-<br><br><br><br>
+<br><br><br>
 “Bodhi” means enlightenment. The Lord Buddha taught the world the truth and the way to achieve enlightenment. “Maha” means grand.
 
 The school is named “Maha Bodhi” because it aspires that all pupils of the school are able to take up the character and moral of the Lord Buddha; to emulate his example as they absorb knowledge, wisdom and scientific techniques of the world; to live morally, truthfully and wisely.
