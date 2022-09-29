@@ -22,7 +22,18 @@ In his dialogue with our teachers, Dr Maliki shared his observation of the pupil
 
 ![](/images/Ministervisit4.jpeg)
 
+![](/images/Ministervisit5.jpeg)
 
+![](/images/Ministervisit6.jpeg)
 
+![](/images/Minsitervisit7.jpeg)
 
+![](/images/Ministervisit8.jpeg)
+
+![](/images/Ministervisit9.jpeg)
+
+![](/images/Minsitervisit10.jpeg)
+
+![](/images/Ministervisit12.jpg)
+![](/images/Ministervisit11.jpeg)
 
