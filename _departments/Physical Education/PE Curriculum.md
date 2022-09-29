@@ -65,5 +65,11 @@ Allow students to apply what they have learnt during PE lessons and play games a
 
 ![](/images/interclass.jpeg)
 
+#### Programme for Active Learning
 
+ The Sports and Games module engages students through a variety of sports and games activities, e.g. fundamental movement, movement exploration, creative movement and modified sports and games. This provides opportunities for students to explore, create and improvise activities in sports and games. The interactions among students enable them to develop their interpersonal and social skills, attitudes and values.
+ 
+ **<u>Gymnastics</u>**
+
+Gymnastics in Maha Bodhi School emphasises on challenging students, working either alone or in pairs and groups, to manoeuvre their bodies safely on the floor and when negotiating a variety of apparatus. Working with others and experiencing a sense of cooperative success in managing different gymnastics problems facilitate the development of care, harmony, responsibility and resilience.
 
