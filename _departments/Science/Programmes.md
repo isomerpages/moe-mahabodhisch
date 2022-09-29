@@ -33,3 +33,11 @@ Learning journeys provide opportunities for students to learn science beyond the
 |   ![](/images/p5-journey-5.jpeg)   |    ![](/images/p5-journey-1.jpeg)  |   ![](/images/p5-journey-2.jpeg)   |
 |   ![](/images/p5-journey-3.jpeg)   |    ![](/images/p5-journey-4.jpeg)  |     |
 
+### P6 – Learning Journey to Sungei Buloh Wetland Reserve
+
+|  | |  
+| -------- | -------- | 
+|  ![](/images/p6-journey-2.jpeg)   |   ![](/images/p6-journey-1.jpeg)   |     
+
+
+
