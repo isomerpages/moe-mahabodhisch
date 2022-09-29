@@ -2,8 +2,8 @@ collections:
   about-mbs:
     output: true
     order:
-      - School Facilities.md
       - Vision & Mission.md
       - Values, Motto & Crest.md
       - History.md
       - Financial Information.md
+      - School Facilities.md
