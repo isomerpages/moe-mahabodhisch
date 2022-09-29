@@ -6,14 +6,14 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Chinese</label>
+    <label for="accordion1">School Leaders</label>
     <div>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">HOD</span></th>
-    <th class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Tan Choon Yan</span></th>
-    <th class="tg-z2r0"><a href="mailto:tan_choon_yan@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">tan_choon_yan@schools.gov.sg </span></a><br><span style="font-weight:inherit;font-style:inherit">63805112</span></th>
+    <th class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Principal</span></th>
+    <th class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Jeffrey Low</span></th>
+    <th class="tg-z2r0"><a href="mailto:Jeffrey_Low@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF4109;background-color:transparent">Jeffrey_Low@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit"></span></th>
   </tr>
 </thead>
 <tbody>
@@ -30,4 +30,4 @@ description: ""
 </tbody>
 </table>
     </div>
-	</li>  
+	</li>
