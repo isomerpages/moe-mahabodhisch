@@ -73,3 +73,25 @@ Allow students to apply what they have learnt during PE lessons and play games a
 
 Gymnastics in Maha Bodhi School emphasises on challenging students, working either alone or in pairs and groups, to manoeuvre their bodies safely on the floor and when negotiating a variety of apparatus. Working with others and experiencing a sense of cooperative success in managing different gymnastics problems facilitate the development of care, harmony, responsibility and resilience.
 
+![](/images/gymnastics.jpeg)
+
+Outdoor Education 
+------------------
+
+**Physical Education**
+
+Outdoor Education, otherwise defined as experiential learning in, for or about the outdoors is part of the PE curriculum in Maha Bodhi School as part of our effort to ensure that our students develop into rugged, robust and resilient students who are ready for life in secondary school in the near future and life in the 21st century as a long term goal. Outdoor Education in Maha Bodhi School consists of two main components:
+
+**Adventure Education –** Focuses on confidence-building, promoting resilience, ruggedness and robustness, overcoming adversity, enhancing personal and social development and on knowing the basics of surviving in the outdoors.
+
+**Experiential Education –** Focuses on process skills, leadership skills, problem-solving skills, teamwork and understanding the natural environment.
+
+**Programme for Active Learning** 
+
+ The Outdoor Education module provides for direct experiences in the outdoors from which students can learn about the components of Outdoor Education (OE) through facilitation and reflection. It also allows students to discover the interconnections between the world and themselves; this includes understanding the consequences of their actions on the people / community around them and the natural environment. Students can thus be curious and explore the outdoors in a safe way.
+
+**Outdoor Camps** 
+
+ **Primary 3 2D 1N Outdoor Adventure Camp \[Interaction with the Environment\]**
+
+The 2-day and 1-night camp seeks to introduce students to outdoor camping. The focus of the camp is on interacting with the environment. In collaboration with the Science Department, we organise our school camp with a trip to the zoo so that they will be able to learn more about animals and its interaction with nature. The team-building activities incorporated in the camp helps students learn to work with one another and learn to share, work and care for one another.
