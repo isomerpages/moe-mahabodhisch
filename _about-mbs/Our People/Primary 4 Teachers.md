@@ -13,7 +13,6 @@ third_nav_title: Our People
 | Ms Stephanie Yew Birui   | yew_birui_stephanie_elsie@moe.edu.sg |
 
 <br>
-</br>
 
 |          Class          |          Form Teachers         |                 Emails                 |
 |:-----------------------:|:------------------------------:|:--------------------------------------:|
@@ -35,4 +34,3 @@ third_nav_title: Our People
 |                         | Mdm Hu Shanshan                | hu_shanshan@moe.edu.sg                 |
 | Other P4 Level Teachers | Ms Yew Birui Stephanie Elsie   | yew_birui_stephanie_elsie@moe.edu.sg   |
 |                         | Ms Ong Mei Hui Jasmine         | ong_mei_hui_jasmine@moe.edu.sg         |
-
