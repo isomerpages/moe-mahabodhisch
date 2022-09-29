@@ -13,5 +13,5 @@ Inspired learners of exemplary character<br>
 
 **Our Mission 学校宗旨**
 
-To develop the potential of every child to the fullest and nurture them to be concerned citizens, morally upright and rooted in Chinese Culture<br>
+To develop the potential of every child to the fullest and nurture them to be concerned citizens, morally upright and rooted in Chinese Culture<br><br>
 发展每个学生的潜能, 并培育他们成为有华族文化素养、品德高尚的社会栋梁
