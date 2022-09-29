@@ -128,7 +128,8 @@ The Heritage Explorers Programme by NHB is adopted for our P3 pupils. The progra
 
 The department arranged a Learning Journey for our P5 and 6 NE Ambassadors to the Future of Us Exhibition at the Gardens by the Bay. The exhibition was an immersive and multi-sensory experience that offered a glimpse into the possibilities of how Singaporeans can live, work, play, care and learn in the future. The exhibition called on Singaporeans to share their hopes and dreams for themselves, their family and the nation, and to participate in steering the Singapore journey towards the future. It is the capstone event to round up Singapore’s SG50 year of celebrations. Objective of the trip was to enhance pupils’ learning and arouse their interest in National Education.
 
-![](/images/futureofus.jpeg)
+<img style="width: 60%;" src="/images/futureofus.jpeg"/>
+
 
 **<u>HDB Youthoria Carnival</u>**
 
