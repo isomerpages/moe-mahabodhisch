@@ -53,3 +53,18 @@ The P2 pupils had their Station Learning whereby they learnt more about the faci
 The P3 pupils had a chance to put the skills they have learnt into use during the P3 Station Learning i.e. map reading and locating places of interests in Singapore, identifying the common trees found in Singapore and planning the MRT route to take from one location to another. The theme for the P3 revolves within Singapore so this activity allows them to learn more about the landscape and infrastructure of Singapore.
 
 ![](/images/p3station.jpeg)
+
+**<u>P4 Social Studies Station Learning</u>**
+
+The Primary 4 pupils had their Station Learning, which allowed them to have hands-on experience on some of the topics which were covered in the classroom. Since the Primary 4 syllabus is about the development of Singapore from a fishing village to an independant nation, they were exposed to various key moments during this period, in particular, the contributions of our founding fathers and our multiculturalism. Furthermore, the pupils were engaged in map reading, enabling them to locate where our early settlers came from. This has given them a clearer indication about the origins of the early settlers, and also the struggles they went through to come and start a new life here in Singapore.
+
+![](/images/p4station.jpeg)
+
+**<u>P5 Social Studies Station Learning</u>**
+
+The Primary 5 pupils had their Station Learning, which allowed them to have hands-on experience on some of the topics which were covered in the classroom. Since majority of the Primary 5 syllabus is about ancient civilisations, the pupils were exposed to the traditions of these civilisations, in particular, India and Greece. Furthermore, the pupils were also engaged in map reading, enabling them to locate where these civilisations were on the world map.
+
+![](/images/p5station.jpeg)
+
+
+
