@@ -29,3 +29,16 @@ As part of the launch, the English Department had also specially arranged for th
 **Character Dress-up**
 
 In the classrooms, similar to last year, pupils participated in group activities such as Heads-Up Charades, Choral Recitation and Group Spelling challenge. This year, we have introduced new activities ‘Hear Me Out’ and ‘Lost in Space’ to further engage the pupils.
+
+<img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-5.jpeg" />
+
+**P1F Choral Recitation**
+
+<img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-4.jpeg" />
+
+**P1F Spelling Challenge**
+
+
+
+
+
