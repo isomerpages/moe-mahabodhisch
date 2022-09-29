@@ -3,6 +3,7 @@ title: Test
 permalink: /important-information/permalink/
 description: ""
 ---
+<ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1"><h5 style="color:blue">School Leaders</h5></label>
