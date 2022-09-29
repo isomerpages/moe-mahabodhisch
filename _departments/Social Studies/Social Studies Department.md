@@ -29,3 +29,17 @@ The experiential learning journey to the Land Transport Gallery provided opportu
 The experiential learning journey to the Land Transport Gallery provided opportunities for pupils to understand and appreciate the challenges, solutions and approaches in land transport planning in Singapore. By engaging their senses of sight, touch, and hearing, pupils learn to relate to the various stages of Singapore’s land transport development. Pupils will begin their journey of discovery with memories of the history of transport in our nation. They also learned about the key milestones land transport development in Singapore and the challenges faced during our formative years. Pupils witnessed the changes in land transport since the formation of the Land Transport Authority (LTA) till present. They learned to appreciate how land transport in Singapore has evolved over the years and how LTA faced different challenges at each stage.
 
 ![](/images/lta.jpeg)
+
+**<u>P4 FBL to Kampong Glam</u>**
+
+The P4 pupils went for their Field Based Learning to Kampong Glam. Pupils learnt about the uniqueness of Kampong Glam as a historic district and a culturally diverse locale that reflects Singapore’s multi-racial community. They also learnt about the history and heritage of Kampong Glam by walking around the museum and the vicinity. The pupils had a chance to practise the art of Silat, play some traditional games and taste some Malay Kueh.
+
+![](/images/kampongglam.jpeg)
+
+**<u>P5 FBL to Civic District</u>**
+
+**<u>P6 FBL to Sungei Buloh with the Science Department</u>**
+
+#### <center>Social Studies Learning Stations</center>
+
+
