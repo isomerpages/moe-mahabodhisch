@@ -13,5 +13,4 @@ third_nav_title: Our People
 | Mrs Katheryn Pua Hwee Keng        | tan_hwee_keng@moe.edu.sg |
 
 <br>
-</br>
 
