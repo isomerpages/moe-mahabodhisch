@@ -39,7 +39,7 @@ third_nav_title: Our People
 | Ms Stephanie Yew Birui | Year Head / Middle Primary |
 | Mrs Chen Jing Jing     | Year Head / Upper Primary  |
 
-### Level Heads & Subject Heads
+#### Level Heads & Subject Heads
 
 |           Name            |                   Designation                  |
 |:-------------------------:|:----------------------------------------------:|
@@ -55,3 +55,17 @@ third_nav_title: Our People
 | Mr Tan Yi Heng Edwin      | SH / Environment Education (Internal)          |
 | Mr Ong Hao Yu Kent        | SH / Science (Internal)                        |
 
+#### Assistant Year Heads
+
+|          Name          |   Designation   |
+|:----------------------:|:---------------:|
+| Mdm Lee Teck Lan       | AYH / Primary 2 |
+| Mrs Yeo-Ang Hwee Pheng | AYH / Primary 3 |
+| Mrs Katheryn Pua       | AYH / Primary 5 |
+
+#### Administration & Operations**
+
+|     Name      |       Designation      |
+|:-------------:|:----------------------:|
+| Mdm Lisa Tan  | Administration Manager |
+| Mr Allan Sing | Operations Manager     |
