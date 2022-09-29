@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - Chinese.md
       - English/.keep
       - English/Department Goals.md
       - English/Programmes.md
+      - Chinese.md
