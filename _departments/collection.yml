@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Co Curricular Activities/.keep
       - English/.keep
       - English/Department Goals.md
       - English/Programmes.md
