@@ -171,4 +171,78 @@ description: ""
 </table>
 			</div>
 	</li>
-	
+	<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5"><h5 style="color:red">Economics Department</h5></label>
+	<div>
+		<p></p>
+		<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-efrg{background-color:#FFF;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-11zx{background-color:#FFF;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-efrg"><span style="font-weight:700;font-style:inherit">Head of Economics</span></th>
+    <th class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Ms Yip Oei Lin Anne</span><br><a href="mailto:yip.oeilin.anne@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">yip.oeilin.anne@vjc.edu.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-efrg"><span style="font-weight:700;font-style:inherit">Level Head (Year 1)</span></td>
+    <td class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Ms Chong Cui Ying</span><br><a href="mailto:chong.cuiying@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">chong.cuiying@vjc.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+		</div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6"><h5 style="color:red">English Department</h5></label>
+	<div>
+		<p></p>
+		<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-efrg{background-color:#FFF;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-11zx{background-color:#FFF;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-efrg"><span style="font-weight:700;font-style:inherit">Head of English</span></th>
+    <th class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Mr James Ho</span><br><a href="mailto:james.ho@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">james.ho@vjc.edu.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-efrg"><span style="font-weight:700;font-style:inherit">School Staff Developer</span></td>
+    <td class="tg-11zx"><span style="font-weight:inherit;font-style:inherit">Mr Nazrul Rashidi B Mohd</span><br><a href="mailto:nazrul.rashidi.mohd@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">nazrul.rashidi.mohd@vjc.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:700;font-style:inherit">Subject Head | Literature</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Teo Gene En</span><br><a href="mailto:teo.geneen@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">teo.geneen@vjc.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:700;font-style:inherit">Level Head (Year 1) | General Paper</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Teo Aik Cher</span><br><a href="mailto:teo.aikcher@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">teo.aikcher@vjc.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:700;font-style:inherit">Level Head (Year 2) | General Paper</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mrs Celine Leow</span><br><a href="mailto:cheong.siewyin.celine@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">cheong.siewyin.celine@vjc.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+		</div>
+	</li>
+		
