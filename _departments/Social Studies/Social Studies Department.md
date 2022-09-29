@@ -84,3 +84,8 @@ The department arranged for NHB to bring in “More than a Garden” travelling 
 
 The exhibition invited pupils to take a closer look at some National Monuments and admire their features to find out what makes each one unique. Each building has its own story and these combine to tell the grand narrative of Singapore’s development, both as a city and a multicultural society. As pupils examined the images and read the interesting facts, we hope they had gained insights into our history and inheritance. The pupils made use of 3D glasses to admire the 3D stereograms and were delighted to see the buildings come to life.
 
+![](/images/3d.jpeg)
+
+**<u>Current Affairs Programme</u>**
+
+The Current Affairs Programme was launched to stir curiosity and create interest in the happenings locally and around the world. The NE Ambassador of each class is in charge of posting up a newspaper article fortnightly. They would then encourage their classmates to read the article and pen down their reflections and comments for the class to read. This is done in their free time and hence meaningful self-directed learning takes place. A platform has been created for pupils to think about and engage in common discussion about the events that impact our society. The department has also collaborated with old girls from MBS who were doing a project on media literacy. They came to school to conduct activities to raise awareness of the importance of media literacy. The department also printed a publication that the girls had crafted on current affairs for the P5s and P6s. The P5s also subscribe to a children’s newspaper called What’s up.
