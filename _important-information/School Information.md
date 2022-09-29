@@ -9,4 +9,4 @@ description: ""
 <div>
 <br><table><tbody><tr><td>Principal</td><td>Ms Ng Wan Har<br><a href="mailto:ng_wan_har@schools.gov.sg">ng_wan_har@schools.gov.sg</a></td></tr></tbody></table>
     </div>
-	</li>  
+	</li>
