@@ -66,5 +66,13 @@ The Primary 5 pupils had their Station Learning, which allowed them to have hand
 
 ![](/images/p5station.jpeg)
 
+#### <center>Exhibitions/Other Programmes</center>
+
+**<u>Encouragement Letters to our Soldiers</u>**
+
+Our P5 and P6 pupils wrote a letter of encouragement to motivate our young soldiers to do their best for an evaluation test. The military unit prepared some slides for our pupils to view to find out more about what the unit does for the defence of our country. The pupils subsequently pen down their thoughts and well-wishes to the soldiers. The letters were then received by the military unit and handed to the soldiers who were taking the test. The soldiers were touched and found the letters inspiring. The pupils had an opportunity to learn about the background information about our SAF and also to connect to our young men in a meaningful way.
+
+![](/images/letters.jpeg)
+
 
 
