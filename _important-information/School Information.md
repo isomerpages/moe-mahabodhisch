@@ -38,7 +38,5 @@ description: ""
   </tr>
 </tbody>
 </table>
-	</li>	
 		</div>
 	</li>
-	
