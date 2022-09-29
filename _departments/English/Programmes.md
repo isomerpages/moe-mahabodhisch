@@ -24,7 +24,7 @@ As part of the launch, the English Department had also specially arranged for th
 
 **<center>EL Department TikTok-inspired Challenge</center>**
 
-<img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-3.jpeg" />
+<img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-3.jpeg"/>
 
 **<center>Character Dress-up</center>**
 
@@ -59,9 +59,6 @@ All these activities, from the poll to the launch to the GEM activities, were a 
 
 For the second year running, the MBS English Reading Day, akin to World Book Day, was conducted on 13 April 2022. This event aims to encourage our pupils to discover the joy of reading. This year, the MBS English Reading Day celebrated award-winning authors as it showcased their lives and their famous works. The specially curated authors by the English department were Dr Seuss, Beverly Cleary and Madeleine L’Engle. Through MBS English Reading Day, the children immersed themselves in the minds of these talented authors as they listened to excerpts of the stories, played Jeopardy games related to the values displayed by the characters in the stories and watched trailers of their movie adaptations. Most importantly, the MBS English Reading Day also set out to promote parent-child bonding as parents and pupils were encouraged to share their favorite storybooks on Padlet. We hope that through the MBS English Reading Day, the joy of reading has been rubbed off on the pupils, thereby spreading the love of reading among them.
 
+<img style="width: 60%;" src="/images/Good-English-Movement-week-Picture-9.jpeg" />
 
-
-
-
-
-
+![](/images/MBS-Reading-day-Picture-1.png)
