@@ -77,3 +77,14 @@ For the second year running, the MBS English Reading Day, akin to World Book Day
 
 **A Primary 1 class participated actively in the Jeopardy games related to the story A Cat in the Hat by Dr Seuss.**
 
+![](/images/Jeopardy.jpeg)
+**2020 GEM Week**
+=================
+
+In 2020, GEM (Good English Movement) Week was held in Term 3 Week 4 (13 July – 16 July 2020). Due to the current COVID-19 situation the English department carried out interesting activities to promote the use of Standard English and reading of storybooks while observing the safe distancing measures. 
+
+To bring about greater awareness and deeper appreciation for the frontline workers, pupils were involved in deciding the theme for the GEM Week. Through a poll conducted throughout the school, the majority of them chose _Our Everyday Heroes_ as the name of 2020 MBS GEM Week. To make it more engaging, we created an avatar whom we named Ms Gem, the host who launched GEM week. To pay tribute to the frontline workers, the English department also turned themselves into a mini choir and recorded and sang the Michael Jackson’s ‘Heal the World’.
+
+Throughout the week, similar to last year, pupils participated in activities in class such as Heads-Up Charades, Readers’ Theatre, Choral Recitation, Group Spelling challenge and Debates all in the spirit of teamwork and inculcating the joy of learning in English, revolving around the theme – Our Everyday Heroes. In place of the physical treasure hunt that we used to have, a new online treasure hunt ‘E-treasure Hunt’ was designed – an adaptation of the well-known reality game, Escape Room. Pupils had to work for clues before they could open the next one and solve the Mystery Word. They were allowed to do this via SLS.
+
+The English department garnered the strong support of the English teachers as well as the school leaders, who participated and contributed to the success of GEM Week. The GEM Week, though a scaled-down version, provided an unforgettable and exciting experience, not only for our pupils but our teachers as well.
