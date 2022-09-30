@@ -16,16 +16,12 @@ third_nav_title: For Our Parents
 
 **Parent Newsletter**
 
-[Keeping Childing Healthy]([PDF File more than 5mb)
+[Keeping Childing Healthy](pdfmorethan5mb)
 
 **Parent's Workshop**
 
 [How-to Register Guide H365 (Private Events)](/files/How-to-Register-Guide-H365-Private-Events.pdf)
 
+[HEAL 7-12 yrs](/files/HEAL-7-12-yrs.pdf)
 
-
-
-
-
-
-
+[COTM (1hr) 7-12 yrs](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2022/04/COTM-1hr-7-12-yrs.pdf)
