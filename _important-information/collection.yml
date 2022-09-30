@@ -2,6 +2,7 @@ collections:
   important-information:
     output: true
     order:
+      - For Our Pupils/Sexuality Education 2022.md
       - For Our Pupils/.keep
       - For Our Pupils/Student iCON and Zoom Onboarding Guide.md
       - For Our Pupils/Student Learning Space (SLS).md
