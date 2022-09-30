@@ -2,9 +2,9 @@ collections:
   important-information:
     output: true
     order:
-      - For Our Parents/.keep
       - Test.md
       - School Information.md
       - Contact/.keep
       - Contact/Location.md
       - Contact/Important Phone Numbers.md
+      - For Our Parents/.keep
