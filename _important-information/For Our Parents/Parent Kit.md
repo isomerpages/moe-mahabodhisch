@@ -24,4 +24,6 @@ third_nav_title: For Our Parents
 
 [HEAL 7-12 yrs](/files/HEAL-7-12-yrs.pdf)
 
-[COTM (1hr) 7-12 yrs](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2022/04/COTM-1hr-7-12-yrs.pdf)
+[COTM (1hr) 7-12 yrs](/files/COTM-1hr-7-12-yrs.pdf)
+
+
