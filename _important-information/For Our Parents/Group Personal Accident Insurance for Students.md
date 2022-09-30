@@ -11,6 +11,8 @@ Our school has taken up the Group Personal Accident (GPA) Insurance for Students
 
 To submit an insurance claim for your child, please visit the GPA portal at [https://studentgpa.incomegroupins.com.sg](https://studentgpa.incomegroupins.com.sg/)
 
-*   [Student GPA User Guide – (Parent)](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2022/09/Student-GPA-User-Guide-for-Parents-2022.pdf)
+*   [Student GPA User Guide – (Parent)](/files/Student-GPA-User-Guide-for-Parents-2022.pdf)
 
-*   [Product Fact Sheet (Year 2022)](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2022/09/Product-Fact-Sheet-Sep-2022.pdf)
+
+*   [Product Fact Sheet (Year 2022)](/files/Product-Fact-Sheet-Sep-2022.pdf)
+
