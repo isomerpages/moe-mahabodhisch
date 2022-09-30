@@ -6,4 +6,7 @@ third_nav_title: For Our Parents
 ---
 ## Parent Kit 
 
-[](/files/Resource-Kit-HBL.pdf)
+[Resource Kit - Home Based Learning](/files/Resource-Kit-HBL.pdf)
+
+[Resource Kit - Parent Kit - Back To School](/files/Resource-Kit-Parent-Kit-Back-to-School-Updated-final.pdf)
+
