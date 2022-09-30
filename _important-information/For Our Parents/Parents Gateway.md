@@ -29,4 +29,3 @@ Android: [Download Parents Gateway on Andriod](https://play.google.com/store/ap
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EKpiTM5axNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [**Frequently Asked Questions**](https://pg.moe.edu.sg/faq)
-
