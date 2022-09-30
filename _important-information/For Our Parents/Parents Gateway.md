@@ -22,7 +22,3 @@ Android: [Download Parents Gateway on Andriod](https://play.google.com/store/ap
 <br><br><br>
 
 <img style="width: 30%;" src="/images/PG-Andriod.png" align = "left" />
-
-
-
-
