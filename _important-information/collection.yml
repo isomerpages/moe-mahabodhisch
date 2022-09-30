@@ -4,6 +4,6 @@ collections:
     order:
       - Test.md
       - School Information.md
-      - Contact/Important Phone Numbers.md
-      - Contact/Location.md
       - Contact/.keep
+      - Contact/Location.md
+      - Contact/Important Phone Numbers.md
