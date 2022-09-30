@@ -16,7 +16,7 @@ third_nav_title: For Our Parents
 
 **Parent Newsletter**
 
-[Keeping Childing Healthy](pdfmorethan5mb)
+[Keeping Childing Healthy](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2021/11/Parents-Newsletter-Edition-1.pdf)
 
 **Parent's Workshop**
 
@@ -25,5 +25,3 @@ third_nav_title: For Our Parents
 [HEAL 7-12 yrs](/files/HEAL-7-12-yrs.pdf)
 
 [COTM (1hr) 7-12 yrs](/files/COTM-1hr-7-12-yrs.pdf)
-
-
