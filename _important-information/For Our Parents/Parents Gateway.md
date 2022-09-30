@@ -23,7 +23,7 @@ Android: [Download Parents Gateway on Andriod](https://play.google.com/store/ap
 
 <img style="width: 20%;" src="/images/PG-Andriod.png" align = "left" />
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 **Parents Gateway Mobile Application (Video)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EKpiTM5axNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
