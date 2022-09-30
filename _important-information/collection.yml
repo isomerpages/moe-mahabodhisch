@@ -2,14 +2,6 @@ collections:
   important-information:
     output: true
     order:
-      - For Our Pupils/.keep
-      - For Our Pupils/Student iCON and Zoom Onboarding Guide.md
-      - For Our Pupils/Student Learning Space (SLS).md
-      - For Our Pupils/Form & Notices.md
-      - For Our Pupils/Sexuality Education 2022.md
-      - For Our Pupils/Library OPAC System.md
-      - For Our Pupils/Code of Conduct.md
-      - For Our Pupils/Safety & Security.md
       - School Information.md
       - Contact/.keep
       - Contact/Location.md
@@ -27,3 +19,11 @@ collections:
       - For Our Parents/Payment via GIRO.md
       - For Our Parents/Payment via Edusave.md
       - For Our Parents/Parent Engagement.md
+      - For Our Pupils/.keep
+      - For Our Pupils/Student iCON and Zoom Onboarding Guide.md
+      - For Our Pupils/Student Learning Space (SLS).md
+      - For Our Pupils/Form & Notices.md
+      - For Our Pupils/Sexuality Education 2022.md
+      - For Our Pupils/Library OPAC System.md
+      - For Our Pupils/Code of Conduct.md
+      - For Our Pupils/Safety & Security.md
