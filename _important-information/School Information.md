@@ -5,7 +5,7 @@ description: ""
 ---
 ## School Information
 
-1. ### School Information
+1\. ### School Information
 
 | Day / Level   | Reporting Time | School Dismissal Timing |                           |                                                                      |                                                                  |                           |
 |:-------------:|:--------------:|:-----------------------:|:-------------------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------:|:-------------------------:|
@@ -23,13 +23,13 @@ description: ""
 
 **\*\*\* Pupils having supplementary classes on Monday & Tuesday**
 
-2. ### Daily Assembly 
+2.\ ### Daily Assembly 
 
 |  Level  | Time to Assemble |                                           Activity                                          |
 |:-------:|:----------------:|:-------------------------------------------------------------------------------------------:|
 | P1 – P6 | 7.20am           | Silent Reading / Temperature-Taking  Flag-Raising Ceremony Announcements Assembly Programme |
 
-3. ### Recess
+3.\ ### Recess
 
 | Level | 1st recess timing | 2nd recess timing on Thursday | 2nd recess timing on  Monday & Tuesday |   |
 |:-----:|:-----------------:|:-----------------------------:|:--------------------------------------:|---|
@@ -40,7 +40,7 @@ description: ""
 | P5    | 11.00am           | 1.30pm to 2.00pm              | 1.30pm                                 |   |
 | P6    | 10.00am           | 12.30pm to 1.00pm             | 12.30pm                                |   |
 
-4. ### Snack Break
+4.\ ### Snack Break
 
 |   Level   |         Day        | Time for Snack Break |
 |:---------:|:------------------:|:--------------------:|
@@ -52,7 +52,7 @@ description: ""
 |           | Thursday           | 8.45am / 3.45pm      |
 |           | Friday             | 8.45am               |
 
-5. ### Arrival Procedures 
+5.\ ### Arrival Procedures 
 
 Pupils walking or taking public transport to school should enter the school via Gate A or Gate B from 6.30am to 7.20am.
 
@@ -60,7 +60,7 @@ Gate 2 will be opened from 6.50am to 7.15am to allow parents /guardians to drive
 
 Parents/Guardians are reminded to alight their child/ward at the demarcated drop-off boxes only, and not anywhere else along the driveway. Parents/guardians are to strictly adhere to directions from staff on duty. To ensure safety and minimise traffic congestion, parents/guardians can only do a **LEFT TURN** into the school compound. Right turn from the opposite side of the road is not allowed.
 
-6. ### Dismissal Procedure 
+6.\ ### Dismissal Procedure 
 
 **Dismissal : Pupils fetched by parents/guardians/elder siblings**
 
