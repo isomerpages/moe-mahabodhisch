@@ -17,4 +17,16 @@ description: ""
 | Thursday      |                |                         |      1.30pm / *4.00pm     |                                                                      |                                                                  |                           |
 | Friday        |                |                         |           1.30pm          |                                                                      |                                                                  |                           |
 
-2. ### 
+**\* School ends at 1.30pm on Thursdays with NO CCAs.**
+
+**\*\* Pupils taking HCL** 
+
+**\*\*\* Pupils having supplementary classes on Monday & Tuesday**
+
+2. ### Daily Assembly 
+
+|  Level  | Time to Assemble |                                           Activity                                          |
+|:-------:|:----------------:|:-------------------------------------------------------------------------------------------:|
+| P1 – P6 | 7.20am           | Silent Reading / Temperature-Taking  Flag-Raising Ceremony Announcements Assembly Programme |
+
+3. ### 
