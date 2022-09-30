@@ -41,4 +41,3 @@ Website: [nygh.edu.sg](http://nygh.edu.sg/) 
 **NUS High School of Mathematics and Science**
 
 [NUS High\_Open House Pamphlet (updated)](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/05/NUS-High_Open-House-Pamphlet-updated.pdf)
-
