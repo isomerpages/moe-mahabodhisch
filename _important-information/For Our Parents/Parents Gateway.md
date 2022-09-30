@@ -16,3 +16,4 @@ For more information on Parents Gateway, please visit [Parents Gateway](https:/
 
 iOS: [Download Parents Gateway on iOS](https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8)
 
+![](/images/PG-iOS.png)
