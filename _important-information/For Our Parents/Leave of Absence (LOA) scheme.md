@@ -17,3 +17,4 @@ The school will provide support in the following areas to ease your child’s  
 *   **Relationship**: Developments in the school and local education scene.
 
 To apply, please complete the online application form at [https://go.gov.sg/mbs-loa](https://go.gov.sg/mbs-loa)
+
