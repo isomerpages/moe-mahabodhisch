@@ -41,3 +41,30 @@ Website: [nygh.edu.sg](http://nygh.edu.sg/) 
 **NUS High School of Mathematics and Science**
 
 [NUS High\_Open House Pamphlet (updated)](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/05/NUS-High_Open-House-Pamphlet-updated.pdf)
+
+**Pasir Ris Secondary School**
+
+![](/images/Pasir-Ris-Secondary-School.png)
+
+**Raffles Girl's School**
+
+[RGS Virtual Open House 2020\_Poster](/files/RGS-Virtual-Open-House-2020_Poster.pdf)
+
+**Raffles Institution**
+
+**A ‘live’ online Q&A on 29 May (Friday, 10.30am)** with P6 parents/students on **RI’s 2020 Direct School Admission (DSA) Exercise**.
+
+Registration for the online Q&A is via the link [https://www.eventnook.com/event/ridsa2020qna.](https://www.eventnook.com/event/ridsa2020qna)
+
+**St Joseph’s Institution**
+
+![](/images/SJI-768x1087.jpeg)
+
+**Singapore Chinese Girls’ School**
+
+[SCGS Postcard DSA 2020](/files/SCGS-Postcard-DSA-2020-1.pdf)
+
+
+
+
+
