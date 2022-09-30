@@ -42,4 +42,3 @@ You can also join the GIRO scheme through our [online form](https://www.form.go
 
 *   The bank account used for enrichment programmes must be the same bank account used for miscellaneous fees.
 *   ICBC and Children Development Account (Baby Bonus Scheme) cannot be used for GIRO standing orders.
-
