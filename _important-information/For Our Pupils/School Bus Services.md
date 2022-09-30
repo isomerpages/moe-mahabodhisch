@@ -6,7 +6,6 @@ third_nav_title: For Our Pupils
 ---
 ## School Bus Service
 
-
 **Maha Bodhi Bus Service**
 
 **Contact Person:** Mr. Neo Soon Beng  
