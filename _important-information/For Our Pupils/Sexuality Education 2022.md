@@ -55,8 +55,3 @@ c. Character and Citizenship Education (CCE)
 |       Where I Belong       |       What is My Role?<br> (30 min)      | know that gender is about being male or female<br>choose not to stereotype by gender                                                                                                                                                                                                                                                                                       |              Term 3 Week 10             |
 | How Do I Keep Myself Safe? |      What is Safety?<br><br>(30 min)     | know what sexual abuse is<br>know that there are laws in Singapore that can protect them from sexual abuse<br>know their rights in keeping themselves safe from sexual abuse                                                                                                                                                                                               |              Term 3 Week 10             |
 |                            |      Stop It! Run! Tell!<br>(30 min)     | protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>know their responsibilities in minimising the risk of sexual harm                                                                                                                                                                                                  |              Term 3 Week 10             |
-
-
-
-
-
