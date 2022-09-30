@@ -64,7 +64,12 @@ Registration for the online Q&A is via the link [https://www.eventnook.com/even
 
 [SCGS Postcard DSA 2020](/files/SCGS-Postcard-DSA-2020-1.pdf)
 
+**Temasek Junior College**
 
+![](/images/TJC-IP-e-Open-House-and-DSA-2020_final-300x300.gif)
 
+Website: [https://www.temasekjc.moe.edu.sg/](https://www.temasekjc.moe.edu.sg/)
 
+Facebook: [https://www.facebook.com/Temasek.Junior.College](https://www.facebook.com/Temasek.Junior.College)
 
+Instagram: [https://www.instagram.com/temasekjc/](https://www.instagram.com/temasekjc/)
