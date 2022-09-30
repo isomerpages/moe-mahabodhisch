@@ -4,3 +4,6 @@ permalink: /important-information/For-Our-Parents/Parent-Kit/
 description: ""
 third_nav_title: For Our Parents
 ---
+## Parent Kit 
+
+[](/files/Resource-Kit-HBL.pdf)
