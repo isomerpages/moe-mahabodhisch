@@ -17,13 +17,13 @@ For more information on Parents Gateway, please visit [Parents Gateway](https:/
 iOS: [Download Parents Gateway on iOS](https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8)
 
 <img style="width: 20%;" src="/images/PG-iOS.png" align = "left" />
-<br><br><br>
+<br><br><br><br>
 
 Android: [Download Parents Gateway on Andriod](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG)
 
 <img style="width: 20%;" src="/images/PG-Andriod.png" align = "left" />
 
-<br><br><br>
+<br><br><br><br>
 **Parents Gateway Mobile Application (Video)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EKpiTM5axNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
