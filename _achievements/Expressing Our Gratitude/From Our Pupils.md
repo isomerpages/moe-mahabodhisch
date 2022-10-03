@@ -351,7 +351,6 @@ _Aiden Lim (1 Generosity)_
 
 <img style="width: 45%;" src="/images/Parliment-300x215.jpeg" />
 
-
 I am thankful to all Doctors, Nurses, Armies, Singapore Government and all Essential Services Businesses’ workers who fight in the front defense of COVID-19 for Singapore.
 
 _Marco Chong (1 Grace)_
@@ -369,7 +368,7 @@ _Larae Tan (1 Faith)_
 
 **#28**
 
-![Matteo](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/04/Matteo-300x181.jpg)
+<img style="width: 45%;" src="/images/Matteo-300x181.jpeg" />
 
 To my dear teachers: Thank you for preparing our HBL work and making the learning at home interesting.
 
