@@ -26,5 +26,8 @@ If you would like to know more about Mdm Du’s teaching philosophy, please clic
 
 ![](/images/Chineselanguageteacheraward.jpeg)
 
+![](/images/Chinese%20Language%20Teacher%20Award2.jpeg)
+
+![](/images/Chinese%20Language%20Teachers%20Award4.jpeg)
 
 
