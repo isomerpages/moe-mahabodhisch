@@ -206,7 +206,8 @@ _Lucien Gan (1 Joy)_
 
 **#46**
 
-![Georfy](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/04/Georfy-300x173.jpg)
+<img style="width: 50%;" src="/images/Georfy-300x173.jpeg" /> 
+
 
 Thank you Mommy & Teachers.
 
