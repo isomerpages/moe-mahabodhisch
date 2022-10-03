@@ -429,7 +429,8 @@ _Ian Khoo (1 Excellence)_
 
 **#22**
 
-![Art](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/04/Art-221x300.jpg)
+<img style="width: 45%;" src="/images/Art-221x300.jpeg" />
+
 
 A big thank you to all my teachers who make my HBL lessons fun. I also want to thank all doctors and nurses for helping the sick to get well. Singapore, stay united.
 
@@ -495,7 +496,8 @@ _Tan Michael Jorge (1 Compassion)_
 
 **#14**
 
-![Frank Tan](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/04/Frank-Tan-233x300.png)
+
+<img style="width: 45%;" src="/images/Frank-Tan-233x300.png" />
 
 Thank you for preparing for HBL so that we can stay home safely and learn.
 
@@ -539,7 +541,9 @@ _Teo Jiajun Nicholas (1 Bravery)_
 
 **#09**
 
-![Herz](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/04/herz-300x248.png)
+
+<img style="width: 45%;" src="/images/herz-300x248.png" />
+
 
 Thank you All teachers, Ms Loo, and the people who has make Singapore Safe.
 
