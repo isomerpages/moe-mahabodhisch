@@ -22,4 +22,5 @@ Mdm Du emerged as one of the eight awardees from 1428 application. She also rece
 
 If you would like to know more about Mdm Du’s teaching philosophy, please click on the link below: [https://www.zaobao.com.sg/realtime/singapore/story20220924-1316332](https://www.zaobao.com.sg/realtime/singapore/story20220924-1316332)
 
+![](/images/WhatsApp-Image-2022-09-26-at-6%2045%2051-AM.jpeg)
 
