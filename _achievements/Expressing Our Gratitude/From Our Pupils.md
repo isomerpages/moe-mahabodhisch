@@ -349,7 +349,8 @@ _Aiden Lim (1 Generosity)_
 
 **#30**
 
-![Parliment](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/04/Parliment-300x215.jpg)
+<img style="width: 45%;" src="/images/Parliment-300x215.jpeg" />
+
 
 I am thankful to all Doctors, Nurses, Armies, Singapore Government and all Essential Services Businesses’ workers who fight in the front defense of COVID-19 for Singapore.
 
