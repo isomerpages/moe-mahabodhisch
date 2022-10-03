@@ -10,37 +10,6 @@ third_nav_title: Expressing Our Gratitude
 
 [From some of our Pupils](/files/From-some-of-our-Pupils.pdf)
 
-* * *
-
-**#74**
-
-[Gratitude Notes from our Primary 6 Pupils](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/05/Gratitude-Notes-from-our-Primary-6-Pupils.pdf)
-
-* * *
-
-**#73**
-
-[Gratitude Notes from our Primary 5 Pupils](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/05/Gratitude-Notes-from-our-Primary-5-Pupils.pdf)
-
-* * *
-
-**#72**
-
-[Gratitude Notes from our Primary 4 Pupils](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/05/Gratitude-Notes-from-our-Primary-4-Pupils.pdf)
-
-* * *
-
-**#71**
-
-[Gratitude Notes from our Primary 3 Pupils](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/05/Gratitude-Notes-from-our-Primary-3-Pupils.pdf)
-
-* * *
-
-**\# 70**
-
-[Gratitude Notes from our Primary 2 Pupils](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/05/Gratitude-Notes-from-our-Primary-2-Pupils.pdf)
-
-* * *
 
 **#69**
 
