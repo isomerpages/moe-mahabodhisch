@@ -8,7 +8,7 @@ third_nav_title: Expressing Our Gratitude
 
 **#75**
 
-[From some of our Pupils](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/05/From-some-of-our-Pupils.pdf)
+[From some of our Pupils](/files/From-some-of-our-Pupils.pdf)
 
 * * *
 
