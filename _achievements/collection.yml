@@ -2,9 +2,9 @@ collections:
   achievements:
     output: true
     order:
-      - Staff Achievements/The Distinguished Chinese Language Teachers Award.md
-      - Staff Achievements/Staff Achievements.md
       - Staff Achievements/.keep
+      - Staff Achievements/Staff Achievements.md
+      - Staff Achievements/The Distinguished Chinese Language Teachers Award.md
       - Expressing Our Gratitude/.keep
       - Expressing Our Gratitude/From Our School Leaders.md
       - Expressing Our Gratitude/From Our Teachers and Staff.md
