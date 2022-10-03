@@ -1,5 +1,4 @@
 collections:
   achievements:
     output: true
-    order:
-      - Expressing Our Gratitude.md
+    order: []
