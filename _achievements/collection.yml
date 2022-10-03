@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Staff Achievements/2020 Staff Achievements.md
       - Staff Achievements/.keep
       - Staff Achievements/Staff Achievements.md
       - Staff Achievements/The Distinguished Chinese Language Teachers Award.md
