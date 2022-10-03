@@ -2,15 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Pupil Achievements/.keep
-      - Pupil Achievements/Pupils Achievements.md
-      - Pupil Achievements/2022 Pupil Achievement.md
-      - Pupil Achievements/2021 Pupil Achievement.md
-      - Pupil Achievements/2020 Pupil Achievements.md
-      - Pupil Achievements/Prime Minister’s Book Prize.md
-      - Pupil Achievements/Lee Kuan Yew Award for All Round Excellence.md
-      - Pupil Achievements/Stronger Together Pack Artist Feature (Alicia Phua 5
-        Humility).md
       - Expressing Our Gratitude/.keep
       - Expressing Our Gratitude/From Our School Leaders.md
       - Expressing Our Gratitude/From Our Teachers and Staff.md
@@ -23,3 +14,12 @@ collections:
       - Staff Achievements/The Distinguished Chinese Language Teachers Award.md
       - Staff Achievements/2021 Staff Achievements.md
       - Staff Achievements/2020 Staff Achievements.md
+      - Pupil Achievements/.keep
+      - Pupil Achievements/Pupils Achievements.md
+      - Pupil Achievements/2022 Pupil Achievement.md
+      - Pupil Achievements/2021 Pupil Achievement.md
+      - Pupil Achievements/2020 Pupil Achievements.md
+      - Pupil Achievements/Prime Minister’s Book Prize.md
+      - Pupil Achievements/Lee Kuan Yew Award for All Round Excellence.md
+      - Pupil Achievements/Stronger Together Pack Artist Feature (Alicia Phua 5
+        Humility).md
