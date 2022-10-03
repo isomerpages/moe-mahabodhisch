@@ -18,3 +18,8 @@ The school engaged external Malay instructors to conduct the programme. They use
 
 34 pupils went on a Learning Journey to Kampong Glam on 17 November 2015. The Learning Journey aims to create pupil’s awareness to Malay Culture through introduction to Malay Cuisine and Lifestyle. Our pupils had a hands-on session of ondeh-ondeh making. For most of them, it was the first time and it was definitely an eye-opening experience for them.
 
+
+|  |  |  | |
+| -------- | -------- | -------- | -------- |
+| ![](/images/cmp-1.jpeg)     | ![](/images/cmp-2.jpeg)     | ![](/images/cmp-3.jpeg)     | ![](/images/cmp-4.jpeg)  |
+
