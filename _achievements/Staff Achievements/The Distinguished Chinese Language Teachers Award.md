@@ -24,3 +24,7 @@ If you would like to know more about Mdm Du’s teaching philosophy, please clic
 
 ![](/images/WhatsApp-Image-2022-09-26-at-6%2045%2051-AM.jpeg)
 
+![](/images/Chineselanguageteacheraward.jpeg)
+
+
+
