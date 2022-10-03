@@ -2,4 +2,5 @@ collections:
   achievements:
     output: true
     order:
+      - Expressing Our Gratitude/From Our School Leaders.md
       - Expressing Our Gratitude/.keep
