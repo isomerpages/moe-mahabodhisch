@@ -6,9 +6,9 @@ third_nav_title: Staff Achievements
 ---
 ## Staff Achievements 
 
-[2021 Staff Achievements](https://www.mahabodhi.moe.edu.sg/2021-staff-achievements/)
+[2021 Staff Achievements](https://staging.d1xmmxgvj0r5sk.amplifyapp.com/achievements/Staff-Achievements/2021-Staff-Achievements/)
 
-[2020 Staff Achievement](https://www.mahabodhi.moe.edu.sg/2020-staff-achievement/)
+[2020 Staff Achievement](https://staging.d1xmmxgvj0r5sk.amplifyapp.com/achievements/Staff-Achievements/2020-Staff-Achievements/)
 
 [2019 Staff Achievements](https://www.mahabodhi.moe.edu.sg/2019-staff-achievements/)
 
