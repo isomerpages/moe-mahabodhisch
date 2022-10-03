@@ -306,7 +306,8 @@ _Emily Leong (1 Humility)_
 
 **#35**
 
-![Sg United](https://www.mahabodhi.moe.edu.sg/wp-content/uploads/2020/04/SG-united-173x300.png)
+<img style="width: 40%;" src="/images/SG-united-173x300.png" />
+
 
 Thank you, Mdm Zaiton, Mdm Tay, Chen laoshi, Ms Radhayu and Ms Ng for preparing our HBL materials and taking time to Zoom with us.
 
