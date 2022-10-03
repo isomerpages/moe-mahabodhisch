@@ -2,7 +2,6 @@ collections:
   about-mbs:
     output: true
     order:
-      - UNIQUELY MBS/.keep
       - Vision & Mission.md
       - Values, Motto & Crest.md
       - History.md
@@ -25,3 +24,4 @@ collections:
       - Parent Support Group/.keep
       - Parent Support Group/PSG Page.md
       - Parent Support Group/PSG Activities.md
+      - UNIQUELY MBS/.keep
