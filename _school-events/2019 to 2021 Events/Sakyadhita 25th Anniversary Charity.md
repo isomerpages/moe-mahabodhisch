@@ -13,3 +13,4 @@ On Sunday 9 June, our students and teachers from the three dance groups were inv
 Members from the Chinese Dance, Malay Dance and Indian Dance put up a colourful display that showcased their talents. The exquisite choreography left the guests in awe. The dainty and graceful dance moves confidently performed by the dance troupes have definitely mesmerized the audience.
 
 It was a delightful day and a sense of accomplishment on our students’ faces was apparent as they participated in this joyous event.
+
