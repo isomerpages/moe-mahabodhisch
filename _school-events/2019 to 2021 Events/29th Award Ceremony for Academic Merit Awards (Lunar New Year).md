@@ -12,5 +12,6 @@ It was a busy morning for our students as they prepared to depart for the perfor
 
 Our band helped usher in the Chinese New Year by performing a series of New Year favourites such as 贺新年and 大地回春, allowing all guests present to soak in the joyous festive mood.  Although it had been a busy morning for our students, watching the guests wear smiles on their faces while they enjoyed the performance certainly made it an enriching and rewarding experience.
 
+<img style="width: 60%;" src="/images/29thaward.jpeg">
 
-![](/images/29thaward.jpeg)
+<img style="width: 60%;" src="/images/29thaward2.jpeg">
