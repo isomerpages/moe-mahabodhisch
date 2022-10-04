@@ -33,3 +33,7 @@ The pupils also gamely took on the challenge to complete the high elements stati
 <img style="width: 60%;" src="/images/p5-5-e1550548583393-768x1024.jpeg">
 
 **_<center>We are geared up and ready to take on the Challenge Rope Course!</center>_**
+
+<img style="width: 60%;" src="/images/p5-6-1024x768.jpeg">
+
+**_<center>Steady hands wins the race….hold our breath</center>_**
