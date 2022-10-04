@@ -14,3 +14,6 @@ The teambuilding activities allowed pupils to learn to work together with their 
 
 The pupils also gamely took on the challenge to complete the high elements stations achieving varying degrees of success. Focusing on communication, a new component to the camp, artificial caving, offered opportunities for problem-solving and decision-making. Pupils learnt the importance and need for discipline to do well in any area. At the end of the camp, pupils shared that they felt a sense of achievement as they had given their best effort to overcome the challenges posed to them.
 
+
+
+**_Will it finally work this time with our arrangement?_**
