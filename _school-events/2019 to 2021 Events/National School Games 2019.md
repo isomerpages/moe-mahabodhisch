@@ -21,7 +21,17 @@ The standard of the competition was high, and all our pupils competed fiercely, 
 ### Participants for Taekwondo
 
 
-
 |  |  | | |
 | -------- | -------- | -------- | -------- |
 |    ![](/images/Lee-Min-Xuan-Joiss-3A.jpeg)<br>**Lee Min Xuan Joiss  (3A)**  |   ![](/images/Lee-Hong-Yi-Jordan-1E.jpeg)<br>**Lee Hong Yi Jordan (1E)**   |  ![](/images/Chu-Hong-E-2F.jpeg)<br>**Chu Hong E (2F)**  |  ![](/images/Chua-Jin-Zhu-5C.jpeg)<br>**Chua Jin Zhu (5C)**|
+
+### Participants for Swimming
+
+
+
+|  | Column 2 | Column 3 | Column 3 |
+| -------- | -------- | -------- | -------- |
+|   ![](/images/Jake-Tay-4D.jpeg)  | ![](/images/Claire-Tay-Jia-Le-5I.jpeg)    |   ![](/images/Kavenn-Wong-6J.jpeg)  |   ![](/images/Ng-Ting-Wen-3F.jpeg)   |
+
+
+
