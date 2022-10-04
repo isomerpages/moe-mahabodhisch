@@ -18,3 +18,10 @@ As part of the P3 English curriculum, the pupils were given a chance to scale 
 To enrich their learning further in line with the Science curriculum, the Science Department organised a Zoo trail as part of the camp experience. The Zoo trail allowed our pupils to not only navigate and explore the zoo as a team but also learn about the different animal groups, such as mammals and reptiles and their habitats.
 
 The P3 camp was truly an enriching and holistic experience for the pupils as they were able to learn and relate back to their different lessons in school while at the same time, experiencing and learning new skills in the outdoors.
+
+|   |   |
+|---|---|
+|  **_These reptiles can camouflage really well! Let’s see if we can find them!_** | ![](/images/I-reached-the-red-line.jpeg)<br>**_Hey guys! I’ve reached the red line! Now to reach the TOP!_**  |
+| ![](/images/I-Know-we-always.jpeg)<br>**_I know we always have each other to lean on!_**  | ![](/images/Lets-trust-in-person.jpeg)<br>**_Let’s trust the person leading us!_**  |
+| ![](/images/I-got-you.jpeg)<br>**_No worries! I got you!_**  |   |
+
