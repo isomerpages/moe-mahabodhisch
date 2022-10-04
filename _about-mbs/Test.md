@@ -14,6 +14,8 @@ description: ""
       <p>Click<a href="(insert file here)"> here </a>for the new brochure.</p>
 
     </div>
+		
+</li>
 
 <li>
     <input type="checkbox" id="accordion2">
