@@ -4,3 +4,13 @@ permalink: /school-events/2019-to-2021-Events/2019-Primary-5-Camp/
 description: ""
 third_nav_title: 2019 to 2021 Events
 ---
+## 2019 Primary 5 Camp
+
+**Primary 5 Outdoor Adventure Camp**
+
+This year’s Primary 5 camp was held at Labrador Outdoor Adventure Learning Centre from 28 to 30 January 2019. The objective of this camp is to promote independence and inculcate resilience as well as encouraging our pupils to face and overcome challenges bravely through the application of skills and school values.
+
+The teambuilding activities allowed pupils to learn to work together with their classmates as they critically try to solve the different problems that confronted them. Pupils learnt to respect and accept their schoolmates’ differences in the process of carrying out various tasks. The pupils had an enriching experience, learning new things beyond the classroom such as problem-solving skills and social emotional skills through various interesting and fun outdoor activities.
+
+The pupils also gamely took on the challenge to complete the high elements stations achieving varying degrees of success. Focusing on communication, a new component to the camp, artificial caving, offered opportunities for problem-solving and decision-making. Pupils learnt the importance and need for discipline to do well in any area. At the end of the camp, pupils shared that they felt a sense of achievement as they had given their best effort to overcome the challenges posed to them.
+
