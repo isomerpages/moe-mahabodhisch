@@ -15,3 +15,7 @@ Our Senior Boys did us proud! The tenacity our Senior Boys displayed paid off wh
 The standard of the competition was high, and our players competed fiercely, putting into use the skills they had learnt. Our teams did very well throughout the competition. Our players will continue to train hard so that they can progress further in next year’s competition. Well done, boys and girls!
 
 
+<img style="width: 60%;" src="/images/Senior-Boys-1024x1024.jpeg">
+
+
+
