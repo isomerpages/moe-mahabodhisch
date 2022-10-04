@@ -13,3 +13,13 @@ The semi-finals and finals were played at Tampines Sports Hall. The boys did ver
 The standard of basketball was high, and our boys competed valiantly, putting their skills to the test and rising up to the challenge. Our team did very well throughout the competition. Well done, boys and girls!! Continue to do well at the National competition.
 
 
+<img style="width: 60%;" src="/images/IMG-20190212-WA0002-2-1024x576.jpeg"> 
+<br><br>
+<img style="width: 60%;" src="/images/baseketballcomp.jpeg">
+<br><br>
+
+<img style="width: 60%;" src="/images/basketballcomp2.jpeg">
+<br><br>
+<img style="width: 60%;" src="/images/basketballcomp3.jpeg">
+
+
