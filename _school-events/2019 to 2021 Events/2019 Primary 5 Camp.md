@@ -46,4 +46,12 @@ The pupils also gamely took on the challenge to complete the high elements stati
 
 **_<center>We can do this! Come on everyone. Pull with equal strength…</center>_**
 
+<img style="width: 60%;" src="/images/p5-9-1024x768.jpeg">
+
+**_<center>Afraid of the dark in the artificial caving system? Not us!</center>_**
+
+<img style="width: 60%;" src="/images/p5-10-1024x768.jpeg">
+
+**_<center>Concluding our camp at the end of 3 days. So, when is the next camp?</center>_**
+
 
