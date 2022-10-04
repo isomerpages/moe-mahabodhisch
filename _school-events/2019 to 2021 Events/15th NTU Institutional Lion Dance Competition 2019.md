@@ -15,3 +15,8 @@ We faced strong competition from our competitors but our teams persevered and pu
 
 Our boys will continue to do their best as they look forward to the next competition. Keep up the good work, MBS Lion Dance CCA!
 
+
+<img style="width: 60%;" src="/images/Liondance1.jpeg">
+<br><br>
+<img style="width: 60%;" src="/images/Liondance2.jpeg">
+<br><br>
