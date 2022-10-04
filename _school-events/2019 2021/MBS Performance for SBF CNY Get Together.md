@@ -11,3 +11,11 @@ third_nav_title: 2019 2021
 
 Pupils from CCA Chinese Orchestra, Choir, Kuai Ban and Guzheng put up a beautiful performance at Singapore Buddhist Federation during their Chinese New Year Gathering on 16 February 2019, Saturday. Devotees attending the celebration at SBF were treated to beautiful melodies and witty recitation by the performing pupils.
 
+
+<img style="width: 60%;" src="/images/Pupils-from-Kuai-Ban-performing-a-witty-recitation.jpeg"> 
+
+Pupils From Kuai Ban Performing A Witty Recitation (Photo Credit to Mr Tan Yew Beng)
+
+<img style="width: 60%;" src="/images/Guzheng-Ensemble-performing-beautiful-tunes-1024x768.jpeg"> 
+
+
