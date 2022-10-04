@@ -18,4 +18,11 @@ Chu Hong E, from 2 Faith managed to clinch 2 medals, 2nd and 4th place for the
 
 The standard of the competition was high, and all our pupils competed fiercely, putting into use the skills they had learnt. Even though not everyone managed to win a medal, all of them showed their grit, perseverance and determination. Well done, boys and girls!
 
+### Participants for Taekwondo
+
+
+
+|  |  | | |
+| -------- | -------- | -------- | -------- |
+|      |      |    |    |
 
