@@ -14,3 +14,6 @@ Members from the Chinese Dance, Malay Dance and Indian Dance put up a colourful 
 
 It was a delightful day and a sense of accomplishment on our students’ faces was apparent as they participated in this joyous event.
 
+
+
+
