@@ -11,7 +11,7 @@ description: ""
 		<p></p>
     <label for="accordion1"></label>
     <div>
-      <p>Click<a href="(insert file here)"> here </a>for the new brochure.</p>
+      <p></p>
 
     </div>
 
