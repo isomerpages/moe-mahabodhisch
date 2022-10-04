@@ -14,4 +14,5 @@ description: ""
 |  ![](/images/facilities-12.jpeg) | ![](/images/facilities-13.jpeg)  | ![](/images/facilities-14.jpeg)  |  ![](/images/facilities-8.jpeg) |
 |  ![](/images/facilities-16.jpeg) |  ![](/images/facilities-17.jpeg) |     |   |
 
-![](/images/Temp-18525x18525.jpg)
+<img style="width: 30%;" src="/images/facilities-18.jpeg" /> 
+
