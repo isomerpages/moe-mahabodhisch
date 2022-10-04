@@ -14,8 +14,14 @@ Pupils from CCA Chinese Orchestra, Choir, Kuai Ban and Guzheng put up a beautifu
 
 <img style="width: 60%;" src="/images/Pupils-from-Kuai-Ban-performing-a-witty-recitation.jpeg"> 
 
-Pupils From Kuai Ban Performing A Witty Recitation (Photo Credit to Mr Tan Yew Beng)
+<center>Pupils From Kuai Ban Performing A Witty Recitation (Photo Credit to Mr Tan Yew Beng)</center>
 
-<img style="width: 60%;" src="/images/Guzheng-Ensemble-performing-beautiful-tunes-1024x768.jpeg"> 
+<img style="width: 60%;" src="/images/Guzheng-Ensemble-performing-beautiful-tunes-1024x768.jpeg">
 
+<center>Guzheng Ensemble Performing Beautiful Tunes (Photo Credit to Mr Tan Yew Beng)</centrer>
+<br>
+<br>
 
+<img style="width: 60%;" src="/images/Chinese-Orchestra-playing-cheerful-melodies.jpeg">
+
+<center>Chinese Orchestra Playing Cheerful Melodies</center>
