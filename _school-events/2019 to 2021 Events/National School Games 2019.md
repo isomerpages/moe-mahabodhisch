@@ -29,6 +29,6 @@ The standard of the competition was high, and all our pupils competed fiercely, 
 
 
 
-|  | Column 2 | Column 3 | Column 3 |
+|  | |  |  |
 | -------- | -------- | -------- | -------- |
 |   ![](/images/Jake-Tay-4D.jpeg)<br>**Jake Tay (4D)**  | ![](/images/Claire-Tay-Jia-Le-5I.jpeg)<br>**Claire Tay Jia Le (5I)**    |   ![](/images/Kavenn-Wong-6J.jpeg) <br>**Kavenn Wong (6J)**  |   ![](/images/Ng-Ting-Wen-3F.jpeg)<br>**Ng Ting Wen (3F)**   |
