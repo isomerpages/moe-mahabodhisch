@@ -37,3 +37,13 @@ The pupils also gamely took on the challenge to complete the high elements stati
 <img style="width: 60%;" src="/images/p5-6-1024x768.jpeg">
 
 **_<center>Steady hands wins the race….hold our breath</center>_**
+
+<img style="width: 60%;" src="/images/p5-7-1024x768.jpeg">
+
+**_<center>We are tired but happy! Waves</center>_**
+
+<img style="width: 60%;" src="/images/p5-8-1024x768.jpeg">
+
+**_<center>We can do this! Come on everyone. Pull with equal strength…</center>_**
+
+
