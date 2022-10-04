@@ -17,3 +17,14 @@ The pupils also gamely took on the challenge to complete the high elements stati
 <img style="width: 60%;" src="/images/p5-1-1024x768.png">
 
 **_<center>Will it finally work this time with our arrangement?</center>_**
+
+<img style="width: 60%;" src="/images/p5-2-1024x498.jpeg">
+
+**_<center>Tasty and healthy bee hoon soup with vegetable. Yummy!</center>_**
+
+<img style="width: 60%;" src="/images/p5-3-e1550548349438.jpeg">
+
+**_<center>Filling our tummies before the campfire…</center>_**
+
+
+
