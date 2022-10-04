@@ -12,9 +12,7 @@ description: ""
     <label for="accordion1"></label>
     <div>
       <p>Click<a href="(insert file here)"> here </a>for the new brochure.</p>
-
     </div>
-		
 </li>
 
 <li>
@@ -29,7 +27,5 @@ description: ""
   
 
 The ALP is run by the English Language department and the skills of effective communication are woven into classroom teaching. Additionally, the department has designed and implemented performance tasks at all levels to hone students’ communicative ability. The detailed plans drawn up by the ALP team are in alignment to the learning outcomes of the EL Syllabus 2020 and the intent of ALP.  The school has a two-tiered approach in delivering the programme:</p>
-
     </div>
-
 </li>
