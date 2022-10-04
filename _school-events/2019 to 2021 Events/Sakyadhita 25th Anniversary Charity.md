@@ -14,6 +14,10 @@ Members from the Chinese Dance, Malay Dance and Indian Dance put up a colourful 
 
 It was a delightful day and a sense of accomplishment on our students’ faces was apparent as they participated in this joyous event.
 
-
-
-
+|   |   |
+|---|---|
+|  ![](/images/Charity1.jpeg) |  ![](/images/Charity2.jpeg)|
+|  ![](/images/Charity3.jpeg) |  ![](/images/Charity4.jpeg) |
+| ![](/images/Charity5.jpeg)  |  ![](/images/Charity6.jpeg) |
+|  ![](/images/Charity7.jpeg) | ![](/images/Charity8.jpeg)   |
+|  ![](/images/Charity9.jpeg) | ![](/images/Charity10.jpeg)  |
