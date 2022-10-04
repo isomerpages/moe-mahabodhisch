@@ -14,18 +14,18 @@ Our band helped usher in the Chinese New Year by performing a series of New Year
 <br><br>
 
 <img style="width: 60%;" src="/images/29thaward.jpeg">
-<br>
-<br>
+<br><br>
 
 <img style="width: 60%;" src="/images/29thaward2.jpeg">
-<br>
-<br>
+<br><br>
 <img style="width: 60%;" src="/images/29thaward3.jpg">
 
 _<center>Let us take some pictures together!</center>_
 
 
+<img style="width: 60%;" src="/images/29thaward4.jpg">
 
+_<center>Ushering in the new season Spring with popular Chinese New Year favourites.</center>_
 
 
 
