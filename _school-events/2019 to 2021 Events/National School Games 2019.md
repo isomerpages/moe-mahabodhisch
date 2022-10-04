@@ -24,4 +24,4 @@ The standard of the competition was high, and all our pupils competed fiercely, 
 
 |  |  | | |
 | -------- | -------- | -------- | -------- |
-|    ![](/images/Lee-Min-Xuan-Joiss-3A.jpeg)  |   ![](/images/Lee-Hong-Yi-Jordan-1E.jpeg)   |  ![](/images/Chu-Hong-E-2F.jpeg)  |  ![](/images/Chua-Jin-Zhu-5C.jpeg)|
+|    ![](/images/Lee-Min-Xuan-Joiss-3A.jpeg)<br>**Lee Min Xuan Joiss  (3A)**  |   ![](/images/Lee-Hong-Yi-Jordan-1E.jpeg)<br>**Lee Hong Yi Jordan (1E)**   |  ![](/images/Chu-Hong-E-2F.jpeg)<br>**Chu Hong E (2F)**  |  ![](/images/Chua-Jin-Zhu-5C.jpeg)<br>**Chua Jin Zhu (5C)**|
