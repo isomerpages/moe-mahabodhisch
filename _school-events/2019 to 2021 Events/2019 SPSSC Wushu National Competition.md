@@ -23,3 +23,10 @@ The individual awards recipients are as follows:
 
 Our team did very well throughout the competition. The Wushu team will continue to train hard so that they can progress further in next year’s competition. Well done, boys and girls!
 
+<img style="width: 60%;" src="/images/wushu1.jpeg">
+<br>
+<img style="width: 60%;" src="/images/wushu2.jpeg">
+<br>
+<img style="width: 60%;" src="/images/wushu3.jpeg">
+<br>
+<img style="width: 60%;" src="/images/wushu4.jpeg">
