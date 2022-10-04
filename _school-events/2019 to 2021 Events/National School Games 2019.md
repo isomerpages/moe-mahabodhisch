@@ -24,5 +24,4 @@ The standard of the competition was high, and all our pupils competed fiercely, 
 
 |  |  | | |
 | -------- | -------- | -------- | -------- |
-|      |      |    |    |
-
+|    ![](/images/Lee-Min-Xuan-Joiss-3A.jpeg)  |   ![](/images/Lee-Hong-Yi-Jordan-1E.jpeg)   |  ![](/images/Chu-Hong-E-2F.jpeg)  |  ![](/images/Chua-Jin-Zhu-5C.jpeg)|
