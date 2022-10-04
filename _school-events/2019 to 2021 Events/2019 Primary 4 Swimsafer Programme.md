@@ -23,3 +23,4 @@ The Swimsafer Programme was open to all Primary 4 pupils.Pupils who signed up fo
 The pupils were divided into different groups based on their swimming abilities and every group of a maximum of 10 pupils was assigned one instructor. To attain a pass in the programme, pupils not only had to take the practical test at the end of the programme but were also required to take an online quiz.
 
 Over the weeks, it was heartening to see our pupils not only having fun but showing improvements in terms of their ability to swim and in their water-confidence.
+
