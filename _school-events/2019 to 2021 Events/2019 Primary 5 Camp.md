@@ -26,5 +26,4 @@ The pupils also gamely took on the challenge to complete the high elements stati
 
 **_<center>Filling our tummies before the campfire…</center>_**
 
-
-
+<img style="width: 60%;" src="/images/p5-4-1024x768.jpeg">
