@@ -27,7 +27,11 @@ _<center>Let us take some pictures together!</center>_
 
 _<center>Ushering in the new season Spring with popular Chinese New Year favourites.</center>_
 
+<img style="width: 60%;" src="/images/29thaward4.jpg">
+<br><br>
 
+<img style="width: 60%;" src="/images/29thaward5.jpg">
 
+_<center>The VIPs were there to support us!</center>_
 
 
