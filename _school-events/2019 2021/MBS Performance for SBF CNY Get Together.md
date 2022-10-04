@@ -25,3 +25,7 @@ Pupils from CCA Chinese Orchestra, Choir, Kuai Ban and Guzheng put up a beautifu
 <img style="width: 60%;" src="/images/Chinese-Orchestra-playing-cheerful-melodies.jpeg">
 
 <center>Chinese Orchestra Playing Cheerful Melodies</center>
+
+<img style="width: 60%;" src="/images/Chinese-Orchestra-playing-cheerful-melodies.jpeg">
+
+<center>Choir Sharing The Joy Of Singing</center>
