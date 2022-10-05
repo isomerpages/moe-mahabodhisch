@@ -7,9 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: <body>   <p style="color:red;">Maha Bodhi School</p> </body>
+      background: /images/banner.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
