@@ -4,8 +4,7 @@ permalink: /about-mbs/History/
 description: ""
 ---
 ## History
-<br>
-<br>
+
 In 1946, Rev. Chee Hong of Leng Feng Bodhi Institute, an ardent promoter of Buddhist education,  
 delegated Miss Pitt Chin Hui and others, aided by Buddhist believers, to undertake the  
 establishing of Maha Bodhi School. A shophouse at No. 743, Geylang Road became a temporary  
@@ -22,7 +21,7 @@ open. The first principal was Sister Wong Loon Soo.
 <br><br>
 <img src="/images/History-2.png" style="width:110px;height:140px">
 
-No. 743, Geylang Road – The first Maha Bodhi School in 1948
+<center>No. 743, Geylang Road – The first Maha Bodhi School in 1948</center>
 
 #### The Original School
 
@@ -30,7 +29,7 @@ In the same year, the site at 50, Lorong 34, Geylang, was acquired. On 21 Janua
 <br><br>
 <img src="/images/History-3.png" style="width:200px;height:120px">
 
-The original Maha Bodhi School building at Lorong 34, Geylang
+<center>The original Maha Bodhi School building at Lorong 34, Geylang</center>
 
 #### The Demand
 
@@ -43,7 +42,7 @@ On 20 December 1970, the extension was officially declared open by the then Parl
 
 <img src="/images/History-4.png" style="width:200px;height:120px">
 
-The new five-storey building at Lorong 34 in 1970s
+<center>The new five-storey building at Lorong 34 in 1970s</center>
 
 #### The First Principal
 
@@ -79,7 +78,3 @@ Mr Foo Soo Luang retired in October 1996 after serving the school for 25 years a
 <center>Mr Foo Soo Luang</center>
 
 Under the current leadership of Mrs Elaine Quek, the school will continue to strive for excellence in both the academic as well as the non-academic, particularly focusing on the school’s distinctive Aesthetics niche area.
-
-
-
-
