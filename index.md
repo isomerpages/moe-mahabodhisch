@@ -32,6 +32,6 @@ sections:
         loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       title: Location
   - resources:
-      title: LATEST ANNOUNCEMENTS
+      title: Latest Announcements
       button: Read more
 ---
