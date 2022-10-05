@@ -15,3 +15,7 @@ Do note that the registration has been moved to the H365 app and participants wi
 A quick tutorial of the registration through the app has been included in the EDM and a detailed step-by-step guide has been attached.
 
 [How-to register Guide H365 (Private Events)](/files/How%20to%20register%20guide.pdf)
+
+[Heal 7-12 yrs](/files/HEAL-7-12-yrs.pdf)
+
+[COTM-1HR-7-12-yrs.pdf](/files/COTM-1hr-7-12-yrs.pdf)
