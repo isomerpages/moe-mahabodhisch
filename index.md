@@ -4,7 +4,7 @@ title: Maha Bodhi School
 description: An Isomer site of the Singapore Government
 image: /images/schoollogo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: <h0 style="color:green;">Maha Bodhi School</h0>
