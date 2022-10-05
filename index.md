@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: <body>   <p style="color:red;">Maha Bodhi School</p> </body>
+      title: <h0 style="color:green;">Maha Bodhi School</h0>
       background: /images/banner.gif
       key_highlights:
         - title: Highlight A
