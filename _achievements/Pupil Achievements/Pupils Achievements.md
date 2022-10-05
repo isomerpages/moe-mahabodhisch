@@ -12,6 +12,6 @@ third_nav_title: Pupil Achievements
 
 [2018 Pupil Achievements](https://www.mahabodhi.moe.edu.sg/2018-pupil-achievements/)
 
-[2017 Pupil Achievements](https://www.mahabodhi.moe.edu.sg/2017-pupil-achievement/)
+[2017 Pupil Achievements](https://staging.d1xmmxgvj0r5sk.amplifyapp.com/achievements/Pupil-Achievements/2017-Pupil-Achievement/)
 
 [2016 Pupil Achievements](https://www.mahabodhi.moe.edu.sg/2016-pupils-achievement/)
