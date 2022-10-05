@@ -2,8 +2,6 @@ collections:
   important-information:
     output: true
     order:
-      - Links/Links.md
-      - Links/.keep
       - School Information.md
       - Contact/.keep
       - Contact/Location.md
@@ -33,3 +31,5 @@ collections:
       - For Our Pupils/School Bus Services.md
       - For Our Pupils/School Uniform Services.md
       - For Our Pupils/Sec One Posting Exercise.md
+      - Links/.keep
+      - Links/Links.md
