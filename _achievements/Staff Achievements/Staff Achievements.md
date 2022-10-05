@@ -14,7 +14,7 @@ third_nav_title: Staff Achievements
 
 [2018 Staff Achievements](https://staging.d1xmmxgvj0r5sk.amplifyapp.com/achievements/Staff-Achievements/2018-Staff-Achievements/)
 
-[2017 Staff Achievements](https://www.mahabodhi.moe.edu.sg/2017-staff-achievements/)
+[2017 Staff Achievements](https://staging.d1xmmxgvj0r5sk.amplifyapp.com/achievements/Staff-Achievements/2017-Staff-Achievements/)
 
 [2016 Staff Achievements](https://www.mahabodhi.moe.edu.sg/2016-staff-achievements/)
 
