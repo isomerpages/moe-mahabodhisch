@@ -6,7 +6,7 @@ third_nav_title: Pupil Achievements
 ---
 ## Pupils Achievements 
 
-[2020 Pupil Achievements](https://www.mahabodhi.moe.edu.sg/2020-pupil-achievements/)
+[2020 Pupil Achievements](https://staging.d1xmmxgvj0r5sk.amplifyapp.com/achievements/Pupil-Achievements/2020-Pupil-Achievements/)
 
 [2019 Pupil Achievements](https://www.mahabodhi.moe.edu.sg/2019-pupil-achievements/)
 
