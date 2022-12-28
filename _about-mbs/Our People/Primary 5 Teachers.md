@@ -17,23 +17,19 @@ third_nav_title: Our People
 
 |          Class          |            Form Teachers           |               Emails              |
 |:-----------------------:|:----------------------------------:|:---------------------------------:|
-| P5 Appreciation         | Mr Ong Hao Yu Kent                 | ong_hao_yu_kent@moe.edu.sg        |
-|                         | Mrs Eunice Yip                     | yeo_eunice@moe.edu.sg             |
-| P5 Bravery              | Mr Ghazi Bin Ibrahim Altway        | ghazi_ibrahim_altway@moe.edu.sg   |
-|                         | Mdm Lai Yean Pean                  | lai_yean_pean@moe.edu.sg          |
-| P5 Compassion           | Ms Liew Sio Hong                   | liew_sio_hong@moe.edu.sg          |
-|                         | Mr Wong Jee Heng                   | wong_jee_heng@moe.edu.sg          |
-| P5 Diligence            | Mr Seah Yee Ping Clifford          | clifford_seah_yee_ping@moe.edu.sg |
-|                         | Mrs Katheryn Pua Hwee Keng         | tan_hwee_keng@moe.edu.sg          |
-| P5 Excellence           | Mdm Wong Ching Mei Sharon          | wong_ching_mei@moe.edu.sg         |
-|                         | Mr Low Tian Chin                   | LOW_Tian_Chin@moe.edu.sg          |
-| P5 Faith                | Mr Tan Yi Heng Edwin               | tan_yi_heng_edwin@moe.edu.sg      |
-|                         | Mdm Shaherah Banu d/o Abdul Buhari | shaherah_banu@moe.edu.sg          |
-| P5 Generosity           | Mdm Neo Puay Puay                  | neo_puay_puay@moe.edu.sg          |
-|                         | Mrs Ng-Sen Puay Hui Jessy          | sen_puay_hui_jessy@moe.edu.sg     |
-| P5 Humility             | Mrs Grace Tan Wan Yee              | chew_wan_yee_grace@moe.edu.sg     |
-|                         | Mdm Huzailinda Bte Hamid           | huzailinda_hamid@moe.edu.sg       |
-| P5 Integrity            | Mr James Lee Chung Ee              | james_lee_chung_ee@moe.edu.sg     |
-|                         | Ms Yuan Xiaolei                    | yuan_xiao_lei@moe.edu.sg          |
-| Other P5 Level Teachers | Mrs Alice Han Kian Neo             | han_kian_neo_alice@moe.edu.sg     |
-|                         | Mr Rahmat B Sanip                  | rahmat_b_sanip@moe.edu.sg         |
+| P5 Appreciation         | Mrs Gina Ang                       | ong_may_yuen_gina@moe.edu.sg      |
+|                         | Ms Liu Xin Qi                      | liu_xin_qi@moe.edu.sg             |
+| P5 Bravery              | Mrs Cheong Leong Sian              | cheong_leong_sian@moe.edu.sg      |
+|                         | Mrs Low-Lee Minyu                  | lee_minyu@moe.edu.sg              |
+| P5 Compassion           | Mr Ng Yong Sheng                   | ng_yong_sheng_a@moe.edu.sg        |
+|                         | Mdm Dai Guiping                    | dai_guiping@moe.edu.sg            |
+| P5 Diligence            | Mr Loh Kheam Quee Fabian           | loh_kheam_quee_fabian@moe.edu.sg  |
+|                         | Mrs Siau-Ng Mui Ling               | ng_mui_ling@moe.edu.sg            |
+| P5 Excellence           | Mr Muhammad Faris Bin Mohamad Yusuf| muhammad_faris_mohamad@moe.edu.sg |
+|                         | Mrs Chung-Wee Shi Ming             | wee_shi_ming@moe.edu.sg           |
+| P5 Faith                | Mdm Rehana Shaik                   | rehana_shaik@moe.edu.sg           |
+|                         | Mdm Hu Shanshan                    | hu_shan_shan@moe.edu.sg           |
+| P5 Generosity           | Mr Shaikh Faliq Abitaleb Bin S A MM| shaikh_faliq_abitaleb@moe.edu.sg  |
+|                         | Ms Ma Yingxin                      | ma_ying_xin@moe.edu.sg            |
+| P5 Humility             | Mr Sitoe Yew Sing                  | sitoe_yew_sing@moe.edu.sg         |
+|                         | Mrs Wendy Tan                      | chean_siu_lin_wendy@moe.edu.sg    |
