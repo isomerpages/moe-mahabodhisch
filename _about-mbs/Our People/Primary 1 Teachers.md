@@ -18,26 +18,26 @@ third_nav_title: Our People
 
 |          Class          |            Form Teacher            |                 Email                 |
 |:-----------------------:|:----------------------------------:|:-------------------------------------:|
-| P1 Appreciation         | Mrs Whenne Ho                      | boo_sian_san@moe.edu.sg               |
-|                         | Mrs Chua-Lee Kai Ling              | lee_kai_ling@moe.edu.sg               |
-| P1 Bravery              | Mrs Lee-Tan Chew Ping              | tan_chew_ping@moe.edu.sg              |
-|                         | Ms Lim Mei Xin Josie               | lim_mei_xin_josie@moe.edu.sg          |
-| P1 Compassion           | Mdm Zaiton Bte Haji Hassan         | zaiton_hassan_a@moe.edu.sg            |
-|                         | Mdm Yang Si Qi                     | yang_si_qi@moe.edu.sg                 |
-| P1 Diligence            | Ms Chen Limin                      | chen_limin@moe.edu.sg                 |
-|                         | Mdm Jasveena Kaur Leil             | jasveena_kaur_leil@moe.edu.sg         |
-| P1 Excellence           | Mdm Mankiran Kaur D/O Gurdip Singh | mankiran_kaur_gurdip_singh@moe.edu.sg |
-|                         | Ms Louise Peh Xue Min              | louise_peh_xue_min@moe.edu.sg         |
-| P1 Faith                | Mrs Doris See-Ng Meow Yuan         | ng_meow_yuan@moe.edu.sg               |
-|                         | Mdm Leong Lye Chan                 | leong_lye_chen@moe.edu.sg             |
-| P1 Generosity           | Mdm Tay Ai Lee                     | tay_ai_lee@moe.edu.sg                 |
-|                         | Mdm Eoh Yi Ling                    | eoh_yi_ling@moe.edu.sg                |
-| P1 Humility             | Mdm Fauziah Bte Mohamood           | fauziah_mohamood@moe.edu.sg           |
-|                         | Mdm Tan Miao Ling                  | tan_miao_ling@moe.edu.sg              |
-| P1 Integrity            | Mdm Amidah Bte Aziz                | amidah_aziz@moe.edu.sg                |
-|                         | Mr Ng Qile Daryl                   | ng_qile_daryl@moe.edu.sg              |
-| P1 Joy                  | Mdm Koh Su Lynn Clarice            | koh_su_lynn_clarice@moe.edu.sg        |
-|                         | Mdm Rahayu Bte Haris               | rahayu_haris@moe.edu.sg               |
+| P1 Appreciation         | Mrs Pushpa                         |                                       |
+|                         | Mrs Chen Miaoxin                   | chen_miaoxin@moe.edu.sg               |
+| P1 Bravery              | Mdm Khariaty Bte Ja'afar           | khariaty_jaafar@moe.edu.sg            |
+|                         | Mdm Ng Chen Nee                    | ng_chen_nee@moe.edu.sg                |
+| P1 Compassion           | Mrs Annie Teo-Lim Soek Khim        | lim_soek_khim_annie@moe.edu.sg        |
+|                         | Mr Chua Yu Yong, Timothy           | chua_yu_yong_timothy@moe.edu.sg       |
+| P1 Diligence            | Ms Clara Soon Jiaqi                | clara_soon_jiaqi@moe.edu.sg           |
+|                         | Ms Lim Hui Ching                   | lim_hui_ching@moe.edu.sg              |
+| P1 Excellence           | Mdm Mdm Lim Siow Chin              | lim_siow_chin@moe.edu.sg              |
+|                         | Mr Ahmad Arif Bin Ibrahim          | ahmad_arif_ibrahim@moe.edu.sg         |
+| P1 Faith                | Mr Muhammad Zulfadly Bin Zaiman    | muhammad_zulfadly_zaiman@moe.edu.sg   |
+|                         | Mdm Lee Eng Bee Angelia            | angelia_lee_eng_bee@moe.edu.sg        |
+| P1 Generosity           | Mrs Noor Azizah Bte Aziz           | noor_azizah_aziz@moe.edu.sg           |
+|                         | Ms Liu Mianjin                     | liu_mianjin@moe.edu.sg                |
+| P1 Humility             | Mrs Liu-Ng Yueh Yong               | ng_yueh_yong_a@moe.edu.sg             |
+|                         | Miss Low Yi Chuang                 | low_yi_chuang@moe.edu.sg              |
+| P1 Integrity            | Mdm Nur Azuriati Azhar             | nur_azuriati_azhar@moe.edu.sg         | 
+|                         | Ms Lee Wei Wei, Isadora            | lee_wei_wei_isadora@moe.edu.sg        |
+| P1 Joy                  | Mrs Chan-Lim Pei Ee                | lim_pei_ee@moe.edu.sg                 |
+|                         | Mr Muhammad Faizal Bin Mak Said    | muhammad_faizal_mak_said@moe.edu.sg   |
 | P1 Kindness             | Mrs Ong-Siow Wee Han               | siow_wee_han@moe.edu.sg               |
 |                         | Mdm Wong Li Sher                   | wong_li_sher@moe.edu.sg               |
 | Other P1 Level Teachers | Mdm Ang Chew Peng                  | ang_chew_peng@moe.edu.sg              |
