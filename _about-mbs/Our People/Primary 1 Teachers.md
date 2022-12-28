@@ -38,9 +38,6 @@ third_nav_title: Our People
 |                         | Ms Lee Wei Wei, Isadora            | lee_wei_wei_isadora@moe.edu.sg        |
 | P1 Joy                  | Mrs Chan-Lim Pei Ee                | lim_pei_ee@moe.edu.sg                 |
 |                         | Mr Muhammad Faizal Bin Mak Said    | muhammad_faizal_mak_said@moe.edu.sg   |
-| P1 Kindness             | Mrs Ong-Siow Wee Han               | siow_wee_han@moe.edu.sg               |
-|                         | Mdm Wong Li Sher                   | wong_li_sher@moe.edu.sg               |
-| Other P1 Level Teachers | Mdm Ang Chew Peng                  | ang_chew_peng@moe.edu.sg              |
-|                         | Ms Lee Ling Ling                   | lee_ling_ling@moe.edu.sg              |
-|                         | Mdm Zalina Binte Salleh            | zalina_salleh@moe.edu.sg              |
-|                         | Miss Low Yi Chuang                 | low_yi_chuang@moe.edu.sg              |
+| P1 Kindness             | Mrs Thong-Tan Siao Yean            | tan_siao_yean@moe.edu.sg              |
+|                         | Mdm Du Huiying                     | du_huiying@moe.edu.sg                 |
+| TRANSIT                 | Miss Nina Karmiza Bte Kamarozaman  | nina_karmiza@moe.edu.sg               |
