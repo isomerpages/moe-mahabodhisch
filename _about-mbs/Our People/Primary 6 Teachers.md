@@ -16,8 +16,8 @@ third_nav_title: Our People
 
 |          Class          |             Form Teachers            |                 Emails                |
 |:-----------------------:|:------------------------------------:|:-------------------------------------:|
-| P6 Appreciation         | Mr Muhammad Faris Bin Mohamad Yusuf  | muhammad_faris_mohamad@moe.edu.sg     |
-|                         | Ms Carolyn Angelina Chan Hui Ming    | carolyn_chan_hui_ming@moe.edu.sg      |
+| P6 Appreciation         | Mr Ong Hao Yu Kent  |      |
+|                         |     |       |
 | P6 Bravery              | Mr Loh Kheam Quee Fabian             | loh_kheam_quee_fabian@moe.edu.sg      |
 |                         | Mr Muhammad Zulfadly Bin Zaiman      | muhammad_zulfadly_zaiman@moe.edu.sg   |
 | P6 Compassion           | Mr Ng Yong Sheng                     | ng_yong_sheng_a@moe.edu.sg            |
