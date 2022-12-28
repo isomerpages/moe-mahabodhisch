@@ -15,22 +15,22 @@ third_nav_title: Our People
 <br>
 
 
-|          Class         |       Form Teachers       |             Emails             |
-|:----------------------:|:-------------------------:|:------------------------------:|
-| P3 Appreciation        | Ms Por Pei Yi             | por_pei_yi@moe.edu.sg          |
-|                        | Mdm Sit Mei Hwa           | sit_mei_hwa@moe.edu.sg         |
-| P3 Bravery             | Mr Tan Chee Keong Clement | tan_chee_keong@moe.edu.sg      |
-|                        | Mdm Jin Lu                | jin_lu@moe.edu.sg              |
-| P3 Compassion          | Mrs Yeo-Ong Sze Sze       | ong_sze_sze@moe.edu.sg         |
-|                        | Mrs Lim- Ho Lian Poh      | lim-ho_lian_poh@moe.edu.sg     |
-| P3 Diligence           | Ms Chong Lee Chen         | chong_lee_chen_a@moe.edu.sg    |
-|                        | Mr Ng Kwok Hua            | ng_kwok_hua@moe.edu.sg         |
-| P3 Excellence          | Mdm Lee Wei Wei Isadora   | lee_wei_wei_isadora@moe.edu.sg |
-|                        | Mrs Yeo – Ang Hwee Pheng  | ang_hwee_pheng@moe.edu.sg      |
-| P3 Faith               | Mr Chan Yew Meng David    | chan_yew_meng_david@moe.edu.sg |
-|                        | Mdm Yeo Hwee Choo         | yeo_hwee_choo@moe.edu.sg       |
-| P3 Generosity          | Mdm Yeoh Ai Hoon          | yeoh_ai_hoon@moe.edu.sg        |
-|                        | Mrs Seah Kim Huah         | seah_kim_huah@moe.edu.sg       |
-| P3 Humility            | Mr Ian Ang Chye Seng      | ian_ang_chye_seng@moe.edu.sg   |
-|                        | Ms Siow Soek Fien Tracy   | siow_soek_fien@moe.edu.sg      |
-| Other P3 Level Teacher | Ms Chan Mei Ling          | chan_mei_ling@moe.edu.sg       |
+|          Class         |       Form Teachers            |             Emails              |
+|:----------------------:|:------------------------=-----:|:-------------------------------:|
+| P3 Appreciation        | Mdm Nur Nabilah Bte Hairodin   | nur_nabilah_hairodin@moe.edu.sg |
+|                        | Mdm Jin Lu                     | jin_lu@moe.edu.sg               |
+| P3 Bravery             | Mr Wong Jee Heng               | wong_jee_heng@moe.edu.sg        |
+|                        | Mrs Joanne Ng- Heng Jee Wee    | heng_jee_wee@moe.edu.sg         |
+| P3 Compassion          | Mrs Wong-Huang Yuyun           | huang_yuyun@moe.edu.sg          |
+|                        | Ms Ong Mei Hui Jasmine         | ong_mei_hui_jasmine@moe.edu.sg  |
+| P3 Diligence           | Mrs Tan-Tay Swee Yen           | tay_swee_yen@moe.edu.sg         |
+|                        | Ms Yuan Xiaolei                   | yuan_xiao_lei@moe.edu.sg        |
+| P3 Excellence          | Ms Indah Putri Andayani Rafeah    | lee_wei_wei_isadora@moe.edu.sg  |
+|                        | Mdm Lai Yean Pean                 | lai_yean_pean@moe.edu.sg        |
+| P3 Faith               | Ms Por Pei Yi                     | por_pei_yi@moe.edu.sg           |
+|                        | Mdm Eunice See Yi Jin             | see_yi_jin_eunice@moe.edu.sg    |
+| P3 Generosity          | Mrs Lee-Ho Sz Wha                 | ho_sz_wha@moe.edu.sg            |
+|                        | Mdm Lim Su Fern Wendy             | lim_su_fern@moe.edu.sg          |
+| P3 Humility            | Mrs Eileen Lee                    | elieen_yap@moe.edu.sg            |
+|                        | Ms Carolyn Angelina Chan Hui Ming|  carolyn_chan_hui_ming@moe.edu.sg      |
+| Other P3 Level Teacher | Ms Chan Mei Ling               | chan_mei_ling@moe.edu.sg        |
