@@ -16,24 +16,21 @@ third_nav_title: Our People
 
 |          Class          |             Form Teachers            |                 Emails                |
 |:-----------------------:|:------------------------------------:|:-------------------------------------:|
-| P6 Appreciation         | Mr Ong Hao Yu Kent  |      |
-|                         |     |       |
-| P6 Bravery              | Mr Loh Kheam Quee Fabian             | loh_kheam_quee_fabian@moe.edu.sg      |
-|                         | Mr Muhammad Zulfadly Bin Zaiman      | muhammad_zulfadly_zaiman@moe.edu.sg   |
-| P6 Compassion           | Mr Ng Yong Sheng                     | ng_yong_sheng_a@moe.edu.sg            |
-|                         | Mdm Chen Miaoxin                     | chen_miaoxin@moe.edu.sg               |
-| P6 Diligence            | Mrs Elizabeth Song Siok Kheng        | leong_siok_kheng_elizabeth@moe.edu.sg |
-|                         | Ms Lim Hui Ching                     | lim_hui_ching@moe.edu.sg              |
-| P6 Excellence           | Mrs Cheong Leong Sian                | cheong_leong_sian@moe.edu.sg          |
-|                         | Mrs Wendy Tan                        | chean_siu_lin_wendy@moe.edu.sg        |
-| P6 Faith                | Mr Abdul Khabir Bin Abdul Razak      | abdul_khabir_abdul_razak@moe.edu.sg   |
-|                         | Ms Song Xiao Ting                    | song_xiao_ting@moe.edu.sg             |
-| P6 Generosity           | Mdm Rehana Shaik                     | rehana_shaik@moe.edu.sg               |
-|                         | Mr Sitoe Yew Sing                    | sitoe_yew_sing@moe.edu.sg             |
-| P6 Humility             | Mr Shaikh Faliq Abitaleb Bin S A M M | shaikh_faliq_abitaleb@moe.edu.sg      |
-|                         | Mrs Chung-Wee Shi Ming               | wee_shi_ming@moe.edu.sg               |
-| P6 Integrity            | Mrs Gina Ang                         | ong_may_yuen_gina@moe.edu.sg          |
-|                         | Mdm Shi Hui                          | shi_hui@moe.edu.sg                    |
-| Other P6 Level Teachers | Mrs Chen-Chan Jing Jing              | chan_jing_jing@moe.edu.sg             |
-|                         | Mdm Ng Chen Nee                      | ng_chen_nee@moe.edu.sg                |
-|                         | Mrs Sum-Lee Wee Choo                 | lee_wee_choo@moe.edu.sg               |
+| P6 Appreciation         | Mr Ong Hao Yu Kent                   | ong_hao_yu_kent@moe.edu.sg            |
+|                         | Mrs Eunice Yip                       | yeo_eunice@moe.edu.sg                 |
+| P6 Bravery              | Mr Ghazi Bin Ibrahim Altway          | ghazi_ibrahim_altway@moe.edu.sg       |
+|                         | Mdm Soon Su Yee                      | soon_su_yee@moe.edu.sg                |
+| P6 Compassion           | Ms Liew Sio Hong                     | liew_sio_hong@moe.edu.sg              |
+|                         | Mr Tan Ho Teck                       | tan_ho_teck@moe.edu.sg                |
+| P6 Diligence            | Mr Seah Yee Ping Clifford            | clifford_seah_yee_ping@moe.edu.sg     |
+|                         | Mdm Soh Hoon Kian                    | soh_hoon_kian@moe.edu.sg              |
+| P6 Excellence           | Mdm Wong Ching Mei Sharon            | wong_ching_mei@moe.edu.sg             |
+|                         | Mr Low Tian Chin                     | low_Tian_Chin@moe.edu.sg              |
+| P6 Faith                | Mr Tan Yi Heng Edwin                 | tan_yi_heng_edwin@moe.edu.sg          |
+|                         | Mdm Shaherah Banu d/o Abdul Buhari   | shaherah_banu@moe.edu.sg              |
+| P6 Generosity           | Mdm Neo Puay Puay                    | neo_puay_puay@moe.edu.sg              |
+|                         | Mrs Ng-Sen Puay Hui Jessy            | sen_puay_hui_jessy@moe.edu.sg         |
+| P6 Humility             | Mrs Grace Tan Wan Yee                | chew_wan_yee_grace@moe.edu.sg         |
+|                         | Mr Rahmat B Sanip                    | rahmat_b_sanip@moe.edu.sg             |
+| P6 Integrity            | Mr James Lee Chung Ee                | james_lee_chung_ee@moe.edu.sg         |
+|                         | Mrs Elizabeth Song Siok Kheng        | leong_siok_kheng_elizabeth@moe.edu.sg |
