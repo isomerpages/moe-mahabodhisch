@@ -8,22 +8,23 @@ third_nav_title: Our People
 
 ## Chinese Teachers
 
-#### Chinese Teachers (2022)
+#### Chinese Teachers (2023)
 
 |            Name            |      Class      |                 Email                |
 |:--------------------------:|:---------------:|:------------------------------------:|
-| Ms Ma Yingxin              | (P1A, P4CL2)    | ma_ying_xin@moe.edu.sg               |
-| Ms Lim Mei Xin Josie       | (P1B, P4CL9)    | lim_mei_xin_josie@moe.edu.sg         |
-| Ms Yang Si Qi              | (P1C, P4CL1)    | yang_si_qi@moe.edu.sg                |
-| Ms Low Yi Chuang           | (P1C, P4CL1)    | low_yi_chuang@moe.edu.sg             |
-| Mdm Hu Shanshan            | (P1D, P4CL8)    | hu_shan_shan@moe.edu.sg              |
-| Ms Louise Peh Xue Min      | (P1E, P4CL6)    | louise_peh_xue_min@moe.edu.sg        |
-| Mdm Leong Lye Chan         | (P1F, P4CL7)    | leong_lye_chen@moe.edu.sg            |
-| Mdm See Yi Jin Eunice      | (P1G, P4CL10)   | see_yi_jin_eunice@moe.edu.sg         |
-| Mdm Wong-Tan Miao Ling     | (P1H, P5CL5)    | tan_miao_ling@moe.edu.sg             |
-| Mdm Shi Hui                | (P1I, P4CL5)    | shi_hui@moe.edu.sg                   |
-| Ms Stephanie Yew Birui     | (P1J, P4CL3)    | yew_birui_stephanie_elsie@moe.edu.sg |
-| Mdm Wong Li Sher           | (P1K, P6CL3)    | wong_li_sher@moe.edu.sg              |
+| Ms Ma Yingxin              | P2A           | ma_ying_xin@moe.edu.sg               |
+| Ms Lim Mei Xin Josie       | P2B           | lim_mei_xin_josie@moe.edu.sg         |
+| Ms Yang Si Qi              | P2C           | yang_si_qi@moe.edu.sg                |
+| Mdm Hu Shanshan            | P2D           | hu_shan_shan@moe.edu.sg              |
+| Ms Louise Peh Xue Min      | P2E           | louise_peh_xue_min@moe.edu.sg        |
+| Mdm Leong Lye Chan         | P2F           | leong_lye_chen@moe.edu.sg            |
+| Mrs Liu Xin Qi             | P2G           | liu_xin_qi@moe.edu.sg                |
+| Mdm Wong-Tan Miao Ling     | P2H           | tan_miao_ling@moe.edu.sg             |
+| Mdm Shi Hui                | P2I           | shi_hui@moe.edu.sg                   |
+| Mdm Dai Gui Ping           | P2I           | dai_guiping@moe.edu.sg               |
+| Ms Chew Hwee Cheng         | P2J           |                                      |
+| Mdm Chong Yuen Fah          
+Wong Li Sher           | P2K    | wong_li_sher@moe.edu.sg              |
 | Mrs Joanne Ng-Heng Jee Wee | (P2A, P5CL1)    | heng_jee_wee@moe.edu.sg              |
 | Mdm Du Huiying             | (P2B, P6CL10)   | du_huiying@moe.edu.sg                |
 | Mdm Dai Guiping            | (P2C, P5CL10)   | dai_guiping@moe.edu.sg               |
