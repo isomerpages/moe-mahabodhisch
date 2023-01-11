@@ -8,9 +8,9 @@ third_nav_title: Our People
 
 #### P4 Form Teachers (2023)
 
-| Year Head Middle Primary |                 Email                |
-|:------------------------:|:------------------------------------:|
-| Mrs Yeo-Ang Hwee Pheng   | ang_hwee_pheng@schools.gov.sg        |
+| Assistant Year Head Middle Primary |                 Email                |
+|:----------------------------------:|:------------------------------------:|
+| Mrs Yeo-Ang Hwee Pheng             | ang_hwee_pheng@moe.edu.sg            |
 
 <br>
 
