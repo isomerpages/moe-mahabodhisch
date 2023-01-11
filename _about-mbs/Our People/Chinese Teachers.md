@@ -35,13 +35,15 @@ third_nav_title: Our People
 | Mdm Dai Gui Ping            | P2I, P5CL1    | dai_guiping@moe.edu.sg               |
 | Ms Chew Hwee Cheng          | P2J, P4CL4    | Chew_Hwee_Cheng_Mrs@moe.edu.sg       |
 | Mdm Chong Yuen Fah          | P2K, P5CL2    | chong_yuen_fah@moe.edu.sg            |
-| Mdm Jin Lu                  | P3CL1         | heng_jee_wee@moe.edu.sg              |
-| Ms Yuan Xiaolei             | P3CL2         | yuan_xiao_lei@moe.edu.sg             |
+| Mdm Jin Lu                  | P3CL1, P6CL2  | heng_jee_wee@moe.edu.sg              |
+| Ms Yuan Xiaolei             | P3CL2, P6CL6  | yuan_xiao_lei@moe.edu.sg             |
 | Ms Yew Birui Stephanie Elsie| P3CL3         | dai_guiping@moe.edu.sg               |
-| Mdm Lai Yean Pean           | P3CL4         | lai_yean_pean@moe.edu.sg             |
+| Mdm Lai Yean Pean           | P3CL4, P6CL9  | lai_yean_pean@moe.edu.sg             |
 | Mr Luo Chen Xi              | P3CL5         | luo_chenxi@moe.edu.sg                |
-| Mrs Joanne Ng-Heng Jee Wee  | P3CL6         | heng_jee_wee@moe.edu.sg              |
-| Mdm Lim Su Fern Wendy       | P3CL8         | lim_su_fern@moe.edu.sg               |
-| Mr Tan Ho Teck              | P3CL9         | tan_ho_teck@moe.edu.sg               |
-| Ms Eunice See               | P3CL10        | see_yi_jin_eunice@moe.edu.sg         |
+| Mrs Joanne Ng-Heng Jee Wee  | P3CL6, P6CL1  | heng_jee_wee@moe.edu.sg              |
+| Mdm Lim Su Fern Wendy       | P3CL8, P6CL3  | lim_su_fern@moe.edu.sg               |
+| Mr Tan Ho Teck              | P3CL9, P6CL8  | tan_ho_teck@moe.edu.sg               |
+| Ms Eunice See               | P3CL10, P6CL5 | see_yi_jin_eunice@moe.edu.sg         |
 | Mdm Sit Mei Hwa             | P4CL8         | sit_mei_hwa@moe.edu.sg               |
+| Mdm Soh Hoon Kian           | P6CL10        | soh_hoon_kian@moe.edu.sg             |
+| Mdm Leong Lye Chan          | P6FCL         | leong_lye_chan@schools.gov.sg        |
