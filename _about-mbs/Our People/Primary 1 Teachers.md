@@ -8,9 +8,9 @@ third_nav_title: Our People
 
 #### P1 Form Teachers (2023)
 
-| Year Head Lower Primary |           Email          |
-|:-----------------------:|:------------------------:|
-| Mdm Lee Teck Lan        | lee_teck_lan@moe.edu.sg  |
+| Assistant Year Head Lower Primary |           Email          |
+|:---------------------------------:|:------------------------:|
+| Mdm Lee Teck Lan                  | lee_teck_lan@moe.edu.sg  |
 
 <br>
 
