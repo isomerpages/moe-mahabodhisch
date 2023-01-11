@@ -6,11 +6,11 @@ third_nav_title: Our People
 ---
 ## Primary 1 Teachers
 
-#### P1 Form Teachers (2022)
+#### P1 Form Teachers (2023)
 
 | Year Head Lower Primary |           Email          |
 |:-----------------------:|:------------------------:|
-| Ms Ang Chew Peng        | ang_chew_peng@moe.edu.sg |
+| Mdm Lee Teck Lan        | lee_teck_lan@moe.edu.sg  |
 
 <br>
 
@@ -18,7 +18,7 @@ third_nav_title: Our People
 
 |          Class          |            Form Teacher            |                 Email                 |
 |:-----------------------:|:----------------------------------:|:-------------------------------------:|
-| P1 Appreciation         | Mrs Bala                           | pushpa_selvaraju@moe.edu.sg                                      |
+| P1 Appreciation         | Mrs Bala                           | pushpa_selvaraju@moe.edu.sg           |
 |                         | Mrs Chen Miaoxin                   | chen_miaoxin@moe.edu.sg               |
 | P1 Bravery              | Mdm Khariaty Bte Ja'afar           | khariaty_jaafar@moe.edu.sg            |
 |                         | Mdm Ng Chen Nee                    | ng_chen_nee@moe.edu.sg                |
