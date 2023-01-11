@@ -46,4 +46,3 @@ third_nav_title: Our People
 | Ms Eunice See               | P3CL10, P6CL5 | see_yi_jin_eunice@moe.edu.sg         |
 | Mdm Sit Mei Hwa             | P4CL8         | sit_mei_hwa@moe.edu.sg               |
 | Mdm Soh Hoon Kian           | P6CL10        | soh_hoon_kian@moe.edu.sg             |
-| Mdm Leong Lye Chan          | P6FCL         | leong_lye_chan@schools.gov.sg        |
