@@ -6,11 +6,11 @@ third_nav_title: Our People
 ---
 ## Primary 6 Teachers
 
-#### P6 Form Teachers (2022)
+#### P6 Form Teachers (2023)
 
 | Year Head Upper Primary |           Email           |
 |:-----------------------:|:-------------------------:|
-| Mrs Chen Jing Jing      | chan_jing_jing@moe.edu.sg |
+| Mrs Katheryn Pua        | tan_hwee_keng@moe.edu.sg  |
 
 <br>
 
