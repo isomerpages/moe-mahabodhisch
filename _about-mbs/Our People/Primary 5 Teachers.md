@@ -7,11 +7,11 @@ third_nav_title: Our People
 
 ## Primary 5 Teachers
 
-#### P5 Form Teachers (2022)
+#### P5 Form Teachers (2023)
 
 | Assistant Year Head Upper Primary |           Email          |
 |:---------------------------------:|:------------------------:|
-| Mrs Katheryn Pua Hwee Keng        | tan_hwee_keng@moe.edu.sg |
+| Mrs Chen Jing Jing	              |chan_jing_jing@moe.edu.sg |
 
 <br>
 
