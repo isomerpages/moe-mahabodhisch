@@ -6,11 +6,11 @@ third_nav_title: Our People
 ---
 ## Primary 4 Teachers
 
-#### P4 Form Teachers (2022)
+#### P4 Form Teachers (2023)
 
 | Year Head Middle Primary |                 Email                |
 |:------------------------:|:------------------------------------:|
-| Ms Stephanie Yew Birui   | yew_birui_stephanie_elsie@moe.edu.sg |
+| Mrs Yeo-Ang Hwee Pheng   | ang_hwee_pheng@schools.gov.sg        |
 
 <br>
 
