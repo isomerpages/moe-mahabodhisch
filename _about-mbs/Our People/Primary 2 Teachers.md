@@ -8,7 +8,7 @@ third_nav_title: Our People
 
 #### P2 Form Teachers (2023)
 
-| Assistant Year Head Lower Primary |             Emails           |
+| Year Head Lower Primary           |             Emails           |
 |:---------------------------------:|:----------------------------:|
 | Mdm Ang Chew Peng                 | ang_chew_peng@schools.gov.sg |
 
