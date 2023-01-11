@@ -6,11 +6,11 @@ third_nav_title: Our People
 ---
 ## Primary 3 Teachers
 
-#### P3 Form Teachers (2022)
+#### P3 Form Teachers (2023)
 
-| Assistant Year Head Middle Primary |           Email           |
-|:----------------------------------:|:-------------------------:|
-| Mrs Yeo-Ang Hwee Pheng             | ang_hwee_pheng@moe.edu.sg |
+| Assistant Year Head Middle Primary |                   Email                  |
+|:----------------------------------:|:----------------------------------------:|
+| Ms Yew Birui Stephanie Elsie       | yew_birui_stephanie_elsie@schools.gov.sg |
 
 <br>
 
