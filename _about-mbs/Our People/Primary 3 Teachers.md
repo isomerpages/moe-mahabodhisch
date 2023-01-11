@@ -10,7 +10,7 @@ third_nav_title: Our People
 
 | Year Head Middle Primary           |                   Email                  |
 |:----------------------------------:|:----------------------------------------:|
-| Ms Yew Birui Stephanie Elsie       | yew_birui_stephanie_elsie@schools.gov.sg |
+| Ms Yew Birui Stephanie Elsie       | yew_birui_stephanie_elsie@moe.edu.sg     |
 
 <br>
 
