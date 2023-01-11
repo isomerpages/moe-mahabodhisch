@@ -8,7 +8,7 @@ third_nav_title: Our People
 
 #### P3 Form Teachers (2023)
 
-| Assistant Year Head Middle Primary |                   Email                  |
+| Year Head Middle Primary           |                   Email                  |
 |:----------------------------------:|:----------------------------------------:|
 | Ms Yew Birui Stephanie Elsie       | yew_birui_stephanie_elsie@schools.gov.sg |
 
