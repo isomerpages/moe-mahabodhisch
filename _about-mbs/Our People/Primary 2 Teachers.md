@@ -6,11 +6,11 @@ third_nav_title: Our People
 ---
 ## Primary 2 Teachers
 
-#### P2 Form Teachers (2022)
+#### P2 Form Teachers (2023)
 
-| Assistant Year Head Lower Primary |          Emails         |
-|:---------------------------------:|:-----------------------:|
-| Mdm Lee Teck Lan                  | lee_teck_lan@moe.edu.sg |
+| Assistant Year Head Lower Primary |             Emails           |
+|:---------------------------------:|:----------------------------:|
+| Mdm Ang Chew Peng                 | ang_chew_peng@schools.gov.sg |
 
 <br>
 
