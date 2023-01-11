@@ -9,7 +9,7 @@ third_nav_title: Our People
 
 #### P5 Form Teachers (2023)
 
-| Assistant Year Head Upper Primary |           Email          |
+| Year Head Upper Primary           |           Email          |
 |:---------------------------------:|:------------------------:|
 | Mrs Chen Jing Jing	              |chan_jing_jing@moe.edu.sg |
 
