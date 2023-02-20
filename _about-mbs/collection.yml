@@ -1,0 +1,30 @@
+collections:
+  about-mbs:
+    output: true
+    order:
+      - Vision & Mission.md
+      - Values, Motto & Crest.md
+      - History.md
+      - Financial Information.md
+      - School Facilities.md
+      - Our People/.keep
+      - Our People/School Management Committee.md
+      - Our People/Principal's Message.md
+      - Our People/School Management Team.md
+      - Our People/Senior Teachers.md
+      - Our People/Primary 1 Teachers.md
+      - Our People/Primary 2 Teachers.md
+      - Our People/Primary 3 Teachers.md
+      - Our People/Primary 4 Teachers.md
+      - Our People/Primary 5 Teachers.md
+      - Our People/Primary 6 Teachers.md
+      - Our People/Chinese Teachers.md
+      - Our People/Allied Educators.md
+      - Our People/School Admin Team.md
+      - Parent Support Group/.keep
+      - Parent Support Group/PSG Page.md
+      - Parent Support Group/PSG Activities.md
+      - UNIQUELY MBS/.keep
+      - UNIQUELY MBS/Applied Learning Programme.md
+      - UNIQUELY MBS/Special Programmes.md
+      - UNIQUELY MBS/Conversational Malay Programmes.md

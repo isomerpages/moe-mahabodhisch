@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/schoollogo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About-MBS
+    collection: about-mbs
+  - title: "Departments "
+    collection: departments
+  - title: School Events
+    collection: school-events
+  - title: Important Information
+    collection: important-information
+  - title: "Achievements "
+    collection: achievements
