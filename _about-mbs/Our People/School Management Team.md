@@ -27,8 +27,7 @@ third_nav_title: Our People
 | Mrs Chua-Lee Kai Ling     | HOD / Aesthetics                                |
 | Mrs Chung-Wee Shi Ming    | HOD / Character and Citizenship Education       |
 | Mr Rahmat Bin Sanip       | HOD / Physical Education & CCA                  |
-| Ms Chan Mei Ling          | HOD / Discipline & Partnerships                 |
-| Mr Tan Ho Teck            | HOD / Special Assistance Plan                   |
+| Ms Chan Mei Ling          | HOD / Discipline & Partnerships                 |                |
 | Mr Low Tian Chin Ivan     | HOD / Information and Communications Technology |
 
 #### Year Heads
@@ -44,10 +43,8 @@ third_nav_title: Our People
 |           Name            |                   Designation                  |
 |:-------------------------:|:----------------------------------------------:|
 | Mr Faliq Mattar           | LH / English Language                          |
-| Mdm Jasveena Kaur Leil    | SH / English Language                          |
 | Mrs Low-Lee Minyu         | SH / Mathematics                               |
-| Mdm Yeo Hwee Choo         | SH / Character and Citizenship Education       |
-| Mr Tan Chee Keong         | SH / Information and Communications Technology |
+| Mdm Yeo Hwee Choo         | SH / Character and Citizenship Education     |
 | Mr Muhamad Zufadly Zaiman | SH / Co-curricular Activities                  |
 | Mr Muhamad Faris Mohamad  | SH / National Education & Social Studies       |
 | Mrs Lee-Ho Sz Wha         | SH / Student Well-Being                        |
