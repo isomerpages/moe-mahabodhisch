@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: <h0 style="color:green;">Maha Bodhi School</h0>
       background: /images/banner.gif
   - resources:
       title: Latest Announcements
