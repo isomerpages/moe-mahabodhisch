@@ -27,7 +27,7 @@ third_nav_title: Our People
 | Mrs Chua-Lee Kai Ling     | HOD / Aesthetics                                |
 | Mrs Chung-Wee Shi Ming    | HOD / Character and Citizenship Education       |
 | Mr Rahmat Bin Sanip       | HOD / Physical Education & CCA                  |
-| Ms Chan Mei Ling          | HOD / Discipline & Partnerships                 |                |
+| Ms Chan Mei Ling          | HOD / Student Management                 |                |
 | Mr Low Tian Chin Ivan     | HOD / Information and Communications Technology |
 
 #### Year Heads
