@@ -17,7 +17,7 @@ third_nav_title: Our People
 |          Class          |          Form Teachers         |                 Emails                 |
 |:-----------------------:|:------------------------------:|:--------------------------------------:|
 | P4 Appreciation         | Ms Oh Chui Hoon Dominique      | oh_chui_hoon@moe.edu.sg                |
-|                         | Ms Alice Tay            | tay_wee_teng_alice@moe.edu.sg                 |
+|                         | Ms Alice Tay            | tay_wee_teng_alice@moe.edu.sg                    |
 | P4 Bravery              | Mr Tan Chee Keong Clement      | tan_chee_keong@moe.edu.sg              |
 |                         | Mdm Huzailinda          |huzailinda_hamid@moe.edu.sg            |
 | P4 Compassion           | Mrs Yeo-Ong Sze Sze            | ong_sze_sze@moe.edu.sg                 |
