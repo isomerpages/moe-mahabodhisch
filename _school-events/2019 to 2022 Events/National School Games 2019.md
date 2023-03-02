@@ -2,8 +2,9 @@
 title: National School Games 2019
 permalink: /school-events/2019-to-2021-Events/National-School-Games-2019/
 description: ""
-third_nav_title: 2019 to 2021 Events
+third_nav_title: 2019 to 2022 Events
 ---
+
 ## National School Games 2019
 
 In Term 2, our pupils participated in the National School Games, which is annual event organised by the Singapore Schools Sports Council. In this event, pupils from schools across Singapore come together to compete in various sports.

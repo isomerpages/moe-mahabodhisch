@@ -3,7 +3,10 @@ title: Visit from Second Minister for Education and Foreign Affairs, Dr Mohamad
   Maliki Osman
 permalink: /School-Events/Second-Minister-Visit/
 description: ""
+third_nav_title: 2019 to 2022 Events
 ---
+
+
 
 ## Visit from Second Minister for Education and Foreign Affairs, Dr Mohamad Maliki Osman
 

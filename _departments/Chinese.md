@@ -3,5 +3,5 @@ title: Chinese
 permalink: /departments/Chinese/
 description: ""
 ---
-## Chinese 
+## [Chinese](https://www.mbschinese.net/) 
 [Chinese Department](https://www.mbschinese.net/)

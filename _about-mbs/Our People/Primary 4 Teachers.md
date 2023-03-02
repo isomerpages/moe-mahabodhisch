@@ -17,15 +17,15 @@ third_nav_title: Our People
 |          Class          |          Form Teachers         |                 Emails                 |
 |:-----------------------:|:------------------------------:|:--------------------------------------:|
 | P4 Appreciation         | Ms Oh Chui Hoon Dominique      | oh_chui_hoon@moe.edu.sg                |
-|                         | Mdm Sit Mei Hwa                | sit_mei_hwa@moe.edu.sg                 |
+|                         | Ms Alice Tay            | tay_wee_teng_alice@moe.edu.sg                 |
 | P4 Bravery              | Mr Tan Chee Keong Clement      | tan_chee_keong@moe.edu.sg              |
-|                         | Mdm Lim-Ho Lian Poh            | lim-ho_lian_poh@moe.edu.sg             |
+|                         | Mdm Huzailinda          |huzailinda_hamid@moe.edu.sg            |
 | P4 Compassion           | Mrs Yeo-Ong Sze Sze            | ong_sze_sze@moe.edu.sg                 |
-|                         | Mr Chua Yu Yong, Timothy       | chua_yu_yong_timothy@moe.edu.sg        |
+|                         | Mrs Lim-Ho Lian Poh       | lim-ho_lian_poh@moe.edu.sg        |
 | P4 Diligence            | Mrs Uma Ketur Gandhi           | uma_haridas_shah@moe.edu.sg            |
 |                         | Mr Ng Kwok Hua                 | ng_kwok_hua@moe.edu.sg                 |
 | P4 Excellence           | Mr Abdul Khabir Bin Abdul Razak| abdul_khabir_abdul_razak@moe.edu.sg    |
-|                         | Mdm Sujatha                    |                                        |
+|                         | Mdm Sit Mei Hwa                   |                       sit_mei_hwa@moe.edu.sg                 |
 | P4 Faith                | Mr Chan Yew Meng David         | chan_yew_meng_david@moe.edu.sg         |
 |                         | Mdm Yeo Hwee Choo              | yeo_hwee_choo@moe.edu.sg               |
 | P4 Generosity           | Mdm Yeoh Ai Hoon               | yeoh_ai_hoon@moe.edu.sg                |

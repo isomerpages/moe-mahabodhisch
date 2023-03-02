@@ -17,7 +17,7 @@ third_nav_title: Our People
 
 |      Class      |           Form Teachers            |                Emails                |
 |:---------------:|:----------------------------------:|:------------------------------------:|
-| P2 Appreciation | Mrs Whenne Ho                      | boo_sian_san@moe.edu.sg              |
+| P2 Appreciation |                       |            |
 |                 | Mrs Chua-Lee Kai Ling              | lee_kai_ling@moe.edu.sg              |
 | P2 Bravery      | Mrs Lee-Tan Chew Ping              | tan_chew_ping@moe.edu.sg             |
 |                 | Ms Lim Mei Xin Josie               | lim_mei_xin_josie@moe.edu.sg         |
