@@ -15,7 +15,7 @@ third_nav_title: Our People
 <br>
 
 
-|      Class      |           Form Teachers            |                Emails                |
+|      Class      |           Form Teachers            |                Emails                |   
 |:---------------:|:----------------------------------:|:------------------------------------:|
 | P2 Appreciation |                       |            |
 |                 | Mrs Chua-Lee Kai Ling              | lee_kai_ling@moe.edu.sg              |
