@@ -38,14 +38,11 @@ To foster close relationships with teachers, parents and pupils to strive and ac
 **Parent Support Group Committee** 
 
 Chairperson: Ms Loo Siok Chen
-
 Vice-Chairperson: Ms Jolene Tan
-
 Vice-Chairperson: Mr Delvin Ng Wei Han
-
 Secretary: Ms Joyce Yeo
 
-Members:
+**Members:**
 
 *   Ms Ang Chew Mi
 *   Ms Clariece Tan Sok Siang
