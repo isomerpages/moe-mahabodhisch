@@ -37,25 +37,27 @@ To foster close relationships with teachers, parents and pupils to strive and ac
 
 **Parent Support Group Committee** 
 
-Chairperson: Mr Eddie Tan
+Chairperson: Ms Loo Siok Chen
 
-Vice-Chairperson: Ms Clariece Tan
+Vice-Chairperson: Ms Jolene Tan
 
-Secretary: Ms Loo Siok Chen
+Vice-Chairperson: Mr Delvin Ng Wei Han
+
+Secretary: Ms Joyce Yeo
 
 Members:
 
-*   Ms Lynn Chan
-*   Ms Ng Cheng Fong, Ann
-*   Ms Jayne Oh
-*   Ms Jenny Ong
-*   Ms Serene Teo
-*   Ms Shirleen Wong
-*   Ms Tan Hui Ling
-*   Ms Tracie Lim
-*   Ms Diana Chang
+*   Ms Ang Chew Mi
+*   Ms Clariece Tan Sok Siang
+*   Ms Fann Woon Fong
+*   Ms Gerval Low
+*   Ms Irene Ting
+*   Ms Ivory Eng Ai Huy
+*   Ms Jennifer Koh
 *   Ms Lisa Lim
+*   Ms Patricia Chan
 *   Ms Patricia Ong
+*   Ms Tracie Lim
 
 **Code of Ethics**
 
