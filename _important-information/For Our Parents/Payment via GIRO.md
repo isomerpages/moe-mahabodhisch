@@ -21,4 +21,4 @@ If there are any charges overpaid by your child/ward, the credit balance will be
 
 <u>**How to apply**</u>
 
-You can sign up for the GIRO scheme with MOE through **[eGIRO](https://www.moe.gov.sg/financial-matters/fees)**
+You can sign up for the GIRO scheme with MOE through  **[eGIRO](https://www.moe.gov.sg/financial-matters/fees)**
