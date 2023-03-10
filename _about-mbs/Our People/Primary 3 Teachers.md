@@ -25,7 +25,7 @@ third_nav_title: Our People
 |                        | Ms Ong Mei Hui Jasmine            | ong_mei_hui_jasmine@moe.edu.sg   |
 | P3 Diligence           | Mrs Tan-Tay Swee Yen              | tay_swee_yen@moe.edu.sg          |
 |                        | Ms Yuan Xiaolei                   | yuan_xiao_lei@moe.edu.sg         |
-| P3 Excellence          | Ms Indah Putri Andayani Rafeah    | indah_putri_andayani_rafeah@moe.edu.sg   |
+| P3 Excellence          |  Ms Indah Putri Andayani Rafeah   | indah_putri_andayani_rafeah@moe.edu.sg  
 |                        | Mdm Lai Yean Pean                 | lai_yean_pean@moe.edu.sg         |
 | P3 Faith               | Ms Por Pei Yi                     | por_pei_yi@moe.edu.sg            |
 |                        | Mdm Eunice See Yi Jin             | see_yi_jin_eunice@moe.edu.sg     |
