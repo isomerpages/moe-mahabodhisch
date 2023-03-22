@@ -43,5 +43,4 @@ Mdm Chen Miaoxin            | P1A, P5CL9   | chen_miaoxin@moe.edu.sg
 | Ms Eunice See           | P3CL10, P6CL5  | see_yi_jin_eunice@moe.edu.sg         |
 | Mdm Sit Mei Hwa             | P4CL8         | sit_mei_hwa@moe.edu.sg               |
 | Mdm Soh Hoon Kian           | P3CL8, P6CL10        | soh_hoon_kian@moe.edu.sg  |
-| Ms Yew Birui Stephanie Elsie | P5CL8  | 
-
+| Ms Stephanie Yew Birui           | P5CL8       | yew_birui_stephanie_elsie@moe.edu.sg  |
