@@ -6,6 +6,7 @@ third_nav_title: Our People
 ---
 ## Chinese Teachers
 
+
 #### Chinese Teachers (2023)
 |            Name                       |     Class                  |                     Email              |
 |:-----------------------------:|:-------------------:|:-----------------------------:|
