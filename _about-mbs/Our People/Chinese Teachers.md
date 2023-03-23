@@ -7,9 +7,10 @@ third_nav_title: Our People
 ## Chinese Teachers
 
 #### Chinese Teachers (2023)
-|            Name                       |     Class                  |                     Email              |
-|:-----------------------------:|:-------------------:|:-----------------------------:|
-| Mdm Chen Miaoxin            | P1A, P5CL9   | chen_miaoxin@moe.edu.sg              |
+
+| Name | Class | Email Address |
+| -------- | -------- | -------- |
+Mdm Chen Miaoxin            | P1A, P5CL9   | chen_miaoxin@moe.edu.sg  
 | Mdm Ng Chen Nee             | P1B, P4CL7    | ng_chen_nee@moe.edu.sg               |
 | Mdm Wong Li Sher            | P1C, P4CL9    | wong_li_sher@moe.edu.sg              |
 | Ms Lim Hui Ching            | P1D, P6CL4    | lim_hui_ching@moe.edu.sg             |
@@ -42,4 +43,4 @@ third_nav_title: Our People
 | Ms Eunice See           | P3CL10, P6CL5  | see_yi_jin_eunice@moe.edu.sg         |
 | Mdm Sit Mei Hwa             | P4CL8         | sit_mei_hwa@moe.edu.sg               |
 | Mdm Soh Hoon Kian           | P3CL8, P6CL10        | soh_hoon_kian@moe.edu.sg  |
-| Ms Yew Birui Stephanie Elsie | P5CL8  | yew_birui_stephanie_elsie@moe.edu.sg |
+| Ms Stephanie Yew Birui           | P5CL8       | yew_birui_stephanie_elsie@moe.edu.sg  |
