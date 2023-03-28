@@ -14,4 +14,7 @@ sections:
         width="600" height="450" style="border:0;" allowfullscreen=""
         loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       title: Location
+  - infobar:
+      title: Maha Bodhi School 75th Anniversary
+      description: 菩提学校75周年校庆
 ---
