@@ -6,13 +6,11 @@ layout: post
 description: ""
 image: /images/MBS Clock tower Art.jpeg
 ---
+**Maha Bodhi School 75th Anniversary
+菩提学校75周年校庆**
 
-## Maha Bodhi School 75th Anniversary
-## 菩提学校75周年校庆
-
-### Gratitude & Giving
-
-### 感恩与回馈
+**Gratitude & Giving
+感恩与回馈**
 
 We are delighted to share that Maha Bodhi School is 75 this year! This milestone is a testament to the dedication and hard work of our many generations of staff, pupils, parents, and the wider community. As we reflect on our past, we are filled with gratitude for the many individuals who have contributed to the success of our school over the years. We are proud of the achievements of our alumni, who have made positive impacts in various fields. We are also thankful for the ongoing support of our Singapore Buddhist Federation, our School Management Committee, parents, staff, and local community, who have been instrumental in shaping our school's culture and values.
 
