@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: /images/MBS Clock tower Art.jpeg
 ---
-
 ## Maha Bodhi School 75th Anniversary
 ## 菩提学校75周年校庆
 
