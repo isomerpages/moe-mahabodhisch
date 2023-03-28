@@ -77,4 +77,5 @@ Mr Foo Soo Luang retired in October 1996 after serving the school for 25 years a
 <img src="/images/History-6.png" style="width:110px;height:140px">
 <center>Mr Foo Soo Luang</center>
 
-Under the current leadership of Mrs Elaine Quek, the school will continue to strive for excellence in both the academic as well as the non-academic, particularly focusing on the school’s distinctive Aesthetics niche area.
+
+Under the current leadership of Mrs See Lai Kwan, the school will continue to strive for excellence in both the academic as well as the non-academic, particularly focusing on the school's distinctive niche areas such as Aesthetics (Learn for Life Programme) and Communication (Applied Learning Programme)Aesthetics niche area.
