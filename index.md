@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/mbs-75_61177540 (3).png
+      background: /images/mbs-75_61177540 (4).png
   - infobar:
       title: Maha Bodhi School 75th Anniversary
       description: 菩提学校75周年校庆
