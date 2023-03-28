@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/mbs-75th-banner.jpg
   - resources:
       title: Latest Announcements
       button: Read more
