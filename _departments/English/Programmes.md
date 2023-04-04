@@ -78,19 +78,7 @@ Just like the last two years, all our pupils participated in classroom activitie
 
 ![](/images/mbs%20reading%20day%202023-3.png)
 
-
-**Pupils and some of their family members posted photos of themselves reading books by award- winning authors on Padlet.**
-
-![](/images/Primary-4-class-listens-to-the-story-by-Beverly-Cleary.jpeg)
-
-**A Primary 4 class listens to the story by Beverly Cleary. The animations on the slides helped to captivate the pupils’ attention too.**
-
-![](/images/The-Jeopardy-games.jpeg)
-
-**A Primary 1 class participated actively in the Jeopardy games related to the story A Cat in the Hat by Dr Seuss.**
-
-![](/images/Jeopardy.jpeg)
-
+![](/images/mbs%20reading%20day%202023-5.png)
 
 ### 2020 GEM Week
 
