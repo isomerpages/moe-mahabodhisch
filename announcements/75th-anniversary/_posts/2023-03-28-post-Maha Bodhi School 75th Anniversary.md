@@ -14,7 +14,11 @@ image: /images/MBS Clock tower Art.jpeg
 
 We are delighted to share that Maha Bodhi School is 75 this year! This milestone is a testament to the dedication and hard work of our many generations of staff, pupils, parents, and the wider community. As we reflect on our past, we are filled with gratitude for the many individuals who have contributed to the success of our school over the years. We are proud of the achievements of our alumni, who have made positive impacts in various fields. We are also thankful for the ongoing support of our Singapore Buddhist Federation, our School Management Committee, parents, staff, and local community, who have been instrumental in shaping our school's culture and values.
 
-The theme of our 75th Anniversary is ‘Gratitude & Giving’. We will officially launch the start of our 75th Anniversary Celebrations in Term 2. We have planned for a series of events and activities. In addition, we are leveraging our 75th anniversary to raise funds for Metta Home for the Disabled. We have launched a special fundraising campaign to sell notebooks featuring our school 75th anniversary emblem. All proceeds from the sales will go towards supporting Metta Home for the Disabled. We invite you to support our fundraising efforts through the purchase of the special edition notebooks. We will provide more information in our April circulars.
+The theme of our 75th Anniversary is ‘Gratitude & Giving’. We will officially launch the start of our 75th Anniversary Celebrations in Term 2. We have planned for a series of events and activities. In addition, we are leveraging our 75th anniversary to raise funds for Metta Home for the Disabled. We have launched a special fundraising campaign to sell notebooks featuring our school 75th anniversary emblem. All proceeds from the sales will go towards supporting Metta Home for the Disabled. We invite you to support our fundraising efforts through the purchase of the special edition notebooks. 
+
+![](/images/mbs%20note%20book%2075.jpeg)
+You may indicate your interest to purchase via the link below. 
+ https://tinyurl.com/MBSfundraising2023
 
 We look forward to celebrating this significant milestone with you and your family.
 
