@@ -14,32 +14,9 @@ From 15 May to 25 May 2023, P3 to P5 pupils will be engaged in a variety of lear
 
 The aim of Experiental Learning Week is to provide pupils with hands-on learning experiences that extend beyond the traditional classroom setting. Some of the activities that pupils will be participating in during the Experiential Learning Week include classroom hands-on activities, learning journeys, coding and making activities, project work, etc. These activities have been designed to provide pupils with a more interactive and engaging learning experience. We hope that the new and innovative ways would instill greater joy of learning and pique pupils’ curiosity in learning.
 
+
 **P3 Activities** ![](/images/Experiential%20Learning%20Week/p3%20activities.jpeg)
 
 **P4 Activities** ![](/images/Experiential%20Learning%20Week/p4%20activities.jpeg)
 
 **P5 Activities** ![](/images/Experiential%20Learning%20Week/p5%20activities.jpeg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
