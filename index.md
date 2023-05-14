@@ -17,5 +17,5 @@ sections:
       title: Experiential Learning Week
       description: 15-25 May 2023
       button: Learn More
-      url: " "
+      url: " /announcements/experiential-learning-week/permalink/"
 ---
