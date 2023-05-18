@@ -30,7 +30,39 @@ The aim of Experiential Learning Week is to provide pupils with hands-on learnin
 ![](/images/elw%20day%202%20(3).png)
 ![](/images/elw%20day%202%20(1).png)
 
+**17 May 2023**
 ![](/images/easter-photo-gr_61575161%20(1).png)
+
+**18 May 2023**
+![](/images/elw%20day%204%20(2).png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
