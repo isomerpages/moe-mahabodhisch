@@ -1,5 +1,5 @@
 ---
-title: 菩提庆新春
+title: Chinese New Year Celebration 2023
 permalink: /school-events/permalink/
 description: ""
 ---
