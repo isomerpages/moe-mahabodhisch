@@ -1,5 +1,5 @@
 ---
-title: Chinese New Year Celebration 2023
+title: Chinese New Year 2023
 permalink: /school-events/permalink/
 description: ""
 ---

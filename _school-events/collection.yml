@@ -2,8 +2,7 @@ collections:
   school-events:
     output: true
     order:
-      - Vesak Day Celebration.md
-      - Chinese New Year Celebration 2023.md
+      - Chinese New Year 2023.md
       - Prefects' Investiture 2023.md
       - 2019 to 2022 Events/Visit from Second Minister for Education and Foreign
         Affairs, Dr Mohamad Maliki Osman.md
