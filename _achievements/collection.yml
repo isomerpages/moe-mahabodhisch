@@ -2,10 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Expressing Our Gratitude/.keep
-      - Expressing Our Gratitude/From Our Alumni.md
-      - Expressing Our Gratitude/From Our Parents.md
-      - Expressing Our Gratitude/From Our Pupils.md
       - School Achievements.md
       - Staff Achievements/.keep
       - Staff Achievements/Staff Achievements.md
