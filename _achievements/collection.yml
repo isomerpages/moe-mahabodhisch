@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Expressing Our Gratitude/.keep
-      - Expressing Our Gratitude/From Our School Leaders.md
       - Expressing Our Gratitude/From Our Teachers and Staff.md
       - Expressing Our Gratitude/From Our Alumni.md
       - Expressing Our Gratitude/From Our Parents.md
