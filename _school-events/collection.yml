@@ -2,15 +2,15 @@ collections:
   school-events:
     output: true
     order:
-      - Chinese New Year 2023.md
       - Prefects' Investiture 2023.md
+      - Chinese New Year 2023.md
+      - 2019 to 2022 Events/.keep
       - 2019 to 2022 Events/Visit from Second Minister for Education and Foreign
         Affairs, Dr Mohamad Maliki Osman.md
       - 2019 to 2022 Events/Outstanding Performance Awards Ceremony (OPAC)
         2022.md
       - 2019 to 2022 Events/Prefects’ Investiture 2022.md
       - 2019 to 2022 Events/Makerspace Opening.md
-      - 2019 to 2022 Events/.keep
       - 2019 to 2022 Events/Khoo Chye Sheng Hong Temple 2020.md
       - 2019 to 2022 Events/Singapore Buddhist Federation Vesak Celebration.md
       - 2019 to 2022 Events/P4 Museum based Learning to National Gallery
