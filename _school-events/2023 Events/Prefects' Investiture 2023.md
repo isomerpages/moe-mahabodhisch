@@ -1,6 +1,6 @@
 ---
 title: Prefects' Investiture 2023
-permalink: /school-events/permalink/
+permalink: /school-events/prefect2023/
 description: ""
 third_nav_title: 2023 Events
 ---

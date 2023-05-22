@@ -1,6 +1,6 @@
 ---
 title: Chinese New Year 2023
-permalink: /school-events/permalink/
+permalink: /school-events/cny2023/
 description: ""
 third_nav_title: 2023 Events
 ---
