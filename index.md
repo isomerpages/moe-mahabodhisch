@@ -19,6 +19,7 @@ sections:
       description: 15-25 May 2023
       button: Learn More
       url: /announcements/experiential-learning-week/permalink/
+      subtitle: Maha Bodhi school
   - infobar:
       title: Maha Bodhi School 75th Anniversary
       description: 菩提学校75周年校庆
