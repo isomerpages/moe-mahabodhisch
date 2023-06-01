@@ -1,6 +1,6 @@
 ---
 title: 75th Anniversary
-permalink: /school-events/2023-events/permalink/
+permalink: /school-events/2023-events/permalink/75anniversarycelebration/
 description: ""
 third_nav_title: 2023 Events
 ---
