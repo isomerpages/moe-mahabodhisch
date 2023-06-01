@@ -29,7 +29,7 @@ shrinky dinks and button badges.
 ![](/images/75th%20anniversary/spectrum%20w%20guests.jpg)
 Guests having a tour of Spectrum
 ![](/images/75th%20anniversary/makerspace.jpeg)
-Invited Guests and Teachers participating in a 3D pen experience 
+Invited guests and teachers participating in a 3D pen experience 
 
 With the arrival of our Guest-of-honour, Mr Pang Choon How, Principal of Hwa Chong
 Institution and an MBS Alumnus, and our distinguished guests, the much-awaited grand
