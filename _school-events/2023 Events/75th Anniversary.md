@@ -6,26 +6,22 @@ third_nav_title: 2023 Events
 ---
 On the morning of Friday, 26 May 2023, MBS staff and pupils gathered, bright and early, eager to celebrate an important milestone – Maha Bodhi School’s 75th Anniversary.
 
-Ahead of the 75th Anniversary celebrations, pupils also took part in a 2-week experiential
-learning programme from 15 to 25 May 2023, where they engaged in collaborative
-learning activities, exploration of new innovative ideas and learning through hands-on
-activities. The experiential learning programme culminated with pupils experiencing new
-and innovative ways in learning as well as enhanced their curiosity in learning.
 
+Ahead of the 75th Anniversary celebrations, pupils also took part in a 2-week experiential learning programme from 15 to 25 May 2023, where they engaged in collaborative learning activities, exploration of new innovative ideas and learning through hands-on activities. The experiential learning programme culminated with pupils experiencing new and innovative ways in learning as well as enhanced their curiosity in learning.
 
-On the joyous day of the 75 th Anniversary, pupils were treated to an hour-long virtual
-concert put together by their peers. The performances included items by the School
-Symphonic Band, Guzheng Ensemble, School Choir, Huang Mei Opera, students’
-showcase of “Puti Zhang” and a curation of the alumni’s memorable video montages of
-their school life in Maha Bodhi School. After the concert, the pupils were immersed in an
-MBS heritage lesson package that promoted the appreciation of their school history and
-finally concluded the celebrations with various activities
+![](/images/75th%20anniversary/anniversary%20makerspace.jpg)
+![](/images/75th%20anniversary/img_1109%20(1).jpg)
+
+On the joyous day of the 75 th Anniversary, pupils were treated to an hour-long virtual concert put together by their peers. The performances included items by the School Symphonic Band, Guzheng Ensemble, School Choir, Huang Mei Opera, students’ showcase of “Puti Zhang” and a curation of the alumni’s memorable video montages of their school life in Maha Bodhi School. After the concert, the pupils were immersed in an MBS heritage lesson package that promoted the appreciation of their school history and
+finally concluded the celebrations with various activities.
 
 In the afternoon, the second phase of the school celebrations started off with a flurry of
 pre-celebration activities, as the guests started streaming in. Guests were involved in
 Bathing the Lord Buddha as part of Vesak Day Celebrations as well as a tour of the Art
 Exhibition (Spectrum) and hands-on experience at 3D printing with a 3D pen, making
 shrinky dinks and button badges.
+
+
 
 With the arrival of our Guest-of-honour, Mr Pang Choon How, Principal of Hwa Chong
 Institution and an MBS Alumnus, and our distinguished guests, the much-awaited grand
