@@ -17,5 +17,11 @@ sections:
       title: Experiential Learning Week
       description: 15-25 May 2023
       button: Learn More
-      url: " /announcements/experiential-learning-week/permalink/"
+      url: /announcements/experiential-learning-week/permalink/
+  - infobar:
+      title: 75th Anniversary Celebration
+      subtitle: Maha Bodhi School
+      description: 26 MAY 2023
+      button: HIGHLIGHTS
+      url: /announcements/75th-anniversary/permalink/
 ---
