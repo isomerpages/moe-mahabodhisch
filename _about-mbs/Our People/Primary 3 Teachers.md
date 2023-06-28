@@ -30,6 +30,6 @@ third_nav_title: Our People
 | P3 Faith               | Ms Por Pei Yi                     | por_pei_yi@moe.edu.sg            |
 |                        | Mdm Eunice See Yi Jin             | see_yi_jin_eunice@moe.edu.sg     |
 | P3 Generosity          | Mrs Lee-Ho Sz Wha                 | ho_sz_wha@moe.edu.sg             |
-|                        | Mdm Lim Su Fern Wendy             | lim_su_fern@moe.edu.sg           |
+|                        | Ms Goh Chin Yee Cindy| goh_chin_yee_cindy@moe.edu.sg           |
 | P3 Humility            | Mrs Eileen Lee                    | elieen_yap@moe.edu.sg            |
 |                        | Ms Carolyn Angelina Chan Hui Ming |  carolyn_chan_hui_ming@moe.edu.sg|
