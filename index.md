@@ -11,7 +11,7 @@ sections:
   - infobar:
       title: 75th Anniversary Celebration
       subtitle: Maha Bodhi School
-      description: 26 MAY 2023
+      description: 菩提75周年庆
       button: HIGHLIGHTS
       url: https://www.mahabodhi.moe.edu.sg/school-events/2023-events/permalink/75anniversarycelebration
   - infobar:
@@ -20,9 +20,4 @@ sections:
       button: Learn More
       url: /announcements/experiential-learning-week/permalink/
       subtitle: Maha Bodhi school
-  - infobar:
-      title: Maha Bodhi School 75th Anniversary
-      description: 菩提学校75周年校庆
-      url: /announcements/75th-anniversary/permalink/
-      button: More information
 ---
