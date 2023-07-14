@@ -6,7 +6,7 @@ third_nav_title: Aesthetics
 ---
 ## Programmes
 
-### Programme 
+### Learn for Life Programme 
 
 **L**earning through an **E**thnic **A**rts **P**rogramme (LEAP)
 
@@ -19,5 +19,3 @@ LEAP exposes our pupils from P1 to P6 to an enriched aesthetics experience and c
 LEAP supports children in arts development, allows them to be inquisitive, to discover and pursue their interests and strengths in the visual arts, music and dance. It also develops their creativity and hones their values through the development of cultural and aesthetics sensitivity as it provides opportunities for children to appreciate the cultural diverstiy of the different ethnic groups and participates in the beauty around them.
 
 ![](/images/img1.jpeg)
-
-
