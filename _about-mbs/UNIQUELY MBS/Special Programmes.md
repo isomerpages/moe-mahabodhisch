@@ -4,6 +4,6 @@ permalink: /about-mbs/UNIQUELY-MBS/Special-Programmes/
 description: ""
 third_nav_title: UNIQUELY MBS
 ---
-## Special Programmes
+## Special Assistance Programme
 
-[Special Programems](https://www.mbschinese.net/project.asp)
+[Special Assistance Programme](https://www.mbschinese.net/project.asp)
