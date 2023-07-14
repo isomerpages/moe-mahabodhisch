@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/maha-bodhi-ws-b_61187653.png
   - infobar:
-      title: "75th Anniversary Celebration "
+      title: 75th Anniversary Celebration
       subtitle: Maha Bodhi School
       description: 菩提75周年庆
       button: HIGHLIGHTS
