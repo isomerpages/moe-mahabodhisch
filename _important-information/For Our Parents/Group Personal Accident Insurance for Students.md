@@ -14,5 +14,4 @@ To submit an insurance claim for your child, please visit the GPA portal at [ht
 *   [Student GPA User Guide – (Parent)](/files/Student-GPA-User-Guide-for-Parents-2022.pdf)
 
 
-*   [Product Fact Sheet (Year 2022)](/files/Product-Fact-Sheet-Sep-2022.pdf)
-
+*   Product Fact Sheet (Year 2023)[](/files/ntuc%20income%20product%20fact%20sheet%20year%202023.pdf)
