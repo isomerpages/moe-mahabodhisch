@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/maha-bodhi-ws-b_61187653.png
+  - infopic:
+      title: National Day Award 2023 (The Public Star)
+      subtitle: National Day Award
+      button: The Public Star
+      url: https://cms.isomer.gov.sg/sites/moe-mahabodhisch/folders/school-events/subfolders/2023%20Events/editPage/National%20Day%20Awards%202023.md
+      image: /images/national day award 2023 (the public star).JPG
+      alt: Image alt text
   - infobar:
       title: 75th Anniversary Celebration
       subtitle: Maha Bodhi School
@@ -20,11 +27,4 @@ sections:
       button: Learn More
       url: /announcements/experiential-learning-week/permalink/
       subtitle: Maha Bodhi school
-  - infopic:
-      title: National Day Award 2023 (The Public Star)
-      subtitle: National Day Award
-      button: The Public Star
-      url: https://cms.isomer.gov.sg/sites/moe-mahabodhisch/folders/school-events/subfolders/2023%20Events/editPage/National%20Day%20Awards%202023.md
-      image: /images/national day award 2023 (the public star).JPG
-      alt: Image alt text
 ---
