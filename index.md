@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/maha-bodhi-ws-b_61187653.png
   - infopic:
-      title: National Day Awards 2023, The Public Service Star Awardees
+      title: Congratulations to our SMC Chairperson and School Supervisor
       image: /images/national day award 2023 (the public star).JPG
       alt: Image alt text
       button: The Public Service Star
