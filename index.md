@@ -20,4 +20,9 @@ sections:
       button: Learn More
       url: /announcements/experiential-learning-week/permalink/
       subtitle: Maha Bodhi school
+  - infopic:
+      title: National Day Awards 2023, The Public Service Star Awardees
+      description: The Public Service Star
+      image: /images/national day award 2023 (the public star).JPG
+      alt: Image alt text
 ---
