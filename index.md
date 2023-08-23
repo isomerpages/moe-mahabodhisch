@@ -8,6 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/maha-bodhi-ws-b_61187653.png
+  - infopic:
+      title: National Day Awards 2023, The Public Service Star Awardees
+      description: The Public Service Star
+      image: /images/national day award 2023 (the public star).JPG
+      alt: Image alt text
   - infobar:
       title: 75th Anniversary Celebration
       subtitle: Maha Bodhi School
@@ -20,9 +25,4 @@ sections:
       button: Learn More
       url: /announcements/experiential-learning-week/permalink/
       subtitle: Maha Bodhi school
-  - infopic:
-      title: National Day Awards 2023, The Public Service Star Awardees
-      description: The Public Service Star
-      image: /images/national day award 2023 (the public star).JPG
-      alt: Image alt text
 ---
