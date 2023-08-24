@@ -4,8 +4,6 @@ permalink: /important-information/for-our-pupils/permalink/
 description: ""
 third_nav_title: For Our Pupils
 ---
-       
-
 # **Teachers’ Day Visit**
 
 Dear ex-Maha Bodhians,
