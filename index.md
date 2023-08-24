@@ -8,6 +8,12 @@ notification: ""
 sections:
   - hero:
       background: /images/maha-bodhi-ws-b_61187653.png
+  - infopic:
+      title: Congratulations to our SMC Chairperson and School Supervisor
+      image: /images/national day award 2023 (the public star).JPG
+      alt: Image alt text
+      button: The Public Service Star
+      url: https://www.mahabodhi.moe.edu.sg/school-events/2023-events/permalink/
   - infobar:
       title: 75th Anniversary Celebration
       subtitle: Maha Bodhi School
