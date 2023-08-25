@@ -6,6 +6,25 @@ third_nav_title: For Our Pupils
 ---
 ## School Bus Service
 
+1)**Maha Bodhi School Bus Service**
+
+School Bus Operator and Bus Fare
+The appointed school bus operator shall only collect bus fares from Parents in respect of the months of January, February, March, April, May, July, August, September, and October.
+
+![](/images/a)%20initial%20contract%20period%20(1%20jan%202024%20to%2031%20dec%202025).jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Maha Bodhi Bus Service**
 
 **Contact Person:** Mr. Neo Soon Beng  
