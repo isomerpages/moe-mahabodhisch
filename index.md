@@ -26,4 +26,11 @@ sections:
       button: Learn More
       url: /announcements/experiential-learning-week/permalink/
       subtitle: Maha Bodhi school
+  - infobar:
+      title: Teachers' Day Visit
+      subtitle: Maha Bodhi School
+      description: We warmly welcome you to visit your teachers on 15-09-2023 (Fri)
+        from 1.30 - 3pm.
+      button: Click Here
+      url: https://www.mahabodhi.moe.edu.sg/important-information/for-our-pupils/permalink/
 ---
