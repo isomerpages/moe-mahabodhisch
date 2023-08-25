@@ -10,7 +10,7 @@ sections:
       background: /images/maha-bodhi-ws-b_61187653.png
   - infopic:
       title: Congratulations to our SMC Chairperson and School Supervisor
-      image: /images/national day award 2023 (the public star).JPG
+      image: /images/public star awardees.jpg
       alt: Image alt text
       url: https://www.mahabodhi.moe.edu.sg/school-events/2023-events/permalink/
       description: The Public Service Star
