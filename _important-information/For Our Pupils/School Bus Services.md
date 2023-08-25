@@ -11,6 +11,10 @@ third_nav_title: For Our Pupils
 School Bus Operator and Bus Fare
 The appointed school bus operator shall only collect bus fares from Parents in respect of the months of January, February, March, April, May, July, August, September, and October.
 
+Initial Contract Period (1 January 2024 to 31 December 2025)
+
+![](/images/a)%20v2%20initial%20contract%20period%20(1%20jan%202024%20to%2031%20dec%202025).jpg)
+
 
 
 
