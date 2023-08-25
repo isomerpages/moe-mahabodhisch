@@ -15,6 +15,13 @@ sections:
       button: The Public Service Star
       url: https://www.mahabodhi.moe.edu.sg/school-events/2023-events/permalink/
   - infobar:
+      title: Teachers' Day Visit
+      subtitle: Maha Bodhi School
+      description: We warmly welcome you to visit your teachers on 15-09-2023 (Fri)
+        from 1.30 - 3pm.
+      button: Click Here
+      url: https://www.mahabodhi.moe.edu.sg/important-information/for-our-pupils/permalink/
+  - infobar:
       title: 75th Anniversary Celebration
       subtitle: Maha Bodhi School
       description: 菩提75周年庆
