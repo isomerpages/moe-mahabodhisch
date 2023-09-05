@@ -17,4 +17,4 @@ third_nav_title: Our People
 | Mdm Du Huiying         | du_huiying@moe.edu.sg        |
 | Mrs Gina Ang           | ong_may_yuen_gina@moe.edu.sg |
 | Mrs Eileen Lee         | elieen_yap@moe.edu.sg        |
-| Mrs Bala                   | pushpalata_juna@moe.edu.sg |
+| Mrs Bala                   | pushpalata_Guna@moe.edu.sg |
