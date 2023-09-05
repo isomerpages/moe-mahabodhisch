@@ -18,7 +18,7 @@ third_nav_title: Our People
 
 |          Class          |            Form Teacher            |                 Email                 |
 |:-----------------------:|:----------------------------------:|:-------------------------------------:|
-| P1 Appreciation         | Mrs Bala                           |  pushpalata_guna@moe.edu.sg           |
+| P1 Appreciation         | Mrs Bala                           |  Pushpalata_Guna@moe.edu.sg           |
 |                         | Mrs Chen Miaoxin                   | chen_miaoxin@moe.edu.sg               |
 | P1 Bravery              | Mdm Khariaty Bte Ja'afar           | khariaty_jaafar@moe.edu.sg            |
 |                         | Mdm Ng Chen Nee                    | ng_chen_nee@moe.edu.sg                |
