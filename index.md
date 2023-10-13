@@ -12,11 +12,9 @@ sections:
       title: The Public Service Star
       image: /images/the public service star with chinese character.png
       url: https://www.mahabodhi.moe.edu.sg/school-events/2023-events/permalink/
-      description: >+
-        Heartiest congratulations to Ven Seck Kwang Phing (MBS MC Chairperson)
-        and Mr Tan Yew Beng (MBS School Supervisor) on receiving the National
-        Day Awards 2023.
-
+      description: Heartiest congratulations to Ven Seck Kwang Phing (MBS MC
+        Chairperson) and Mr Tan Yew Beng (MBS School Supervisor) on receiving
+        the National Day Awards 2023.
   - infobar:
       title: 75th Anniversary Celebration
       subtitle: Maha Bodhi School
