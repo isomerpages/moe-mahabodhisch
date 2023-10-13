@@ -15,6 +15,7 @@ sections:
       description: Congratulations to Venerable Seck Kwang Phing (MBS SMC Chairperson)
         and Mr Tan Yew Beng (MBS School Supervisor) on receiving the National
         Day Awards 2023.
+      alt: The Public Service Star 2023
   - infobar:
       title: 75th Anniversary Celebration
       subtitle: Maha Bodhi School
