@@ -17,6 +17,3 @@ You may wish to download the [P1 Admission Checklist](/files/p1%20admission%20ch
 | -------- | -------- | -------- |
 | **(1)**| **EDUSAVE STANDING ORDER APPLICATION**| **Singapore Citizens**|
 | | For payment of Standard Miscellaneous Fee and enrichment programmes using your child’s/ward’s Edusave account.| Please apply online via FormSG (SingPass login required) at https://go.gov.sg/moe-edusave-signup |
-
-
-
