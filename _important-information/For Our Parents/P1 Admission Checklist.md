@@ -19,4 +19,3 @@ You may wish to download the [P1 Admission Checklist](/files/p1%20admission%20ch
 | | For payment of Standard Miscellaneous Fee and enrichment programmes using your child’s/ward’s Edusave account.| Please apply online via FormSG (SingPass login required) at https://go.gov.sg/moe-edusave-signup |
 | **(2)**| **MOE FINANCIAL ASSISTANCE SCHEME (FAS) APPLICATION**| Please submit your application online at https://go.gov.sg/moe-efas |
 |      | Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses.| Please note that if your child is a ComCare recipient, you do not need to apply as MOE FAS will be auto-granted to ComCare beneficiaries.|
-
