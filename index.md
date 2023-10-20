@@ -12,7 +12,7 @@ sections:
       title: P1 Admission Day
       id: infobar
       description: Welcome to Maha Bodhi School
-      button: Click Here for details
+      button: Click Here for more details
       url: /important-information/for-our-parents/permalink/
   - infobar:
       title: 75th Anniversary Celebration
