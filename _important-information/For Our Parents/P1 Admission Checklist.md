@@ -39,3 +39,7 @@ You may wish to download the [P1 Admission Checklist](/files/p1%20admission%20ch
 |  | **If you are applying for MOE Financial Assistance Scheme (FAS):** |  |
 |  | •	Please proceed to order and pay for your child’s/ward’s name tag only. |  |
 |  | •	For the rest (shirt, shorts, pinafore, PE attire and shoes), please wait for the outcome of your MOE FAS application first before you purchase them. |
+| **(7)** | **SCHOOL BUS REGISTRATION** | Please register online at https://forms.gle/EriDn2Np1rHkfXn49 |
+|  | **If you are applying for MOE Financial Assistance Scheme (FAS):** |  |
+|  | •	Please wait for the outcome of your MOE FAS application first before you register for school bus service. | Alternatively, you can call Ms Neo (8428 1061) or Mr Neo (6445 8088) for more information. |
+
