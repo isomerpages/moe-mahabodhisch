@@ -8,6 +8,12 @@ notification: ""
 sections:
   - hero:
       background: /images/maha-bodhi-ws-b_61187653.png
+  - infobar:
+      title: P1 Admission Checklist
+      id: infobar
+      description: Welcome P1 to Maha Bodhi School
+      button: Click Here for details
+      url: /important-information/for-our-parents/permalink/
   - infopic:
       title: The Public Service Star
       image: /images/2023 public service star with chinese character  v5.png
@@ -35,10 +41,4 @@ sections:
         from 1.30 - 3pm.
       button: Click Here
       url: https://www.mahabodhi.moe.edu.sg/important-information/for-our-pupils/permalink/
-  - infobar:
-      title: P1 Admission Checklist
-      id: infobar
-      description: Welcome P1 to Maha Bodhi School
-      button: Click Here for details
-      url: /important-information/for-our-parents/permalink/
 ---
