@@ -32,4 +32,5 @@ You may wish to download the [P1 Admission Checklist](/files/p1%20admission%20ch
 |  | The submission of this form is crucial for updating your child’s record in the MOE student database. |  |
 |  |  As such, this student record update is compulsory and must be completed before the start of the academic year in 2024. |  |
 | **(5)** | **PURCHASE OF SCHOOL TEXTBOOKS** | Please download the [P1 Textbook List](/files/2024%20p1%20school%20textbooks%20list.pdf) and read the ordering instructions carefully. |
-
+|  | **If you are applying for MOE Financial Assistance Scheme (FAS) :**|  |
+|  |  
