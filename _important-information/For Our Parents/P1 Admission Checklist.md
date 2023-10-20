@@ -35,4 +35,6 @@ You may wish to download the [P1 Admission Checklist](/files/p1%20admission%20ch
 |  | **If you are applying for MOE Financial Assistance Scheme (FAS) :**|  |
 |  | •	Please wait for the outcome of your MOE FAS application first before you purchase the school textbooks. |  |
 | **(6)**| **PURCHASE OF SCHOOL UNIFORM** | The vendor will be in the school to sell school uniforms from 9am to 3pm on 28 Nov, 29 Nov, 6 Dec and 11 Dec 2023. |
-|  | As all students are required to have their name tag sewn on their uniform on the 1st day of school, please ensure that you place your orders at www.shirleyuni.com/product/maha-bodhi-school-name-tags/ **latest by early November 2023** to allow sufficient time for the name tags to be embroidered. |Alternatively, you may wish to purchase online at www.shirleyuni.com or visit them at : |
+|  | As all students are required to have their name tag sewn on their uniform on the 1st day of school, please ensure that you place your orders at www.shirleyuni.com/product/maha-bodhi-school-name-tags/ **latest by early November 2023** to allow sufficient time for the name tags to be embroidered. |Alternatively, you may wish to purchase online at www.shirleyuni.com or visit them at: |
+|  | **If you are applying for MOE Financial Assistance Scheme (FAS):** | Shirley Season Wear |
+|  |  | NORTHSTAR, 7030 Ang Mo Kio Ave 5, #04-55 (Lift Lobby 1), Singapore 569880 |
