@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/maha-bodhi-ws-b_61187653.png
   - infobar:
-      title: P1 Admission Checklist
+      title: P1 Admission Day
       id: infobar
-      description: Welcome P1 to Maha Bodhi School
+      description: Welcome Maha Bodhi School
       button: Click Here for details
       url: /important-information/for-our-parents/permalink/
   - infopic:
