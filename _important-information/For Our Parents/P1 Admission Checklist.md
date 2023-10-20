@@ -26,3 +26,5 @@ You may wish to download the [P1 Admission Checklist](/files/p1%20admission%20ch
 |  | Please note that the following cannot be used : | Please click [HERE ](/files/user%20guide%20for%20egiro%20application%20as%20at%204th%20sep%202023.pdf) to download the eGIRO User Guide. |
 |  | (a) Industrial Commercial Bank of China (ICBC) | |
 |  | (b) Child Development Account (Baby Bonus Scheme)  |
+|  |  | **Other banks** |
+|  |  | Please click [Here](/files/to%20join%20giro%20with%20moe,%20bank%20account%20holder%20can%20use%20the%20following%20methods%20below.pdf) to download the GIRO application form and submit the completed form to the school General Office (Mon to Fri 8am to 5pm). |
