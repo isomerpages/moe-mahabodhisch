@@ -20,7 +20,7 @@ You may wish to download the [P1 Admission Checklist](/files/p1%20admission%20ch
 | **(2)**| **MOE FINANCIAL ASSISTANCE SCHEME (FAS) APPLICATION**| Please submit your application online at https://go.gov.sg/moe-efas |
 |      | Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses.| Please note that if your child is a ComCare recipient, you do not need to apply as MOE FAS will be auto-granted to ComCare beneficiaries.| 
 |  | **For more information:** | |
-|  | [Financial Support under MOE FAS](https://raw.githubusercontent.com/isomerpages/moe-mahabodhisch/staging/images/moe%20financial%20assistance%20scheme%20(fas)%202024.png) | [Financial Assistance Eligibility Checker](https://www.moe.gov.sg/financial-matters/financial-assistance) |
+|  | [MOE Financial Assistance Scheme (FAS) 2024](/files/moe%20financial%20assistance%20scheme%20(fas)%202024%20v1.pdf) | [Financial Assistance Eligibility Checker](https://www.moe.gov.sg/financial-matters/financial-assistance) |
 | **(3)**| **GIRO APPLICATION**| **DBS/POSB, OCBC, UOB, HSBC, Standard Chartered Bank, Bank of China, Maybank**|
 |  | For payment of Standard Miscellaneous Fee, enrichment programmes, school charges and national examination fees via GIRO.  |Please apply online via eGIRO (SingPass login required) at [https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro) |
 |  | Please note that the following cannot be used : | Please click [HERE ](/files/user%20guide%20for%20egiro%20application%20as%20at%204th%20sep%202023.pdf) to download the eGIRO User Guide. |
