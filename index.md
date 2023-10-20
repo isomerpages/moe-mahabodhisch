@@ -11,7 +11,7 @@ sections:
   - infobar:
       title: P1 Admission Day
       id: infobar
-      description: Welcome Maha Bodhi School
+      description: Welcome to Maha Bodhi School
       button: Click Here for details
       url: /important-information/for-our-parents/permalink/
   - infobar:
