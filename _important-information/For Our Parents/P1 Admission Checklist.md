@@ -28,7 +28,7 @@ You may wish to download the [P1 Admission Checklist](/files/p1%20admission%20ch
 |  | (b) Child Development Account (Baby Bonus Scheme)  |
 |  |  | **Other banks** |
 |  |  | Please click [Here](/files/to%20join%20giro%20with%20moe,%20bank%20account%20holder%20can%20use%20the%20following%20methods%20below.pdf) to download the GIRO application form and submit the completed form to the school General Office (Mon to Fri 8am to 5pm). |
-| **(4)** | **STUDENT DETAILS FORM (From 28 November 2023 onwards)** | Please submit the required details at [https://pg.moe.edu.sg/forms/sdf](https://pg.moe.edu.sg/forms/sdf) from 28 November 2023 onwards. |
+| **(4)** | **STUDENT DETAILS FORM (From 28 November 2023 onwards)** | Please submit the required details at [https://pg.moe.edu.sg/forms/sdf](https://pg.moe.edu.sg/forms/sdf)  from 28 November 2023 onwards. |
 |  | The submission of this form is crucial for updating your child’s record in the MOE student database. |  |
 |  |  As such, this student record update is compulsory and must be completed before the start of the academic year in 2024. |  |
 | **(5)** | **PURCHASE OF SCHOOL TEXTBOOKS** | Please download the [P1 Textbook List](/files/2024%20p1%20school%20textbooks%20list.pdf) and read the ordering instructions carefully. |
