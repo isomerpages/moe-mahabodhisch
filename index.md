@@ -35,4 +35,10 @@ sections:
         from 1.30 - 3pm.
       button: Click Here
       url: https://www.mahabodhi.moe.edu.sg/important-information/for-our-pupils/permalink/
+  - infobar:
+      title: P1 Admission Checklist
+      id: infobar
+      description: Welcome P1 to Maha Bodhi School
+      button: Click Here for details
+      url: /important-information/for-our-parents/permalink/
 ---
