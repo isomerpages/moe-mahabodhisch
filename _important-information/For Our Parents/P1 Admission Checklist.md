@@ -33,4 +33,4 @@ You may wish to download the [P1 Admission Checklist](/files/p1%20admission%20ch
 |  |  As such, this student record update is compulsory and must be completed before the start of the academic year in 2024. |  |
 | **(5)** | **PURCHASE OF SCHOOL TEXTBOOKS** | Please download the [P1 Textbook List](/files/2024%20p1%20school%20textbooks%20list.pdf) and read the ordering instructions carefully. |
 |  | **If you are applying for MOE Financial Assistance Scheme (FAS) :**|  |
-|  |  
+|  | •	Please wait for the outcome of your MOE FAS application first before you purchase the school textbooks. |  |
