@@ -42,5 +42,5 @@ You may wish to download the [P1 Admission Checklist](/files/p1%20admission%20ch
 | **(7)** | **SCHOOL BUS REGISTRATION** | Please register online at [https://forms.gle/EriDn2Np1rHkfXn49](https://forms.gle/EriDn2Np1rHkfXn49) |
 |  | **If you are applying for MOE Financial Assistance Scheme (FAS):** |  |
 |  | •	Please wait for the outcome of your MOE FAS application first before you register for school bus service. | Alternatively, you can call Ms Neo (8428 1061) or Mr Neo (6445 8088) for more information. |
-| **(8)** | **ONLINE CONSENT FOR DENTAL SERVICES** | Please submit your consent online at https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal from 2nd half of Dec 2023 onwards – Exact date to be advised later. |
+| **(8)** | **ONLINE CONSENT FOR DENTAL SERVICES** | Please submit your consent online at [https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal) from 2nd half of Dec 2023 onwards – Exact date to be advised later. |
 |  | Health Promotion Board (HPB) provides dental screening and basic dental treatments for students in schools. |  |
