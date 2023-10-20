@@ -24,3 +24,5 @@ You may wish to download the [P1 Admission Checklist](/files/p1%20admission%20ch
 | **(3)**| **GIRO APPLICATION**| **DBS/POSB, OCBC, UOB, HSBC, Standard Chartered Bank, Bank of China, Maybank**|
 |  | For payment of Standard Miscellaneous Fee, enrichment programmes, school charges and national examination fees via GIRO.  |Please apply online via eGIRO (SingPass login required) at https://www.moe.gov.sg/financial-matters/fees/egiro |
 |  | Please note that the following cannot be used : | Please click [HERE ](/files/user%20guide%20for%20egiro%20application%20as%20at%204th%20sep%202023.pdf) to download the eGIRO User Guide. |
+|  | (a) Industrial Commercial Bank of China (ICBC) | |
+|  | (b) Child Development Account (Baby Bonus Scheme)  |
