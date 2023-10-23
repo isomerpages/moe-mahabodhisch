@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/maha-bodhi-ws-b_61187653.png
   - infobar:
-      title: P1 Admission Day
+      title: P1 Admission
       id: infobar
       description: Welcome to Maha Bodhi School
       button: Click Here for more details
