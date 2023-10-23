@@ -25,9 +25,9 @@ You may wish to download the [P1 Admission Checklist](/files/p1%20admission%20ch
 |  | [MOE Financial Assistance Scheme (FAS) 2024](/files/moe%20financial%20assistance%20scheme%20(fas)%202024%20v1.pdf) | [Financial Assistance Eligibility Checker](https://www.moe.gov.sg/financial-matters/financial-assistance) |
 | **(3)**| **GIRO APPLICATION**| **DBS/POSB, OCBC, UOB, HSBC, Standard Chartered Bank, Bank of China, Maybank**|
 |  | For payment of Standard Miscellaneous Fee, enrichment programmes, school charges and national examination fees via GIRO.  |Please apply online via eGIRO  at [https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro) |
-|  | Please note that the following cannot be used : | Please click [HERE ](/files/user%20guide%20for%20egiro%20application%20as%20at%204th%20sep%202023.pdf) to download the eGIRO User Guide. |
-|  | (a) Industrial Commercial Bank of China (ICBC) | |
-|  | (b) Child Development Account (Baby Bonus Scheme)  |
+|  | | Please click [HERE ](/files/user%20guide%20for%20egiro%20application%20as%20at%204th%20sep%202023.pdf) to download the eGIRO User Guide. |
+| |   Please note that the following cannot be used :  | (a) Industrial Commercial Bank of China (ICBC) | |
+|  | |(b) Child Development Account (Baby Bonus Scheme)  |
 |  |  | **Other banks** |
 |  |  | Please click [Here](/files/to%20join%20giro%20with%20moe,%20bank%20account%20holder%20can%20use%20the%20following%20methods%20below.pdf) to download the GIRO application form and submit the completed form to the school General Office (Mon to Fri 8am to 5pm). |
 | **(4)** | **STUDENT DETAILS FORM (From 28 November 2023 onwards)** | Please submit the required details at [https://pg.moe.edu.sg/forms/sdf](https://pg.moe.edu.sg/forms/sdf)  from 28 November 2023 onwards. |
