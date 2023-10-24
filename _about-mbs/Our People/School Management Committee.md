@@ -6,10 +6,10 @@ third_nav_title: Our People
 ---
 ## School Management Committee
 
-| ![](/images/venerable-seck-kwang-phing-725x1024.jpeg)                                      |  ![](/images/venerable-bhikkhu-sik-kwang-sheng-725x1024.jpeg)                                         |  ![](/images/venerable-n-sumana-thero-725x1024.jpeg)                                    |  ![](/images/mdm-chan-poh-swee-725x1024.jpeg)                             |
+| ![Venerable Seck Kwang Phing](/images/venerable%20seck%20kwang%20phing.png)                                     |  ![Venerable Sik Kwang Sheng](/images/venerable%20sik%20kwang%20sheng.png)                                         |  ![Venerable N Sumana Thero](/images/venerable%20n%20sumana%20thero.png)   | ![](/images/mdm%20chan%20poh%20swee.png)                             |
 |----------------------------------------|--------------------------------------------|---------------------------------------|--------------------------------|
 | **Chairman**<br><br>Venerable Seck Kwang Phing | **Vice-Chairman**<br><br>Venerable Sik Kwang Sheng | **Secretary**<br><br>Venerable N Sumana Thero | **Treasurer**<br><br>Mdm Chan Poh Swee |
-|           ![](/images/mr-tan-yew-beng-725x1024.jpeg)                            |                ![](/images/venerable-sek-bao-tong-725x1024.jpeg)                          |        ![](/images/venerable%20you%20kwang.png)                   |                        ![](/images/mr-chew-bin-teck-725x1024.jpeg)       |
+| ![Tan Yew Beng](/images/tan%20yew%20beng%20v6.png) | ![Venerable Sek Bao Tong](/images/venerable%20sek%20bao%20tong.png) |  ![Venerable You Guang](/images/venerable%20you%20guang.png)            |   ![Mr Chew Bin Teck](/images/mr%20chew%20bin%20teck.png)                            |
 |     **Supervisor** <br><br>Mr Tan Yew Beng     |    **SMC Member** <br><br>Venerable Sek Bao Tong   |   **SMC Member** <br><br>Venerable You Guang  | **SMC Member** <br><br>Mr Chew Bin Teck |
-|  ![](/images/smc-member-741x1024.jpeg)                                     |      ![](/images/wilfred.jpeg)                                     |     ![](/images/mr-yeo-siok-keak-725x1024.jpeg)                                 |                                |
+|  ![Mr Kweh Soon Han](/images/mr%20kweh%20soon%20han.png)                                    |      ![Mr Wilfred Seet Show Pheng](/images/mr%20wilfred%20seet%20seow%20pheng.png)         |    ![Mr Yeo Siok Keak](/images/mr%20yeo%20siok%20keak.png)                |                                |
 |     **SMC Member** <br><br>Dr Kweh Soon Han    |      **SMC Member** <br><br>Mr Seet Seow Pheng     |    **SMC Member** <br><br>Mr Yeo Siok Keak    |                                |
