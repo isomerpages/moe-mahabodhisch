@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ## School Management Committee
 
-| ![](/images/venerable-seck-kwang-phing-725x1024.jpeg)                                      |  ![](/images/venerable-bhikkhu-sik-kwang-sheng-725x1024.jpeg)                                         |  ![](/images/venerable-n-sumana-thero-725x1024.jpeg)                                    |  ![](/images/mdm-chan-poh-swee-725x1024.jpeg)                             |
+| ![Venerable Seck Kwang Phing](/images/venerable%20seck%20kwang%20phing.png)                                     |  ![](/images/venerable-bhikkhu-sik-kwang-sheng-725x1024.jpeg)                                         |  ![](/images/venerable-n-sumana-thero-725x1024.jpeg)                                    |  ![](/images/mdm-chan-poh-swee-725x1024.jpeg)                             |
 |----------------------------------------|--------------------------------------------|---------------------------------------|--------------------------------|
 | **Chairman**<br><br>Venerable Seck Kwang Phing | **Vice-Chairman**<br><br>Venerable Sik Kwang Sheng | **Secretary**<br><br>Venerable N Sumana Thero | **Treasurer**<br><br>Mdm Chan Poh Swee |
 | ![Tan Yew Beng](/images/tan%20yew%20beng.Png) |   ![](/images/venerable-sek-bao-tong-725x1024.jpeg)|  ![](/images/venerable%20you%20kwang.png)                   |                        ![](/images/mr-chew-bin-teck-725x1024.jpeg)       |
