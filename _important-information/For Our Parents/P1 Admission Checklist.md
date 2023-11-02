@@ -10,7 +10,7 @@ A warm welcome to all parents/guardians of new P1 pupils entering Maha Bodhi Sch
 
 Before your child/ward begins his/her journey at Maha Bodhi School next year, here is the list of P1 admission related admin matters which preferably should be completed latest by **15 November 2023** before the start of the school term in 2024 (unless otherwise stated).
 
-You may wish to download the [P1 Admission Checklist](/files/6_admin%20matters%20checklist%202023_11_02_nov%20(003)%20v1.pdf)to check through that you have completed all the required item.
+You may wish to download the [P1 Admission Checklist](/files/6_admin%20matters%20checklist%202023_11_02_nov%20(003)%20v1.pdf) to check through that you have completed all the required item.
 
 
 | **No.**| **ITEM**| **INSTRUCTIONS**|
