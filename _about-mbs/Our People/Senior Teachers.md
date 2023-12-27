@@ -3,6 +3,7 @@ title: Senior Teachers
 permalink: /about-mbs/Our-People/Senior-Teacher/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ## Senior Teachers
 
@@ -18,3 +19,7 @@ third_nav_title: Our People
 | Mrs Gina Ang           | ong_may_yuen_gina@moe.edu.sg |
 | Mrs Eileen Lee         | elieen_yap@moe.edu.sg        |
 | Mrs Bala                   | Pushpalata_Guna@moe.edu.sg |
+| Mdm Wong Ching Mei Sharon        | wong_ching_mei@moe.edu.sg        |
+| Mr Abdul Khabir bin Abdul Razak                   | abdul_khabir_abdul_razak@moe.edu.sg |
+
+
