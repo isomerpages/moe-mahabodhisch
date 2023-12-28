@@ -2,16 +2,74 @@
 title: Vision & Mission
 permalink: /about-mbs/Vision-Mission/
 description: ""
+variant: markdown
 ---
-## Vision & Mission
+## Vision &amp; Mission
 
-<img style="width: 55%;" src="/images/Vision-Mission_456x687.jpeg" align = "left" /> 
+<img style="width: 55%;" src="/images/Vision-Mission_456x687.jpeg" align="left"> 
 
 **Our Vision 学校愿景**<br>
 Inspired learners of exemplary character<br>
 品德高尚的乐学者
 
-**Our Mission 学校宗旨**
+**Our Mission 学校宗旨**<br>
+To nurture confident life-long learners and compassionate contributors with a deep connection to the Chinese culture.<br>培养心系华夏文化且自信的终身学习者和怀有慈悲心的贡献者
 
-To develop the potential of every child to the fullest and nurture them to be concerned citizens, morally upright and rooted in Chinese Culture<br><br>
-发展每个学生的潜能, 并培育他们成为有华族文化素养、品德高尚的社会栋梁
+**Strategic Thrusts 策略重点**
+<br> 1. Pupils, Our Focus 学生是关注 
+<br> 2. Staff, Our Anchor	 教员是支柱
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
