@@ -3,6 +3,7 @@ title: School Management Team
 permalink: /about-mbs/Our-People/School-Management-Team/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ## School Management Team
 
@@ -12,7 +13,7 @@ third_nav_title: Our People
 |:------------------:|:----------------------:|
 | Mrs See Lai Kwan   | Principal              |
 | Mr Victor Wee      | Vice-Principal (I)     |
-| Mrs Koh Ming Hwee  | Vice-Principal (II)    |
+| Mr Aaron Ye  | Vice-Principal (II)    |
 | Mdm Leng Bing Ling | Vice-Principal (Admin) |
 
 #### Head Of Departments 
@@ -28,6 +29,7 @@ third_nav_title: Our People
 | Mrs Chung-Wee Shi Ming    | HOD / Character and Citizenship Education       |
 | Mr Rahmat Bin Sanip       | HOD / Physical Education & CCA                  |
 | Ms Chan Mei Ling          | HOD / Student Management                 |                |
+| Ms Stephanie Yew | HOD / SAP |
 | Mr Low Tian Chin Ivan     | HOD / Information and Communications Technology |
 
 #### Year Heads
@@ -35,8 +37,8 @@ third_nav_title: Our People
 |          Name          |         Designation        |
 |:----------------------:|:--------------------------:|
 | Mdm Ang Chew Peng      | Year Head / Lower Primary  |
-| Ms Stephanie Yew Birui | Year Head / Middle Primary |
-| Mrs Chen Jing Jing     | Year Head / Upper Primary  |
+| Mdm Lee Teck Lan | Year Head / Middle Primary |
+
 
 #### Level Heads & Subject Heads
 
@@ -45,24 +47,23 @@ third_nav_title: Our People
 | Mr Faliq Mattar           | LH / English Language                          |
 | Mrs Low-Lee Minyu         | SH / Mathematics                               |
 | Mdm Yeo Hwee Choo         | SH / Character and Citizenship Education     |
-| Mr Muhamad Zufadly Zaiman | SH / Co-curricular Activities                  |
+| Mr Muhamad Zulfadly Zaiman | SH / Co-curricular Activities                  |
 | Mr Muhamad Faris Mohamad  | SH / National Education & Social Studies       |
-| Mrs Lee-Ho Sz Wha         | SH / Student Well-Being                        |
-| Ms Lim Hui Ching          | SH / Chinese Language (Internal)               |
-| Mr Tan Yi Heng Edwin      | SH / Environment Education (Internal)          |
-| Mr Ong Hao Yu Kent        | SH / Science (Internal)                        |
+| Mrs Lee-Ho Sz Wha         | SH / Student Well-Being                       
+| Mr Ong Hao Yu Kent        | SH / Science                      |
 
 #### Assistant Year Heads
 
 |          Name          |   Designation   |
 |:----------------------:|:---------------:|
-| Mdm Lee Teck Lan       | AYH / Primary 2 |
-| Mrs Yeo-Ang Hwee Pheng | AYH / Primary 3 |
-| Mrs Katheryn Pua       | AYH / Primary 5 |
+ Mrs Katheryn Pua     | AYH / Primary 6 |
+| Mrs Yeo-Ang Hwee Pheng | AYH / Primary 5 
 
 #### Administration & Operations**
 
 |     Name      |       Designation      |
 |:-------------:|:----------------------:|
-| Mdm Lisa Tan  | Administration Manager |
-| Mr Allan Sing | Operations Manager     |
+|   | Administration Manager |
+| | Operations Manager     |
+
+
