@@ -3,6 +3,7 @@ title: Student iCON and Zoom Onboarding Guide
 permalink: /important-information/For-Our-Pupils/Student-iCon-Zoom-Onboarding-Guide/
 description: ""
 third_nav_title: For Our Pupils
+variant: markdown
 ---
 ## Student iCON and Zoom Onboarding Guide
 
@@ -16,8 +17,9 @@ You may now log in Student iCON via this link. 
 
 [http://workspace.google.com/dashboard](http://workspace.google.com/dashboard)
 
-You may refer to this Student iCON Onboarding Guide to access your Student iCON account. 
+You may refer to the guide in the link below to access your Student iCON account. 
 
+[Student iCON Onboarding Guide](/files/Student_iCON_Onboarding_Guide.pdf)
 
 
 
