@@ -21,6 +21,12 @@ You may refer to the guide in the link below to access your Student iCON account
 
 [Student iCON onboarding Guide](/files/Student_iCON_Onboarding_Guide.pdf)
 
+**Password Reset/ Account Activation** <br>
+If you require support from the school for password reset or Student iCON account activation, please fill in the form below.<br>
+https://go.gov.sg/mbsstudentpwreset
+<br>
+Your form teacher will inform you of the new password once the reset is complete.
+
 **Student iCON** <br>
 Student iCON is a suite of Google apps including email and other app services such as Google Classroom and Docs that helps to better support your learning.
 
