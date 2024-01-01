@@ -14,9 +14,11 @@ Dear Pupils,&nbsp;
 Student iCON is a suite of Google apps that helps to better support your learning and collaboration with others.&nbsp;
 
 You may now log in Student iCON via this link.&nbsp;
-
 [http://workspace.google.com/dashboard](http://workspace.google.com/dashboard)
-
+<br><br>
+Your student iCON email address is
+full_name@students.edu.sg<br>
+MIMS Password <br><br>
 You may refer to the guide in the link below to access your Student iCON account.&nbsp;
 
 [Student iCON onboarding Guide](/files/Student_iCON_Onboarding_Guide.pdf)
@@ -26,6 +28,7 @@ If you require support from the school for password reset or Student iCON accoun
 https://go.gov.sg/mbsstudentpwreset
 <br>
 Your form teacher will inform you of the new password once the reset is complete.
+
 
 **Student iCON** <br>
 Student iCON is a suite of Google apps including email and other app services such as Google Classroom and Docs that helps to better support your learning.
@@ -49,8 +52,45 @@ To download and install the Office applications on your laptop or desktop, go to
 
 Student can install and activate Microsoft Pro Plus on up to 5 desktops/laptops, 5 tablets, and 5 mobile devices.
 
+**FAQ** <br>
 
+**Q1.	How can I log in to Student iCON?**
 
+Student iCON is web-based. Pupils can use their web browser in their internet- enabled computing or mobile devices to visit https://workspace.google.com/dashboard to access Student iCON.
 
+**Q2.	What is the naming convention for Student iCON email address?**
 
-Thank you.
+The student’s email address will be based on @students.edu.sg.
+
+Any space in the full name will be replaced with an underscore.
+
+Should the student’s full name have words such as “Bte” and “s/o”, they will not appear in the email address.
+
+For cases where students share the same full name, a numerical number (e.g. Jon_Tan_1, Jon_Tan_2) is added to differentiate their email addresses.
+	
+**Q3.	What is the password requirement?**
+
+Password must be 8-24 characters long.
+
+Password must contain at least 1 lowercase letter(s). 
+
+Password must contain at least 1 numeric character(s). 
+
+Password must contain at least 1 uppercase letter(s). 
+
+Password must contain at least 2 alphabetic character(s). 
+
+Password must not be one of 3 previous passwords. 
+
+Password must not match or contain first name. 
+
+Password must not match or contain last name. 
+
+Password must not match or contain user ID.
+
+Password expires every 360 days for primary school students. Users will be alerted via email 7 days before the expiry date.
+
+Maximum of 5 login attempts are allowed.
+
+The password has to be changed after subsequent password resets.
+
