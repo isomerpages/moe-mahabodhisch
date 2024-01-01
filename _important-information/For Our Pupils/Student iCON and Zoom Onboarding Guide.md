@@ -19,7 +19,7 @@ You may now log in Student iCON via this link. 
 
 You may refer to the guide in the link below to access your Student iCON account. 
 
-[Student iCON Onboarding Guide](/files/Student_iCON_Onboarding_Guide.pdf)
+[Student iCON onboarding Guide](/files/Student_iCON_Onboarding_Guide.pdf)
 
 
 
