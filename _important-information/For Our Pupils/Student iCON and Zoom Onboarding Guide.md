@@ -37,6 +37,13 @@ Students can login to their Zoom accounts (40 min limit when hosting) using Stud
 
 The account comes with MOE central management of video conferencing settings allowing authentication when students take part in the school's zoom meetings.
 
+**Microsoft 365 Pro Plus**
+
+To download and install the Office applications on your laptop or desktop, go to aka.ms/office-install and login with Student iCON ID and password. Refer to these instructions for more details.
+
+Student can install and activate Microsoft Pro Plus on up to 5 desktops/laptops, 5 tablets, and 5 mobile devices.
+
+
 
 
 
