@@ -26,7 +26,16 @@ Student iCON is a suite of Google apps including email and other app services su
 
 These useful applications will follow you throughout your learning journey from Primary School to Junior Colleges.
 
+**Student iCON Google apps**
 
+Classroom: Access online lesson materials easily and participate in collaborative classroom activities.
+
+Drive: Share and collaborate on documents and files with your teachers and classmates. 
+
+**Zoom**<br>
+Students can login to their Zoom accounts (40 min limit when hosting) using Student iCON login.
+
+The account comes with MOE central management of video conferencing settings allowing authentication when students take part in the school's zoom meetings.
 
 
 
