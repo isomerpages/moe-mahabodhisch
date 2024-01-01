@@ -16,15 +16,15 @@ Student iCON is a suite of Google apps that helps to better support your learnin
 You may now log in Student iCON via this link.&nbsp;
 [http://workspace.google.com/dashboard](http://workspace.google.com/dashboard)
 <br><br>
-Your student iCON email address is
-full_name@students.edu.sg<br>
+Your student iCON email address is<br>
+(full_name) @students.edu.sg<br>
 MIMS Password <br><br>
 You may refer to the guide in the link below to access your Student iCON account.&nbsp;
 
 [Student iCON onboarding Guide](/files/Student_iCON_Onboarding_Guide.pdf)
 
 **Password Reset/ Account Activation** <br>
-If you require support from the school for password reset or Student iCON account activation, please fill in the form below.<br>
+If you require support from the school for password reset or Student iCON account activation, please fill in the form below.<br><br>
 https://go.gov.sg/mbsstudentpwreset
 <br>
 Your form teacher will inform you of the new password once the reset is complete.
