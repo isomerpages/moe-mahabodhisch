@@ -10,7 +10,7 @@ variant: markdown
 
 Our school has taken up the Group Personal Accident (GPA) Insurance for Students with NTUC Income Insurance Co-operative Limited. The plan provides coverage to our pupils for school-related activities both within and beyond our school. This scheme is provided at no cost to our students as the payment of the premium is borne by our school.
 
-To submit an insurance claim for your child, please visit the GPA portal at [https://studentgpa.incomegroupins.com.sg](https://studentgpa.incomegroupins.com.sg/)
+To submit an insurance claim for your child, please visit the GPA portal at  [https://studentgpa.incomegroupins.com.sg](https://studentgpa.incomegroupins.com.sg/)
 
 *   [Student GPA User Guide – (Parent)](/files/Student-GPA-User-Guide-for-Parents-2022.pdf)
 
