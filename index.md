@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/maha-bodhi-ws-b_61187653.png
+      key_highlights:
+        - title: Featured News
+          description: ""
+          url: ""
   - infobar:
       title: P1 Admission
       id: infobar
