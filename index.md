@@ -8,18 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/maha-bodhi-ws-b_61187653.png
-  - infobar:
-      title: P1 Admission
-      id: infobar
-      description: Welcome to Maha Bodhi School
-      button: Click Here for more details
-      url: /important-information/for-our-parents/permalink/
-  - infobar:
-      title: 75th Anniversary Celebration
-      subtitle: Maha Bodhi School
-      description: 菩提75周年庆
-      button: HIGHLIGHTS
-      url: https://www.mahabodhi.moe.edu.sg/school-events/2023-events/permalink/75anniversarycelebration
+      key_highlights:
+        - title: Featured News
+          description: ""
+          url: ""
   - infopic:
       title: The Public Service Star
       image: /images/2023 public service star with chinese character  v5.png
@@ -29,9 +21,9 @@ sections:
         Day Awards 2023.
       alt: The Public Service Star 2023
   - infobar:
-      title: Experiential Learning Week
-      description: 15-25 May 2023
-      button: Learn More
-      url: /announcements/experiential-learning-week/permalink/
-      subtitle: Maha Bodhi school
+      title: P1 Admission
+      id: infobar
+      description: Welcome to Maha Bodhi School
+      button: Click Here for more details
+      url: /important-information/for-our-parents/permalink/
 ---

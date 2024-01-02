@@ -2,7 +2,7 @@
 title: Chinese New Year 2023
 permalink: /school-events/cny2023/
 description: ""
-third_nav_title: 2023 Events
+third_nav_title: 2019 to 2023 Events
 ---
 **菩提学校庆新春**
 

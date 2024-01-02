@@ -3,11 +3,8 @@ title: Visit from Second Minister for Education and Foreign Affairs, Dr Mohamad
   Maliki Osman
 permalink: /School-Events/Second-Minister-Visit/
 description: ""
-third_nav_title: 2019 to 2022 Events
+third_nav_title: 2019 to 2023 Events
 ---
-
-
-
 ## Visit from Second Minister for Education and Foreign Affairs, Dr Mohamad Maliki Osman
 
 Maha Bodhi School is very honoured to host the Second Minister for Education and Foreign Affairs, Dr Mohamad Maliki Osman on 25 August 2022.
@@ -40,4 +37,3 @@ In his dialogue with our teachers, Dr Maliki shared his observation of the pupil
 
 ![](/images/Ministervisit12.jpg)
 ![](/images/Ministervisit11.jpeg)
-

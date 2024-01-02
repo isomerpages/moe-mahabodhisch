@@ -2,10 +2,8 @@
 title: Khoo Chye Sheng Hong Temple 2020
 permalink: /school-events/2019-2021/Khoo-Chye-Sheng-Hong-Temple-2020/
 description: ""
-third_nav_title: 2019 to 2022 Events
+third_nav_title: 2019 to 2023 Events
 ---
-
-
 ## Khoo Chye Sheng Hong Temple 2020
 
 **<u>30th Award Ceremony for Academic Merit Awards/Lunar New Year Charitable Donations and Hong Bao Presentation (2020)</u>**

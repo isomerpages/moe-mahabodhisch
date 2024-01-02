@@ -2,10 +2,8 @@
 title: Makerspace Opening
 permalink: /school-events/Makerspace-Opening/
 description: ""
-third_nav_title: 2019 to 2022 Events
+third_nav_title: 2019 to 2023 Events
 ---
-
-
 ## Makerspace Opening
 
 Maha Bodhi School launched the Makerspace on 29 April 2022.

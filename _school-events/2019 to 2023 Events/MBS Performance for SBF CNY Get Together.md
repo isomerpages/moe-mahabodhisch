@@ -2,10 +2,8 @@
 title: MBS Performance for SBF CNY Get Together
 permalink: /school-events/2019-2021/MBS-Performance-for-SBF-CNY-Get-Together/
 description: ""
-third_nav_title: 2019 to 2022 Events
+third_nav_title: 2019 to 2023 Events
 ---
-
-
 ## MBS Performance for SBF CNY Get-Together
 
 
@@ -20,7 +18,7 @@ Pupils from CCA Chinese Orchestra, Choir, Kuai Ban and Guzheng put up a beautifu
 
 <img style="width: 60%;" src="/images/Guzheng-Ensemble-performing-beautiful-tunes-1024x768.jpeg">
 
-<center>Guzheng Ensemble Performing Beautiful Tunes (Photo Credit to Mr Tan Yew Beng)</centrer>
+<center>Guzheng Ensemble Performing Beautiful Tunes (Photo Credit to Mr Tan Yew Beng)
 <br>
 <br>
 
@@ -30,4 +28,4 @@ Pupils from CCA Chinese Orchestra, Choir, Kuai Ban and Guzheng put up a beautifu
 
 <img style="width: 60%;" src="/images/Chinese-Orchestra-playing-cheerful-melodies.jpeg">
 
-<center>Choir Sharing The Joy Of Singing</center>
+<center>Choir Sharing The Joy Of Singing</center></center>

@@ -2,10 +2,8 @@
 title: Outstanding Performance Awards Ceremony (OPAC) 2022
 permalink: /school-events/OPAC/
 description: ""
-third_nav_title: 2019 to 2022 Events
+third_nav_title: 2019 to 2023 Events
 ---
-
-
 ## Outstanding Performance Awards Ceremony (OPAC) 2022
 
 Maha Bodhi School held its 18th Outstanding Performance Award Ceremony, also known as OPAC, on 29 March. It is an annual ceremony which gives recognition to the exceptional performance of our past year pupils in their Primary School Leaving Examinations. It acknowledges the hard work and great effort that the pupils have put in to achieve their goals.

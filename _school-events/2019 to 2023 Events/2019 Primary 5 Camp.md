@@ -2,9 +2,8 @@
 title: 2019 Primary 5 Camp
 permalink: /school-events/2019-to-2021-Events/2019-Primary-5-Camp/
 description: ""
-third_nav_title: 2019 to 2022 Events
+third_nav_title: 2019 to 2023 Events
 ---
-
 ## 2019 Primary 5 Camp
 
 **Primary 5 Outdoor Adventure Camp**
@@ -54,5 +53,3 @@ The pupils also gamely took on the challenge to complete the high elements stati
 <img style="width: 60%;" src="/images/p5-10-1024x768.jpeg">
 
 **_<center>Concluding our camp at the end of 3 days. So, when is the next camp?</center>_**
-
-

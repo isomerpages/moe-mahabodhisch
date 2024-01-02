@@ -2,9 +2,8 @@
 title: Outstanding Performance Awards Ceremony 2019
 permalink: /school-events/2019-to-2021-Events/Outstanding-Performance-Awards-Ceremony-2019/
 description: ""
-third_nav_title: 2019 to 2022 Events
+third_nav_title: 2019 to 2023 Events
 ---
-
 ## Outstanding Performance Awards Ceremony 2019
 
 This year’s OPAC was held on 26 March. There were 43 recipients with aggregates of 250 and above. In addition, 1 pupil taking Foundation Subjects received special awards for commendable results. He qualified for the Normal Academic course.

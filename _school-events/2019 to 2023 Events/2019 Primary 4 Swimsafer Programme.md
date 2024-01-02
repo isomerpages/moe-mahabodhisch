@@ -2,14 +2,13 @@
 title: 2019 Primary 4 Swimsafer Programme
 permalink: /school-events/2019-to-2021-Events/2019-Primary-4-Swimsafer-Programme/
 description: ""
-third_nav_title: 2019 to 2022 Events
+third_nav_title: 2019 to 2023 Events
 ---
-
 ## 2019 Primary 4 Swimsafer Programme
 
 **<u>2019 Primary 4 Swimsafer Programme</u>**
 
- **Overview**
+&nbsp;**Overview**
 
 The SwimSafer Programme aims to equip our pupils with water survival skills and develop his/her self-confidence. The areas covered under the swimming programme are:
 
@@ -38,4 +37,3 @@ Over the weeks, it was heartening to see our pupils not only having fun but show
 <br>
 
 <img style="width: 70%;" src="/images/swimsafer5.jpeg">
-

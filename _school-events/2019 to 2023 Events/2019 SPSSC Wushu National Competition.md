@@ -2,16 +2,15 @@
 title: 2019 SPSSC Wushu National Competition
 permalink: /school-events/2019-to-2021-Events/2019-SPSSC-Wushu-National-Competition/
 description: ""
-third_nav_title: 2019 to 2022 Events
+third_nav_title: 2019 to 2023 Events
 ---
-
 ### 2019 SPSSC Wushu National Competition
 
 **<u>2019 SPSSC Wushu National Competition</u>**
 
 In Term 2, our Wushu team participated in the 2019 National Primary Schools Wushu Competition which was held at Tao Nan Primary School and Pasir Ris Sports Hall.
 
-The standard of the competition was high, but our members persevered and competed fiercely, putting up their very best performance. As a result, we achieved a number of individual awards and our Senior Boys also did us proud by coming in 7th position in the Senior Boys Group Weapon Category.
+The standard of the competition was high, but our members persevered and competed fiercely, putting up their very best performance. As a result, we achieved a number of individual awards and our Senior Boys also did us proud by coming in 7th&nbsp;position in the Senior Boys Group Weapon Category.
 
 The individual awards recipients are as follows:
 
