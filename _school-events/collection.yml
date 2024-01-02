@@ -2,7 +2,6 @@ collections:
   school-events:
     output: true
     order:
-      - 2023 Events/Prefects' Investiture 2023.md
       - 2023 Events/.keep
       - 2019 to 2022 Events/Chinese New Year 2023.md
       - 2019 to 2022 Events/75th Anniversary.md
