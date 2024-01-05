@@ -3,14 +3,6 @@ title: Allied Educators
 permalink: /about-mbs/Our-People/Allied-Educators/
 description: ""
 third_nav_title: Our People
+variant: tiptap
 ---
-## Allied Educators 
-
-|            Name            |           Designation           |                Email               |
-|:--------------------------:|:-------------------------------:|:----------------------------------:|
-| Ms Low Imn Siew            | Counsellor                      | low_imn_siew@moe.edu.sg            |
-| Ms Katherine Liew Jing Yan | AED (Teaching & Learning)       | liew_jing_yan_katherine@moe.edu.sg |
-| Mr Zulhilmi Akmal Supki    | Special Education Needs Officer | zulhilmi_akmal_supki@moe.edu.sg    |
-| Ms Loo Yuen Hui            | Special Education Needs Officer | loo_yuen_hui@moe.edu.sg            |
-| Ms Yap Li Lian             | Special Education Needs Officer | Yap_Li_Lian@moe.edu.sg             |
-| Mr Muhd Sofian Bin Adman   | Special Education Needs Officer | muhd_sofian_adnan@moe.edu.sg       |
+<h2>Allied Educators</h2><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Email</p></th></tr><tr><td rowspan="1" colspan="1"><p>Ms Low Imn Siew</p></td><td rowspan="1" colspan="1"><p>Counsellor</p></td><td rowspan="1" colspan="1"><p>low_imn_siew@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Katherine Liew Jing Yan</p></td><td rowspan="1" colspan="1"><p>AED (Teaching &amp; Learning)</p></td><td rowspan="1" colspan="1"><p>liew_jing_yan_katherine@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Zulhilmi Akmal Supki</p></td><td rowspan="1" colspan="1"><p>Special Education Needs Officer</p></td><td rowspan="1" colspan="1"><p>zulhilmi_akmal_supki@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Loo Yuen Hui</p></td><td rowspan="1" colspan="1"><p>Special Education Needs Officer</p></td><td rowspan="1" colspan="1"><p>loo_yuen_hui@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Yap Li Lian</p></td><td rowspan="1" colspan="1"><p>Special Education Needs Officer</p></td><td rowspan="1" colspan="1"><p>Yap_Li_Lian@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Sayedah Begum Bte Peer Mohamed</p></td><td rowspan="1" colspan="1"><p>Special Education Needs Officer</p></td><td rowspan="1" colspan="1"><p>sayedah_begum_peer_mohamed@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Lim Puay Gek Karen</p></td><td rowspan="1" colspan="1"><p>Special Education Needs Officer</p></td><td rowspan="1" colspan="1"><p>lim_puay_gek_karen@moe.edu.sg</p></td></tr></tbody></table><p></p>
