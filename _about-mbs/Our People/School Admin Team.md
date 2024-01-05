@@ -3,28 +3,6 @@ title: School Admin Team
 permalink: /about-mbs/Our-People/School-Admin-Team/
 description: ""
 third_nav_title: Our People
+variant: tiptap
 ---
-## School Admin Team
-
-|             Name              |        Designation        |               Email               |
-|:-----------------------------:|:-------------------------:|:---------------------------------:|
-| Mdm Lisa Tan Wei Lin            | Administration Manager    | lisa_tan@moe.edu.sg               |
-| Mr Allan Sing Swee Kiang     | Operations Manager        | sing_swee_kiang@moe.edu.sg        |
-| Mr Kenny Chong Tseng Chye     | ICT Manager               | chong_tseng_chye_kenny@moe.edu.sg |
-| Mr Chan Lye Wah               | Operation Executive       | chan_lye_wah@moe.edu.sg           |
-| Mdm Lim Lee Lian Pearl        | Corporate Support Officer | lim_lee_lian_pearl@moe.edu.sg     |
-| Mdm Joanne Neo Buay Kim  | Corporate Support Officer | neo_buay_kim@moe.edu.sg           |
-| Mdm Lum Mei Fun Sheron      | Corporate Support Officer | lum_mei_fun@moe.edu.sg            |
-| Mdm Chua Bee Eng, Shelia    | Corporate Support Officer | chua_bee_eng@moe.edu.sg           |
-| Mdm Tan Lian Loo              | Corporate Support Officer | tan_lian_loo@moe.edu.sg           |
-| Mdm Voon Choon Foon        | Corporate Support Officer | voon_choon_foon@moe.edu.sg        |
-| Ms Diana Ong Ai Bee            | Operation Support Officer |                 –                 |
-| Mdm Ang Chew Lang          | Operation Support Officer |                 –                 |
-| Mr Chua Hook Kee              | Operation Support Officer |                 –                 |
-| Ms Rashidah Binte Rashid Ali  | Desktop Engineer (I)     | g-ncs5601pde@ncs.com.sg           |
-| Mr Russell Lum Yee Wai          | Desktop Engineer (II)    |  g-ncs5601pde@ncs.com.sg          |
-| Mdm Hung Guek Eng             | Teacher Aide              | hung_guek_eng@moe.edu.sg          |
-| Mdm Jennie Ma Suan Gek        | Teacher Aide              | ma_suan_gek@moe.edu.sg            |
-| Mdm Lau Ju Eng Eileen         | Librarian                 | elau@staff.spydus.com.sg          |
-| Ms Lam Woon Gin               | VE Co-ordinator           | woonginlam64@gmail.com            |
-| Mdm K.Neelima Rani         | Lab Assistant             |                                                           |
+<h2>School Admin Team</h2><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Email</p></th></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Administration Manager</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Kenny Chong Tseng Chye</p></td><td rowspan="1" colspan="1"><p>ICT Manager</p></td><td rowspan="1" colspan="1"><p>chong_tseng_chye_kenny@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Chan Lye Wah</p></td><td rowspan="1" colspan="1"><p>Operation Executive</p></td><td rowspan="1" colspan="1"><p>chan_lye_wah@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Lim Lee Lian Pearl</p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>lim_lee_lian_pearl@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Joanne Neo Buay Kim</p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>neo_buay_kim@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Lum Mei Fun Sheron</p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>lum_mei_fun@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Chua Bee Eng, Shelia</p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>chua_bee_eng@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Diana Ong Ai Bee</p></td><td rowspan="1" colspan="1"><p>Operation Support Officer</p></td><td rowspan="1" colspan="1"><p>–</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ang Chew Lang</p></td><td rowspan="1" colspan="1"><p>Operation Support Officer</p></td><td rowspan="1" colspan="1"><p>–</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Chua Hook Kee</p></td><td rowspan="1" colspan="1"><p>Operation Support Officer</p></td><td rowspan="1" colspan="1"><p>–</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Rashidah Binte Rashid Ali</p></td><td rowspan="1" colspan="1"><p>Desktop Engineer (I)</p></td><td rowspan="1" colspan="1"><p>g-ncs5601pde@ncs.com.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Russell Lum Yee Wai</p></td><td rowspan="1" colspan="1"><p>Desktop Engineer (II)</p></td><td rowspan="1" colspan="1"><p>g-ncs5601pde@ncs.com.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Hung Guek Eng</p></td><td rowspan="1" colspan="1"><p>Teacher Aide</p></td><td rowspan="1" colspan="1"><p>hung_guek_eng@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Jennie Ma Suan Gek</p></td><td rowspan="1" colspan="1"><p>Teacher Aide</p></td><td rowspan="1" colspan="1"><p>ma_suan_gek@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Lau Ju Eng Eileen</p></td><td rowspan="1" colspan="1"><p>Librarian</p></td><td rowspan="1" colspan="1"><p>elau@staff.spydus.com.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Lam Woon Gin</p></td><td rowspan="1" colspan="1"><p>VE Co-ordinator</p></td><td rowspan="1" colspan="1"><p>woonginlam64@gmail.com</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm K.Neelima Rani</p></td><td rowspan="1" colspan="1"><p>Lab Assistant</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
