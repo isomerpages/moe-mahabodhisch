@@ -1,0 +1,12 @@
+logo: /images/schoollogo.jpg
+links:
+  - title: About-MBS
+    collection: about-mbs
+  - title: "Departments "
+    collection: departments
+  - title: School Events
+    collection: school-events
+  - title: Important Information
+    collection: important-information
+  - title: "Achievements "
+    collection: achievements
