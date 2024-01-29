@@ -92,6 +92,7 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
+<p></p>
 </li>
 </ol>
 <p></p>
@@ -105,9 +106,13 @@ from sexuality-related risks.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>2024 Sexuality Education Lessons in CCE</strong>
-</p>
+<h5><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h5>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h5><strong>Primary 5</strong></h5>
+</td>
 </tr>
 </tbody>
 </table>
@@ -129,7 +134,7 @@ from sexuality-related risks.</p>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
 </p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
+<p><strong>(e.g. T1 W2)</strong>
 </p>
 </td>
 </tr>
@@ -151,7 +156,7 @@ affected, even when oneâ€™s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>T3 W5</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +176,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>T3 W6</p>
 </td>
 </tr>
 <tr>
@@ -189,11 +194,96 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Terrm 3 Week 8</p>
+<p>T3 W8</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.png">
+</div>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h5><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h5>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h5><strong>Primary 6</strong></h5>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCE(FTGP) THEME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LESSON TITLE / DURATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TIME PERIOD</strong>
+</p>
+<p><strong>(e.g. T1 W2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Growing Years</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?</p>
+<p>Lesson 1</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn to distinguish between the characteristics
+of love and infatuation, and identify the strong emotions that may arise
+from experiencing the feelings of infatuation. They will recognise that
+experiencing feelings of infatuation is part of growing up and becoming
+infatuated with someone does not mean that they should be involved in a
+romantic relationship. Instead, they should focus on building strong and
+healthy friendships with their circles of friends.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T3 W5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?</p>
+<p>Lesson 2</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn healthy ways to manage the emotions
+arising from infatuation and recognise the importance of respecting the
+boundaries of any relationship. They will also recognise the negative impact
+of teasing their peers who may be experiencing the feelings of infatuation
+and learn to behave maturely towards each other.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T3 W6</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
