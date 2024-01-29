@@ -70,4 +70,5 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </li>
 </ol>
 <p></p>
-<p></p>
+<p><strong><u>Sexuality Education Lessons</u></strong>
+</p>
