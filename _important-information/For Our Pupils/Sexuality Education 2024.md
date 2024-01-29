@@ -28,7 +28,7 @@ on sexuality issues.</p>
 </li>
 </ol>
 <p>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships</p>
+changes as they grow up and develop safe and healthy relationships \</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
