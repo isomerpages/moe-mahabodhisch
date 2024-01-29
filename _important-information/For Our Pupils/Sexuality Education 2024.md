@@ -95,3 +95,48 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <p></p>
+<p></p>
+<p><strong>At Maha Bodhi School, the following Sexuality Education lessons will be taught in 2024:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.png">
+</div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>2024 Sexuality Education Lessons in CCE</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
