@@ -28,7 +28,7 @@ on sexuality issues.</p>
 </li>
 </ol>
 <p>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships \</p>
+changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
@@ -293,7 +293,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form in <strong><a href="https://form.gov.sg/65b25d9d2f6c2880eb39bad2" rel="noopener noreferrer nofollow" target="_blank">FormSG</a></strong>.
 This form is also downloadable <strong><a href="https://drive.google.com/file/d/1GInbf7f7RSIwZ9JwnzNnxHvl0R82ZY7l/view" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-The completed opt-out form is to be submitted by 22/Feb/2024.</p>
+The completed opt-out form is to be submitted by 22 Feb 2024.</p>
 </li>
 <li>
 <p>Parents can contact the school at 67442115 or email us at <a href="MBS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mbs@moe.edu.sg</a> for

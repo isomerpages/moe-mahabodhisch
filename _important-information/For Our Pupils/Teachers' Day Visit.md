@@ -3,6 +3,7 @@ title: Teachers' Day Visit
 permalink: /important-information/for-our-pupils/permalink/
 description: ""
 third_nav_title: For Our Pupils
+variant: markdown
 ---
 # **Teachers’ Day Visit**
 
