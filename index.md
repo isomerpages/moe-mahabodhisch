@@ -26,4 +26,14 @@ sections:
       description: Welcome to Maha Bodhi School
       button: Click Here for more details
       url: /important-information/for-our-parents/permalink/
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Lunar New Year Visit by former students (14 - 16 February 2024)
+          date: 08 February 2024
+          announcement: Click link below for more information
+          link_text: /important-information/for-our-pupils/permalink/
+          link_url: /important-information/for-our-pupils/permalink/
 ---
