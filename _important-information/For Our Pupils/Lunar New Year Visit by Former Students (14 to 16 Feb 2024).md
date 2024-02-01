@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Our Pupils
 ---
-<h4>2024 Chinese New Year Celebration&nbsp;</h4>
+<h4><strong>2024 Chinese New Year Celebration&nbsp;</strong></h4>
 <p></p>
 <p>As part of our continual effort to imbue in our pupils the importance
 of Chinese culture and traditions, we will be celebrating Lunar New Year
