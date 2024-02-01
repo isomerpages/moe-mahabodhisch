@@ -31,7 +31,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Lunar New Year Visit by former students (14 - 16 February 2024)
-          date: 08 February 2024
+          date: 01 February 2024
           announcement: Click link below for more information
           link_text: /important-information/for-our-pupils/permalink/
           link_url: /important-information/for-our-pupils/permalink/
