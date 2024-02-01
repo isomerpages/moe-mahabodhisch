@@ -27,7 +27,7 @@ sections:
       button: Click Here for more details
       url: /important-information/for-our-parents/permalink/
   - announcements:
-      title: Chinese New Year Visit By Former Students
+      title: Chinese New Year Visit
       id: announcements
       announcement_items:
         - title: Lunar New Year Visit by former students (14 - 16 February 2024)
