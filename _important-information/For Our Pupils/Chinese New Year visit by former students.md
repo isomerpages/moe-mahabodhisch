@@ -1,5 +1,5 @@
 ---
-title: Lunar New Year visit by former students
+title: Chinese New Year visit by former students
 permalink: /important-information/for-our-pupils/permalink/lunar-new-year-visit-by-former-students/
 variant: tiptap
 description: ""
