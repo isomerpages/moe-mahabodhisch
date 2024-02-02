@@ -11,8 +11,8 @@ variant: tiptap
 </p>
 <p>As part of our continual effort to imbue in our pupils the importance
 of Chinese culture and traditions, we will be celebrating Lunar New Year
-on 9 February 2024 (Friday) as one big Maha Bodhi family from 7.30am to
-10.30am on that day.</p>
+on <strong>9 February 2024 (Friday)</strong> as one big Maha Bodhi family
+from <strong>7.30am to 10.30am</strong> on that day.</p>
 <p>In celebration of the festival, the school will be closed immediately
 after pupils’ dismissal to allow our dedicated staff to spend quality time
 with their families. As such, we kindly request that former pupils refrain
@@ -20,7 +20,7 @@ from visiting teachers on that day.</p>
 <p>However, recognising the festive spirit and the desire of pupils to reconnect
 with their teachers, we have designated a special period for such visits.
 If former pupils wish to visit their teachers, we warmly welcome them to
-do so between February 14 to 16 February 2024.</p>
+do so between<strong> February 14 to 16 February 2024</strong>.</p>
 <p>To ensure a smooth and secure visit, we kindly request former pupils to
 inform their respective teachers of the intended date and time of their
 visit. This will enable our protection officers to be adequately informed
