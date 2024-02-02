@@ -30,6 +30,6 @@ sections:
       title: P1 Admission
       id: infobar
       description: Welcome to Maha Bodhi School
-      button: Click Here for more details
+      button: for more information
       url: /important-information/for-our-parents/permalink/
 ---
