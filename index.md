@@ -16,7 +16,7 @@ sections:
       title: Chinese New Year Visit
       id: infobar
       description: Welcome to Maha Bodhi School
-      button: CLICK HERE FOR MORE DETAILS
+      button: for more information
       url: /important-information/for-our-pupils/permalink/lunar-new-year-visit-by-former-students/
   - infopic:
       title: The Public Service Star
