@@ -36,4 +36,11 @@ sections:
       description: Welcome to Maha Bodhi School
       button: Click Here for more details
       url: /important-information/for-our-parents/permalink/
+  - infobar:
+      title: Chinese New Year Visit
+      subtitle: Add informational text
+      id: infobar
+      description: Welcome to Maha Bodhi School
+      button: CLICK HERE FOR MORE DETAILS
+      url: /important-information/for-our-pupils/permalink/lunar-new-year-visit-by-former-students/
 ---
