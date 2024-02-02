@@ -12,6 +12,12 @@ sections:
         - title: Featured News
           description: ""
           url: ""
+  - infobar:
+      title: Chinese New Year Visit
+      id: infobar
+      description: Welcome to Maha Bodhi School
+      button: for more information
+      url: /important-information/for-our-pupils/permalink/lunar-new-year-visit-by-former-students/
   - infopic:
       title: The Public Service Star
       image: /images/2023 public service star with chinese character  v5.png
@@ -24,15 +30,6 @@ sections:
       title: P1 Admission
       id: infobar
       description: Welcome to Maha Bodhi School
-      button: Click Here for more details
+      button: for more information
       url: /important-information/for-our-parents/permalink/
-  - announcements:
-      title: Chinese New Year Visit
-      id: announcements
-      announcement_items:
-        - title: Lunar New Year Visit by former students (14 - 16 February 2024)
-          date: 01 February 2024
-          announcement: Click link below for more information
-          link_text: /important-information/for-our-pupils/permalink/
-          link_url: /important-information/for-our-pupils/permalink/
 ---
