@@ -26,10 +26,11 @@ sections:
         and Mr Tan Yew Beng (MBS School Supervisor) on receiving the National
         Day Awards 2023.
       alt: The Public Service Star 2023
-  - infobar:
-      title: P1 Admission
-      id: infobar
-      description: Welcome to Maha Bodhi School
-      button: for more information
-      url: /important-information/for-our-parents/permalink/
+  - infopic:
+      title: Experiential Learning Week 2023
+      id: infopic
+      button: Read more
+      url: /announcements/experiential-learning-week/permalink/
+      image: /images/Experiential Learning Week/img_3458.JPG
+      alt: Image alt text
 ---
