@@ -30,7 +30,7 @@ sections:
       title: Experiential Learning Week 2023
       id: infopic
       button: Read more
-      url: /announcements/experiential-learning-week/permalink/
+      url: https://www.mahabodhi.moe.edu.sg/announcements/experiential-learning-week/permalink/
       image: /images/Experiential Learning Week/img_3458.JPG
       alt: Image alt text
 ---
