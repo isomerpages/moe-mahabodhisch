@@ -46,6 +46,7 @@ variant: markdown
 |:-------------------------:|:----------------------------------------------:|
 | Mr Faliq Mattar           | LH / English Language                          |
 | Mrs Low-Lee Minyu         | SH / Mathematics                               |
+| Ms Tay Wee Teng Alice         | LH / Mathematics                               |
 | Mdm Yeo Hwee Choo         | SH / Character and Citizenship Education     |
 | Mr Muhamad Zulfadly Zaiman | SH / Co-curricular Activities                  |
 | Mr Muhamad Faris Mohamad  | SH / National Education & Social Studies       |
@@ -65,5 +66,3 @@ variant: markdown
 |:-------------:|:----------------------:|
 |   | Administration Manager |
 | | Operations Manager     |
-
-
