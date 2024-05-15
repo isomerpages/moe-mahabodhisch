@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - Experiential Learning Week 2024.md
       - 2023 Events/.keep
       - 2019 to 2023 Events/Experiential Learning Week 2023.md
       - 2019 to 2023 Events/Prefects' Investiture 2023.md
