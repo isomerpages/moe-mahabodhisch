@@ -16,7 +16,7 @@ sections:
       title: Experiential Learning Week 2024
       id: infobar
       description: 体验式学习周
-      button: "Highlights "
+      button: Highlights
       url: https://www.mahabodhi.moe.edu.sg/experiential-learning-week-2024/
   - infopic:
       title: The Public Service Star
@@ -26,11 +26,4 @@ sections:
         and Mr Tan Yew Beng (MBS School Supervisor) on receiving the National
         Day Awards 2023.
       alt: The Public Service Star 2023
-  - infopic:
-      title: Experiential Learning Week 2023
-      id: infopic
-      button: Read more
-      url: https://www.mahabodhi.moe.edu.sg/announcements/experiential-learning-week/permalink/
-      image: /images/Experiential Learning Week/img_3458.JPG
-      alt: Image alt text
 ---
