@@ -13,11 +13,11 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: Chinese New Year Visit
+      title: Experiential Learning Week 2024
       id: infobar
-      description: Welcome to Maha Bodhi School
-      button: for more information
-      url: /important-information/for-our-pupils/permalink/lunar-new-year-visit-by-former-students/
+      description: 体验式学习周
+      button: "Highlights "
+      url: https://www.mahabodhi.moe.edu.sg/experiential-learning-week-2024/
   - infopic:
       title: The Public Service Star
       image: /images/2023 public service star with chinese character  v5.png
