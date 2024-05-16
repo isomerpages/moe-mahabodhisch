@@ -13,11 +13,11 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: Chinese New Year Visit
+      title: Experiential Learning Week 2024
       id: infobar
-      description: Welcome to Maha Bodhi School
-      button: for more information
-      url: /important-information/for-our-pupils/permalink/lunar-new-year-visit-by-former-students/
+      description: 体验式学习周
+      button: Highlights
+      url: https://www.mahabodhi.moe.edu.sg/experiential-learning-week-2024/
   - infopic:
       title: The Public Service Star
       image: /images/2023 public service star with chinese character  v5.png
@@ -26,11 +26,4 @@ sections:
         and Mr Tan Yew Beng (MBS School Supervisor) on receiving the National
         Day Awards 2023.
       alt: The Public Service Star 2023
-  - infopic:
-      title: Experiential Learning Week 2023
-      id: infopic
-      button: Read more
-      url: https://www.mahabodhi.moe.edu.sg/announcements/experiential-learning-week/permalink/
-      image: /images/Experiential Learning Week/img_3458.JPG
-      alt: Image alt text
 ---
