@@ -9,8 +9,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/elw_banner_copy_63854817.png">
 </div>
 <p><strong>Experiential Learning Week 2024 </strong>
-<br>We will be implementing Experiential Learning Weeks from 13 May to 17
-May 2024 (for P1 and P2 pupils) and 13 May to 23 May (for P3 to P5 pupils).
+<br>Experiential Learning Weeks will take place from 13 May to 17 May 2024
+(for P1 and P2 pupils) and 13 May to 23 May (for P3 to P5 pupils).
 <br>
 <br>During these two weeks, pupils will be engaged in a variety of learning
 activities that require them to work collaboratively, explore new ideas
@@ -47,11 +47,25 @@ develop important 21CC skills that will serve our pupils well in the future.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/003.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/elw3_1.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/elw3_3.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/elw3_2.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/elw3_4.png">
+</div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/elw3_5.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
