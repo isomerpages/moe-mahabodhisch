@@ -18,6 +18,13 @@ sections:
       description: 体验式学习周
       button: Highlights
       url: https://www.mahabodhi.moe.edu.sg/experiential-learning-week-2024/
+  - infobar:
+      title: MBS Performances @ Singapore Buddhist Federation
+      id: infobar
+      description: MBS Performances @ Singapore Buddhist Federation (SBF)’s Vesak Day
+        Celebration 2568
+      button: Click here
+      url: /mbs-performances-singapore-buddhist-federation-sbf-s-vesak-day-celebration-2568/
   - infopic:
       title: The Public Service Star
       image: /images/2023 public service star with chinese character  v5.png
@@ -26,11 +33,4 @@ sections:
         and Mr Tan Yew Beng (MBS School Supervisor) on receiving the National
         Day Awards 2023.
       alt: The Public Service Star 2023
-  - infobar:
-      title: MBS Performances @ Singapore Buddhist Federation
-      id: infobar
-      description: MBS Performances @ Singapore Buddhist Federation (SBF)’s Vesak Day
-        Celebration 2568
-      button: Click here
-      url: /mbs-performances-singapore-buddhist-federation-sbf-s-vesak-day-celebration-2568/
 ---
