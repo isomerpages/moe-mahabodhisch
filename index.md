@@ -26,4 +26,11 @@ sections:
         and Mr Tan Yew Beng (MBS School Supervisor) on receiving the National
         Day Awards 2023.
       alt: The Public Service Star 2023
+  - infobar:
+      title: MBS Performances @ Singapore Buddhist Federation
+      id: infobar
+      description: MBS Performances @ Singapore Buddhist Federation (SBF)’s Vesak Day
+        Celebration 2568
+      button: Click here
+      url: /mbs-performances-singapore-buddhist-federation-sbf-s-vesak-day-celebration-2568/
 ---
