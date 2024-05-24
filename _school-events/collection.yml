@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - Prefects' Investiture.md
       - Experiential Learning Week 2024.md
       - MBS Performances @ Singapore Buddhist Federation (SBF)’s Vesak Day
         Celebration 2568.md
