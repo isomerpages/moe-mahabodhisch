@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/maha-bodhi-ws-b_61187653.png
       key_highlights:
-        - title: Featured News
+        - title: About MBS
           description: ""
-          url: ""
+          url: https://www.mahabodhi.moe.edu.sg/about-mbs/Vision-Mission/
   - infopic:
       title: Experiential Learning Week 2024
       id: infopic
@@ -21,7 +21,6 @@ sections:
       image: /images/Experiential Learning Week/img_3458.JPG
   - infopic:
       title: MBS Performances @ Singapore Buddhist Federation
-      subtitle: Add an image and text
       id: infopic
       description: MBS Performances @ Singapore Buddhist Federation’s Vesak Day
         Celebration 2568
