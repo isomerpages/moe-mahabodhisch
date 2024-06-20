@@ -12,25 +12,21 @@ sections:
         - title: Featured News
           description: ""
           url: ""
-  - infobar:
+  - infopic:
       title: Experiential Learning Week 2024
-      id: infobar
+      id: infopic
       description: 体验式学习周
       button: Highlights
       url: https://www.mahabodhi.moe.edu.sg/experiential-learning-week-2024/
-  - infobar:
-      title: MBS Performances @ Singapore Buddhist Federation
-      id: infobar
-      description: MBS Performances @ Singapore Buddhist Federation (SBF)’s Vesak Day
-        Celebration 2568
-      button: Click here
-      url: /mbs-performances-singapore-buddhist-federation-sbf-s-vesak-day-celebration-2568/
+      image: /images/Experiential Learning Week/img_3458.JPG
   - infopic:
-      title: The Public Service Star
-      image: /images/2023 public service star with chinese character  v5.png
-      url: https://www.mahabodhi.moe.edu.sg/school-events/2023-events/permalink/
-      description: Congratulations to Venerable Seck Kwang Phing (MBS SMC Chairperson)
-        and Mr Tan Yew Beng (MBS School Supervisor) on receiving the National
-        Day Awards 2023.
-      alt: The Public Service Star 2023
+      title: MBS Performances @ Singapore Buddhist Federation
+      subtitle: Add an image and text
+      id: infopic
+      description: MBS Performances @ Singapore Buddhist Federation’s Vesak Day
+        Celebration 2568
+      button: Read more
+      url: https://www.mahabodhi.moe.edu.sg/mbs-performances-singapore-buddhist-federation-sbf-s-vesak-day-celebration-2568/
+      image: /images/Picture1_Vesak_Day_Celebration_2568_with_President.gif
+      alt: Image alt text
 ---
