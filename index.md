@@ -19,6 +19,7 @@ sections:
       button: Highlights
       url: https://www.mahabodhi.moe.edu.sg/experiential-learning-week-2024/
       image: /images/Experiential Learning Week/img_3458.JPG
+      alt: ELW_ART
   - infopic:
       title: MBS Performances @ Singapore Buddhist Federation
       id: infopic
