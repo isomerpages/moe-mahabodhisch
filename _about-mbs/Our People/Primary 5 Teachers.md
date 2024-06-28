@@ -7,7 +7,11 @@ variant: tiptap
 ---
 <h2><strong>Primary 5 Teachers</strong></h2>
 <h4><strong>P5 Form Teachers (2024)</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -29,7 +33,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -64,6 +73,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_miaoxin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_miaoxin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Uma Ketur Gandhi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:uma_haridas_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">uma_haridas_shah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -114,6 +135,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liew_sio_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_sio_hong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Alice Han Kian Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:han_kian_neo_alice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_kian_neo_alice@moe.edu.sg</a>
 </p>
 </td>
 </tr>
