@@ -7,7 +7,11 @@ variant: tiptap
 ---
 <h1><strong>Primary 6 Teachers</strong></h1>
 <h4><strong>P6 Form Teachers (2024)</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -28,7 +32,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -93,6 +102,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Minyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_minyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_minyu@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>P6 Compassion</strong>
 </p>
 </td>
@@ -101,6 +122,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_yong_sheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rahmat B Sanip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rahmat_b_sanip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahmat_b_sanip@moe.edu.sg</a>
 </p>
 </td>
 </tr>
