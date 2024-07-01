@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/maha-bodhi-ws-b_61187653.png
+      background: /images/gif_banner_mbs.gif
       key_highlights:
         - title: About MBS
           description: ""
