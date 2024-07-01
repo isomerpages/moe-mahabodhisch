@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/gif_banner_mbs.gif
+      background: /images/maha-bodhi-ws-b_61187653.png
       variant: center
   - infopic:
       title: Experiential Learning Week 2024
