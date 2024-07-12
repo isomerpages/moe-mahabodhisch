@@ -30,6 +30,7 @@ variant: markdown
 | Ms Chan Mei Ling          | HOD / Student Management                 |                |
 | Ms Stephanie Yew | HOD / SAP |
 | Mr Low Tian Chin Ivan     | HOD / Information and Communications Technology |
+| Mrs Low-Lee Minyu       | HOD / Mathematics (Covering)  |
 
 #### Year Heads
 
@@ -44,7 +45,6 @@ variant: markdown
 |           Name            |                   Designation                  |
 |:-------------------------:|:----------------------------------------------:|
 | Mr Faliq Mattar           | LH / English Language                          |
-| Mrs Low-Lee Minyu         | SH / Mathematics                               |
 | Ms Tay Wee Teng Alice         | LH / Mathematics                               |
 | Mdm Yeo Hwee Choo         | SH / Character and Citizenship Education     |
 | Mr Muhamad Zulfadly Zaiman | SH / Co-curricular Activities                  |
