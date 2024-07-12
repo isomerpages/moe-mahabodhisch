@@ -66,20 +66,3 @@ Mr Clifford Seah     | AYH / Primary 4 |
 |:-------------:|:----------------------:|
 |  | Administration Manager |
 | Mr Kwok Ying Kit| Operations Manager     |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
