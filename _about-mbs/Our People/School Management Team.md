@@ -58,10 +58,28 @@ variant: markdown
 |:----------------------:|:---------------:|
  Mrs Katheryn Pua     | AYH / Primary 6 |
 | Mrs Yeo-Ang Hwee Pheng | AYH / Primary 5 
+Mr Clifford Seah     | AYH / Primary 4 |
 
 #### Administration & Operations**
 
 |     Name      |       Designation      |
 |:-------------:|:----------------------:|
-|   | Administration Manager |
-| | Operations Manager     |
+|  | Administration Manager |
+| Mr Kwok Ying Kit| Operations Manager     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
