@@ -22,8 +22,7 @@ variant: markdown
 |:-------------------------:|:-----------------------------------------------:|
 | Mdm Soon Su-Yee           | School Staff Developer                          |
 | Ms Siow Soek Fien Tracy   | HOD / English Language                          |
-| Mdm Chen Miaoxin          | HOD / Chinese Language                          |
-| Mrs Ng-Sen Puay Hui Jessy | HOD / Mathematics                               |
+| Mdm Chen Miaoxin          | HOD / Chinese Language                          |                     |
 | Mrs Wendy Tan             | HOD / Science                                   |
 | Mrs Chua-Lee Kai Ling     | HOD / Aesthetics                                |
 | Mrs Chung-Wee Shi Ming    | HOD / Character and Citizenship Education       |
