@@ -15,7 +15,7 @@ sections:
       description: Inmmersion Programme with Tzu Chi Elementary School
       button: HIGHLIGHTS
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
-      image: /images/Taiwan Immersion 2024/14.jpg
+      image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
   - infopic:
       title: Experiential Learning Week 2024
