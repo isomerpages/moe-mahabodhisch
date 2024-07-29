@@ -14,7 +14,7 @@ sections:
       id: infopic
       description: Inmmersion Programme with Tzu Chi Elementary School
       button: HIGHLIGHTS
-      url: https://www.mahabodhi.moe.edu.sg/immersionprogramewithtzuchi
+      url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/14.jpg
       alt: Image alt text
   - infopic:
