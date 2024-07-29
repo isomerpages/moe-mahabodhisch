@@ -10,6 +10,14 @@ sections:
       background: /images/gif_banner_mbs.gif
       variant: center
   - infopic:
+      title: 浸濡活动之慈小与菩提狮城交流计划
+      id: infopic
+      description: Inmmersion Programme with Tzu Chi Elementary School
+      button: HIGHLIGHTS
+      url: https://www.mahabodhi.moe.edu.sg/immersionprogramewithtzuchi
+      image: /images/Taiwan Immersion 2024/14.jpg
+      alt: Image alt text
+  - infopic:
       title: Experiential Learning Week 2024
       id: infopic
       description: 体验式学习周 2024
