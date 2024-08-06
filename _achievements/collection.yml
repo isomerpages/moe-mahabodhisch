@@ -2,9 +2,9 @@ collections:
   achievements:
     output: true
     order:
-      - Staff Achievements/Chief Scout's Commendation.md
       - Staff Achievements/.keep
       - Staff Achievements/Staff Achievements.md
+      - Staff Achievements/Chief Scout's Commendation.md
       - Staff Achievements/The Distinguished Chinese Language Teachers Award.md
       - Pupil Achievements/2024 Pupil Achievements.md
       - Pupil Achievements/.keep
