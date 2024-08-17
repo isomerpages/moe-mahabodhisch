@@ -14,7 +14,7 @@ visit in view of the crowd expected. All students are reminded to follow
 our school rules and adhere to the instructions by our staff members to
 facilitate a meaningful visit.</p>
 <p>Former students are encouraged to post their appreciation notes for their
-teachers using the padlet link below</p>
+teachers using the Padlet link below</p>
 <p><a href="https://tinyurl.com/c3rnt7ad" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/c3rnt7ad</a>
 </p>
 <p>See you on 29 August!</p>
