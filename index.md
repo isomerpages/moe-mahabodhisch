@@ -32,4 +32,6 @@ sections:
       url: /teacher-s-day-appreciation-wall-2024/
       image: /images/Padlet_2024_Teacher_s_Day_Well_wishes_V1.jpg
       alt: Image alt text
+      description: We warmly welcome our former students to visit their teachers on 29
+        August from 11.00am to 12.30pm.
 ---
