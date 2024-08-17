@@ -25,4 +25,11 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/experiential-learning-week-2024/
       image: /images/Experiential Learning Week/img_3458.JPG
       alt: ELW_ART
+  - infopic:
+      title: 2024 Teachers' Day Appreciation Wall
+      id: infopic
+      button: For more Information
+      url: /teacher-s-day-appreciation-wall-2024/
+      image: /images/Padlet_2024_Teacher_s_Day_Well_wishes_V1.jpg
+      alt: Image alt text
 ---
