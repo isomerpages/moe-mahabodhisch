@@ -3,6 +3,7 @@ title: School Uniform Services
 permalink: /important-information/For-Our-Pupils/School-Uniform-Services/
 description: ""
 third_nav_title: For Our Pupils
+variant: markdown
 ---
 ### School Uniform Services
 
@@ -21,12 +22,11 @@ Singapore 569880
 
 **Operating Hours**
 
-Jan to Nov, 12 noon – 8pm (Closed on Sun & PH)
+Jan to Nov, 12 noon – 6pm (Closed on Sun & PH)
 
-Dec, 12 noon – 8pm (Open daily)
+Dec, 12 noon – 6pm (Open daily)
 
 **Note:**
 
-You can order online at **[https://www.shirleyuni.com](https://www.shirleyuni.com/)**
+You can order online at **[https://www.shirleyuni.com](https://www.shirleyuni.com/)** or email: [getintouch@shirley.com](getintouch@shirley.com)
 
-In view of the current Covid situation, the sale of uniform at the school has been suspended until further notice.
