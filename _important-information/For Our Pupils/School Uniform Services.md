@@ -12,7 +12,7 @@ variant: markdown
 
 #### Shirley Season Wear
 
-NORTHSTAR
+**NORTHSTAR**
 
 7030 Ang Mo Kio Ave 5
 
