@@ -29,4 +29,3 @@ Dec, 12 noon – 6pm (Open daily)
 **Note:**
 
 You can order online at **[https://www.shirleyuni.com](https://www.shirleyuni.com/)** or email: [getintouch@shirley.com](getintouch@shirley.com)
-
