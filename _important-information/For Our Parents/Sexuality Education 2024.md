@@ -2,7 +2,7 @@
 title: Sexuality Education 2024
 permalink: /important-information/for-our-pupils/sexuality-education-2022/
 description: ""
-third_nav_title: For Our Pupils
+third_nav_title: For Our Parents
 variant: tiptap
 ---
 <h2><strong>Maha Bodhi School</strong></h2>
