@@ -41,7 +41,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Form Teachers</p>
