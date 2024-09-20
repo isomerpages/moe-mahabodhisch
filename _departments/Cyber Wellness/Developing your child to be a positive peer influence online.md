@@ -12,5 +12,8 @@ Positive peer influence is a key principle in MOE’s Cyber Wellness Framework w
 *   Be a positive role model online (e.g. share healthy and positive content, harness technology to do good); and
 *   Advocate positive online behaviours (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media).
 
+Please refer to the MOE Cyber Wellness website for more information. 
+
+[MOE Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
 Thank you.
