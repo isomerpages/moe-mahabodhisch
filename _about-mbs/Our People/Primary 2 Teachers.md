@@ -134,7 +134,7 @@ variant: tiptap
 <p>Ms Lim Hui Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_hui_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">m_hui_ching@moe.edu.sg</a>
+<p><a href="mailto:lim_hui_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -143,10 +143,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Zahirah Bte Mohamad Latiff (UT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zahirah_mohamad_latiff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahirah_mohamad_latiff@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
