@@ -94,10 +94,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Eunice Yip</p>
+<p>Mrs Casmis Leong Siok Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_eunice@moe.edu.sg</a>
+<p><a href="mailto:yeo_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_siok_kheng_elizabeth@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -218,10 +218,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Elizabeth Song Siok Kheng</p>
+<p>Mdm Mankiran Kaur D/O Gurdip Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_siok_kheng_elizabeth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_siok_kheng_elizabeth@moe.edu.sg</a>
+<p><a href="mailto:mankiran_kaur_gurdip_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mankiran_kaur_gurdip_singh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
