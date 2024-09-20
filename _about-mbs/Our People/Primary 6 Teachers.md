@@ -274,6 +274,19 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P6 SBB</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sum-Lee Wee Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_wee_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wee_choo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
