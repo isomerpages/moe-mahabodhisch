@@ -82,10 +82,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christine Danielle Teo Hui Shan</p>
+<p>Ng Geok Lian Amelia (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Christine_teo_hui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Christine_teo_hui_shan@moe.edu.sg</a>
+<p><a href="mailto:ng_geok_lian_amelia_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_geok_lian_amelia_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
