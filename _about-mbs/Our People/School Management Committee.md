@@ -6,6 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h2>School Management Committee</h2>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -16,25 +17,27 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Venerable Seck Kwang Phing" src="/images/venerable%20seck%20kwang%20phing.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Venerable Sik Kwang Sheng" src="/images/venerable%20sik%20kwang%20sheng.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ven_Seck_Kwang_Phing.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/230420_Ven_Shi_Chuan_Jia.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2013_V_KwangSheng_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mdm_Chan_Poh_Swee_001.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/230420_Ven_Shi_Chuan_Jia_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mdm_Chan_Poh_Swee_001_1.jpg">
 </div>
 </th>
 </tr>
@@ -62,18 +65,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tan Yew Beng" src="/images/tan%20yew%20beng%20v6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Tan_Yew_Beng.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2016_Ven_Shi_Pu_En.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/240824_Ven_Shi_Jian_Xin.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Chew_Bin_Teck.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -100,18 +113,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Kweh Soon Han" src="/images/mr%20kweh%20soon%20han.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/230914_Dr_Colin_Tan_Boon_Chwee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/240824_Mr_Lee_Chuan_Too.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Tay_Thain_Lin.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Yeo_Tse_Tian_Justin.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -138,4 +161,22 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
