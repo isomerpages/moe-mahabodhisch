@@ -26,13 +26,15 @@ variant: tiptap
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Venerable N Sumana Thero" src="/images/venerable%20n%20sumana%20thero.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/230420_Ven_Shi_Chuan_Jia.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mdm%20chan%20poh%20swee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mdm_Chan_Poh_Swee_001.jpg">
 </div>
 </th>
 </tr>
@@ -50,7 +52,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Secretary</strong>
 <br>
-<br>Venerable N Sumana Thero</p>
+<br>Venerable Shi Chuan Jia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Treasurer</strong>
@@ -65,19 +67,13 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Venerable Sek Bao Tong" src="/images/venerable%20sek%20bao%20tong.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Venerable You Guang" src="/images/venerable%20you%20guang.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Chew Bin Teck" src="/images/mr%20chew%20bin%20teck.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -89,12 +85,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>SMC Member</strong> 
 <br>
-<br>Venerable Sek Bao Tong</p>
+<br>Venerable Shi Pu En</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SMC Member</strong> 
 <br>
-<br>Venerable You Guang</p>
+<br>Venerable Shi Jian Xin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SMC Member</strong> 
@@ -109,14 +105,10 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Wilfred Seet Show Pheng" src="/images/mr%20wilfred%20seet%20seow%20pheng.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Yeo Siok Keak" src="/images/mr%20yeo%20siok%20keak.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -126,20 +118,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>SMC Member</strong> 
 <br>
-<br>Dr Kweh Soon Han</p>
+<br>Dr Tan Boon Chwe, Colin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SMC Member</strong> 
 <br>
-<br>Mr Seet Seow Pheng</p>
+<br>Mr Lee Chuan Too</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SMC Member</strong> 
 <br>
-<br>Mr Yeo Siok Keak</p>
+<br>Mr Tay Thain Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>SMC Member</strong> 
+<br>
+<br>Mr Yeo Tse Tian, Justin</p>
 </td>
 </tr>
 </tbody>
