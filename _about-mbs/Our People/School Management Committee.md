@@ -141,7 +141,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>SMC Member</strong> 
 <br>
-<br>Dr Tan Boon Chwe, Colin</p>
+<br>Dr Tan Boon Chwee, Colin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SMC Member</strong> 
