@@ -307,7 +307,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Administration &amp; Operations**</h4>
+<h4>Administration &amp; Operations</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -324,7 +324,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Madam Koh Sei Nei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
