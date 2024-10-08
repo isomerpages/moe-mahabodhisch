@@ -67,5 +67,19 @@ repair.</p>
 be rolled out to the school population; and give feedback.</p>
 <p></p>
 <h4>Drama Club</h4>
-<h4>The MBS Centrestage Drama Club is a creative space where pupils are introduced to acting and storytelling through engaging group activities and performances. Over time, pupils gain confidence, hone communication skills and learn to express their thoughts and ideas with ease. The club fosters a love for the Arts while promoting friendship and collaboration among pupils.<br><br>Chinese Chess</h4>
+<p>The MBS Centrestage Drama Club is a creative space where pupils are introduced
+to acting and storytelling through engaging group activities and performances.
+Over time, pupils gain confidence, hone communication skills and learn
+to express their thoughts and ideas with ease. The club fosters a love
+for the Arts while promoting friendship and collaboration among pupils.</p>
+<p></p>
+<h4>Chinese Chess</h4>
+<p><em>Stay tuned for more details.</em>
+</p>
+<h4>Chinese Cultural Club</h4>
+<p><em>Exciting changes are coming to our Chinese Cultural Club and will be updated soon.</em>
+</p>
+<h4><em>Robotics</em></h4>
+<p><em>Stay tuned for more details</em>
+</p>
 <p></p>
