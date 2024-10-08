@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Co curricular Activities (CCA).md
       - About our CCAs/.keep
       - English/.keep
       - English/Department Goals.md
