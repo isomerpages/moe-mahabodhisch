@@ -5,6 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+<h4>Art Club</h4>
+<p>The Art Club is a vibrant space for creativity and collaboration, encouraging
+members to express themselves and connect through different forms. Different
+art forms could be in the form of painting, craftwork, clay-work or digit
+art.</p>
+<p>Pupils can explore their artistic talents, learn new techniques, and share
+their passion for art. Whether you want to improve your skills, meet like-minded
+individuals, or simply enjoy the process of creating, Art Club offers a
+welcoming atmosphere for all.</p>
 <h4>Environment and Science Club</h4>
 <p>Our Environmental and Science Club focuses on engaging students with hands-on
 activities that promote environmental awareness and scientific exploration.
@@ -58,9 +67,5 @@ repair.</p>
 be rolled out to the school population; and give feedback.</p>
 <p></p>
 <h4>Drama Club</h4>
-<p>The MBS Centrestage Drama Club is a creative space where pupils are introduced
-to acting and storytelling through engaging group activities and performances.
-Over time, pupils gain confidence, hone communication skills and learn
-to express their thoughts and ideas with ease. The club fosters a love
-for the Arts while promoting friendship and collaboration among pupils.</p>
+<h4>The MBS Centrestage Drama Club is a creative space where pupils are introduced to acting and storytelling through engaging group activities and performances. Over time, pupils gain confidence, hone communication skills and learn to express their thoughts and ideas with ease. The club fosters a love for the Arts while promoting friendship and collaboration among pupils.<br><br>Chinese Chess</h4>
 <p></p>
