@@ -36,7 +36,7 @@ communication, with students writing scripts, narrating, or hosting videos.
 These skills are applied in projects like school event coverage and competitions.
 This CCA fosters creativity, confidence, and public speaking.</p>
 <p></p>
-<h4>Chinese Calligraphy </h4>
+<h4>Chinese Calligraphy</h4>
 <p>Students can learn the traditional Chinese arts of calligraphy and ink
 painting. Through calligraphy, they practice writing Chinese characters
 with brush and ink, improving their handwriting and learning about the
