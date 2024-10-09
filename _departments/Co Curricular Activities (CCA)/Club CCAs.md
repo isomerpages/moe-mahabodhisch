@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+<h3>Let's learn more about the respective Clubs CCAs that are available in MBS.</h3>
+<p></p>
 <h4>Chinese Cultural Club</h4>
 <p>Chinese Cultural Club is a new CCA that combines 4 CCAs representing the
 different aspects of the Chinese Culture.</p>
