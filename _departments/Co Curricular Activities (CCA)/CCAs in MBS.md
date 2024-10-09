@@ -16,7 +16,11 @@ teachers-in-charge.</p>
 <p>For administrative matters related to CCAs, you may email our Subject
 Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_zulfadly_zaiman@moe.edu.sg</a>
 </p>
-<h3>2023 CCAs</h3>
+<p></p>
+<p>Please note that the information below is meant for 2024.</p>
+<p><strong>For the latest information with regards to our CCA for 2025, please click on the respective tabs under Co-Curricular Activities (CCA) to explore our 4 different types of CCA.</strong>
+</p>
+<h3>2024 CCAs</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -128,7 +132,6 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_yueh_yong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yueh_yong_a@moe.edu.sg</a>
-<a href="mailto:lim_pei_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
