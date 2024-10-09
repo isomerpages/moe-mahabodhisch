@@ -25,8 +25,13 @@ sportsmanship are key. The CCA also fosters leadership, resilience, and
 camaraderie through team-building activities and friendly matches.</p>
 <p></p>
 <h4>Tchoukball</h4>
-<p><em>More details coming soon.</em>
-</p>
+<p>Tchoukball is a team sport that combines elements of handball and volleyball.
+Played on a rectangular court with two rebound frames at either end, teams
+score by throwing a ball at the frames. If the ball bounces off the frame
+and touches the ground within the scoring area, the team earns points.
+The game emphasizes fair play and teamwork, with no physical contact allowed.
+It encourages strategic play and quick reflexes. Tchoukball is suitable
+for all ages and promotes inclusivity and cooperation</p>
 <p></p>
 <h4>Wushu and Lion Dance</h4>
 <p>For new Primary 3 pupils, pupils will be exposed to both Wushu and Lion
