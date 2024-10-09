@@ -1,8 +1,9 @@
 ---
-title: Co curricular Activities (CCA)
-permalink: /departments/Co-curricular-Activities/
+title: CCAs in MBS
+permalink: /departments/co-curricular-activities/
 description: ""
 variant: tiptap
+third_nav_title: Co Curricular Activities (CCA)
 ---
 <h2>Co-curricular Activities</h2>
 <p>Participation in Co-Curricular Activities (CCAs) in our school is an integral
