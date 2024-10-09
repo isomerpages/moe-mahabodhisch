@@ -20,4 +20,4 @@ the importance of teamwork, responsibility, and respect for others.</p>
 <p>These experiences not only prepare them for future adventures in scouting
 but also instill values that shape them into conscientious and capable
 individuals.</p>
-<p>After all, our motto reminds us to always "Be Prepared"</p>
+<p>After all, our motto reminds us to always "Be Prepared".</p>
