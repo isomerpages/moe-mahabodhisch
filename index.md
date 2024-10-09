@@ -9,6 +9,12 @@ sections:
   - hero:
       background: /images/gif_banner_mbs.gif
       variant: center
+  - infobar:
+      title: SLS V2 R2 System Upgrade Announcement
+      id: infobar
+      description: Student Learning Space
+      button: Click here
+      url: /sls-v2-r2-system-upgrade-announcement/
   - infopic:
       title: 浸濡活动之慈小与菩提狮城交流计划
       id: infopic
@@ -34,10 +40,4 @@ sections:
       alt: Image alt text
       description: We warmly welcome our former students to visit their teachers on 29
         August from 11.00am to 12.30pm.
-  - infobar:
-      title: SLS V2 R2 System Upgrade Announcement
-      id: infobar
-      description: Student Learning System
-      button: Click here
-      url: /sls-v2-r2-system-upgrade-announcement/
 ---
