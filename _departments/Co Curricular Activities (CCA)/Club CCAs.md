@@ -22,14 +22,14 @@ that help us understand how to protect the Earth. Through these activities,
 the club encourages teamwork, creativity, and a passion for making a positive
 impact on our environment.</p>
 <p></p>
-<h4>HOMEC</h4>
+<h4>HOMEC &amp; Service Club</h4>
 <p>Be Empowered! Home Economics students acquire homemaking information and
 skills that are helpful in daily life. Homec is also a platform for pupils
-to embark on simple yet authentic and purposeful projects. Pupils show
-gratitude towards the teachers and showed appreciation to nature as we
-collaborated with Herbs Garden CCA. Homec aims to further spread our love
-and care towards the community and through such acts, we hope to empower
-and be empowered.</p>
+to embark on simple yet authentic and purposeful projects.</p>
+<p>Pupils show gratitude towards the teachers and showed appreciation to
+nature as we collaborated with Herbs Garden CCA. Homec aims to further
+spread our love and care towards the community and through such acts, we
+hope to empower and be empowered.</p>
 <p></p>
 <h4>Robotics and Infocomm Club</h4>
 <p><em>Stay tuned for more details.</em>
