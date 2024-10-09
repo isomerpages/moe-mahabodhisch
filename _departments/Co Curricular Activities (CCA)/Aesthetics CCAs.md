@@ -7,12 +7,17 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 <h3>Let's learn more about the respective Aesthetics CCAs that are available in MBS.</h3>
 <p></p>
+<p><strong>Please note that Aesthetics CCAs may require additional an additional practice sessions on weeks leading up to a performance.</strong>
+</p>
 <h4>Concert Band</h4>
 <p>In the concert band, pupils learn to play various wind, brass, and percussion
 instruments while developing their musical skills and discipline. They
 gain experience reading music, working as a team, and following a conductor.
 Pupils also get the chance to perform in school concerts and competitions,
 building confidence and a sense of accomplishment.</p>
+<p></p>
+<p><strong>Note: Pupils in Band CCA are required to attend 2 sessions a week - Sectional and Combined</strong>
+</p>
 <p></p>
 <h4>Chinese Orchestra</h4>
 <p>The Chinese Orchestra is a vibrant CCA in our primary school, providing
@@ -24,7 +29,10 @@ musical skills, discipline, and teamwork. The Chinese Orchestra also fosters
 cultural appreciation and understanding among pupils, promoting diversity
 and inclusivity within the school community. By participating in the Chinese
 Orchestra, pupils develop confidence, creativity, and a lifelong appreciation
-for music and the arts</p>
+for music and the arts.</p>
+<p></p>
+<p><strong>Note: Pupils in Chinese Orchestra CCA are required to attend 2 sessions a week - Sectional and Combined.</strong>
+</p>
 <p></p>
 <h4>Choir</h4>
 <p>Maha Bodhi School Choir is a dedicated and vibrant choir of enthusiastic
