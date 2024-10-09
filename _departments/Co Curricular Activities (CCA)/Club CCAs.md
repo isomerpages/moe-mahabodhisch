@@ -77,8 +77,30 @@ for the Arts while promoting friendship and collaboration among pupils.</p>
 <p><em>Stay tuned for more details.</em>
 </p>
 <h4>Chinese Cultural Club</h4>
-<p><em>Exciting changes are coming to our Chinese Cultural Club and will be updated soon.</em>
+<p>Chinese Cultural Club is a new CCA combining 5 aspects of the Chinese
+Culture.
+<br>
 </p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Herbs Gardening</p>
+</li>
+<li>
+<p>Tea Appreciation</p>
+</li>
+<li>
+<p>Chinese Opera</p>
+</li>
+<li>
+<p>Chinese Calligraphy and Brush Painting</p>
+</li>
+<li>
+<p>Chinese Chess</p>
+</li>
+</ol>
+<p>Primary 3 pupils will be able to experience all 5 aspects above in 2025.
+Following that, pupils will be invited to continue with the different CCAs
+in Primary 4 onwards.</p>
 <h4><em>Robotics</em></h4>
 <p><em>Stay tuned for more details</em>
 </p>
