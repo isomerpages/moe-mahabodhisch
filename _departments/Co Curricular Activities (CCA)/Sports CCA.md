@@ -8,6 +8,9 @@ third_nav_title: Co Curricular Activities (CCA)
 <h4></h4>
 <h3>Let's learn more about the respective Sports CCAs that are available in MBS.</h3>
 <p></p>
+<p>Please note that Sport CCAs may require additional an additional practice
+day on weeks leading to a competition.</p>
+<p></p>
 <h4>Basketball</h4>
 <p>Our MBS Basketball CCA offers students a chance to develop fundamental
 skills, teamwork, and sportsmanship through engaging practices and games.
