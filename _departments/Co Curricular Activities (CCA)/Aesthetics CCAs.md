@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<p>Let's learn more about the respective Aesthetics CCAs that are available
-in MBS.</p>
+<h3>Let's learn more about the respective Aesthetics CCAs that are available in MBS.</h3>
 <p></p>
 <h4>Concert Band</h4>
 <p>In the concert band, pupils learn to play various wind, brass, and percussion
@@ -28,8 +27,16 @@ Orchestra, pupils develop confidence, creativity, and a lifelong appreciation
 for music and the arts</p>
 <p></p>
 <h4>Choir</h4>
-<p><em>Stay tuned for more details.</em>
-</p>
+<p>Maha Bodhi School Choir is a dedicated and vibrant choir of enthusiastic
+children aged 8 to 12, whose passion for singing radiates in every performance.
+With their bright smiles and boundless energy, they bring a joyful spirit
+to every rehearsal, blending their voices in a colorful tapestry of sound.
+These young performers embrace the magic of music, captivating audiences
+with their infectious enthusiasm and heartfelt harmonies. Together, they
+not only cultivate their talents but also forge lasting friendships, making
+each performance a celebration of creativity and camaraderie. Their commitment
+shines through as they put in extra hours to tackle challenging pieces,
+supporting one another in a spirit of teamwork and friendship.</p>
 <p></p>
 <h4>Guzheng</h4>
 <p>The guzheng is a traditional Chinese string instrument known for its beautiful,
