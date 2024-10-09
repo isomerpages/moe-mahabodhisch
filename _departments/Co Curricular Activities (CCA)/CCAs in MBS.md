@@ -11,10 +11,18 @@ part of our pupils’ holistic education experience. We offer our pupils
 a range of CCAs to develop them in the moral, academic, physical, social,
 aesthetic and leadership domains, as well as inculcate values and life
 skills.</p>
+<p></p>
+<h4><strong>Administrative Matters.</strong></h4>
 <p>Our CCAs are generally carried out only <strong>on</strong>  <strong>Thursdays from 2 p.m. to 4 p.m</strong>.
-For CCAs that requires extra or sectional training, another day will be
+Pupils may refer to the Calendar of Events to identify weeks with CCA on
+Thursdays.</p>
+<p></p>
+<p>For CCAs that requires extra or sectional training, another day will be
 allocated. Parents will be notified via Parents Gateway by the OIC of the
 CCA respectively.</p>
+<p></p>
+<p>Pupils in Maha Bodhi are only allowed 1 CCA at a time.</p>
+<p></p>
 <p>If you need more information about the various CCAs, you may email the
 teachers-in-charge.</p>
 <p>For administrative matters related to CCAs, you may email our Subject
