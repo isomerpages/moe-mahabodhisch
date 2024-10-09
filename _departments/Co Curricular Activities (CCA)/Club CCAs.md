@@ -5,6 +5,38 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+<h4>Chinese Cultural Club</h4>
+<p>Chinese Cultural Club is a new CCA that combines 4 CCAs representing the
+different aspects of the Chinese Culture.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Herbs Gardening and Tea Appreciation</p>
+</li>
+<li>
+<p>Chinese Opera</p>
+</li>
+<li>
+<p>Chinese Calligraphy and Brush Painting</p>
+</li>
+<li>
+<p>Chinese Chess</p>
+</li>
+</ol>
+<p>Primary 3 pupils will be able to experience all 4 aspects in 2025.</p>
+<p>Following that, pupils will be invited to continue with the different
+CCAs in Primary 4 onwards.</p>
+<p></p>
+<p><strong>Chinese Calligraphy</strong>
+</p>
+<p>Students can learn the traditional Chinese arts of calligraphy and ink
+painting. Through calligraphy, they practice writing Chinese characters
+with brush and ink, improving their handwriting and learning about the
+beauty of Chinese script. This activity helps develop patience and focus.
+In ink painting, students use brushes to create expressive paintings, often
+inspired by nature and Chinese culture. They learn to balance ink tones,
+brush strokes, and composition. These activities not only teach artistic
+skills but also deepen students’ understanding of Chinese culture and foster
+creativity and self-expression</p>
 <h4>Art Club</h4>
 <p>The Art Club is a vibrant space for creativity and collaboration, encouraging
 members to express themselves and connect through different forms. Different
@@ -22,7 +54,7 @@ that help us understand how to protect the Earth. Through these activities,
 the club encourages teamwork, creativity, and a passion for making a positive
 impact on our environment.</p>
 <p></p>
-<h4>HOMEC &amp; Service Club</h4>
+<h4>HOMEC Service Club</h4>
 <p>Be Empowered! Home Economics students acquire homemaking information and
 skills that are helpful in daily life. Homec is also a platform for pupils
 to embark on simple yet authentic and purposeful projects.</p>
@@ -32,9 +64,27 @@ spread our love and care towards the community and through such acts, we
 hope to empower and be empowered.</p>
 <p></p>
 <h4>Robotics and Infocomm Club</h4>
-<p><em>Stay tuned for more details.</em>
+<p>P3 pupils will be exposed general coding in Primary 3 before being channeled
+to either Robotics or Infocomm Club in Primary 4.
+<br>
+<br><strong>Infocomm Club</strong>
 </p>
+<p>The Infocomm Club teaches members basic coding using tools like Scratch,
+allowing them to learn programming fundamentals in a fun, interactive way.
+As members gain experience, they create their own games and projects. Senior
+members have the opportunity to present their creations at competitions,
+developing both their coding skills and teamwork abilities in a supportive
+environment.</p>
 <p></p>
+<p><strong>Robotics</strong>
+</p>
+<p>The Robotics Club uses Spike Prime which allows students to build and
+program interactive robots with LEGO bricks, sensors, motors and a range
+of building components. It is a robotics kit designed for education, combining
+programmable hardware with a user-friendly interface. Students can learn
+coding through block-based and text-based programming environment, enhancing
+their problem-solving skills. This hands-on approach fosters creativity
+and teamwork in robotics</p>
 <h4>Journalism and Videography CCA</h4>
 <p>The Journalism and Videography CCA teaches media literacy, videography,
 and journalism skills. Students learn responsible media use and digital
@@ -45,16 +95,7 @@ communication, with students writing scripts, narrating, or hosting videos.
 These skills are applied in projects like school event coverage and competitions.
 This CCA fosters creativity, confidence, and public speaking.</p>
 <p></p>
-<h4>Chinese Calligraphy</h4>
-<p>Students can learn the traditional Chinese arts of calligraphy and ink
-painting. Through calligraphy, they practice writing Chinese characters
-with brush and ink, improving their handwriting and learning about the
-beauty of Chinese script. This activity helps develop patience and focus.
-In ink painting, students use brushes to create expressive paintings, often
-inspired by nature and Chinese culture. They learn to balance ink tones,
-brush strokes, and composition. These activities not only teach artistic
-skills but also deepen students’ understanding of Chinese culture and foster
-creativity and self-expression</p>
+<h4></h4>
 <p></p>
 <h4>Library Club</h4>
 <p>Pupil librarians in a MBS play an important role in managing and maintaining
@@ -72,36 +113,6 @@ to acting and storytelling through engaging group activities and performances.
 Over time, pupils gain confidence, hone communication skills and learn
 to express their thoughts and ideas with ease. The club fosters a love
 for the Arts while promoting friendship and collaboration among pupils.</p>
-<p></p>
-<h4>Chinese Chess</h4>
-<p><em>Stay tuned for more details.</em>
-</p>
-<h4>Chinese Cultural Club</h4>
-<p>Chinese Cultural Club is a new CCA combining 5 aspects of the Chinese
-Culture.
-<br>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Herbs Gardening</p>
-</li>
-<li>
-<p>Tea Appreciation</p>
-</li>
-<li>
-<p>Chinese Opera</p>
-</li>
-<li>
-<p>Chinese Calligraphy and Brush Painting</p>
-</li>
-<li>
-<p>Chinese Chess</p>
-</li>
-</ol>
-<p>Primary 3 pupils will be able to experience all 5 aspects above in 2025.
-Following that, pupils will be invited to continue with the different CCAs
-in Primary 4 onwards.</p>
-<h4><em>Robotics</em></h4>
-<p><em>Stay tuned for more details</em>
-</p>
+<h4></h4>
+<h4></h4>
 <p></p>
