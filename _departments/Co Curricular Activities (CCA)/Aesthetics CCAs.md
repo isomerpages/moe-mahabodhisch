@@ -9,7 +9,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p></p>
 <p><strong>Please note that Aesthetics CCAs may require additional an additional practice sessions on weeks leading up to a performance.</strong>
 </p>
-<h4>Concert Band</h4>
+<h4><strong>Concert Band</strong></h4>
 <p>In the concert band, pupils learn to play various wind, brass, and percussion
 instruments while developing their musical skills and discipline. They
 gain experience reading music, working as a team, and following a conductor.
@@ -19,7 +19,7 @@ building confidence and a sense of accomplishment.</p>
 <p><strong>Note: Pupils in Band CCA are required to attend 2 sessions a week - Sectional and Combined</strong>
 </p>
 <p></p>
-<h4>Chinese Orchestra</h4>
+<h4><strong>Chinese Orchestra</strong></h4>
 <p>The Chinese Orchestra is a vibrant CCA in our primary school, providing
 pupils with opportunity to explore traditional Chinese music and culture.
 Under the guidance of experienced instructors, pupils can learn to play
@@ -34,7 +34,7 @@ for music and the arts.</p>
 <p><strong>Note: Pupils in Chinese Orchestra CCA are required to attend 2 sessions a week - Sectional and Combined.</strong>
 </p>
 <p></p>
-<h4>Choir</h4>
+<h4><strong>Choir</strong></h4>
 <p>Maha Bodhi School Choir is a dedicated and vibrant choir of enthusiastic
 children aged 8 to 12, whose passion for singing radiates in every performance.
 With their bright smiles and boundless energy, they bring a joyful spirit
@@ -46,7 +46,7 @@ each performance a celebration of creativity and camaraderie. Their commitment
 shines through as they put in extra hours to tackle challenging pieces,
 supporting one another in a spirit of teamwork and friendship.</p>
 <p></p>
-<h4>Guzheng</h4>
+<h4><strong>Guzheng</strong></h4>
 <p>The guzheng is a traditional Chinese string instrument known for its beautiful,
 resonant sound and versatility.
 <br>
@@ -54,7 +54,7 @@ resonant sound and versatility.
 music. Mastering its techniques, selecting appropriate pieces, and exhibiting
 showmanship are essential for creating a captivating performance.</p>
 <p></p>
-<h4>Chinese Dance</h4>
+<h4><strong>Chinese Dance</strong></h4>
 <p>Chinese Dance is a performing art that provides pleasure for both performers
 and audiences. The members are exposed to both traditional and contemporary
 Chinese dances. The weekly training develops flexibility, stamina, self-management,
