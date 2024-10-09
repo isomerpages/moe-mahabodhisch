@@ -29,6 +29,9 @@ camaraderie through team-building activities and friendly matches.</p>
 </p>
 <p></p>
 <h4>Wushu and Lion Dance</h4>
+<p>For new Primary 3 pupils, pupils will be exposed to both Wushu and Lion
+Dance in 2025. Pupils will then be invited to join the respective CCA in
+Primary 4 onwards.</p>
 <p><strong>Wushu</strong>
 </p>
 <p>Wushu is a traditional Chinese martial art that emphasizes both performance
