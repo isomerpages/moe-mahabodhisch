@@ -7,7 +7,7 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 <h3>Let's learn more about our Scouts CCA in MBS</h3>
 <p></p>
-<h4>Scouts</h4>
+<h4><strong>Scouts</strong></h4>
 <p>As a uniformed group, our Cub Scouts are expected to uphold a strong sense
 of discipline, which serves as the cornerstone for learning and mastering
 scouting skills. Cubs develop practical skills like first aid, outdoor
