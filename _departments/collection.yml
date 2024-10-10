@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - ICT.md
       - English/.keep
       - English/Department Goals.md
       - English/Programmes.md
