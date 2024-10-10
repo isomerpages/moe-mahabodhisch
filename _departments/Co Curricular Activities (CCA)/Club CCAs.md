@@ -64,13 +64,7 @@ to embark on simple yet authentic and purposeful projects.</p>
 nature as we collaborated with Herbs Garden CCA. Homec aims to further
 spread our love and care towards the community and through such acts, we
 hope to empower and be empowered.</p>
-<p></p>
-<h4><strong>Robotics and Infocomm Club</strong></h4>
-<p>P3 pupils will be exposed general coding in Primary 3 before being channeled
-to either Robotics or Infocomm Club in Primary 4.
-<br>
-<br><strong>Infocomm Club</strong>
-</p>
+<h4><br><strong>Infocomm Club</strong></h4>
 <p>The Infocomm Club teaches members basic coding using tools like Scratch,
 allowing them to learn programming fundamentals in a fun, interactive way.
 As members gain experience, they create their own games and projects. Senior
@@ -78,15 +72,15 @@ members have the opportunity to present their creations at competitions,
 developing both their coding skills and teamwork abilities in a supportive
 environment.</p>
 <p></p>
-<p><strong>Robotics</strong>
-</p>
+<h4><strong>Robotics</strong></h4>
 <p>The Robotics Club uses Spike Prime which allows students to build and
 program interactive robots with LEGO bricks, sensors, motors and a range
 of building components. It is a robotics kit designed for education, combining
 programmable hardware with a user-friendly interface. Students can learn
 coding through block-based and text-based programming environment, enhancing
 their problem-solving skills. This hands-on approach fosters creativity
-and teamwork in robotics</p>
+and teamwork in robotics.</p>
+<p></p>
 <h4><strong>Journalism and Videography CCA</strong></h4>
 <p>The Journalism and Videography CCA teaches media literacy, videography,
 and journalism skills. Students learn responsible media use and digital
