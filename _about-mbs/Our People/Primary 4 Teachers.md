@@ -36,7 +36,8 @@ variant: tiptap
 <br>(P4 AYH/Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>seah_yee_ping_clifford@moe.edu.sg</p>
+<p><a href="mailto:clifford_seah_yee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clifford_seah_yee_ping@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
