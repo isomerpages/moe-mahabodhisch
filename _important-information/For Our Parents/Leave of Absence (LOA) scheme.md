@@ -3,6 +3,7 @@ title: Leave of Absence (LOA) scheme
 permalink: /important-information/For-Our-Parents/LOA/
 description: ""
 third_nav_title: For Our Parents
+variant: markdown
 ---
 ## Leave of Absence (LOA) Scheme 
 
@@ -16,5 +17,4 @@ The school will provide support in the following areas to ease your child’s  
 *   **Academic**: Major test and examination papers with answers, where appropriate, on a regular basis, and access to [Student Learning Space (SLS)](https://www.moe.gov.sg/education-in-sg/student-learning-space) portal that enables your child to keep up-to-date with our national curriculum.
 *   **Relationship**: Developments in the school and local education scene.
 
-To apply, please complete the online application form at [https://go.gov.sg/mbs-loa](https://go.gov.sg/mbs-loa)
-
+To apply, please complete the online application form at [https://go.gov.sg/mbs-leaveofabsence](https://go.gov.sg/mbs-leaveofabsence)
