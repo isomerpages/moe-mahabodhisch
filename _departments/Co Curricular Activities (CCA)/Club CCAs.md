@@ -24,9 +24,38 @@ different aspects of the Chinese Culture.</p>
 <p>Chinese Chess</p>
 </li>
 </ol>
-<p>Primary 3 pupils will be able to experience all 4 aspects in 2025.</p>
+<p>Primary 3 pupils will be able to experience all 4 aspects in 2025. These
+programmes allow students to explore different aspects of Chinese heritage,
+encouraging them to take pride in their roots while cultivating important
+life skills.</p>
 <p>Following that, pupils will be invited to continue with the different
 CCAs in Primary 4 onwards.</p>
+<p></p>
+<p><strong>Herb Gardening</strong>
+</p>
+<p>Students get hands-on experience in cultivating a variety of Chinese herbs.
+They learn about the medicinal and culinary uses of each herb, fostering
+an appreciation for the natural world and sustainable living. Through this
+program, students develop patience, responsibility, and an understanding
+of traditional Chinese medicine.</p>
+<p></p>
+<p></p>
+<p><strong>Tea Appreciation</strong>
+</p>
+<p>This program introduces students to the rich heritage of Chinese tea culture.
+Participants explore different types of Chinese teas, learn about the history
+and significance of tea ceremonies, and practice the art of brewing and
+serving tea. The calm and mindful nature of tea appreciation promotes focus,
+relaxation, and respect for tradition.</p>
+<p></p>
+<p><strong>Chinese Opera</strong>
+</p>
+<p>A vibrant and expressive component of our CCA, the Chinese Opera program
+immerses students in the world of traditional Chinese performing arts.
+Students gain experience in acting, singing, and performing operatic movements
+while wearing colorful costumes and makeup. Through Chinese Opera, students
+develop confidence, teamwork, and a deep connection to Chinese history
+and culture.</p>
 <p></p>
 <p><strong>Chinese Calligraphy</strong>
 </p>
