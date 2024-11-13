@@ -89,25 +89,26 @@ to apply as MOE FAS will be auto-granted to ComCare beneficiaries.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>GIRO APPLICATION</strong>
+<p><strong><u>GIRO APPLICATION</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>DBS/POSB, OCBC, UOB, HSBC, Standard Chartered Bank, Bank of China, Maybank</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>For payment of Standard Miscellaneous Fee, enrichment programmes, school
 charges and national examination fees via GIRO.</p>
+<p></p>
+<p>Please note that the following cannot be used :</p>
+<p>(a) Industrial Commercial Bank of China (ICBC)</p>
+<p>(b) Child Development Account (Baby Bonus Scheme)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><u>DBS/POSB, OCBC, UOB, HSBC, Standard Chartered Bank, Bank of China, Maybank</u></strong>
+</p>
+<p></p>
 <p>Please apply online via eGIRO at <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
 </p>
+<p></p>
+<p>Please click <a href="/files/MOEEGIROUSERGUIDE.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>
+<a href="/files/user%20guide%20for%20egiro%20application%20as%20at%204th%20sep%202023.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>to download the eGIRO User Guide.</p>
 </td>
 </tr>
 <tr>
@@ -118,19 +119,7 @@ charges and national examination fees via GIRO.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/user%20guide%20for%20egiro%20application%20as%20at%204th%20sep%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE </a>to
-download the eGIRO User Guide.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please note that the following cannot be used :</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(a) Industrial Commercial Bank of China (ICBC)</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +130,30 @@ download the eGIRO User Guide.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(b) Child Development Account (Baby Bonus Scheme)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
