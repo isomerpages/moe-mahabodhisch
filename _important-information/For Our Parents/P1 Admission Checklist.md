@@ -123,8 +123,14 @@ school General Office (Mon to Fri 8am to 5pm).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>STUDENT DETAILS FORM (From 25 November 2024 onwards)</strong>
+<p><strong><u>STUDENT DETAILS FORM</u>  (From 25 November 2024 onwards)</strong>
 </p>
+<p></p>
+<p>The submission of this form is crucial for updating your child’s record
+in the MOE student database.</p>
+<p></p>
+<p>As such, this student record update is compulsory and must be completed
+before the start of the academic year in 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please submit the required details at (SingPass Login required) <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a> from
@@ -133,39 +139,21 @@ school General Office (Mon to Fri 8am to 5pm).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The submission of this form is crucial for updating your child’s record
-in the MOE student database.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>As such, this student record update is compulsory and must be completed
-before the start of the academic year in 2024.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>(5)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>PURCHASE OF SCHOOL TEXTBOOKS</strong>
+<p><strong><u>PURCHASE OF SCHOOL TEXTBOOKS</u></strong>
 </p>
+<p></p>
+<p><strong>If you are applying for MOE Financial Assistance Scheme (FAS):</strong>
+</p>
+<p>Please wait for the outcome of your MOE FAS application first before you
+purchase the school textbooks.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please download the <a href="/files/2024%20p1%20school%20textbooks%20list.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Textbook List</a> and
+<p>Please download the <a href="/files/MBS_Booklist_2025__P1_.pdf" rel="noopener nofollow" target="_blank">P1 Textbook List</a> and
 read the ordering instructions carefully.</p>
 </td>
 </tr>
@@ -174,8 +162,7 @@ read the ordering instructions carefully.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>If you are applying for MOE Financial Assistance Scheme (FAS):</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -186,8 +173,7 @@ read the ordering instructions carefully.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Please wait for the outcome of your MOE FAS application first before
-you purchase the school textbooks.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
