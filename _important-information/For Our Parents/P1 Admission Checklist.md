@@ -109,74 +109,10 @@ charges and national examination fees via GIRO.</p>
 <p></p>
 <p>Please click <a href="/files/MOEEGIROUSERGUIDE.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE </a>to
 download the eGIRO User Guide.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Other banks</strong>
+<p><strong><u>Other banks</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please click <a href="/files/to%20join%20giro%20with%20moe,%20bank%20account%20holder%20can%20use%20the%20following%20methods%20below.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> to
+<p>Please click <a href="/files/giro_application_for_m_apr2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> to
 download the GIRO application form and submit the completed form to the
 school General Office (Mon to Fri 8am to 5pm).</p>
 </td>
