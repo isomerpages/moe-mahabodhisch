@@ -123,12 +123,12 @@ school General Office (Mon to Fri 8am to 5pm).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>STUDENT DETAILS FORM (From 28 November 2023 onwards)</strong>
+<p><strong>STUDENT DETAILS FORM (From 25 November 2024 onwards)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please submit the required details at (SingPass Login required) <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a> from
-28 November 2023 onwards.</p>
+25 November 2024 onwards.</p>
 </td>
 </tr>
 <tr>
