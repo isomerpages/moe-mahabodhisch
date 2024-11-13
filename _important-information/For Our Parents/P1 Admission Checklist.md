@@ -59,33 +59,20 @@ your child’s/ward’s Edusave account.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>(2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MOE FINANCIAL ASSISTANCE SCHEME (FAS) APPLICATION</strong>
+<p><strong><u>MOE FINANCIAL ASSISTANCE SCHEME (FAS) APPLICATION</u></strong>
+</p>
+<p></p>
+<p>Singapore Citizens in financial need can get assistance from MOE on school
+fees and other expenses.</p>
+<p></p>
+<p>For more information :</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Support under MOE FAS</u></a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">Financial Assistance Eligibility Checker</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,8 +85,7 @@ your child’s/ward’s Edusave account.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Citizens in financial need can get assistance from MOE on school
-fees and other expenses.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please note that if your child is a ComCare recipient, you do not need
