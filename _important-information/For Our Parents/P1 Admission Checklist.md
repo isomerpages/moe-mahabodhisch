@@ -123,7 +123,7 @@ school General Office (Mon to Fri 8am to 5pm).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>STUDENT DETAILS FORM</u>  (From 25 November 2024 onwards)</strong>
+<p><strong><u>STUDENT DETAILS FORM</u> (From 25 November 2024 onwards)</strong>
 </p>
 <p></p>
 <p>The submission of this form is crucial for updating your child’s record
