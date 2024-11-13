@@ -76,7 +76,7 @@ fees and other expenses.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please submit your application online (SingPass Login required) at <a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+<p>Please submit your application online (SingPass Login required) at <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
 <p></p>
 <p>Please note that if your child is a ComCare recipient, you do not need
