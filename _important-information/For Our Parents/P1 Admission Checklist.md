@@ -88,18 +88,6 @@ to apply as MOE FAS will be auto-granted to ComCare beneficiaries.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please note that if your child is a ComCare recipient, you do not need
-to apply as MOE FAS will be auto-granted to ComCare beneficiaries.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>For more information:</strong>
 </p>
 </td>
