@@ -85,31 +85,6 @@ to apply as MOE FAS will be auto-granted to ComCare beneficiaries.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>For more information:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/moe%20financial%20assistance%20scheme%20(fas)%202024%20v1.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Scheme (FAS) 2024</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance Eligibility Checker</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>(3)</strong>
 </p>
 </td>
