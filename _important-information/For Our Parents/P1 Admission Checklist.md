@@ -159,92 +159,41 @@ read the ordering instructions carefully.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>(6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>PURCHASE OF SCHOOL UNIFORM</strong>
+<p><strong><u>PURCHASE OF SCHOOL UNIFORM</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The vendor will be in the school to sell school uniforms from 9am to 3pm
-on 28 Nov, 29 Nov, 6 Dec and 11 Dec 2023.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>As all students are required to have their name tag sewn on their uniform
 on the 1st day of school, please ensure that you place your orders at
-<a href="http://www.shirleyuni.com/product/maha-bodhi-school-name-tags/" rel="noopener noreferrer nofollow" target="_blank">http://www.shirleyuni.com/product/maha-bodhi-school-name-tags/</a> <strong>latest by early November 2023</strong> to
+<a href="http://www.shirleyuni.com/product/maha-bodhi-school-name-tags/" rel="noopener noreferrer nofollow" target="_blank">http://www.shirleyuni.com/product/maha-bodhi-school-name-tags/</a> <strong>latest by early November 2024</strong> to
 allow sufficient time for the name tags to be embroidered.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Alternatively, you may wish to purchase online at www.shirleyuni.com or
-visit them at:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Shirley Season Address &amp; Operation Hours" src="/images/shirley%20season%20address%20&amp;%20operation%20hours.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>If you are applying for MOE Financial Assistance Scheme (FAS):</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>• Please proceed to order and pay for your child’s/ward’s name tag only.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>• For the rest (shirt, shorts, pinafore, PE attire and shoes), please
 wait for the outcome of your MOE FAS application first before you purchase
 them.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>The vendor will be in the school to sell school uniforms from 9am to 3pm
+on 19 Nov, 26 Nov, 29 Nov, 6 Dec and 10 Dec.</p>
 <p></p>
+<p>Alternatively, you may wish to purchase online at <a href="www.shirleyuni.com" rel="noopener nofollow" target="_blank">www.shirleyuni.com </a>or visit them at,</p>
+<p></p>
+<p>Shirley Season Wear</p>
+<p>NORTHSTAR</p>
+<p>7030 Ang Mo Kio Ave 5</p>
+<p>#04-55 (Lift Lobby 1)</p>
+<p>Singapore 569880</p>
+<p></p>
+<p><u>Operating Hours</u>
+</p>
+<p>Nov – 12noon to 6pm (Closed on Sun &amp; PH)</p>
+<p>Dec - 12noon to 6pm (Open Daily)</p>
 </td>
 </tr>
 <tr>
@@ -253,21 +202,28 @@ them.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SCHOOL BUS REGISTRATION</strong>
+<p><strong><u>SCHOOL BUS REGISTRATION</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please register online at <a href="https://docs.google.com/forms/d/e/1FAIpQLSeoHnH7vxE0-BMU_ixuLrWpSVXph42qqJZtcptBY_TNdMPuvQ/viewform" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/EriDn2Np1rHkfXn49</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>If you are applying for MOE Financial Assistance Scheme (FAS):</strong>
 </p>
+<p>Please wait for the outcome of your MOE FAS application first before you
+register for school bus service.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please register online at</p>
+<p><a href="https://forms.gle/cAAsP617NTT6d1sz9" rel="noopener nofollow" target="_blank">https://forms.gle/cAAsP617NTT6d1sz9</a>
+</p>
+<p></p>
+<p>Alternatively, you can call Ms Neo (8428 1061) or Mr Neo (6445 8088) for
+more information.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -278,12 +234,10 @@ them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Please wait for the outcome of your MOE FAS application first before
-you register for school bus service.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alternatively, you can call Ms Neo (8428 1061) or Mr Neo (6445 8088) for
-more information.</p>
+<p></p>
 </td>
 </tr>
 <tr>
