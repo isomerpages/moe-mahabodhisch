@@ -3,46 +3,238 @@ title: P1 Admission Checklist
 permalink: /important-information/for-our-parents/permalink/
 description: ""
 third_nav_title: For Our Parents
+variant: tiptap
 ---
-# **P1 Admission Checklist**
-
-A warm welcome to all parents/guardians of new P1 pupils entering Maha Bodhi School in 2024. 
-
-Before your child/ward begins his/her journey at Maha Bodhi School next year, here is the list of P1 admission related admin matters which preferably should be completed latest by **15 November 2023** before the start of the school term in 2024 (unless otherwise stated).
-
-You may wish to download the [P1 Admission Checklist](/files/school%20website%20lisa%20p1%20admission%20checklist%20dtd%202%20nov%202023.pdf) to check through that you have completed all the required item.
-
-
-| **No.**| **ITEM**| **INSTRUCTIONS**|
-| -------- | -------- | -------- | 
-| **(1)**| **EDUSAVE STANDING ORDER APPLICATION**| **Singapore Citizens**| |
-| | For payment of Standard Miscellaneous Fee and enrichment programmes using your child’s/ward’s Edusave account.| Please apply online via FormSG (SingPass login required) at [https://go.gov.sg/moe-edusave-signup](https://go.gov.sg/moe-edusave-signup)
-| |  | **Permanent Residents** |
-|  | | Please note that Permanent Residents are not eligible for Edusave deduction.  |  |
-| **(2)**| **MOE FINANCIAL ASSISTANCE SCHEME (FAS) APPLICATION**| Please submit your application online (SingPass Login required) at [https://go.gov.sg/moe-efas](https://form.gov.sg/64e2f8f73f582600139f54ac) |  |
-|    | Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses.| Please note that if your child is a ComCare recipient, you do not need to apply as MOE FAS will be auto-granted to ComCare beneficiaries.| |
-|  | **For more information:** | |
-|  | [MOE Financial Assistance Scheme (FAS) 2024](/files/moe%20financial%20assistance%20scheme%20(fas)%202024%20v1.pdf) | [Financial Assistance Eligibility Checker](https://www.moe.gov.sg/financial-matters/financial-assistance) |
-| **(3)**| **GIRO APPLICATION**| **DBS/POSB, OCBC, UOB, HSBC, Standard Chartered Bank, Bank of China, Maybank**|  |
-|  | For payment of Standard Miscellaneous Fee, enrichment programmes, school charges and national examination fees via GIRO.  |Please apply online via eGIRO  at [https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro) |
-|  | | Please click [HERE ](/files/user%20guide%20for%20egiro%20application%20as%20at%204th%20sep%202023.pdf) to download the eGIRO User Guide. |
-| |   Please note that the following cannot be used :  | (a) Industrial Commercial Bank of China (ICBC) | |
-|  | |(b) Child Development Account (Baby Bonus Scheme)  |
-|  |  | **Other banks** |
-|  |  | Please click [Here](/files/to%20join%20giro%20with%20moe,%20bank%20account%20holder%20can%20use%20the%20following%20methods%20below.pdf) to download the GIRO application form and submit the completed form to the school General Office (Mon to Fri 8am to 5pm). |
-| **(4)** | **STUDENT DETAILS FORM (From 28 November 2023 onwards)** | Please submit the required details at (SingPass Login required)  [https://pg.moe.edu.sg/forms/sdf](https://pg.moe.edu.sg/forms/sdf)  from 28 November 2023 onwards. |
-|  | The submission of this form is crucial for updating your child’s record in the MOE student database. |  |
-|  |  As such, this student record update is compulsory and must be completed before the start of the academic year in 2024. |  |
-| **(5)** | **PURCHASE OF SCHOOL TEXTBOOKS** | Please download the [P1 Textbook List](/files/2024%20p1%20school%20textbooks%20list.pdf) and read the ordering instructions carefully. |
-|  | **If you are applying for MOE Financial Assistance Scheme (FAS):**|  |
-|  | •	Please wait for the outcome of your MOE FAS application first before you purchase the school textbooks. |  |
-| **(6)**| **PURCHASE OF SCHOOL UNIFORM** | The vendor will be in the school to sell school uniforms from 9am to 3pm on 28 Nov, 29 Nov, 6 Dec and 11 Dec 2023. |
-|  | As all students are required to have their name tag sewn on their uniform on the 1st day of school, please ensure that you place your orders at [http://www.shirleyuni.com/product/maha-bodhi-school-name-tags/](http://www.shirleyuni.com/product/maha-bodhi-school-name-tags/) **latest by early November 2023** to allow sufficient time for the name tags to be embroidered. |Alternatively, you may wish to purchase online at www.shirleyuni.com or visit them at: ![Shirley Season Address & Operation Hours](/images/shirley%20season%20address%20&%20operation%20hours.jpg)
-|  | **If you are applying for MOE Financial Assistance Scheme (FAS):** |  |
-|  | •	Please proceed to order and pay for your child’s/ward’s name tag only. |  |
-|  | •	For the rest (shirt, shorts, pinafore, PE attire and shoes), please wait for the outcome of your MOE FAS application first before you purchase them. |
-| **(7)** | **SCHOOL BUS REGISTRATION** | Please register online at [https://forms.gle/EriDn2Np1rHkfXn49](https://docs.google.com/forms/d/e/1FAIpQLSeoHnH7vxE0-BMU_ixuLrWpSVXph42qqJZtcptBY_TNdMPuvQ/viewform) |
-|  | **If you are applying for MOE Financial Assistance Scheme (FAS):** |  |
-|  | •	Please wait for the outcome of your MOE FAS application first before you register for school bus service. | Alternatively, you can call Ms Neo (8428 1061) or Mr Neo (6445 8088) for more information. |
-| **(8)** | **ONLINE CONSENT FOR DENTAL SERVICES** **(from 2nd half of Dec 2023 onwards – Exact date to be advised later.)**  | Please submit your consent online at (SingPass Login required)  [https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal) from 2nd half of Dec 2023 onwards – Exact date to be advised later. |
-|  | Health Promotion Board (HPB) provides dental screening and basic dental treatments for students in schools. |  |
+<h1><strong>P1 Admission Checklist</strong></h1>
+<p>A warm welcome to all parents/guardians of new P1 pupils entering Maha
+Bodhi School in 2025.</p>
+<p>Before your child/ward begins his/her journey at Maha Bodhi School next
+year, here is the list of P1 admission related admin matters should be
+completed before the start of the school term in 2025 (unless otherwise
+stated).</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>No.</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>ITEM</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>INSTRUCTIONS</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>(1)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>EDUSAVE STANDING ORDER APPLICATION</u></strong>
+</p>
+<p>For payment of Standard Miscellaneous Fee and enrichment programmes using
+your child’s/ward’s Edusave account.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Singapore Citizens</u></strong>
+</p>
+<p>Please apply online via FormSG (SingPass login required) at <a href="https://go.gov.sg/moe-edusave-signup" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-edusave-signup</a>
+</p>
+<p></p>
+<p><strong><u>Permanent Residents</u></strong>
+</p>
+<p></p>
+<p>Please note that Permanent Residents are not eligible for Edusave deduction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>(2)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>MOE FINANCIAL ASSISTANCE SCHEME (FAS) APPLICATION</u></strong>
+</p>
+<p></p>
+<p>Singapore Citizens in financial need can get assistance from MOE on school
+fees and other expenses.</p>
+<p></p>
+<p>For more information :</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Support under MOE FAS</u></a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">Financial Assistance Eligibility Checker</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please submit your application online (SingPass Login required) at <a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+</p>
+<p></p>
+<p>Please note that if your child is a ComCare recipient, you do not need
+to apply as MOE FAS will be auto-granted to ComCare beneficiaries.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>(3)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>GIRO APPLICATION</u></strong>
+</p>
+<p></p>
+<p>For payment of Standard Miscellaneous Fee, enrichment programmes, school
+charges and national examination fees via GIRO.</p>
+<p></p>
+<p>Please note that the following cannot be used :</p>
+<p>(a) Industrial Commercial Bank of China (ICBC)</p>
+<p>(b) Child Development Account (Baby Bonus Scheme)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>DBS/POSB, OCBC, UOB, HSBC, Standard Chartered Bank, Bank of China, Maybank</u></strong>
+</p>
+<p></p>
+<p>Please apply online via eGIRO at <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
+</p>
+<p></p>
+<p>Please click <a href="/files/MOEEGIROUSERGUIDE.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE </a>to
+download the eGIRO User Guide.</p>
+<p></p>
+<p><strong><u>Other banks</u></strong>
+</p>
+<p>Please click <a href="/files/giro_application_for_m_apr2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> to
+download the GIRO application form and submit the completed form to the
+school General Office (Mon to Fri 8am to 5pm).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>(4)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>STUDENT DETAILS FORM</u> (From 25 November 2024 onwards)</strong>
+</p>
+<p></p>
+<p>The submission of this form is crucial for updating your child’s record
+in the MOE student database.</p>
+<p></p>
+<p>As such, this student record update is compulsory and must be completed
+before the start of the academic year in 2025.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please submit the required details at (SingPass Login required) <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a> from
+25 November 2024 onwards.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>(5)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>PURCHASE OF SCHOOL TEXTBOOKS</u></strong>
+</p>
+<p></p>
+<p><strong>If you are applying for MOE Financial Assistance Scheme (FAS):</strong>
+</p>
+<p>Please wait for the outcome of your MOE FAS application first before you
+purchase the school textbooks.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please download the <a href="/files/MBS_Booklist_2025__P1_.pdf" rel="noopener nofollow" target="_blank">P1 Textbook List</a> and
+read the ordering instructions carefully.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>(6)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>PURCHASE OF SCHOOL UNIFORM</u></strong>
+</p>
+<p></p>
+<p>As all students are required to have their name tag sewn on their uniform
+on the 1st day of school, please ensure that you place your orders at
+<a href="http://www.shirleyuni.com/product/maha-bodhi-school-name-tags/" rel="noopener noreferrer nofollow" target="_blank">http://www.shirleyuni.com/product/maha-bodhi-school-name-tags/</a> <strong>latest by early November 2024</strong> to
+allow sufficient time for the name tags to be embroidered.</p>
+<p></p>
+<p><strong>If you are applying for MOE Financial Assistance Scheme (FAS):</strong>
+</p>
+<p>• Please proceed to order and pay for your child’s/ward’s name tag only.</p>
+<p>• For the rest (shirt, shorts, pinafore, PE attire and shoes), please
+wait for the outcome of your MOE FAS application first before you purchase
+them.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The vendor will be in the school to sell school uniforms from 9am to 3pm
+on 19 Nov, 26 Nov, 29 Nov, 6 Dec and 10 Dec.</p>
+<p></p>
+<p>Alternatively, you may wish to purchase online at <a href="www.shirleyuni.com" rel="noopener nofollow" target="_blank">www.shirleyuni.com </a>or visit them at,</p>
+<p></p>
+<p>Shirley Season Wear</p>
+<p>NORTHSTAR</p>
+<p>7030 Ang Mo Kio Ave 5</p>
+<p>#04-55 (Lift Lobby 1)</p>
+<p>Singapore 569880</p>
+<p></p>
+<p><u>Operating Hours</u>
+</p>
+<p>Nov – 12noon to 6pm (Closed on Sun &amp; PH)</p>
+<p>Dec - 12noon to 6pm (Open Daily)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>(7)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>SCHOOL BUS REGISTRATION</u></strong>
+</p>
+<p><strong>If you are applying for MOE Financial Assistance Scheme (FAS):</strong>
+</p>
+<p>Please wait for the outcome of your MOE FAS application first before you
+register for school bus service.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please register online at</p>
+<p><a href="https://forms.gle/cAAsP617NTT6d1sz9" rel="noopener nofollow" target="_blank">https://forms.gle/cAAsP617NTT6d1sz9</a>
+</p>
+<p></p>
+<p>Alternatively, you can call Ms Neo (8428 1061) or Mr Neo (6445 8088) for
+more information.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>(8)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ONLINE CONSENT FOR DENTAL SERVICES</strong>  <strong>(from 2nd half of Dec 2024 onwards – Exact date to be advised later.)</strong>
+</p>
+<p></p>
+<p>Health Promotion Board (HPB) provides dental screening and basic dental
+treatments for students in schools.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please submit your consent online at <a href="https://consent.hpb.gov.sg/" rel="noopener nofollow" target="_blank">https://consent.hpb.gov.sg/</a> from
+2nd half of Dec 2024 onwards – Exact date to be advised later.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
