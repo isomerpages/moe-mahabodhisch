@@ -235,17 +235,6 @@ treatments for students in schools.</p>
 2nd half of Dec 2024 onwards – Exact date to be advised later.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
