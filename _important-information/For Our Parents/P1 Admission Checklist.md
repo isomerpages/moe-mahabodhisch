@@ -226,10 +226,13 @@ more information.</p>
 <td rowspan="1" colspan="1">
 <p><strong>ONLINE CONSENT FOR DENTAL SERVICES</strong>  <strong>(from 2nd half of Dec 2024 onwards – Exact date to be advised later.)</strong>
 </p>
+<p></p>
+<p>Health Promotion Board (HPB) provides dental screening and basic dental
+treatments for students in schools.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please submit your consent online at (SingPass Login required) <a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" rel="noopener noreferrer nofollow" target="_blank">https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal</a> from
-2nd half of Dec 2023 onwards – Exact date to be advised later.</p>
+<p>Please submit your consent online at <a href="https://consent.hpb.gov.sg/" rel="noopener nofollow" target="_blank">https://consent.hpb.gov.sg/</a> from
+2nd half of Dec 2024 onwards – Exact date to be advised later.</p>
 </td>
 </tr>
 <tr>
@@ -237,8 +240,7 @@ more information.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health Promotion Board (HPB) provides dental screening and basic dental
-treatments for students in schools.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
