@@ -107,8 +107,8 @@ charges and national examination fees via GIRO.</p>
 <p>Please apply online via eGIRO at <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
 </p>
 <p></p>
-<p>Please click <a href="/files/MOEEGIROUSERGUIDE.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>
-<a href="/files/user%20guide%20for%20egiro%20application%20as%20at%204th%20sep%202023.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>to download the eGIRO User Guide.</p>
+<p>Please click <a href="/files/MOEEGIROUSERGUIDE.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE </a>to
+download the eGIRO User Guide.</p>
 </td>
 </tr>
 <tr>
