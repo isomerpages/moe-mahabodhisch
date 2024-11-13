@@ -40,41 +40,21 @@ stated).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(1)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong><u>EDUSAVE STANDING ORDER APPLICATION</u></strong>
 </p>
-<p></p>
 <p>For payment of Standard Miscellaneous Fee and enrichment programmes using
 your child’s/ward’s Edusave account.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Singapore Citizens</u></strong>
 </p>
-<p></p>
 <p>Please apply online via FormSG (SingPass login required) at <a href="https://go.gov.sg/moe-edusave-signup" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-edusave-signup</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Permanent Residents</strong>
+<p><strong><u>Permanent Residents</u></strong>
 </p>
+<p></p>
+<p>Please note that Permanent Residents are not eligible for Edusave deduction</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +65,18 @@ your child’s/ward’s Edusave account.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please note that Permanent Residents are not eligible for Edusave deduction.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>.</p>
 </td>
 </tr>
 <tr>
