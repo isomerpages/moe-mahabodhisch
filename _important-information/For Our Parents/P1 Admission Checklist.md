@@ -182,8 +182,8 @@ them.</p>
 <p>The vendor will be in the school to sell school uniforms from 9am to 3pm
 on 19 Nov, 26 Nov, 29 Nov, 6 Dec and 10 Dec.</p>
 <p></p>
-<p>Alternatively, you may wish to purchase online at <a href="https://www.shirleyuni.com/" rel="noopener nofollow" target="_blank">www.shirleyuni.com </a>or visit them
-at,</p>
+<p>Alternatively, you may wish to purchase online at <a href="https://www.shirleyuni.com/" rel="noopener nofollow" target="_blank">https://www.shirleyuni.com/ </a>or visit
+them at,</p>
 <p></p>
 <p>Shirley Season Wear</p>
 <p>NORTHSTAR</p>
