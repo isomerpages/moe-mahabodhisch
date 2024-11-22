@@ -16,7 +16,7 @@ dun pin li xue
 |        |                                                                                  |
 |--------|----------------------------------------------------------------------------------|
 | 敦品 : | Steadfast in character. Learn to cultivate good behaviour with high moral value. |
-| 励学 : | Thirst for knowledge. The eagerness to learn and strive for perfection.          |
+| 励学 : | Thirst for knowledge. The eagerness to learn and strive for excellence.          |
 
 
 
@@ -49,7 +49,3 @@ The school is named “Maha Bodhi” because it aspires that all pupils of the s
 
 常凯法师 （BBM）<br>
 前任佛教总会主席
-
-
-
-
