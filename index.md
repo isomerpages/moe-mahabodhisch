@@ -12,7 +12,7 @@ sections:
   - infobar:
       title: Tribute to the late Mr Foo Soo Luang
       id: infobar
-      description: Maha Bodhi School Principal 1971- 1996
+      description: Maha Bodhi School Principal (1971- 1996)
       button: MORE
       url: https://www.mahabodhi.moe.edu.sg/tribute-to-the-late-mr-foo-soo-luang/
   - infopic:
