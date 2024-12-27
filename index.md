@@ -34,10 +34,10 @@ sections:
       alt: Image alt text
       description: We warmly welcome our former students to visit their teachers on 29
         August from 11.00am to 12.30pm.
-  - infopic:
+  - infobar:
       title: Tribute to the late Mr Foo Soo Luang
-      id: infopic
-      button: Button Text
-      image: /images/Mr_Foo_Soo_Luang.png
-      alt: Image alt text
+      id: infobar
+      description: Maha Bodhi School Principal 1971- 1996
+      button: MORE
+      url: https://www.mahabodhi.moe.edu.sg/tribute-to-the-late-mr-foo-soo-luang/
 ---
