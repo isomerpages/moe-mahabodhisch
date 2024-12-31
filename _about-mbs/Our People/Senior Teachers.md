@@ -23,14 +23,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Seah Kim Huah (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>seah_kim_huah@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Chan-Lim Pei Ee (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
