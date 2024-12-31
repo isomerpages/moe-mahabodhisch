@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - ICT.md
       - English/.keep
       - English/Department Goals.md
       - English/Programmes.md
@@ -17,25 +16,26 @@ collections:
       - Social Studies/Mission & Vision.md
       - Social Studies/Programmes.md
       - Social Studies/Social Studies Department.md
+      - Character & Citizenship (CCE)/.keep
+      - Character & Citizenship (CCE)/Mission & Vision.md
+      - Character & Citizenship (CCE)/Programmes.md
+      - Cyber Wellness/.keep
+      - Cyber Wellness/Developing your child to be a positive peer influence
+        online.md
+      - ICT.md
       - Physical Education/.keep
       - Physical Education/Mission & Vision.md
       - Physical Education/Guiding Principles.md
       - Physical Education/Programme for Active Learning.md
       - Physical Education/PE Curriculum.md
       - Physical Education/Safety is for Everyone.md
+      - Aesthetics/.keep
+      - Aesthetics/Mission & Vision.md
+      - Aesthetics/Programmes.md
+      - Aesthetics/Awards & Achievements.md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/CCAs in MBS.md
       - Co Curricular Activities (CCA)/Sports CCA.md
       - Co Curricular Activities (CCA)/Aesthetics CCAs.md
       - Co Curricular Activities (CCA)/Club CCAs.md
       - Co Curricular Activities (CCA)/Uniformed Group (Scouts).md
-      - Character & Citizenship (CCE)/.keep
-      - Character & Citizenship (CCE)/Mission & Vision.md
-      - Character & Citizenship (CCE)/Programmes.md
-      - Aesthetics/.keep
-      - Aesthetics/Mission & Vision.md
-      - Aesthetics/Programmes.md
-      - Aesthetics/Awards & Achievements.md
-      - Cyber Wellness/.keep
-      - Cyber Wellness/Developing your child to be a positive peer influence
-        online.md
