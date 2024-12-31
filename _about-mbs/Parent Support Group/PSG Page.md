@@ -88,10 +88,8 @@ Mr Delvin Ng Wei Han Secretary: Ms Joyce Yeo</p>
 <p>• Sean Kwek Sau Fong</p>
 <p>• Thea Tan</p>
 <p>• Tracie Lim</p>
-<ul data-tight="true" class="tight">
-<li>
 <p></p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Code of Ethics</strong>
 </p>
