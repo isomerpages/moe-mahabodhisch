@@ -144,6 +144,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Zhou Huimin, Rachel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Student Well Being</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Low Tian Chin Ivan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,6 +199,14 @@ variant: tiptap
 <p>Year Head / Middle Primary</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Yeo-Ang Hwee Pheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head/ Upper Primary</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Level Heads &amp; Subject Heads</h4>
@@ -222,6 +238,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>LH / Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Hui Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/ Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -286,14 +310,6 @@ variant: tiptap
 <p>Mrs Katheryn Pua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH / Primary 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Yeo-Ang Hwee Pheng</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>AYH / Primary 5</p>
 </td>
 </tr>
@@ -302,7 +318,15 @@ variant: tiptap
 <p>Mr Clifford Seah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (Internal) / Primary 4</p>
+<p>AYH (Internal) / Primary 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Nur Khadijah Bte Abdul Kadir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH (Internal) / Primary 2</p>
 </td>
 </tr>
 </tbody>
