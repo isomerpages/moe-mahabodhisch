@@ -87,14 +87,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Li Lian</p>
+<p>Mr Tay Kia Loong Claron</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Yap_Li_Lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Yap_Li_Lian@moe.edu.sg</a>
-</p>
+<p>tay_kia_loong_claron@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -106,18 +105,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sayedah_begum_peer_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sayedah_begum_peer_mohamed@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Ilham B Abu Bakar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE (UT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_ilham_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ilham_abu_bakar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
