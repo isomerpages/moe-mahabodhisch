@@ -259,7 +259,7 @@ variant: tiptap
 <p>Mrs Fann-Chew Hwee Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_hwee_cheng_mrs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_hwee_cheng_mrs@moe.edu.sg</a>
+<p><a href="mailto:fann_chew_hwee_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fann_chew_hwee_cheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
