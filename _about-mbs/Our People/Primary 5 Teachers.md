@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h2><strong>Primary 5 Teachers</strong></h2>
-<h4><strong>P5 Form Teachers (2024)</strong></h4>
+<h4><strong>P5 Form Teachers (2025)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
