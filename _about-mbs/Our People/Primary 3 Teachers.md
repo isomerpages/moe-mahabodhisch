@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h1><strong>Primary 3 Teachers</strong></h1>
-<h4><strong>P3 Form Teachers (2024)</strong></h4>
+<h4><strong>P3 Form Teachers (2025)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -44,7 +44,8 @@ variant: tiptap
 <p>Mr Clifford Seah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:clifford_seah_yee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clifford_seah_yee_ping@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

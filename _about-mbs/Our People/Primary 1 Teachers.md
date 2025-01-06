@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h1><strong>Primary 1 Teachers</strong></h1>
-<h4><strong>P1 Form Teachers (2024)</strong></h4>
+<h4><strong>P1 Form Teachers (2025)</strong></h4>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -307,7 +307,7 @@ variant: tiptap
 <p>Mdm Lee Eng Bee Angelia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:angelia_lee_eng-bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angelia_lee_eng-bee@moe.edu.sg</a>
+<p><a href="mailto:angelia_lee_eng_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angelia_lee_eng_bee@moe.edu.sg</a>
 </p>
 </td>
 </tr>

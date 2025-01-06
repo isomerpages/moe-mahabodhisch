@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h1><strong>Primary 2 Teachers</strong></h1>
-<h4><strong>P2 Form Teachers (2024)</strong></h4>
+<h4><strong>P2 Form Teachers (2025)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,7 +26,8 @@ variant: tiptap
 <p>Ms Ang Chew Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_chew_peng@moe.edu.sg</p>
+<p><a href="mailto:ang_chew_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chew_peng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +44,8 @@ variant: tiptap
 <p>Madam Nur Khadijah Bte Abdul Kadir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_khadijah_abd_kadir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_khadijah_abd_kadir@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
