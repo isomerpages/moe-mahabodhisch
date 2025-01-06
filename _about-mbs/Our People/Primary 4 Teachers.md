@@ -217,7 +217,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jacinda Ng Poh Sian</p>
-<p>Ms Tan Li Li (FAJT)</p>
+<p>Ms Tan Li Li</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_poh_sian_jacinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_poh_sian_jacinda@moe.edu.sg</a>
