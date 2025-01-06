@@ -23,15 +23,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang Hwee Pheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_hwee_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hwee_pheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Katheryn Pua</p>
 </td>
 <td rowspan="1" colspan="1">
