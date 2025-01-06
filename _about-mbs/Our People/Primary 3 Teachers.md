@@ -44,7 +44,8 @@ variant: tiptap
 <p>Mr Clifford Seah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:clifford_seah_yee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clifford_seah_yee_ping@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
