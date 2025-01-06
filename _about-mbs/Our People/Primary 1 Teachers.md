@@ -171,7 +171,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Le-Ting Chelsia (FAJT)</p>
+<p>Mdm Leong Le-Ting Chelsia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_leting_chelsia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_leting_chelsia@moe.edu.sg</a>
@@ -207,7 +207,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yin Jia Erica (FAJT)</p>
+<p>Ms Tan Yin Jia Erica</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yin_jia_erica_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yin_jia_erica_a@moe.edu.sg</a>
@@ -219,7 +219,7 @@ variant: tiptap
 <p><strong>P1 Generosity</strong>&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Gui Jia (FAJT)</p>
+<p>Mdm Ng Gui Jia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_gui_jia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_gui_jia_a@moe.edu.sg</a>
