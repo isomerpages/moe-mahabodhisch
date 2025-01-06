@@ -93,7 +93,8 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_kia_loong_claron@moe.edu.sg</p>
+<p><a href="mailto:tay_kia_loong_claron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kia_loong_claron@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
