@@ -168,7 +168,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sitoe Yew Sing (CAJT)</p>
+<p>Mr Sitoe Yew Sing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sitoe_yew_sing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sitoe_yew_sing@moe.edu.sg</a>
