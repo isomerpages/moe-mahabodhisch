@@ -181,7 +181,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Huan See Lai (FAJT)</p>
+<p>Mdm Huan See Lai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:huan_see_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huan_see_lai@moe.edu.sg</a>
