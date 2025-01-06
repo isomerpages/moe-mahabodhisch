@@ -307,7 +307,7 @@ variant: tiptap
 <p>Mdm Lee Eng Bee Angelia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:angelia_lee_eng-bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angelia_lee_eng-bee@moe.edu.sg</a>
+<p><a href="mailto:angelia_lee_eng_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angelia_lee_eng_bee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
