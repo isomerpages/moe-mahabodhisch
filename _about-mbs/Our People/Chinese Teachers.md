@@ -39,6 +39,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Madam Lin Hua</p>
+<p>林华老师</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1A , P5CL9</p>
@@ -60,7 +61,7 @@ variant: tiptap
 <br>马迎馨老师</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2A, P6CL9</p>
+<p>P2A, P4CL8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -266,6 +267,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Madam Huan See Lai</p>
+<p>范思蕊老师</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P2G, P5CL3</p>
@@ -417,6 +419,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ti Tat Hua</p>
+<p>郑达华老师</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1I, P5CL2</p>
