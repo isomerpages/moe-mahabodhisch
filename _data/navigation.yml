@@ -1,12 +1,12 @@
 logo: /images/schoollogo.jpg
 links:
-  - title: About MBS 认识菩提
+  - title: About MBS |  认识菩提
     collection: about-mbs
-  - title: Departments 部门与课程
+  - title: Departments | 部门与课程
     collection: departments
-  - title: School Events 菩提动态
+  - title: School Events | 菩提动态
     collection: school-events
   - title: Important Information 重要讯息
     collection: important-information
-  - title: Achievements 菩提荣誉
+  - title: Achievements | 菩提荣誉
     collection: achievements
