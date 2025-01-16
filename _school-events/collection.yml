@@ -2,7 +2,6 @@ collections:
   school-events:
     output: true
     order:
-      - Indian Dance SYF Showcase.md
       - Choir SYF Showcase.md
       - Prefects' Investiture.md
       - 2024 Events/Guzheng SYF Showcase.md
