@@ -2,7 +2,6 @@ collections:
   school-events:
     output: true
     order:
-      - Experiential Learning Week 2024.md
       - Chinese Dance SYF Showcase.md
       - Chinese Orchestra SYF Showcase.md
       - Symphonic Band SYF Showcase.md
