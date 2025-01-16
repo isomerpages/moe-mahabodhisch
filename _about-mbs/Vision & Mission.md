@@ -8,7 +8,7 @@ variant: markdown
 
 <img style="width: 55%;" src="/images/Vision-Mission_456x687.jpeg" align="left"> 
 
-**Our Vision 学校愿景**<br>
+**Our Vision 学校愿景**&lt;菩提远景及使命br&gt;
 Inspired learners of exemplary character<br>
 品德高尚的乐学者
 
