@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - 2024 Events/Prefects' Investiture.md
       - 2024 Events/Choir SYF Showcase.md
       - 2024 Events/Indian Dance SYF Showcase.md
       - 2024 Events/Guzheng SYF Showcase.md
