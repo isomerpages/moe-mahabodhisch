@@ -2,50 +2,48 @@ collections:
   school-events:
     output: true
     order:
-      - Teacher's Day Appreciation Wall 2024.md
-      - Immersion Programme with Tzu Chi Elementary School  浸濡活动之慈小与菩提狮城交流计划.md
-      - Experiential Learning Week 2024.md
-      - Chinese Dance SYF Showcase.md
-      - Chinese Orchestra SYF Showcase.md
-      - Symphonic Band SYF Showcase.md
-      - Guzheng SYF Showcase.md
-      - Indian Dance SYF Showcase.md
-      - Choir SYF Showcase.md
-      - Prefects' Investiture.md
-      - MBS Performances @ Singapore Buddhist Federation (SBF)’s Vesak Day
-        Celebration 2568.md
-      - 2023 Events/.keep
-      - 2019 to 2023 Events/.keep
-      - 2019 to 2023 Events/Experiential Learning Week 2023.md
-      - 2019 to 2023 Events/Prefects' Investiture 2023.md
-      - 2019 to 2023 Events/Chinese New Year 2023.md
-      - 2019 to 2023 Events/75th Anniversary.md
-      - 2019 to 2023 Events/National Day Award (The Public Service Star).md
-      - 2019 to 2023 Events/Visit from Second Minister for Education and Foreign
+      - 2024 Events/Prefects' Investiture.md
+      - 2024 Events/Choir SYF Showcase.md
+      - 2024 Events/Indian Dance SYF Showcase.md
+      - 2024 Events/Guzheng SYF Showcase.md
+      - 2024 Events/Symphonic Band SYF Showcase.md
+      - 2024 Events/Chinese Dance SYF Showcase.md
+      - 2024 Events/Chinese Orchestra SYF Showcase.md
+      - 2024 Events/Experiential Learning Week 2024.md
+      - 2024 Events/Immersion Programme with Tzu Chi Elementary
+        School  浸濡活动之慈小与菩提狮城交流计划.md
+      - 2024 Events/MBS Performances @ Singapore Buddhist Federation (SBF)’s
+        Vesak Day Celebration 2568.md
+      - 2024 Events/.keep
+      - Past Events/.keep
+      - Past Events/Experiential Learning Week 2023.md
+      - Past Events/Prefects' Investiture 2023.md
+      - Past Events/Chinese New Year 2023.md
+      - Past Events/75th Anniversary.md
+      - Past Events/National Day Award (The Public Service Star).md
+      - Past Events/Visit from Second Minister for Education and Foreign
         Affairs, Dr Mohamad Maliki Osman.md
-      - 2019 to 2023 Events/Outstanding Performance Awards Ceremony (OPAC)
-        2022.md
-      - 2019 to 2023 Events/Prefects’ Investiture 2022.md
-      - 2019 to 2023 Events/Makerspace Opening.md
-      - 2019 to 2023 Events/Khoo Chye Sheng Hong Temple 2020.md
-      - 2019 to 2023 Events/Singapore Buddhist Federation Vesak Celebration.md
-      - 2019 to 2023 Events/P4 Museum based Learning to National Gallery
-        Singapore.md
-      - 2019 to 2023 Events/MBS Performance for SBF CNY Get Together.md
-      - 2019 to 2023 Events/2019 SPSSC Basketball Competition.md
-      - 2019 to 2023 Events/2019 Primary 5 Camp.md
-      - 2019 to 2023 Events/2019 SPSSC Badminton Competition.md
-      - 2019 to 2023 Events/29th Award Ceremony for Academic Merit Awards (Lunar
-        New Year).md
-      - 2019 to 2023 Events/2019 School Visit.md
-      - 2019 to 2023 Events/2019 Primary 4 Swimsafer Programme.md
-      - 2019 to 2023 Events/West Spring Secondary School ‘Harmony 2019’ (2019).md
-      - 2019 to 2023 Events/Outstanding Performance Awards Ceremony 2019.md
-      - 2019 to 2023 Events/15th NTU Institutional Lion Dance Competition 2019.md
-      - 2019 to 2023 Events/2019 SPSSC Wushu National Competition.md
-      - 2019 to 2023 Events/Sakyadhita 25th Anniversary Charity.md
-      - 2019 to 2023 Events/National School Games 2019.md
-      - 2019 to 2023 Events/2019 Primary 3 Camp.md
-      - 2019 to 2023 Events/MBS Choir @ Singapore International Choral Festival
-        (SCIF) 2019.md
-      - 2019 to 2023 Events/MBS Choir @ SBL on 2 January 2020.md
+      - Past Events/Outstanding Performance Awards Ceremony (OPAC) 2022.md
+      - Past Events/Prefects’ Investiture 2022.md
+      - Past Events/Makerspace Opening.md
+      - Past Events/Khoo Chye Sheng Hong Temple 2020.md
+      - Past Events/Singapore Buddhist Federation Vesak Celebration.md
+      - Past Events/P4 Museum based Learning to National Gallery Singapore.md
+      - Past Events/MBS Performance for SBF CNY Get Together.md
+      - Past Events/2019 SPSSC Basketball Competition.md
+      - Past Events/2019 Primary 5 Camp.md
+      - Past Events/2019 SPSSC Badminton Competition.md
+      - Past Events/29th Award Ceremony for Academic Merit Awards (Lunar New
+        Year).md
+      - Past Events/2019 School Visit.md
+      - Past Events/2019 Primary 4 Swimsafer Programme.md
+      - Past Events/West Spring Secondary School ‘Harmony 2019’ (2019).md
+      - Past Events/Outstanding Performance Awards Ceremony 2019.md
+      - Past Events/15th NTU Institutional Lion Dance Competition 2019.md
+      - Past Events/2019 SPSSC Wushu National Competition.md
+      - Past Events/Sakyadhita 25th Anniversary Charity.md
+      - Past Events/National School Games 2019.md
+      - Past Events/2019 Primary 3 Camp.md
+      - Past Events/MBS Choir @ Singapore International Choral Festival (SCIF)
+        2019.md
+      - Past Events/MBS Choir @ SBL on 2 January 2020.md
