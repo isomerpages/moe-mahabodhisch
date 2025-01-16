@@ -2,7 +2,6 @@ collections:
   school-events:
     output: true
     order:
-      - Symphonic Band SYF Showcase.md
       - Guzheng SYF Showcase.md
       - Indian Dance SYF Showcase.md
       - Choir SYF Showcase.md
