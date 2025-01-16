@@ -1,0 +1,22 @@
+---
+title: Khoo Chye Sheng Hong Temple 2020
+permalink: /school-events/2019-2021/Khoo-Chye-Sheng-Hong-Temple-2020/
+description: ""
+third_nav_title: 2024 Events
+---
+## Khoo Chye Sheng Hong Temple 2020
+
+**<u>30th Award Ceremony for Academic Merit Awards/Lunar New Year Charitable Donations and Hong Bao Presentation (2020)</u>**
+
+
+|                                                                         Event                                                                        |                                                                                                                                                                                                                                                                                                                     Description of Event (Date, Objectives, Activities, Learning Outcomes, etc)                                                                                                                                                                                                                                                                                                                    |                                                                                                                                             Pictures with captions                                                                                                                                            |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 2020<br><br>30th Award Ceremony for Academic Merit Awards/Lunar New Year Charitable Donations and Hong Bao Presentation<br> <br>(12th January  2020) | Our school syphonic band was honoured to be invited to perform at the Lorong Koo Chye Sheng Hong Temple Association on 12 January 2020. This is an important yearly event for our band members as they get to showcase their musical talent as well as to gain more exposure to public performance<br><br>Our band members played Chinese New Year pieces, 贺新年and 大地回春. The audience enjoyed their wonderful performance and gave them a warm round of applause.<br> <br>We would like to thank the school leaders, instructors and teachers for spending a wonderful Sunday morning with the band members at the award ceremony. It was indeed an enriching and rewarding experience for the band members. | <br>![](/images/take-1.jpeg)<br>Listening attentively to Mr Quek’s instructions.<br><br>![](/images/take-pic.jpeg)<br>Let’s take some pictures together!<br><br>![](/images/take-2.jpeg)<br>Having a wonderful time together with the teachers and instructors.<br><br>![](/images/take-4-768x464.jpeg)<br>Thank you school leaders and Venerable Seck Kwang Ping for joining us!<br>                               |
+
+<br>
+<br>
+Our school symphonic band was honoured to be invited to perform at the Lorong Koo Chye Sheng Hong Temple Association on 12 January 2020. This is an important yearly event for our band members as they get to showcase their musical talent as well as to gain more exposure to public performance.
+
+Our band members played Chinese New Year pieces, 贺新年and 大地回春. The audience enjoyed their wonderful performance and gave them a warm round of applause.
+
+We would like to thank the school leaders, instructors and teachers for spending a wonderful Sunday morning with the band members at the award ceremony. It was indeed an enriching and rewarding experience for us.
