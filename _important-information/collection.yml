@@ -2,38 +2,38 @@ collections:
   important-information:
     output: true
     order:
-      - School Information.md
-      - Contact/.keep
-      - Contact/Location.md
-      - Contact/Important Phone Numbers.md
-      - For Our Parents/Sexuality Education 2024.md
-      - For Our Parents/P1 Admission Checklist.md
-      - For Our Parents/.keep
-      - For Our Parents/Leave of Absence (LOA) scheme.md
-      - For Our Parents/Parent Kit.md
-      - For Our Parents/Cyberwellness Tips for Parents.md
-      - For Our Parents/Direct School Admission (Open House Information).md
-      - For Our Parents/Parents Gateway.md
-      - For Our Parents/Health Promotion Board (HPB) Series.md
-      - For Our Parents/Guidelines for School (Home Partnership).md
-      - For Our Parents/Self Responsibility for Personal Belongings.md
-      - For Our Parents/Group Personal Accident Insurance for Students.md
-      - For Our Parents/Payment via GIRO.md
-      - For Our Parents/Payment via Edusave.md
-      - For Our Parents/Parent Engagement.md
-      - For Our Pupils/Google Takeout Guide to Back up Student iCON Data.md
-      - For Our Pupils/Chinese New Year visit by former students.md
-      - For Our Pupils/Teachers' Day Visit.md
-      - For Our Pupils/.keep
-      - For Our Pupils/Student iCON and Zoom Onboarding Guide.md
-      - For Our Pupils/Student Learning Space (SLS).md
-      - For Our Pupils/Form & Notices.md
-      - For Our Pupils/Library OPAC System.md
-      - For Our Pupils/Code of Conduct.md
-      - For Our Pupils/Safety & Security.md
-      - For Our Pupils/School Bookshop Services.md
-      - For Our Pupils/School Bus Services.md
-      - For Our Pupils/School Uniform Services.md
-      - For Our Pupils/Sec One Posting Exercise.md
-      - Links/.keep
-      - Links/Links.md
+      - School Information 菩提概况.md
+      - Contact 联系我们/.keep
+      - Contact 联系我们/Location.md
+      - Contact 联系我们/Important Phone Numbers.md
+      - For Our Parents 家长须知/Sexuality Education 2024.md
+      - For Our Parents 家长须知/P1 Admission Checklist.md
+      - For Our Parents 家长须知/.keep
+      - For Our Parents 家长须知/Leave of Absence (LOA) scheme.md
+      - For Our Parents 家长须知/Parent Kit.md
+      - For Our Parents 家长须知/Cyberwellness Tips for Parents.md
+      - For Our Parents 家长须知/Direct School Admission (Open House Information).md
+      - For Our Parents 家长须知/Parents Gateway.md
+      - For Our Parents 家长须知/Health Promotion Board (HPB) Series.md
+      - For Our Parents 家长须知/Guidelines for School (Home Partnership).md
+      - For Our Parents 家长须知/Self Responsibility for Personal Belongings.md
+      - For Our Parents 家长须知/Group Personal Accident Insurance for Students.md
+      - For Our Parents 家长须知/Payment via GIRO.md
+      - For Our Parents 家长须知/Payment via Edusave.md
+      - For Our Parents 家长须知/Parent Engagement.md
+      - For Our Pupils 学生须知/Google Takeout Guide to Back up Student iCON Data.md
+      - For Our Pupils 学生须知/Chinese New Year visit by former students.md
+      - For Our Pupils 学生须知/Teachers' Day Visit.md
+      - For Our Pupils 学生须知/.keep
+      - For Our Pupils 学生须知/Student iCON and Zoom Onboarding Guide.md
+      - For Our Pupils 学生须知/Student Learning Space (SLS).md
+      - For Our Pupils 学生须知/Form & Notices.md
+      - For Our Pupils 学生须知/Library OPAC System.md
+      - For Our Pupils 学生须知/Code of Conduct.md
+      - For Our Pupils 学生须知/Safety & Security.md
+      - For Our Pupils 学生须知/School Bookshop Services.md
+      - For Our Pupils 学生须知/School Bus Services.md
+      - For Our Pupils 学生须知/School Uniform Services.md
+      - For Our Pupils 学生须知/Sec One Posting Exercise.md
+      - Links 其他资讯/.keep
+      - Links 其他资讯/Links.md

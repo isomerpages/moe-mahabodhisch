@@ -2,10 +2,11 @@ collections:
   achievements:
     output: true
     order:
-      - Staff Achievements/.keep
-      - Staff Achievements/Staff Achievements.md
-      - Staff Achievements/Chief Scout's Commendation.md
-      - Staff Achievements/The Distinguished Chinese Language Teachers Award.md
-      - Pupil Achievements/2024 Pupil Achievements.md
-      - Pupil Achievements/.keep
-      - Pupil Achievements/2023 Pupil Achievements.md
+      - Staff Achievements 教职员成就/.keep
+      - Staff Achievements 教职员成就/Staff Achievements.md
+      - Staff Achievements 教职员成就/Chief Scout's Commendation.md
+      - Staff Achievements 教职员成就/The Distinguished Chinese Language Teachers
+        Award.md
+      - Pupil Achievements 学生成就/2024 Pupil Achievements.md
+      - Pupil Achievements 学生成就/.keep
+      - Pupil Achievements 学生成就/2023 Pupil Achievements.md
