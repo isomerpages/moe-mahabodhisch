@@ -1,5 +1,5 @@
 ---
-title: ICT 创意资讯科技
+title: ICT 资讯与科技
 permalink: /ict/
 variant: tiptap
 description: ""
