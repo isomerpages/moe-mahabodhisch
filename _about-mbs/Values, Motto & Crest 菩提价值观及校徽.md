@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ## Values, Motto &amp; Crest 
-菩提价值观及校徽
+
 
 #### Our Motto
 **敦 品 励 学**<br>
