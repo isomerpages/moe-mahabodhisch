@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - Buddy Programme 伙伴同行 2025.md
       - Buddy Programme    伙伴同行 2025.md
       - 2024 Events/Prefects' Investiture.md
       - 2024 Events/Choir SYF Showcase.md
