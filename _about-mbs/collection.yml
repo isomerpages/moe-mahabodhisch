@@ -2,7 +2,7 @@ collections:
   about-mbs:
     output: true
     order:
-      - Vision & Mission.md
+      - Vision & Mission 菩提远景及使命.md
       - Values, Motto & Crest.md
       - History.md
       - Our People 菩提团队/.keep
