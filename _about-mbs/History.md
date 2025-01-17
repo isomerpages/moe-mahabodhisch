@@ -2,8 +2,9 @@
 title: History
 permalink: /about-mbs/History/
 description: ""
+variant: markdown
 ---
-## History
+## History 菩提校史
 
 In 1946, Rev. Chee Hong of Leng Feng Bodhi Institute, an ardent promoter of Buddhist education,  
 delegated Miss Pitt Chin Hui and others, aided by Buddhist believers, to undertake the  
