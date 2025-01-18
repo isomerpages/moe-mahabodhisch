@@ -2,33 +2,33 @@ collections:
   departments:
     output: true
     order:
-      - English 英文/.keep
-      - English 英文/Department Goals.md
-      - English 英文/Programmes.md
-      - Chinese 华文.md
-      - Mathematics 数学/.keep
-      - Mathematics 数学/Programmes.md
-      - Mathematics 数学/Department Goals.md
-      - Science 科学/.keep
-      - Science 科学/Mission & Vision.md
-      - Science 科学/Programmes.md
-      - CCE 公民与品格教育/.keep
-      - CCE 公民与品格教育/Mission & Vision.md
-      - CCE 公民与品格教育/Programmes.md
-      - ICT 资讯与科技.md
-      - Physical Education 体育与健康教育/.keep
-      - Physical Education 体育与健康教育/Mission & Vision.md
-      - Physical Education 体育与健康教育/Guiding Principles.md
-      - Physical Education 体育与健康教育/Programme for Active Learning.md
-      - Physical Education 体育与健康教育/PE Curriculum.md
-      - Physical Education 体育与健康教育/Safety is for Everyone.md
-      - Aesthetics 美育/.keep
-      - Aesthetics 美育/Mission & Vision.md
-      - Aesthetics 美育/Programmes.md
-      - Aesthetics 美育/Awards & Achievements.md
-      - CCA 课程辅助活动/.keep
-      - CCA 课程辅助活动/CCAs in MBS.md
-      - CCA 课程辅助活动/Sports CCA.md
-      - CCA 课程辅助活动/Aesthetics CCAs.md
-      - CCA 课程辅助活动/Club CCAs.md
-      - CCA 课程辅助活动/Uniformed Group (Scouts).md
+      - English | 英文/.keep
+      - English | 英文/Department Goals.md
+      - English | 英文/Programmes.md
+      - Chinese | 华文.md
+      - Mathematics | 数学/.keep
+      - Mathematics | 数学/Programmes.md
+      - Mathematics | 数学/Department Goals.md
+      - Science | 科学/.keep
+      - Science | 科学/Mission & Vision.md
+      - Science | 科学/Programmes.md
+      - CCE | 公民与品格教育/.keep
+      - CCE | 公民与品格教育/Mission & Vision.md
+      - CCE | 公民与品格教育/Programmes.md
+      - ICT | 资讯与科技.md
+      - Physical Education | 体育与健康教育/.keep
+      - Physical Education | 体育与健康教育/Mission & Vision.md
+      - Physical Education | 体育与健康教育/Guiding Principles.md
+      - Physical Education | 体育与健康教育/Programme for Active Learning.md
+      - Physical Education | 体育与健康教育/PE Curriculum.md
+      - Physical Education | 体育与健康教育/Safety is for Everyone.md
+      - Aesthetics | 美育/.keep
+      - Aesthetics | 美育/Mission & Vision.md
+      - Aesthetics | 美育/Programmes.md
+      - Aesthetics | 美育/Awards & Achievements.md
+      - CCA | 课程辅助活动/.keep
+      - CCA | 课程辅助活动/CCAs in MBS.md
+      - CCA | 课程辅助活动/Sports CCA.md
+      - CCA | 课程辅助活动/Aesthetics CCAs.md
+      - CCA | 课程辅助活动/Club CCAs.md
+      - CCA | 课程辅助活动/Uniformed Group (Scouts).md
