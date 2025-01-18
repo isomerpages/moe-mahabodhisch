@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - School Information | 菩提概况.md
-      - Contact 联系我们/.keep
-      - Contact 联系我们/Location.md
-      - Contact 联系我们/Important Phone Numbers.md
+      - Contact | 联系我们/.keep
+      - Contact | 联系我们/Location.md
+      - Contact | 联系我们/Important Phone Numbers.md
       - For Our Parents 家长须知/Sexuality Education 2024.md
       - For Our Parents 家长须知/P1 Admission Checklist.md
       - For Our Parents 家长须知/.keep
