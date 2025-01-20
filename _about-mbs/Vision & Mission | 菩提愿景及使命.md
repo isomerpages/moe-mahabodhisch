@@ -1,5 +1,5 @@
 ---
-title: Vision & Mission | 菩提远景及使命
+title: Vision & Mission | 菩提愿景及使命
 permalink: /about-mbs/vision-mission/
 description: ""
 variant: markdown
