@@ -1,5 +1,5 @@
 ---
-title: Values, Motto & Crest | 菩提价值观及校徽
+title: Values, Motto & Crest | 菩提价值观、校训及校徽
 permalink: /about-mbs/values-motto-crest/
 description: ""
 variant: markdown
