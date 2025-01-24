@@ -1,6 +1,6 @@
 ---
 title: Primary 1 Teachers
-permalink: /about-mbs/Our-People/P1-Teachers/
+permalink: /about-mbs/our-people/p1-teachers/
 description: ""
 third_nav_title: Our People | 菩提团队
 variant: tiptap
