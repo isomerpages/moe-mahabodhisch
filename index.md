@@ -40,9 +40,11 @@ sections:
       alt: Image alt text
       description: We warmly welcome our former students to visit their teachers on 29
         August from 11.00am to 12.30pm.
-  - infobar:
-      title: 2025 Chinese New Year former students visitation
-      id: infobar
-      button: Click here
+  - infopic:
+      title: Chinese New Year Former Students Visitation
+      id: infopic
+      button: Click Here
       url: /important-information/for-our-pupils/permalink/lunar-new-year-visit-by-former-students/
+      image: /images/CNY_2025_image.jpg
+      alt: Image alt text
 ---
