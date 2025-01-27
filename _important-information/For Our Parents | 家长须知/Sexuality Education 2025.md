@@ -47,7 +47,7 @@ and</p>
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p></p>
-<p>You may access <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education </a>for
+<p>You may access <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education </a>for
 more information on MOE Sexuality Education.</p>
 </li>
 </ol>
@@ -111,7 +111,7 @@ from sexuality-related risks.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h5><strong>2025 Sexuality Education Lessons in CCE 2021</strong></h5>
+<h5><strong>2025 Sexuality Education Lessons in CCE</strong></h5>
 </th>
 </tr>
 <tr>
@@ -145,7 +145,7 @@ from sexuality-related risks.</p>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
 </p>
-<p><strong>(e.g. T1 W2)</strong>
+<p><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -167,7 +167,7 @@ affected, even when oneâ€™s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T3 W8</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +187,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T3 W9</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T3 W10</p>
+<p>Term 3 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -225,7 +225,7 @@ and how to seek help for themselves and their friends.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h5><strong>2025 Sexuality Education Lessons in CCE 2021</strong></h5>
+<h5><strong>2025 Sexuality Education Lessons in CCE</strong></h5>
 </th>
 </tr>
 <tr>
@@ -259,7 +259,7 @@ and how to seek help for themselves and their friends.</p>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
 </p>
-<p><strong>(e.g. T1 W2)</strong>
+<p><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -282,7 +282,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T4 W4</p>
+<p>Term 4 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -299,7 +299,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T4 W4</p>
+<p>Term 4 Week 4</p>
 </td>
 </tr>
 </tbody>
@@ -314,7 +314,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form is also downloadable <strong><a href="https://form.gov.sg/6796225d295695255de26ef4" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-The completed opt-out form is to be submitted by 14 Feb 2025.</p>
+The completed opt-out form is to be submitted <u>by 14 Feb 2025</u>.</p>
 </li>
 <li>
 <p>Parents can contact the school at 67442115 or email us at <a href="MBS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mbs@moe.edu.sg</a> for
