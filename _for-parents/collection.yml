@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Links.md
       - School Information | 菩提概况.md
