@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Contact | 联系我们/.keep
-      - For Our Parents | 家长须知/Sexuality Education 2025.md
       - For Our Parents | 家长须知/P1 Admission Checklist.md
       - For Our Parents | 家长须知/.keep
       - For Our Parents | 家长须知/Leave of Absence (LOA) scheme.md
