@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Payment via Edusave.md
       - Payment via GIRO.md
       - Group Personal Accident Insurance for Students.md
       - Self Responsibility for Personal Belongings.md
