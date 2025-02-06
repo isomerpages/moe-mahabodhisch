@@ -2,7 +2,6 @@ collections:
   important-information:
     output: true
     order:
-      - School Information | 菩提概况.md
       - Contact | 联系我们/.keep
       - Contact | 联系我们/Location.md
       - Contact | 联系我们/Important Phone Numbers.md
