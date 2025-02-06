@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Self Responsibility for Personal Belongings.md
       - Guidelines for School (Home Partnership).md
       - Health Promotion Board (HPB) Series.md
       - Parents Gateway.md
