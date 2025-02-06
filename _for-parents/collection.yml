@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Cyberwellness Tips for Parents.md
       - Parent Kit.md
       - Leave of Absence (LOA) scheme.md
       - P1 Admission Checklist.md
