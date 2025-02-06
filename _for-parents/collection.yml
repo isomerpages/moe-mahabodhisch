@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Kit.md
       - Leave of Absence (LOA) scheme.md
       - P1 Admission Checklist.md
       - Sexuality Education 2025.md
