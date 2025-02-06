@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Sexuality Education 2025.md
       - Links.md
       - School Information | 菩提概况.md
