@@ -2,7 +2,7 @@
 title: Location
 permalink: /important-information/Contact/Location/
 description: ""
-third_nav_title: Contact | 联系我们
+third_nav_title: Contact | 其他资讯
 ---
 ## Location 
 

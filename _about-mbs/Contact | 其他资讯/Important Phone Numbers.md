@@ -2,7 +2,7 @@
 title: Important Phone Numbers
 permalink: /important-information/Contact/Important-Phone-Numbers/
 description: ""
-third_nav_title: Contact | 联系我们
+third_nav_title: Contact | 其他资讯
 ---
 ## Important Phone Numbers
 

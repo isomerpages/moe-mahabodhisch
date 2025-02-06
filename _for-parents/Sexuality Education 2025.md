@@ -2,7 +2,6 @@
 title: Sexuality Education 2025
 permalink: /important-information/for-our-pupils/sexuality-education-2022/
 description: ""
-third_nav_title: For Our Parents | 家长须知
 variant: tiptap
 ---
 <h2><strong>Maha Bodhi School</strong></h2>
