@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Health Promotion Board (HPB) Series.md
       - Parents Gateway.md
       - Direct School Admission (Open House Information).md
       - Cyberwellness Tips for Parents.md
