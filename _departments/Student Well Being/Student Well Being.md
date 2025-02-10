@@ -392,7 +392,7 @@ in the online world and practical tips to stay safe online.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Understanding good netiquette and proper online behaviour through pop-up digital panels</strong>
+<p><strong>Understanding good netiquette and proper online behavior through pop-up digital panels</strong>
 </p>
 </td>
 </tr>
