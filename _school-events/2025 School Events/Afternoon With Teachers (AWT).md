@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 School Events
 ---
-<p><strong><u>An Afternoon with Teachers to Start the Year</u></strong>
-</p>
+<h4><strong><u>An Afternoon with Teachers to Start the Year</u></strong></h4>
 <p>At Maha Bodhi School, we believe that a strong partnership between school
 and home sets the foundation for every student's success. To kickstart
 the year, our school hosted the annual ‘Afternoon with Teachers’ sessions,
