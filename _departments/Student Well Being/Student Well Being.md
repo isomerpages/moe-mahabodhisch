@@ -198,7 +198,7 @@ Bodhians.</p>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_5.gif">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_5.gif">
 </div>
 </td>
 </tr>
