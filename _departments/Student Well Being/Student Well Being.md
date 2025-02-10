@@ -143,13 +143,13 @@ Bodhians.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/buy_food_and_returning_his_receptacle_1.gif">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/buy_food_and_returning_his_receptacle_1.gif">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/buy_food_and_returning_his_receptacle_2.gif">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/buy_food_and_returning_his_receptacle_2.gif">
 </div>
 </th>
 </tr>
