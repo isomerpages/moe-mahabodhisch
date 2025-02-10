@@ -101,15 +101,107 @@ and kindness, ultimately creating a stronger sense of community among Maha
 Bodhians.</p>
 <p><strong>Peer support and bonding through games &amp; play</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Peer support and bonding through games and play" src="/images/Buudy_Programme_Picture_1.gif">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Buudy_Programme_Picture_1.gif">
 </div>
+</th>
+<th rowspan="3" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Peer support and bonding through games &amp; play" src="/images/Buudy_Programme_Picture_2.gif">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Buudy_Programme_Picture_3.gif">
 </div>
+</th>
+</tr>
+<tr>
+<th rowspan="2" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Buudy_Programme_Picture_2.gif">
+</div>
+</th>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>A senior guiding his junior buddy to buy food and returning his receptacle.</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Peer support and bonding through games and play" src="/images/Buudy_Programme_Picture_3.gif">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/buy_food_and_returning_his_receptacle_1.gif">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/buy_food_and_returning_his_receptacle_2.gif">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Seniors supporting their juniors to make Chinese New Year craft work.</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_1.gif">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_2.gif">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_3.gif">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_4.gif">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_5.gif">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
