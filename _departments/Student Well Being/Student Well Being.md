@@ -380,7 +380,7 @@ in the online world and practical tips to stay safe online.</p>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_Cyber_Safe_Pop_up_1.gif">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Be_Cyber_Safe_Pop_up_1.gif">
 </div>
 </td>
 <td rowspan="1" colspan="2">
