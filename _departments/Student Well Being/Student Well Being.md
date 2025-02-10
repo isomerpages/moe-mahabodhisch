@@ -19,8 +19,6 @@ for students to unlock their full potential. By focusing on these core
 areas, we empower Maha Bodhians to grow into well-rounded individuals who
 navigate challenges with resilience, contribute meaningfully to their communities,
 and lead lives filled with empathy, purpose and compassion.</p>
-<p><strong>Using the Awareness-Companionship-Empowerment (ACE) Approach:</strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -28,6 +26,12 @@ and lead lives filled with empathy, purpose and compassion.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Using the Awareness-Companionship-Empowerment (ACE) Approach:</strong>
+</p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="2">
 <p>Intent</p>
@@ -76,8 +80,20 @@ to the well-being of themselves and others</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <p><strong>Peer Support</strong>
 </p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Our Peer Support programme is designed to create a safe and welcoming
 space where students can turn to their peers for help and guidance. Peer
 Support Leaders are trained to provide emotional support, offer a listening
@@ -88,9 +104,25 @@ both socially and emotionally. In reaching out and supporting school mates
 in need, Peer Support Leaders not only contribute to a supportive and inclusive
 atmosphere but also demonstrate the leadership qualities of empathy, integrity,
 and service.</p>
-<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
 <p><strong>Buddy Programme</strong>
 </p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>In Maha Bodhi School, we believe that building positive relationships
 fosters a sense of camaraderie and belonging. The Buddy Programme stands
 as a testament to the school's commitment to cultivating a positive culture
@@ -99,6 +131,10 @@ interact, and develop essential social skills. By extending the Buddy Programme
 across all levels, the school aimed to instill values of respect, care,
 and kindness, ultimately creating a stronger sense of community among Maha
 Bodhians.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Peer support and bonding through games &amp; play</strong>
 </p>
 <table style="minWidth: 50px">
@@ -204,4 +240,60 @@ Bodhians.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>School-based Cyber Wellness Programmes</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Promoting cyber wellness is more important than ever. By fostering awareness
+about the risks and rewards of the digital world, Maha Bodhians develop
+the resilience and critical thinking needed to navigate social media and
+online interactions in a positive and responsible manner. Students are
+taught the knowledge and skills to harness the power of ICT for positive
+purposes, to maintain a positive presence in cyberspace and be safe and
+responsible users of ICT.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Well-Being Week (Cyber Wellness)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>The Student Well-Being Department organises the Well-Being Week (Cyber
+Wellness) every year, focusing on good internet etiquette and responsible
+expression, as well as being a positive online influence. Our Peer Support
+Leaders planned recess activities to communicate the key messages of cyber
+wellness through fun and interesting activities following the assembly
+launch.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
