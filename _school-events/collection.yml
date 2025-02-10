@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - 2025 School Events.md
       - 2024 Events | 2024 活动/Prefects' Investiture.md
       - 2024 Events | 2024 活动/Choir SYF Showcase.md
       - 2024 Events | 2024 活动/Indian Dance SYF Showcase.md
