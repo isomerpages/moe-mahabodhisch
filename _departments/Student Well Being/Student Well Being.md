@@ -412,4 +412,197 @@ in the online world and practical tips to stay safe online.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong><u>Partnerships to promote student well-being holistically</u></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>The Student Well-Being Department actively seeks out inter-department
+collaborations and partnerships with families to support our students.
+We work in close collaboration with departments to organise and implement
+programmes to promote student well-being, and maintain regular communication
+with families through newsletters, keeping parents informed about available
+resources and ongoing initiatives. This partnership ensures that families
+can complement the school’s efforts to support their child’s well-being
+at home, reinforcing consistent messages on mental health, peer relationships,
+and well-being practices. By fostering a comprehensive support network,
+we help students feel connected and supported throughout their educational
+journey at Maha Bodhi School.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
+<p><strong>Resources for Parents</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Links and Downloadable Resources</p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Parenting_for_Wellness_Toolbox_for_Parents.gif">
+</div>
+</td>
+<td rowspan="1" colspan="3">
+<p><a href="https://parentingforwellness.hpb.gov.sg/Resources" rel="noopener nofollow" target="_blank">Parenting for Wellness Toolbox for Parents</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Parent_Hub_7_to_12_years.gif">
+</div>
+</td>
+<td rowspan="1" colspan="3">
+<p><a href="https://www.healthhub.sg/programmes/parent-hub/primary" rel="noopener nofollow" target="_blank">Parent Hub: 7-12 years</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MOH_Guidance_on_screen_use_in_children.gif">
+</div>
+</td>
+<td rowspan="1" colspan="3">
+<p><a href="https://go.gov.sg/guidance-on-screen-time" rel="noopener nofollow" target="_blank">MOH Guidance on screen use in children</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Digital_for_Life_Resource__Making_The_Most_Of_Your_Child_s_Screen_Time.gif">
+</div>
+</td>
+<td rowspan="1" colspan="3">
+<p><a href="https://go.gov.sg/digitalforlife-tips-for-screen-time" rel="noopener nofollow" target="_blank">Digital for Life Resource: Making The Most Of Your Child's Screen Time</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/First_Device_Campaign.gif">
+</div>
+</td>
+<td rowspan="1" colspan="3">
+<p><a href="https://go.gov.sg/first-device-campaign" rel="noopener nofollow" target="_blank">First Device Campaign</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
