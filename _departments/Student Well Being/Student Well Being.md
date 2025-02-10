@@ -307,6 +307,22 @@ launch.</p>
 <tr></tr>
 </tbody>
 </table>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Past initiatives saw the collaboration with Student Management Department
+and ICT department on elements of digital literacy. Pupils participated
+in the touch-typing challenge and learnt how to spot signs of phishing
+emails.</p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
