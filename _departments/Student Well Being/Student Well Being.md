@@ -324,5 +324,92 @@ emails.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Touch_typing_challenge.gif">
+</div>
+</th>
+<th rowspan="2" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spot_signs_of_phishing.gif">
+</div>
+</th>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pupils participating in touch-typing challenge&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pupils learning to spot signs of phishing</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
+<p><strong>Be Cyber Safe Pop-up</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>The ‘Be Cyber Safe Pop-up’ comprises an interactive vending machine and
+interactive digital panels to guide pupils to learn more about the dangers
+in the online world and practical tips to stay safe online.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_Cyber_Safe_Pop_up_1.gif">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_Cyber_Safe_Pop_up_2.gif">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Understanding good netiquette and proper online behaviour through pop-up digital panels</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_Cyber_Safe_Pop_up_3.gif">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Be_Cyber_Safe_Pop_up_4.gif">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
