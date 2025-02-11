@@ -504,7 +504,7 @@ journey at Maha Bodhi School.</p>
 </div>
 </td>
 <td rowspan="1" colspan="3">
-<p><a href="https://go.gov.sg/digitalforlife-tips-for-screen-time" rel="noopener nofollow" target="_blank">Digital for Life Resource: Making The Most Of Your Child's Screen Time</a>
+<p><a href="https://go.gov.sg/digitalforlife-tips-for-screen-time" rel="noopener nofollow" target="_blank">Digital for Life Resource: Making the Most of Your Child's Screen Time</a>
 </p>
 </td>
 </tr>
