@@ -30,4 +30,14 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
+  - infopic:
+      title: Celebrating the LNY@ SBF
+      id: infopic
+      description: On 8 February 2025, our school's Guzheng Ensemble and Choir gave a
+        vibrant and heartfelt performance at the Lunar New Year Blessing event
+        hosted by the SBF.
+      button: Click Here
+      url: /celebrating-the-lny-with-music-and-joy-sbf/
+      image: /images/LNY_SBF_photo_2.gif
+      alt: Image alt text
 ---
