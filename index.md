@@ -17,7 +17,7 @@ sections:
         hosted by the SBF.
       button: Click Here
       url: /celebrating-the-lny-with-music-and-joy-sbf/
-      image: /images/LNY_SBF_photo_2.gif
+      image: /images/LNY_SBF_photo_1.gif
       alt: Image alt text
   - infopic:
       title: Chinese New Year Visitation by former students
