@@ -10,6 +10,14 @@ sections:
       background: /images/gif_banner_mbs.gif
       variant: center
   - infopic:
+      title: Highlights of Buddy Programme 2025
+      id: infopic
+      description: Creating a stronger sense of community among Maha Bodhians
+      button: Click here
+      url: /highlights-of-buddy-programme-2025/
+      image: /images/P4__Guiding_P1___2.jpg
+      alt: Image alt text
+  - infopic:
       title: Celebrating the LNY@ SBF
       id: infopic
       description: On 8 February 2025, our school's Guzheng Ensemble and Choir gave a
@@ -45,13 +53,5 @@ sections:
       button: HIGHLIGHTS
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
-      alt: Image alt text
-  - infopic:
-      title: Highlights of Buddy Programme 2025
-      id: infopic
-      description: Creating a stronger sense of community among Maha Bodhians
-      button: Click here
-      url: /highlights-of-buddy-programme-2025/
-      image: /images/P4__Guiding_P1___2.jpg
       alt: Image alt text
 ---
