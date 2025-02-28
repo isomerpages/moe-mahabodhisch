@@ -46,4 +46,10 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
+  - infobar:
+      title: Buddy Programme 2025
+      id: infobar
+      description: Creating a stronger sense of community among Maha Bodhians
+      button: Click   Here
+      url: /highlights-of-buddy-programme-2025/
 ---
