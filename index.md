@@ -9,6 +9,12 @@ sections:
   - hero:
       background: /images/gif_banner_mbs.gif
       variant: center
+  - infobar:
+      title: Buddy Programme 2025
+      id: infobar
+      description: Creating a stronger sense of community among Maha Bodhians
+      button: Click   Here
+      url: /highlights-of-buddy-programme-2025/
   - infopic:
       title: Celebrating the LNY@ SBF
       id: infopic
@@ -23,7 +29,7 @@ sections:
       title: Afternoon With Teachers (AWT)
       id: infobar
       description: Strong partnership between school and home
-      button: Click here to know more
+      button: Click here
       url: /afternoon-with-teachers-awt/
   - infopic:
       title: Chinese New Year Visitation by former students
@@ -46,10 +52,4 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
-  - infobar:
-      title: Buddy Programme 2025
-      id: infobar
-      description: Creating a stronger sense of community among Maha Bodhians
-      button: Click   Here
-      url: /highlights-of-buddy-programme-2025/
 ---
