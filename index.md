@@ -40,4 +40,10 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
+  - infobar:
+      title: Afternoon With Teachers (AWT)
+      id: infobar
+      description: Strong partnership between school and home
+      button: Click here to know more
+      url: /afternoon-with-teachers-awt/
 ---
