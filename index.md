@@ -19,6 +19,12 @@ sections:
       url: /celebrating-the-lny-with-music-and-joy-sbf/
       image: /images/LNY_SBF_photo_1.gif
       alt: Image alt text
+  - infobar:
+      title: Afternoon With Teachers (AWT)
+      id: infobar
+      description: Strong partnership between school and home
+      button: Click here to know more
+      url: /afternoon-with-teachers-awt/
   - infopic:
       title: Chinese New Year Visitation by former students
       id: infopic
@@ -40,10 +46,4 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
-  - infobar:
-      title: Afternoon With Teachers (AWT)
-      id: infobar
-      description: Strong partnership between school and home
-      button: Click here to know more
-      url: /afternoon-with-teachers-awt/
 ---
