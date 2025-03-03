@@ -10,6 +10,14 @@ sections:
       background: /images/gif_banner_mbs.gif
       variant: center
   - infopic:
+      title: Highlights of Buddy Programme 2025
+      id: infopic
+      description: Creating a stronger sense of community among Maha Bodhians
+      button: Click here
+      url: /highlights-of-buddy-programme-2025/
+      image: /images/P4__Guiding_P1___2.jpg
+      alt: Image alt text
+  - infopic:
       title: Celebrating the LNY@ SBF
       id: infopic
       description: On 8 February 2025, our school's Guzheng Ensemble and Choir gave a
@@ -19,6 +27,12 @@ sections:
       url: /celebrating-the-lny-with-music-and-joy-sbf/
       image: /images/LNY_SBF_photo_1.gif
       alt: Image alt text
+  - infobar:
+      title: Afternoon With Teachers (AWT)
+      id: infobar
+      description: Strong partnership between school and home
+      button: Click here
+      url: /afternoon-with-teachers-awt/
   - infopic:
       title: Chinese New Year Visitation by former students
       id: infopic
