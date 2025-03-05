@@ -106,7 +106,7 @@ variant: tiptap
 <p>Mrs Eileen Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:elieen_yap@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elieen_yap@moe.edu.sg</a>
+<p><a href="mailto:eileen_yap@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eileen_yap@moe.edu.sg</a>
 </p>
 </td>
 </tr>
