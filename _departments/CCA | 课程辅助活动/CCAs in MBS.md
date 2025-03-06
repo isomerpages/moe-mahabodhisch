@@ -139,7 +139,7 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 <p>Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Liu-Ng Yueh Yong</p>
+<p>Mdm Eoh Yi Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:eoh_yi_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eoh_yi_ling@moe.edu.sg</a>
