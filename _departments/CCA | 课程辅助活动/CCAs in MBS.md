@@ -166,7 +166,7 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 <p>Mdm Fauziah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fauziah_mohamood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamood@moe.edu.sg</a> 
+<p><a href="mailto:fauziah_mohamood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamood@moe.edu.sg</a>
 </p>
 </td>
 </tr>
