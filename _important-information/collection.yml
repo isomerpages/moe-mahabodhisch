@@ -2,7 +2,7 @@ collections:
   important-information:
     output: true
     order:
-      - News and Announcement.md
+      - News and Announcements.md
       - Contact | 联系我们/.keep
       - For Our Parents | 家长须知/.keep
       - For Our Pupils | 学生须知/Google Takeout Guide to Back up Student iCON
