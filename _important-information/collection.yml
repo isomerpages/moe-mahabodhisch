@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - News and Announcements/.keep
-      - News and Announcements.md
       - For Our Pupils | 学生须知/.keep
       - For Our Pupils | 学生须知/Google Takeout Guide to Back up Student iCON
         Data.md
