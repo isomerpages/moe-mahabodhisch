@@ -2,6 +2,7 @@ collections:
   important-information:
     output: true
     order:
+      - News and Announcements/Monthly Circulars.md
       - News and Announcements/News and Announcements.md
       - News and Announcements/.keep
       - For Our Pupils | 学生须知/.keep
