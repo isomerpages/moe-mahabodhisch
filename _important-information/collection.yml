@@ -2,13 +2,13 @@ collections:
   important-information:
     output: true
     order:
-      - Contact | 联系我们/.keep
-      - For Our Parents | 家长须知/.keep
+      - News and Announcements/News and Announcements.md
+      - News and Announcements/.keep
+      - For Our Pupils | 学生须知/.keep
       - For Our Pupils | 学生须知/Google Takeout Guide to Back up Student iCON
         Data.md
       - For Our Pupils | 学生须知/Chinese New Year visit by former students.md
       - For Our Pupils | 学生须知/Teachers' Day Visit.md
-      - For Our Pupils | 学生须知/.keep
       - For Our Pupils | 学生须知/Student iCON and Zoom Onboarding Guide.md
       - For Our Pupils | 学生须知/Student Learning Space (SLS).md
       - For Our Pupils | 学生须知/Form & Notices.md
@@ -19,4 +19,3 @@ collections:
       - For Our Pupils | 学生须知/School Bus Services.md
       - For Our Pupils | 学生须知/School Uniform Services.md
       - For Our Pupils | 学生须知/Sec One Posting Exercise.md
-      - Links | 其他资讯/.keep
