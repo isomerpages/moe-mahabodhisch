@@ -4,11 +4,15 @@ title: Maha Bodhi School
 description: An Isomer site of the Singapore Government
 image: /images/schoollogo.jpg
 permalink: /
-notification: ""
+notification: Welcome to Maha Bodhi School Website
 sections:
   - hero:
       background: /images/gif_banner_mbs.gif
       variant: center
+      key_highlights:
+        - title: School Information | 菩提概况
+          description: Click to for more information
+          url: https://www.mahabodhi.moe.edu.sg/imporatant-information/school-information/
   - infopic:
       title: Highlights of Buddy Programme 2025
       id: infopic
