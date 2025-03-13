@@ -1,5 +1,4 @@
 collections:
   important-information:
     output: true
-    order:
-      - For Our Pupils | 学生须知/.keep
+    order: []
