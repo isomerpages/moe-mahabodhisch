@@ -2,6 +2,8 @@ collections:
   for-our-pupils:
     output: true
     order:
+      - For Our Pupils | 学生须知/Google Takeout Guide to Back up Student iCON
+        Data.md
       - For Our Pupils | 学生须知/Sec One Posting Exercise.md
       - For Our Pupils | 学生须知/School Uniform Services.md
       - For Our Pupils | 学生须知/School Bus Services.md
