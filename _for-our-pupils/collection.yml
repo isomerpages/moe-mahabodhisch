@@ -2,6 +2,7 @@ collections:
   for-our-pupils:
     output: true
     order:
+      - School Bookshop Services.md
       - School Bus Services.md
       - School Uniform Services.md
       - Sec One Posting Exercise.md
