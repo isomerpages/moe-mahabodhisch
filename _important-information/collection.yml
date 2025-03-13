@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Our Pupils | 学生须知/.keep
-      - For Our Pupils | 学生须知/Form & Notices.md
       - For Our Pupils | 学生须知/Library OPAC System.md
       - For Our Pupils | 学生须知/Code of Conduct.md
       - For Our Pupils | 学生须知/Safety & Security.md
