@@ -3,7 +3,6 @@ title: Google Takeout Guide to Back up Student iCON Data
 permalink: /google-takeout-guide-to-back-up-student-icon-data/
 variant: tiptap
 description: ""
-third_nav_title: For Our Pupils | 学生须知
 ---
 <p>The following group of students will be required to back up their Student
 iCON data by <strong>31 Dec 2024</strong>.</p>
