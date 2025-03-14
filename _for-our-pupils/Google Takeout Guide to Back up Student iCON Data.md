@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>The following group of students will be required to back up their Student
-iCON data by <strong>31 Dec 2024</strong>.</p>
+iCON data by <strong>31 Dec 2025</strong>.</p>
 <p><strong><u>Pri 6 </u></strong><u>students proceeding to private or overseas educational institutions, etc</u>
 </p>
 <p>Please also update your email addresses with the relevant educational
