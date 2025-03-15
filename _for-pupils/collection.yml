@@ -2,4 +2,4 @@ collections:
   for-pupils:
     output: true
     order:
-      - Safety.md
+      - Safety and Security.md
