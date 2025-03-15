@@ -2,7 +2,7 @@ collections:
   for-pupils:
     output: true
     order:
-      - Google.md
+      - Google Takeout Guide to Back up Student iCON Data.md
       - School Uniform Services.md
       - School Buses Services.md
       - School Bookshop Services.md
