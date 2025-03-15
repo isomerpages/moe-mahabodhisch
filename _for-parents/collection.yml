@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Resources for Parents/Self Responsibility for Personal Belongings.md
       - Resources for Parents/Parent Kit.md
       - Resources for Parents/Health Promotion Board (HPB) Series.md
       - Resources for Parents/Guidelines for School (Home Partnership).md
