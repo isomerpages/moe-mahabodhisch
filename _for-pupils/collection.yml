@@ -2,6 +2,7 @@ collections:
   for-pupils:
     output: true
     order:
+      - Code of Conduct.md
       - Google Takeout Guide to Back up Student iCON Data.md
       - School Uniform Services.md
       - School Buses Services.md
