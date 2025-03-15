@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Resources for Parents/.keep
       - General School Information/School Information | 菩提概况.md
       - General School Information/Payment via GIRO.md
       - General School Information/Payment via Edusave.md
