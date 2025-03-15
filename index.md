@@ -37,13 +37,6 @@ sections:
       description: Strong partnership between school and home
       button: Click here
       url: /afternoon-with-teachers-awt/
-  - infopic:
-      title: Chinese New Year Visitation by former students
-      id: infopic
-      button: Click Here
-      url: /important-information/for-our-pupils/permalink/lunar-new-year-visit-by-former-students/
-      image: /images/CNY_2025_image.jpg
-      alt: Image alt text
   - infobar:
       title: Tribute to the late Mr Foo Soo Luang
       id: infobar
