@@ -3,6 +3,7 @@ title: Leave of Absence (LOA) scheme
 permalink: /important-information/For-Our-Parents/LOA/
 description: ""
 variant: tiptap
+third_nav_title: Assessment Related Matters
 ---
 <h2>Leave of Absence (LOA) Scheme</h2>
 <p>If your child is accompanying you on an overseas posting, you may apply

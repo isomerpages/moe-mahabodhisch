@@ -3,6 +3,7 @@ title: School Information | 菩提概况
 permalink: /imporatant-information/school-information/
 description: ""
 variant: tiptap
+third_nav_title: General School Information
 ---
 ## School Information
 

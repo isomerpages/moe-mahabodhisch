@@ -2,18 +2,24 @@ collections:
   for-parents:
     output: true
     order:
-      - School Information | 菩提概况.md
-      - Direct School Admission (Open House Information).md
-      - Group Personal Accident Insurance for Students.md
-      - Guidelines for School (Home Partnership).md
-      - Health Promotion Board (HPB) Series.md
-      - Leave of Absence (LOA) scheme.md
-      - P1 Admission Checklist.md
-      - Parent Kit.md
+      - General School Information/.keep
+      - General School Information/School Information | 菩提概况.md
+      - General School Information/Payment via GIRO.md
+      - General School Information/Payment via Edusave.md
+      - General School Information/Group Personal Accident Insurance for
+        Students.md
+      - General School Information/School Uniform Services.md
+      - General School Information/School Buses Services.md
+      - General School Information/School Bookshop Services.md
+      - Assessment Related Matters/.keep
+      - Assessment Related Matters/Parent Engagement.md
+      - Assessment Related Matters/Leave of Absence (LOA) scheme.md
+      - Resources for Parents/.keep
+      - Resources for Parents/Self Responsibility for Personal Belongings.md
+      - Resources for Parents/Parent Kit.md
+      - Resources for Parents/Health Promotion Board (HPB) Series.md
+      - Resources for Parents/Guidelines for School (Home Partnership).md
       - Parents Gateway.md
-      - Parent Engagement.md
-      - Payment via Edusave.md
-      - Payment via GIRO.md
-      - Self Responsibility for Personal Belongings.md
       - Sexuality Education 2025.md
+      - P1 Admission Checklist.md
       - Links.md

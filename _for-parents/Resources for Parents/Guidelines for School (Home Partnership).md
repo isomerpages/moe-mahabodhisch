@@ -2,6 +2,7 @@
 title: Guidelines for School (Home Partnership)
 permalink: /important-information/For-Our-Parents/Home-Partnership/
 description: ""
+third_nav_title: Resources for Parents
 ---
 ## Guidelines for School- Home Partnership
 
