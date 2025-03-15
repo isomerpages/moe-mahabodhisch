@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General School Information/.keep
-      - School Bookshop Services.md
       - School Buses Services.md
       - School Uniform Services.md
       - School Information | 菩提概况.md
