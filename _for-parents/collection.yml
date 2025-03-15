@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - General School Information/School Bookshop Services.md
       - General School Information/.keep
       - School Buses Services.md
       - School Uniform Services.md
