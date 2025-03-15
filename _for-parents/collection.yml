@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Buses Services.md
       - School Uniform Services.md
       - School Information | 菩提概况.md
       - Direct School Admission (Open House Information).md
