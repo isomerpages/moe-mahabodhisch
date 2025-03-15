@@ -2,14 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Assessment Related Matters/Parent Engagement.md
-      - Assessment Related Matters/Leave of Absence (LOA) scheme.md
-      - Assessment Related Matters/.keep
-      - Resources for Parents/Self Responsibility for Personal Belongings.md
-      - Resources for Parents/Parent Kit.md
-      - Resources for Parents/Health Promotion Board (HPB) Series.md
-      - Resources for Parents/Guidelines for School (Home Partnership).md
-      - Resources for Parents/.keep
+      - General School Information/.keep
       - General School Information/School Information | 菩提概况.md
       - General School Information/Payment via GIRO.md
       - General School Information/Payment via Edusave.md
@@ -18,8 +11,15 @@ collections:
       - General School Information/School Uniform Services.md
       - General School Information/School Buses Services.md
       - General School Information/School Bookshop Services.md
-      - General School Information/.keep
-      - P1 Admission Checklist.md
+      - Assessment Related Matters/.keep
+      - Assessment Related Matters/Parent Engagement.md
+      - Assessment Related Matters/Leave of Absence (LOA) scheme.md
+      - Resources for Parents/.keep
+      - Resources for Parents/Self Responsibility for Personal Belongings.md
+      - Resources for Parents/Parent Kit.md
+      - Resources for Parents/Health Promotion Board (HPB) Series.md
+      - Resources for Parents/Guidelines for School (Home Partnership).md
       - Parents Gateway.md
       - Sexuality Education 2025.md
+      - P1 Admission Checklist.md
       - Links.md
