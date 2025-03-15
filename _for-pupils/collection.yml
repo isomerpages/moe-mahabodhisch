@@ -2,7 +2,7 @@ collections:
   for-pupils:
     output: true
     order:
-      - Chinese New Year.md
+      - Chinese New Year visitation by former pupils.md
       - Student ICON.md
       - Student Learning Space (SLS).md
       - Library OPAC System.md
