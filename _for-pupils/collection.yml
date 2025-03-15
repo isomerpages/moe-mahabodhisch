@@ -1,4 +1,5 @@
 collections:
   for-pupils:
     output: true
-    order: []
+    order:
+      - Safety.md
