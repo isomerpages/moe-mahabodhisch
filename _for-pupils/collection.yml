@@ -2,9 +2,9 @@ collections:
   for-pupils:
     output: true
     order:
-      - Student ICON Onboarding Guide.md
-      - Student Learning Space (SLS).md
-      - Library OPAC System.md
       - Code of Conduct.md
       - Google Takeout Guide to Back up Student iCON Data.md
+      - Library OPAC System.md
       - Safety and Security.md
+      - Student Learning Space (SLS).md
+      - Student ICON Onboarding Guide.md
