@@ -13,7 +13,7 @@ sections:
         - title: School Information | 菩提概况
           description: Click to for more information
           url: https://www.mahabodhi.moe.edu.sg/imporatant-information/school-information/
-        - title: Quick Links for Parents and Students
+        - title: Quick Links for Parents and Students | 家长与学生便捷链接
           description: ""
           url: https://cms.isomer.gov.sg/sites/moe-mahabodhisch/folders/for-parents/editPage/Links.md
   - infopic:
