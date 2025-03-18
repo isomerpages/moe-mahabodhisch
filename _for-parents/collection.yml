@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Student Well Being Newsletters/.keep
       - General School Information/.keep
       - General School Information/School Information | 菩提概况.md
       - General School Information/Payment via GIRO.md
@@ -20,6 +19,7 @@ collections:
       - Resources for Parents/Parent Kit.md
       - Resources for Parents/Health Promotion Board (HPB) Series.md
       - Resources for Parents/Guidelines for School (Home Partnership).md
+      - Student Well Being Newsletters/.keep
       - Parents Gateway.md
       - Sexuality Education 2025.md
       - P1 Admission Checklist.md
