@@ -13,6 +13,9 @@ sections:
         - title: School Information | 菩提概况
           description: Click to for more information
           url: https://www.mahabodhi.moe.edu.sg/imporatant-information/school-information/
+        - title: Quick Links for Parents and Students
+          description: ""
+          url: ""
   - infopic:
       title: Highlights of Buddy Programme 2025
       id: infopic
