@@ -4,11 +4,18 @@ permalink: /important-information/Links/Links/
 description: ""
 variant: markdown
 ---
-## Links
+
+# Links for Students
 
 [Student Learning Space](https://vle.learning.moe.edu.sg/)
 
-ECG Portal [MySkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+[MySkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+
+[Student ICON Onboarding Guide](https://www.mahabodhi.moe.edu.sg/files/Student_iCON_Onboarding_Guide.pdf)
+
+[Library OPAC System](https://schoolibrary.moe.edu.sg/mahabodhi)
+
+# Links for Parents
 
 [Parent Gateway](https://www.mahabodhi.moe.edu.sg/important-information/For-Our-Parents/Parents-Gateway/)
 
