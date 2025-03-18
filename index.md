@@ -15,7 +15,7 @@ sections:
           url: https://www.mahabodhi.moe.edu.sg/imporatant-information/school-information/
         - title: Quick Links for Parents and Students
           description: ""
-          url: ""
+          url: /important-information/Links/Links/
   - infopic:
       title: Highlights of Buddy Programme 2025
       id: infopic
