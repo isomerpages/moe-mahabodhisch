@@ -3,7 +3,7 @@ title: Highlights of Buddy Programme 2025
 permalink: /highlights-of-buddy-programme-2025/
 variant: tiptap
 description: ""
-third_nav_title: 2025 School Events
+third_nav_title: 2025 Events | 2025 活动
 ---
 <h4><strong><u>Highlights of Buddy Programme 2025</u></strong></h4>
 <p>“There are no strangers here; Only friends you haven’t yet met.” -William

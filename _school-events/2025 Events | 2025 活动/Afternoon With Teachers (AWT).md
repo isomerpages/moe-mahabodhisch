@@ -3,7 +3,7 @@ title: Afternoon With Teachers (AWT)
 permalink: /afternoon-with-teachers-awt/
 variant: tiptap
 description: ""
-third_nav_title: 2025 School Events
+third_nav_title: 2025 Events | 2025 活动
 ---
 <h4><strong><u>An Afternoon with Teachers to Start the Year</u></strong></h4>
 <p>At Maha Bodhi School, we believe that a strong partnership between school

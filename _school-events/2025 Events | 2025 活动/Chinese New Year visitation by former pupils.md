@@ -3,7 +3,7 @@ title: Chinese New Year visitation by former pupils
 permalink: /chinese-new-year/
 variant: tiptap
 description: ""
-third_nav_title: 2025 School Events
+third_nav_title: 2025 Events | 2025 活动
 ---
 <h4><strong>2025 Chinese New Year Celebration</strong></h4>
 <p>As part of our continual effort to imbue in our pupils the importance
