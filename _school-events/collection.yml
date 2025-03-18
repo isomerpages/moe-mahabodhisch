@@ -2,12 +2,12 @@ collections:
   school-events:
     output: true
     order:
-      - 2025 School Events/Chinese New Year visitation by former pupils.md
-      - 2025 School Events/Highlights of Buddy Programme 2025.md
-      - 2025 School Events/Celebrating the Lunar New Year with Music and Joy @
-        SBF.md
-      - 2025 School Events/Afternoon With Teachers (AWT).md
-      - 2025 School Events/.keep
+      - 2025 Events | 2025 活动/Chinese New Year visitation by former pupils.md
+      - 2025 Events | 2025 活动/Highlights of Buddy Programme 2025.md
+      - 2025 Events | 2025 活动/Celebrating the Lunar New Year with Music and Joy
+        @ SBF.md
+      - 2025 Events | 2025 活动/Afternoon With Teachers (AWT).md
+      - 2025 Events | 2025 活动/.keep
       - 2024 Events | 2024 活动/Prefects' Investiture.md
       - 2024 Events | 2024 活动/Choir SYF Showcase.md
       - 2024 Events | 2024 活动/Indian Dance SYF Showcase.md
