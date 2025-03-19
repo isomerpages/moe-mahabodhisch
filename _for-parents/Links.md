@@ -1,8 +1,8 @@
 ---
 title: Links
-permalink: /important-information/Links/Links/
+permalink: /important-information/links/links/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 # Links for Students
 
