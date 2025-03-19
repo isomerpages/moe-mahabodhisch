@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Quick Links for Parents and Students | 家长与学生便捷链接
           description: ""
-          url: https://cms.isomer.gov.sg/sites/moe-mahabodhisch/folders/for-parents/editPage/Links.md
+          url: /important-information/links/links/
   - infopic:
       title: Highlights of Buddy Programme 2025
       id: infopic
