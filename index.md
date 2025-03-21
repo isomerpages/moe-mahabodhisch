@@ -10,7 +10,7 @@ sections:
       background: /images/gif_banner_mbs.gif
       variant: center
       key_highlights:
-        - title: Quick Links for Parents and Students | 家长与学生便捷链接
+        - title: Links for Parents and Students | 家长与学生相关链接
           description: ""
           url: /important-information/links/links/
   - infopic:
