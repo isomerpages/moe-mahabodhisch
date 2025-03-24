@@ -91,6 +91,12 @@ In 1974, the Ministry of Education specially commended the school on this achiev
 
 In 1985, the school became a full English-medium school. In 1990, it became a Special Assistance Plan (SAP) school which laid emphasis on the learning of English and Chinese and the inculcation of Asian moral values in the pupils. The school continued to perform well. From 1977 to 2015, the school produced eleven Prime Minister’s Book Prize winners, an annual award for outstanding bilingual pupils on the basis of excellent PSLE results.
 
+        
+
+**特选学校**
+
+1985 年，学校成为一所全英语授课学校。1990 年，该校成为特选辅助计划（SAP）学校，重点学习英语和中文，并向学生灌输亚洲道德价值观。学校继续保持良好的办学业绩。从 1977 年到 2015 年，该校共培养出 11 名总理书籍奖得主，该奖项每年颁发给在 PSLE 考试中取得优异成绩的优秀双语学生。
+
 #### The Next Millennium
 
 In 1991, the Singapore Buddhist Federation, under the chairmanship of Ven Sek Yiu Torn, passed a resolution at the Annual General Meeting accepting the Government’s offer of a new site of 1.8 ha, at Ubi Avenue 1, in exchange for the land at Lorong 34, Geylang, under the “Quid Pro Quo Exchange” Scheme. The Singapore Buddhist Federation undertook to construct a new building to provide pupils with the latest equipment and facilities.
