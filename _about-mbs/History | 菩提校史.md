@@ -27,9 +27,7 @@ In 1950, Sister Wong left Singapore and went back to Penang.&nbsp;Miss Pitt then
 
 #### The Original School
 
-In the same year, the site at 50, Lorong 34, Geylang,&nbsp;was acquired. On 21 January 1951, Rev. Yin Poon laid the foundation stone and construction work started. In July 1951, the pupils moved from the shophouse into&nbsp;the new building. The new school was officially declared open by the then British High Commissioner,&nbsp;Mr Malcolm MacDonald, on 1 December 1951. In 1957, the school was given grant-in-aid and it became a Government-aided school.
-
-        
+In the same year, the site at 50, Lorong 34, Geylang,&nbsp;was acquired. On 21 January 1951, Rev. Yin Poon laid the foundation stone and construction work started. In July 1951, the pupils moved from the shophouse into&nbsp;the new building. The new school was officially declared open by the then British High Commissioner,&nbsp;Mr Malcolm MacDonald, on 1 December 1951. In 1957, the school was given grant-in-aid and it became a Government-aided school.    
 
 **缘起**
 
