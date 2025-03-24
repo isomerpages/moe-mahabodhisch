@@ -111,6 +111,21 @@ With the start of the PERI (Primary School Education Review and Implementation) 
 
 Mr Foo Soo Luang retired in October 1996 after serving the school for 25 years as its principal. Taking on the task of the principalship was Mr Chew Chong Theng who left the school at the end of 2002. Mr Foo Chee Meng then became the next principal of the school from end 2002 to 2004. &nbsp;Mrs Lim Bee Lay who was then the vice-principal assumed duties as Principal from 2005-2013. Mrs Elaine Quek took over the reins as the Principal from 2014 to 2021. 
 
+        
+
+**下一个千年**
+
+1991 年，在新加坡佛教总会在主席优昙法师（Ven Sek Yiu Torn）的领导下，常年大会上议决，接受政府根据 “以地换地”计划提供的 1.8 公顷新校址（乌美大道 1 号），以交换芽笼34巷的土地。新加坡佛教总会承诺建造一座新校舍，为学生提供最新的设备和设施。
+
+新校舍及其设施的造价将近 2000 万元。1995 年 11 月，学生和教职员工迁入新校舍。新校舍具备完善的现代化设施，如创新中心、两间音乐室、一间乐队室、两间电脑室、一间视听剧场和一间先进的视频编辑室。
+
+如今，菩提学校已成为新加坡的名校之一。
+
+随着2015年小学教育检讨及执行（PERI）升级工程的启动，学校将进入新的发展阶段，新增支持提供全人教育的增强型基础设施。新的学校设施将支持差异化教学方法，使我们的学生能够从更好的学习环境中受益。
+
+符书銮先生在担任学校校长 25 年后，于 1996 年 10 月退休。周宗廷先生接任校长一职，并于 2002 年底离任。随后，符书銮先生于 2002 年年底至 2004 年担任该校的下一任校长。 2005-2013 年间，时任副校长的周美丽女士接任校长一职。2014 至 2021 年，林惠珉女士接任校长一职。
+
+
 <img src="/images/History-6.png" style="width:110px;height:140px">
 <center>Mr Foo Soo Luang</center>
 
