@@ -43,6 +43,11 @@ In the same year, the site at 50, Lorong 34, Geylang,&nbsp;was acquired. On 21 J
 
 Over the years, the enrolment of pupils increased tremendously from a mere 40 to 1300 and the teaching staff from 4 to 40 by 1966. The increasing enrolment soon made the number of classrooms insufficient. Rev. Hong Choon, Chairman of the Singapore Buddhist Federation, Rev. Chan Khye, Secretary-General, and members of the school management committee undertook to extend the school building. The middle part of the school building was developed into a five-storey building, which included a spacious hall and more rooms. The extension cost amounted to $800,000.
 
+        
+
+**扩建**
+
+1966 年，招生人数从 40 人激增到 1300人，教职员工也从 4 人增加到 40 人。入学人数的增加很快就导致教室数量不足。因此，新加坡佛教总会主席宏船法师、秘书长常凯法师和学校管理委员会成员决定扩建校舍。校舍的中间部分扩建为五层楼，包括一个宽敞的大厅和更多的房间。扩建工程耗资 80 万元。
 #### The Modern Building
 
 On 20 December 1970, the extension was officially declared open by the then Parliamentary Secretary,&nbsp;Ministry of National Development, Mr Ho Cheng Choon. In the same year, the school became an integrated school,&nbsp;with classes for Chinese and English streams.
