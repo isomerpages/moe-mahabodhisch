@@ -81,6 +81,12 @@ In 1971, Miss Pitt Chin Hui, the principal, retired after a successful term in o
 
 In 1974, the Ministry of Education specially commended the school on this achievement. Maha Bodhi School was then named as one of the top ten schools which scored the highest marks in the English Language. The attempt proved that the pupils could do well in both languages, i.e. Chinese and English. At the same time, the school also started a wide range of extra curricular activities such as the brass band, lion dance, choir and art classes. These were aimed at enhancing the development of the physical well-being and nurturing the artistic talents of the pupils.
 
+        
+
+**成就**
+
+1974 年，教育部特别表彰了学校的这一成就。当时，菩提学校被评为英语成绩最高的十所学校之一。这次的尝试证明，学生们在中英文两种语言方面都能取得好成绩。与此同时，学校还开设了广泛的课外活动，如铜管乐队、舞狮、合唱团和艺术班。这些活动旨在促进学生的身心发展，以及培养他们的艺术才能。
+
 #### The Recognition
 
 In 1985, the school became a full English-medium school. In 1990, it became a Special Assistance Plan (SAP) school which laid emphasis on the learning of English and Chinese and the inculcation of Asian moral values in the pupils. The school continued to perform well. From 1977 to 2015, the school produced eleven Prime Minister’s Book Prize winners, an annual award for outstanding bilingual pupils on the basis of excellent PSLE results.
