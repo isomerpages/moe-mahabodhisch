@@ -8,8 +8,6 @@ variant: markdown
 
 In 1946, Rev. Chee Hong of Leng Feng Bodhi Institute, an ardent promoter of Buddhist education,  delegated Miss Pitt Chin Hui and others, aided by Buddhist believers, to undertake the  establishing of Maha Bodhi School. A shophouse at No. 743, Geylang Road became a temporary school building with about 40 pupils. On 12 January 1948, the school was officially declared  open. The first principal was Sister Wong Loon Soo.
 
-        
-
 **菩提校史**
 
 1946 年，积极倡导佛教教育的灵峰菩提学院慈航法师委托毕俊辉女士等人，在佛教信徒的影响下，开展搭建菩提学校。位于芽笼路 743 号的一间店屋成为了一所临时学校校舍，约有40名学生。1948 年 1 月 12 日，学校正式开幕。学校的首任校长由王弄书居士担任。
@@ -21,7 +19,7 @@ In 1946, Rev. Chee Hong of Leng Feng Bodhi Institute, an ardent promoter of Budd
 
 #### The Beginning
 
-1950, Sister Wong left Singapore and went back to Penang.&nbsp;Miss Pitt then took over as principal. Though the school had&nbsp;no proper facilities, the school management committee worked hard to keep it running. The pupil enrolment increased and the school progressed steadily. Subsequently, the school management committee, decided to place the sponsorship of the school under the Singapore Buddhist Federation for further development. Mr Lee Choon Seng, Chairman of the Singapore Buddhist Federation formed a school building committee to raise funds for the development of the school.
+In 1950, Sister Wong left Singapore and went back to Penang.&nbsp;Miss Pitt then took over as principal. Though the school had&nbsp;no proper facilities, the school management committee worked hard to keep it running. The pupil enrolment increased and the school progressed steadily. Subsequently, the school management committee, decided to place the sponsorship of the school under the Singapore Buddhist Federation for further development. Mr Lee Choon Seng, Chairman of the Singapore Buddhist Federation formed a school building committee to raise funds for the development of the school.
 <br><br>
 <img src="/images/History-2.png" style="width:110px;height:140px">
 
@@ -30,6 +28,14 @@ In 1946, Rev. Chee Hong of Leng Feng Bodhi Institute, an ardent promoter of Budd
 #### The Original School
 
 In the same year, the site at 50, Lorong 34, Geylang,&nbsp;was acquired. On 21 January 1951, Rev. Yin Poon laid the foundation stone and construction work started. In July 1951, the pupils moved from the shophouse into&nbsp;the new building. The new school was officially declared open by the then British High Commissioner,&nbsp;Mr Malcolm MacDonald, on 1 December 1951. In 1957, the school was given grant-in-aid and it became a Government-aided school.
+
+        
+
+**缘起**
+
+在同一年里，位于芽笼 34 巷 50 号的校址被征用。1951 年 1 月 21 日，演本法师为学校奠基并开始施工。1951 年 7 月，学生们正式从店屋搬入新校舍。1951 年 12 月 1 日，时任英国驻东南亚高级专员马尔科姆·麦克唐纳（Malcolm MacDonald）先生宣布新校正式启用。1957 年，学校获得补助金，成为一所政府资助学校。
+
+菩提学校的原校舍位于芽笼 34 巷。
 <br><br>
 <img src="/images/History-3.png" style="width:200px;height:120px">
 
