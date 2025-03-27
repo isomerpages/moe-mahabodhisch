@@ -8,6 +8,8 @@ variant: markdown
 
 In 1946, Rev. Chee Hong of Leng Feng Bodhi Institute, an ardent promoter of Buddhist education,  delegated Miss Pitt Chin Hui and others, aided by Buddhist believers, to undertake the  establishing of Maha Bodhi School. A shophouse at No. 743, Geylang Road became a temporary school building with about 40 pupils. On 12 January 1948, the school was officially declared  open. The first principal was Sister Wong Loon Soo.
 
+        
+
 **菩提校史**
 
 1946 年，积极倡导佛教教育的灵峰菩提学院慈航法师委托毕俊辉女士等人，在佛教信徒的影响下，开展搭建菩提学校。位于芽笼路 743 号的一间店屋成为了一所临时学校校舍，约有40名学生。1948 年 1 月 12 日，学校正式开幕。学校的首任校长由王弄书居士担任。
@@ -28,6 +30,8 @@ In 1950, Sister Wong left Singapore and went back to Penang.&nbsp;Miss Pitt then
 #### The Original School
 
 In the same year, the site at 50, Lorong 34, Geylang,&nbsp;was acquired. On 21 January 1951, Rev. Yin Poon laid the foundation stone and construction work started. In July 1951, the pupils moved from the shophouse into&nbsp;the new building. The new school was officially declared open by the then British High Commissioner,&nbsp;Mr Malcolm MacDonald, on 1 December 1951. In 1957, the school was given grant-in-aid and it became a Government-aided school.    
+
+
 
 **缘起**
 
