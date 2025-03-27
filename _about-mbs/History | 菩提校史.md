@@ -67,7 +67,7 @@ the school was given grant-in-aid and it became a Government-aided school.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>The original Maha Bodhi School building at Lorong 34, Geylang</p>
+<p>Former Maha Bodhi School building at Lor 34, Geylang</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
