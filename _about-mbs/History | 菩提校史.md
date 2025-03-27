@@ -55,8 +55,8 @@ the school was given grant-in-aid and it became a Government-aided school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:120px" height="auto" width="100%" src="/images/History-3.png">
 </div>
-<p>The original Maha Bodhi School building at Lorong 34, Geylang菩提学校的原校舍位于芽笼
-34 巷。</p>
+<p>The original Maha Bodhi School building at Lorong 34, Geylang</p>
+<p>菩提学校的原校舍位于芽笼 34 巷。</p>
 <h4>The Demand</h4>
 <p>Over the years, the enrolment of pupils increased tremendously from a
 mere 40 to 1300 and the teaching staff from 4 to 40 by 1966. The increasing
@@ -81,8 +81,8 @@ classes for Chinese and English streams.</p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:120px" height="auto" width="100%" src="/images/History-4.png">
 </div>
-<p>The new five-storey building at Lorong 34 in 1970s 五层的新校舍在20 世纪 70 年代位于芽笼
-34 巷</p>
+<p>The new five-storey building at Lorong 34 in 1970s</p>
+<p>五层的新校舍在20 世纪 70 年代位于芽笼 34 巷</p>
 <h4>The First Principal</h4>
 <p>In 1971, Miss Pitt Chin Hui, the principal, retired after a successful
 term in office for 20 years. Mr Foo Soo Luang took over as principal. Mr
