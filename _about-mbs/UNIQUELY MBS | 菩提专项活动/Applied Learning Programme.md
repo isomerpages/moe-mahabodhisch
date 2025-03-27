@@ -40,6 +40,18 @@ All MBS pupils will also go through a series of developmental opportunities to e
 
 Pupils go through 8 sessions to hone their presentations skills in order to deliver powerful presentation. During their level Values-in-Action project, ‘My School, My Responsibility’, pupils work in teams to promote school-improvement projects. Pupils learn to communicate their ideas and arrive at a consensus for their team project. They produce videos to raise awareness and concern, and to rally support in making a positive difference.
 
+        
+
+**三年级****\--“****我的学校，我的责任****”****（视频日志）**
+
+为了使演讲更有感染力，三年级的同学们将通过 8 节课来磨练演讲技巧。“我的学校，我的责任”是三年级“德育在于行动”项目的一部分，学生分组合作，推动学校改进项目。在这一过程中，他们学习如何有效地表达自己的想法，同时提升团队合作意识。学生们还制作了视频，吸引人们的关注，提高人们和意识，并争取支持，从而推动积极的变化。
+
 **Primary 5 – Waste Not, Want Not**
 
 Primary 5 pupil learn public speaking skills such as projecting stage presence and delivering a persuasive presentation before their audience. During their level Values-in Action project, Waste Not, Want Not’, pupils will apply their public speaking skills when they take to the stage to share with the school on the challenges faced by Singapore in managing waste, and our waste management system. They will share information about the limitations of Pulau Semakau as well as 3R efforts to promote responsible decision-making related to going green.
+
+        
+
+**五年级** **— “****取之有度，用之有节****”**
+
+小学五年级的学生将学习公共演讲技巧，如展示舞台风范和如何发表有说服力的演讲。在他们这一年级的 “德育在于行动” 活动中，学生们根据主题《取之有度，用之有节》运用他们的演讲技巧，登台与全校师生分享新加坡在在处理垃圾方面所面临的挑战，以及介绍我们的垃圾管理系统。他们还将分享有关实马高岛的局限性，介绍 “3R” （“Reduce, Reuse, Recycle”，即 “减少使用、物尽其用、循环再用”）的环保举措，引导大家思考如何在绿色环保领域尽一份力。
