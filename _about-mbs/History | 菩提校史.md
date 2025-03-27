@@ -246,9 +246,16 @@ Meng then became the next principal of the school from end 2002 to 2004.
 &nbsp;Mrs Lim Bee Lay who was then the vice-principal assumed duties as
 Principal from 2005-2013. Mrs Elaine Quek took over the reins as the Principal
 from 2014 to 2021.</p>
-<p></p>
 <p>Under the current leadership of Mrs See Lai Kwan, the school will continue
 to strive for excellence in both the academic as well as the non-academic,
 particularly focusing on the school's distinctive niche areas such as Aesthetics
 (Learn for Life Programme) and Communication (Applied Learning Programme).</p>
+<p><strong>符书銮先生</strong>
+</p>
+<p>符书銮先生在担任学校校长 25 年后，于 1996 年 10 月退休。周宗廷先生接任校长一职，并于<strong> </strong>2002
+年底离任。随后，符致明先生于 2002 年年底至 2004 年担任该校的下一任校长。 2005-2013 年间，时任副校长的周美丽女士接任校长一职。2014
+至 2021 年，林惠珉女士接任校长一职。</p>
+<p>在现任校长邓丽君女士的领导下，学校将继续在学术和非学术方面精益求精，尤其是在学校的专项领域，如美学（终身学习计划）和有效沟通（应用学习项目）。</p>
+<p></p>
+<p></p>
 <p>习项目)。</p>
