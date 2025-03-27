@@ -71,17 +71,17 @@ On 20 December 1970, the extension was officially declared open by the then Parl
 
 1970 年 12 月 20 日，时任国家发展部政务次长何振春先生为扩建工程开幕。同年，学校成为一所综合学校，开设了中文班和英文班。
 
-五层的新校舍在20 世纪 70 年代位于芽笼 34 巷。
-
 
 <img src="/images/History-4.png" style="width:200px;height:120px">
 
-<center>The new five-storey building at Lorong 34 in 1970s</center>
+<center>The new five-storey building at Lorong 34 in 1970s</center>五层的新校舍在20 世纪 70 年代位于芽笼 34 巷。
 
 #### The First Principal
 
 In 1971, Miss Pitt Chin Hui, the principal, retired after a successful term in office for 20 years. Mr Foo Soo Luang took over as principal. Mr Foo, like his predecessor, put special emphasis on bilingualism. In 1973, he encouraged the first batch of 50 Primary 6 Chinese- medium pupils to take the PSLE in the English-medium. All of them passed with very good grades.
 <br><br>
+        
+
 **首任校长**
 
 1971 年，校长毕俊辉女士在成功任职 20 年后退休。符书銮先生接任校长一职。符先生与前任校长一样，特别重视双语教学。1973 年，他鼓励首批 50 名受中文教育的小学六年级学生参加以英语为母语的 PSLE 考试。所有学生都以优异的成绩通过了考试。
@@ -97,7 +97,7 @@ In 1974, the Ministry of Education specially commended the school on this achiev
 
 **成就**
 
-1974 年，教育部特别表彰了学校的这一成就。当时，菩提学校被评为英语成绩最高的十所学校之一。这次的尝试证明，学生们在中英文两种语言方面都能取得好成绩。与此同时，学校还开设了广泛的课外活动，如铜管乐队、舞狮、合唱团和艺术班。这些活动旨在促进学生的身心发展，以及培养他们的艺术才能。
+1974 年，教育部特别表彰了学校的这一项成就。当时，菩提学校获评为英文成绩最高的十所学校之一。这次的尝试证明，学生们在中英文两种语言方面都能取得好成绩。与此同时，学校还开设了更多的课外活动，如铜管乐队、舞狮、合唱团和艺术班。这些活动旨在促进学生的身心发展，以及培养他们的艺术才能。
 
 #### The Recognition
 
@@ -107,7 +107,8 @@ In 1985, the school became a full English-medium school. In 1990, it became a Sp
 
 **特选学校**
 
-1985 年，学校成为一所全英语授课学校。1990 年，该校成为特选辅助计划（SAP）学校，重点学习英语和中文，并向学生灌输亚洲道德价值观。学校继续保持良好的办学业绩。从 1977 年到 2015 年，该校共培养出 11 名总理书籍奖得主，该奖项每年颁发给在 PSLE 考试中取得优异成绩的优秀双语学生。
+1985 年，学校成为一所全英语授课学校。1990 年，该校成为特选辅助计划（SAP）学校，重点学习英文和中文，并向学生灌输亚洲道德价值观。学校继续保持良好的办学业绩。从 1977 年到 2015 年，该校共培养出 11 名总理书籍奖得主，该奖项每年颁发给在 PSLE 考试中取得优异成绩的优秀双语学生。        
+
 
 #### The Next Millennium
 
