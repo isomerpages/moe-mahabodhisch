@@ -27,6 +27,12 @@ In 1950, Sister Wong left Singapore and went back to Penang.&nbsp;Miss Pitt then
 
 <center>No. 743, Geylang Road – The first Maha Bodhi School in 1948</center>
 
+        
+
+**开始**
+
+1950年，王弄书居士离开新加坡，回到槟城。毕俊辉女士接掌校长一职。虽然学校没有适当的设施，但学校董事会还是努力不懈地维持学校的运作。学生人数增加，学校稳步发展。后来，学校董事会决定把赞助学校的事宜交由新加坡佛教总会负责，以便学校能进一步发展。新加坡佛教总会主席李俊承先生成立建校委员会，为学校的发展筹款。
+
 #### The Original School
 
 In the same year, the site at 50, Lorong 34, Geylang,&nbsp;was acquired. On 21 January 1951, Rev. Yin Poon laid the foundation stone and construction work started. In July 1951, the pupils moved from the shophouse into&nbsp;the new building. The new school was officially declared open by the then British High Commissioner,&nbsp;Mr Malcolm MacDonald, on 1 December 1951. In 1957, the school was given grant-in-aid and it became a Government-aided school.    
