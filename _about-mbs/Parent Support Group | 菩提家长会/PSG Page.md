@@ -78,7 +78,7 @@ contributions to the school</p>
 </ul>
 <p><strong>Parent Support Group Committee (家长支援小组委员会)</strong>
 </p>
-<p><strong>EXCO </strong>
+<p><strong>EXCO</strong>
 </p>
 <p>Chairperson (主席): Ms Loo Siok Chen</p>
 <p>Vice-Chairperson (副主席): Ms Joyce Yeo</p>
