@@ -55,8 +55,48 @@ the school was given grant-in-aid and it became a Government-aided school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:120px" height="auto" width="100%" src="/images/History-3.png">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p>The original Maha Bodhi School building at Lorong 34, Geylang</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>菩提学校的原校舍位于芽笼 34 巷。</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>The Demand</h4>
 <p>Over the years, the enrolment of pupils increased tremendously from a
 mere 40 to 1300 and the teaching staff from 4 to 40 by 1966. The increasing
