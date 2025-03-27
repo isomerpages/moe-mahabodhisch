@@ -58,8 +58,9 @@ different ethnic groups and participates in the beauty around them.</p>
 Spectrum》是展示学生们的作品，也是培养他们的自信心及成就感。《The Spectrum》的视觉艺术展览激发艺术讨论，引导学生相互学习。我们的学生在表演、展览和比赛中获得的诸多荣誉，足以证明
 LEAP这个项目非常卓越。</p>
 <p>LEAP 支持学生在艺术上的发展，让他们持有好奇心，发现并追求他们在视觉艺术、音乐和舞蹈方面的兴趣和优势。LEAP通过培养文化和审美敏感性来发展学生的创造力，并培养他们的价值观。LEAP让学生得以欣赏不同种族文化的多样性，也让他们有机会体验文化之美。</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/img1.jpeg">
+</div>
 <p></p>
 <p></p>
 <p></p>
