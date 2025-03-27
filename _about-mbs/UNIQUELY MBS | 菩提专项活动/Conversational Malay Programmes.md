@@ -24,7 +24,9 @@ The school engaged external Malay instructors to conduct the programme. They use
 在课程结束时，学生应能：
 
 o&nbsp;&nbsp; 听并理解简单的马来语
+
 o&nbsp;&nbsp; 用简单的马来语进行问答
+
 o&nbsp;&nbsp; 对马来文化有一定的认识和欣赏。
 
 学校聘请了校外马来导师来教导学生。他们将运用不同的教学方式，如小测试、歌曲、对话和角色扮演等，吸引学生参与。通过这些活动，学生们有机会以有趣的方式，进一步认识马来文化。
