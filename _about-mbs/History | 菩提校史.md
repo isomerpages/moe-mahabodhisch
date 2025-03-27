@@ -43,21 +43,21 @@ In the same year, the site at 50, Lorong 34, Geylang,&nbsp;was acquired. On 21 J
 
 在同一年里，位于芽笼 34 巷 50 号的校址被征用。1951 年 1 月 21 日，演本法师为学校奠基并开始施工。1951 年 7 月，学生们正式从店屋搬入新校舍。1951 年 12 月 1 日，时任英国驻东南亚高级专员马尔科姆·麦克唐纳（Malcolm MacDonald）先生宣布新校正式启用。1957 年，学校获得补助金，成为一所政府资助学校。
 
-菩提学校的原校舍位于芽笼 34 巷。
+
 <br><br>
 <img src="/images/History-3.png" style="width:200px;height:120px">
 
-<center>The original Maha Bodhi School building at Lorong 34, Geylang</center>
+<center>The original Maha Bodhi School building at Lorong 34, Geylang</center>菩提学校的原校舍位于芽笼 34 巷。
 
 #### The Demand
 
 Over the years, the enrolment of pupils increased tremendously from a mere 40 to 1300 and the teaching staff from 4 to 40 by 1966. The increasing enrolment soon made the number of classrooms insufficient. Rev. Hong Choon, Chairman of the Singapore Buddhist Federation, Rev. Chan Khye, Secretary-General, and members of the school management committee undertook to extend the school building. The middle part of the school building was developed into a five-storey building, which included a spacious hall and more rooms. The extension cost amounted to $800,000.
 
-        
+         
 
 **扩建**
 
-1966 年，招生人数从 40 人激增到 1300人，教职员工也从 4 人增加到 40 人。入学人数的增加很快就导致教室数量不足。因此，新加坡佛教总会主席宏船法师、秘书长常凯法师和学校管理委员会成员决定扩建校舍。校舍的中间部分扩建为五层楼，包括一个宽敞的大厅和更多的房间。扩建工程耗资 80 万元。
+1966 年，招生人数从 40 人激增到 1300人，教职员工也从 4 人增加到 40 人。入学人数的增加得很快，就导致教室数量不足。因此，新加坡佛教总会主席宏船法师、秘书长常凯法师和学校管理委员会成员决定扩建校舍。校舍的中间部分扩建为五层楼，包括一个宽敞的大厅和更多的教室。扩建工程耗资 80 万元。
 
 #### The Modern Building
 
