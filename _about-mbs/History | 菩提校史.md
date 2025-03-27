@@ -81,8 +81,50 @@ classes for Chinese and English streams.</p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:120px" height="auto" width="100%" src="/images/History-4.png">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p>The new five-storey building at Lorong 34 in 1970s</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>五层的新校舍在20 世纪 70 年代位于芽笼 34 巷</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h4>The First Principal</h4>
 <p>In 1971, Miss Pitt Chin Hui, the principal, retired after a successful
 term in office for 20 years. Mr Foo Soo Luang took over as principal. Mr
