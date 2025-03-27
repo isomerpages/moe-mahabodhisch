@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: UNIQUELY MBS | 菩提专项活动
 ---
-<p>## Programmes</p>
-<p>### Learn for Life Programme</p>
-<p><strong>L</strong>earning through an&amp;nbsp;**E**thnic&amp;nbsp;**A**rts&amp;nbsp;**P**rogramme
-(LEAP)</p>
+<h4><strong>Learn for Life Programme: Learning through an Ethnic Arts Programme (LEAP)</strong></h4>
 <p>LEAP has been developed by the school with PSE funding since 2006. It
 is a key distinctive programme of Maha Bodhi School and we pride ourselves
 to be able to deliver quality learning experiences in visual and performing
@@ -62,7 +59,3 @@ LEAP这个项目非常卓越。</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/img1.jpeg">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>![](/images/img1.jpeg)</p>
