@@ -37,7 +37,7 @@ a school building committee to raise funds for the development of the school.
 <img style="width:110px;height:140px" height="auto" width="100%" src="/images/History-2.png">
 </div>
 <p>No. 743, Geylang Road – The first Maha Bodhi School in 1948</p>
-<p>1948年 第 一 所菩提学校设立于芽笼路743号。</p>
+<p>1948年， 第 一 所菩提学校设立于芽笼路743号。</p>
 <p><strong>开始</strong>
 </p>
 <p>1950年，王弄书居士离开新加坡，回到槟城。毕俊辉女士接掌校长一职。虽然学校没有适当的设施，但学校董事会还是努力不懈地维持学校的运作。学生人数增加，学校稳步发展。后来，学校董事会决定把赞助学校的事宜交由新加坡佛教总会负责，以便学校能进一步发展。新加坡佛教总会主席李俊承先生成立建校委员会，为学校的发展筹款。</p>
