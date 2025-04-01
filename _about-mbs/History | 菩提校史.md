@@ -169,8 +169,6 @@ classes for Chinese and English streams.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <h4>The First Principal</h4>
 <p>In 1971, Miss Pitt Chin Hui, the principal, retired after a successful
 term in office for 20 years. Mr Foo Soo Luang took over as principal. Mr
@@ -181,12 +179,32 @@ grades.</p>
 <p><strong>首任校长</strong>
 </p>
 <p>1971 年，校长毕俊辉女士在成功任职 20 年后退休。符书銮先生接任校长一职。符先生与前任校长一样，特别重视双语教学。1973 年，他鼓励首批
-50 名受中文教育的小学六年级学生参加以英语为母语的 PSLE 考试。所有学生都以优异的成绩通过了考试。</p>
+50 名受中文教育的小学六年级学生参加以英语为母语的 PSLE 考试。所有学生都以优异的成绩通过了考试</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:110px;height:140px" height="auto" width="100%" src="/images/History-5.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/History-5.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p><strong>Miss Pitt Chin Hui</strong>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>The Achievement</h4>
 <p>In 1974, the Ministry of Education specially commended the school on this
 achievement. Maha Bodhi School was then named as one of the top ten schools
@@ -240,10 +258,11 @@ learning environment.</p>
 <p>新校舍及其设施的造价将近 2000 万元。1995 年 11 月，学生和教职员工迁入新校舍。新校舍具备完善的现代化设施，如创新中心、两间音乐室、一间乐队室、两间电脑室、一间视听剧场和一间先进的视频编辑室。</p>
 <p>如今，菩提学校已成为新加坡的名校之一。</p>
 <p>随着2015年小学教育检讨及执行（PERI）升级工程的启动，学校将进入新的发展阶段，为学生提供全面教育。翻新工作完善了学校措施，让老师更有效地开展差异化教学，使我们的学生能够从更好的学习环境中受益。</p>
-<p><strong>Mr Foo Soo Luang 符书銮先生</strong>
+<p><strong>                                            Mr Foo Soo Luang 符书銮先生</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/History-6.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/History-6.png">
 </div>
 <p>Mr Foo Soo Luang retired in October 1996 after serving the school for
 25 years as its principal. Taking on the task of the principalship was
