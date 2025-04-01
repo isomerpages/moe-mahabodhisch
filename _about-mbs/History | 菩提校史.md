@@ -17,10 +17,36 @@ open. The first principal was Sister Wong Loon Soo.</p>
 年 1 月 12 日，学校正式开学。学校的首任校长由王弄书居士担任。
 <br>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:110px;height:140px" height="auto" width="100%" src="/images/History-1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Reverend Chee Hong" src="/images/History-1.png">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
 <p>Reverend Chee Hong</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>The Beginning</h4>
 <p>In 1950, Sister Wong left Singapore and went back to Penang.&nbsp;Miss
 Pitt then took over as principal. Though the school had&nbsp;no proper
@@ -53,9 +79,6 @@ the school was given grant-in-aid and it became a Government-aided school.</p>
 <p>在同一年里，位于芽笼 34 巷 50 号的校址被征用。1951 年 1 月 21 日，演本法师为学校奠基并开始施工。1951 年 7 月，学生们正式从店屋搬入新校舍。1951
 年 12 月 1 日，时任英国驻东南亚高级专员马尔科姆·麦克唐纳（Malcolm MacDonald）先生宣布新校正式启用。1957 年，学校获得政府津贴，成为一所政府辅助学校。</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:200px;height:120px" height="auto" width="100%" src="/images/History-3.png">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -64,33 +87,24 @@ the school was given grant-in-aid and it became a Government-aided school.</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/History-3.png">
+</div>
+</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<th rowspan="1" colspan="3">
 <p>Former Maha Bodhi School building at Lor 34, Geylang</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>菩提学校的原校舍位于芽笼 34 巷。</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>菩提学校的原校舍位于芽笼 34 巷</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -119,9 +133,6 @@ classes for Chinese and English streams.</p>
 <p><strong>现代化教学楼</strong>
 </p>
 <p>1970 年 12 月 20 日，时任国家发展部政务次长何振春先生为扩建后的校舍开幕。同年，学校成为一所中英混合学校，开设了中文班和英文班。</p>
-<div class="isomer-image-wrapper">
-<img style="width:200px;height:120px" height="auto" width="100%" src="/images/History-4.png">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -130,33 +141,27 @@ classes for Chinese and English streams.</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/History-4.png">
+</div>
+</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<th rowspan="1" colspan="2">
 <p>The new five-storey building at Lorong 34 in 1970s</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>五层的新校舍在20 世纪 70 年代位于芽笼 34 巷</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
