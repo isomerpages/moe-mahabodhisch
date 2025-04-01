@@ -13,8 +13,8 @@ with about 40 pupils. On 12 January 1948, the school was officially declared
 open. The first principal was Sister Wong Loon Soo.</p>
 <p><strong>菩提校史</strong>
 </p>
-<p>1946 年，积极倡导佛教教育的灵峰菩提学院慈航法师委托毕俊辉女士等人，在佛教信徒的影响下，开展搭建菩提学校。位于芽笼路 743 号的一间店屋成为了一所临时学校校舍，约有40名学生。1948
-年 1 月 12 日，学校正式开幕。学校的首任校长由王弄书居士担任。
+<p>1946 年，积极倡导佛教教育的灵峰菩提学院慈航法师委托毕俊辉女士等人，在佛教信徒的支持下，开展搭建菩提学校。位于芽笼路 743 号的一间店屋成为了一所临时学校校舍，约有40名学生。1948
+年 1 月 12 日，学校正式开学。学校的首任校长由王弄书居士担任。
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -37,6 +37,7 @@ a school building committee to raise funds for the development of the school.
 <img style="width:110px;height:140px" height="auto" width="100%" src="/images/History-2.png">
 </div>
 <p>No. 743, Geylang Road – The first Maha Bodhi School in 1948</p>
+<p>1948年 第 一 所菩提学校设立于芽笼路743号。</p>
 <p><strong>开始</strong>
 </p>
 <p>1950年，王弄书居士离开新加坡，回到槟城。毕俊辉女士接掌校长一职。虽然学校没有适当的设施，但学校董事会还是努力不懈地维持学校的运作。学生人数增加，学校稳步发展。后来，学校董事会决定把赞助学校的事宜交由新加坡佛教总会负责，以便学校能进一步发展。新加坡佛教总会主席李俊承先生成立建校委员会，为学校的发展筹款。</p>
@@ -50,7 +51,7 @@ the school was given grant-in-aid and it became a Government-aided school.</p>
 <p><strong>缘起</strong>
 </p>
 <p>在同一年里，位于芽笼 34 巷 50 号的校址被征用。1951 年 1 月 21 日，演本法师为学校奠基并开始施工。1951 年 7 月，学生们正式从店屋搬入新校舍。1951
-年 12 月 1 日，时任英国驻东南亚高级专员马尔科姆·麦克唐纳（Malcolm MacDonald）先生宣布新校正式启用。1957 年，学校获得补助金，成为一所政府资助学校。</p>
+年 12 月 1 日，时任英国驻东南亚高级专员马尔科姆·麦克唐纳（Malcolm MacDonald）先生宣布新校正式启用。1957 年，学校获得政府津贴，成为一所政府辅助学校。</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:120px" height="auto" width="100%" src="/images/History-3.png">
