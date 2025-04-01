@@ -118,7 +118,7 @@ Ho Cheng Choon. In the same year, the school became an integrated school,&nbsp;w
 classes for Chinese and English streams.</p>
 <p><strong>现代化教学楼</strong>
 </p>
-<p>1970 年 12 月 20 日，时任国家发展部政务次长何振春先生为扩建工程开幕。同年，学校成为一所综合学校，开设了中文班和英文班。</p>
+<p>1970 年 12 月 20 日，时任国家发展部政务次长何振春先生为扩建后的校舍开幕。同年，学校成为一所中英混合学校，开设了中文班和英文班。</p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:120px" height="auto" width="100%" src="/images/History-4.png">
 </div>
