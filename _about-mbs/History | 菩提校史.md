@@ -109,7 +109,7 @@ a five-storey building, which included a spacious hall and more rooms.
 The extension cost amounted to $800,000.</p>
 <p><strong>扩建</strong>
 </p>
-<p>1966 年，招生人数从 40 人激增到 1300人，教职员工也从 4 人增加到 40 人。入学人数的增加得很快，就导致教室数量不足。因此，新加坡佛教总会主席宏船法师、秘书长常凯法师和学校管理委员会成员决定扩建校舍。校舍的中间部分扩建为五层楼，包括一个宽敞的大厅和更多的教室。扩建工程耗资
+<p>1966 年，学生人数从 40 人激增到 1300人，教职员工也从 4 人增加到 40 人。入学人数的激增导致教室数量不足。因此，新加坡佛教总会主席宏船法师、秘书长常凯法师和学校管理委员会成员决定扩建校舍。校舍的中间部分扩建为五层楼，包括一个宽敞的大厅和更多的教室。扩建工程耗资
 80 万元。</p>
 <h4>The Modern Building</h4>
 <p>On 20 December 1970, the extension was officially declared open by the
