@@ -191,10 +191,10 @@ grades.</p>
 <tr>
 <td rowspan="1" colspan="3">
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/History-5.png">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
