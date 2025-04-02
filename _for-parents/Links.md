@@ -22,4 +22,6 @@ variant: tiptap
 </p>
 <p><a href="https://www.instagram.com/parentingwith.moesg/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Parenting with You (MOE)</a>
 </p>
+<p><a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf" rel="noopener nofollow" target="_blank">Toolbox for Parents</a>
+</p>
 <p></p>
