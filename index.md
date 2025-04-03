@@ -57,5 +57,4 @@ sections:
       button: Click Here
       url: /serve-to-lead-programme-2025/
       image: /images/Serve_to_Lead_Picture_1.jpg
-      alt: Image alt text
 ---
