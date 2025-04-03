@@ -14,6 +14,12 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Serve to Lead Programme 2025
+      id: infopic
+      button: Click Here
+      url: /serve-to-lead-programme-2025/
+      image: /images/Serve_to_Lead_Picture_1.jpg
+  - infopic:
       title: Highlights of Buddy Programme 2025
       id: infopic
       description: Creating a stronger sense of community among Maha Bodhians
@@ -51,10 +57,4 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
-  - infopic:
-      title: Serve to Lead Programme 2025
-      id: infopic
-      button: Click Here
-      url: /serve-to-lead-programme-2025/
-      image: /images/Serve_to_Lead_Picture_1.jpg
 ---
