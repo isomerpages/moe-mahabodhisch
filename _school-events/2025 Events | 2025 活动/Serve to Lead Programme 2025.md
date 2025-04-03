@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 Events | 2025 活动
 ---
-<h4><strong>Serve to Lead Programme 2025 </strong></h4>
+<h4><strong>Serve to Lead Programme 2025</strong></h4>
 <p>The Serve to Lead Programme brings together student leaders from our school,
 Telok Kurau Primary School, and St. Anthony Canossian Primary School to
 foster teamwork, shared learning, and stronger community bonds.</p>
