@@ -13,12 +13,11 @@ sections:
         - title: Links for Parents and Students | 家长与学生相关链接
           description: ""
           url: /important-information/links/links/
-  - infopic:
+  - infobar:
       title: Serve to Lead Programme 2025
-      id: infopic
+      id: infobar
       button: Click Here
       url: /serve-to-lead-programme-2025/
-      image: /images/Serve_to_Lead_Picture_1.jpg
   - infopic:
       title: Highlights of Buddy Programme 2025
       id: infopic
