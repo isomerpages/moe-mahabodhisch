@@ -16,8 +16,10 @@ dun pin li xue
 
 |        |                                                                                  |
 |--------|----------------------------------------------------------------------------------|
-| 敦品 : | Steadfast in character. Learn to cultivate good behaviour with high moral value. |
-| 励学 : | Thirst for knowledge. The eagerness to learn and strive for excellence.          |
+| 敦品 :  培养高尚的品格和行为
+Steadfast in character. Learn to cultivate good behaviour with high moral value. |
+| 励学 : 勤力于学问，达到真、 善、 美的境界 
+Thirst for knowledge. The eagerness to learn and strive for excellence.          |
 
 
 
