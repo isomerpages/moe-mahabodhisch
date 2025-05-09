@@ -92,6 +92,6 @@ through Gate 1 via side gate.</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MBS Safety Routes to School" src="/images/MBS_Safety_Routes_to_School.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Updated Safety routes to school" src="/images/Updated_MBS_Safety_routes_to_school.png">
 </div>
 <p></p>
