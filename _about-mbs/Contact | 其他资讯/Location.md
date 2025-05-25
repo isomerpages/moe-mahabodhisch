@@ -13,7 +13,7 @@ variant: tiptap
 <br>Fax : 67443752
 <br>E-Mail :&nbsp;<a href="mailto:MBS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MBS@moe.edu.sg</a>
 <br>School Website :&nbsp;<a href="https://www.mahabodhi.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.mahabodhi.moe.edu.sg</a>
-<br>Map :&nbsp;<a href="http://sis.moe.gov.sg/schinfo/agencysearch/SLAAgencySearch.htm?AgencyID=9&amp;SearchType=1&amp;SearchKey=PostalCode&amp;SearchValue=408931" rel="noopener noreferrer nofollow" target="_blank">Click to view school locality map</a>
+<br>Map :&nbsp;<a href="https://www.onemap.gov.sg/?lat=1.3284709&amp;lng=103.9012988" rel="noopener noreferrer nofollow" target="_blank">Click to view school locality map</a>
 </p>
 <p>Operating hours for School General Office: Monday to Friday (8am to 5.30pm)</p>
 <h4><strong>Safety &amp; Security</strong></h4>
