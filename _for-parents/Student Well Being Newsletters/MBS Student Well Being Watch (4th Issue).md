@@ -11,6 +11,3 @@ third_nav_title: Student Well Being Newsletters
 <p><a href="/files/MBS_Well_Being_Watch_May_2025__4__Final_.pdf" rel="noopener nofollow" target="_blank">Issue 4, Term 2, 2025, Student Well-Being Watch</a>
 </p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
