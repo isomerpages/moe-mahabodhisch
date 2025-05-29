@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Student Well Being Newsletters
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Issue 4, Term 2, 2025" src="/images/WBW__4__Cover_.png">
 </div>
