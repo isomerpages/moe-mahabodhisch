@@ -36,5 +36,223 @@ Chinese cultural activities and competitions that promoted joyful engagement.</p
 platform for students to build 21st-century competencies such as collaboration,
 adaptability, digital literacy, and empathy. By encouraging students to
 explore, reflect, and contribute meaningfully to the world around them,
-ELW remains a key initiative in shaping confident,</p>
-<p>caring, and future-ready Maha Bodhians.</p>
+ELW remains a key initiative in shaping confident, caring, and future-ready
+Maha Bodhians.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_20_at_12_01_51_PM.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_20_at_9_34_14_PM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_22_at_10_54_56_PM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_23_at_9_05_58_AM.jpg">
+</div>
+<p></p>
+<p><strong>Key Highlights of ELW Activities</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9382.jpg">
+</div>
+<p>P2 Students attending coding Awbie sessions</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8964.jpg">
+</div>
+<p>P1 Students dressing up and learning about etiquette during Chinese Cultural
+Lessons</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_23_at_16_27_26.jpg">
+</div>
+<p>P4 3D Pen Drawing Experience</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250522_123653.jpg">
+</div>
+<p>P2 Wushu Experience</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250520_131529.jpg">
+</div>
+<p>P2 Clay Making and Buddy Gift Making</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6490.jpg">
+</div>
+<p>P3 Ozobot Sessions</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_27_at_10_45_51_AM.jpg">
+</div>
+<p>P4 Ubi Grove Learning Trail</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3F_20250521_075954__1_.jpg">
+</div>
+<p>P3 Conversational Malay Programme</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6549__1_.jpg">
+</div>
+<p>P3 Values in Action (Cleaning up our school)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250520_123544__1_.jpg">
+</div>
+<p>P4 Values in Action (Appreciation to our unsung heros)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250520_WA0003.jpg">
+</div>
+<p>P5 Music Programme (Ukulele)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSC_Photo_4__1_.jpg">
+</div>
+<p>P2 Problem Solving: Designing an inclusive playground</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250520_120053.jpg">
+</div>
+<p>P4 Math learning with puzzles</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250522_WA0009.jpg">
+</div>
+<p>P5 Code For Fun Programme</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250520_104522.jpg">
+</div>
+<p>GEM Week Character Dress Up</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_19_at_10_51_16.jpg">
+</div>
+<p>P1 Problem Solving Challenge (Building a tool using Strawbees to cross
+a river)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3ff0e613_5f0f_4a74_b11c_d5709dddd27b.jpg">
+</div>
+<p>P1 Buddy Gift: Message in a bottle</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
