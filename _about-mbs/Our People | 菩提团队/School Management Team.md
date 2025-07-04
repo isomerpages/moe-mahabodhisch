@@ -293,7 +293,7 @@ variant: tiptap
 <p>Ms Louise Peh Xue Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Internal) / ICT</p>
+<p>SH (Internal) / Information and Communications Technology</p>
 </td>
 </tr>
 </tbody>
