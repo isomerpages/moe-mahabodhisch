@@ -109,8 +109,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="sim_jia_yun_sheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_jia_yun_sheryl@moe.edu.sg</a>
-</p>
+<p>Mdm Lee Wei Wei Isadora</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_wei_wei_isadora@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wei_wei_isadora@moe.edu.sg</a>
