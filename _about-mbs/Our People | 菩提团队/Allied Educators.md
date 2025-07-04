@@ -51,18 +51,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Katherine Liew Jing Yan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AED (Teaching &amp; Learning)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liew_jing_yan_katherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_jing_yan_katherine@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Zulhilmi Akmal Supki</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,13 +87,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sayedah Begum Bte Peer Mohamed</p>
+<p>Mdm Yap Li Lian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sayedah_begum_peer_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sayedah_begum_peer_mohamed@moe.edu.sg</a>
+<p><a href="yap_li_lian@schools.gov.sg" rel="noopener nofollow" target="_blank">yap_li_lian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Jin Yin, Jean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chan_jin_yin_jean@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_jin_yin_jean@moe.edu.sg</a>
 </p>
 </td>
 </tr>
