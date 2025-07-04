@@ -109,7 +109,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Wei Wei Isadora</p>
+<p><a href="sim_jia_yun_sheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_jia_yun_sheryl@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_wei_wei_isadora@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wei_wei_isadora@moe.edu.sg</a>
@@ -171,10 +172,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Le-Ting Chelsia</p>
+<p>Mrs Sheryl Wong-Sim Jia Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_leting_chelsia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_leting_chelsia@moe.edu.sg</a>
+<p><a href="sim_jia_yun_sheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_jia_yun_sheryl@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -243,10 +244,10 @@ variant: tiptap
 <p><strong>P1 Humility</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm See Yi Jin Eunice</p>
+<p>Mdm Chang Ting Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:see_yi_jin_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_yi_jin_eunice@moe.edu.sg</a>
+<p><a href="mailto:see_yi_jin_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ting_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
