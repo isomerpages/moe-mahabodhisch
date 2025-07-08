@@ -3,6 +3,7 @@ title: PE Curriculum
 permalink: /departments/Physical-Education/PE-Curriculum/
 description: ""
 third_nav_title: Physical Education | 体育与健康教育
+variant: markdown
 ---
 ## PE Curriculum
 
@@ -92,12 +93,6 @@ Outdoor Education, otherwise defined as experiential learning in, for or about t
 
 **Outdoor Camps**&nbsp;
 
-&nbsp;**Primary 3 2D 1N Outdoor Adventure Camp \[Interaction with the Environment\]**
-
-The 2-day and 1-night camp seeks to introduce students to outdoor camping. The focus of the camp is on interacting with the environment. In collaboration with the Science Department, we organise our school camp with a trip to the zoo so that they will be able to learn more about animals and its interaction with nature. The team-building activities incorporated in the camp helps students learn to work with one another and learn to share, work and care for one another.
-
-![](/images/adventure.jpeg)
-
 **Primary 5 3D 2N Outdoor Adventure Camp**&nbsp;**\[Introduction to High Elements\]**
 
 The camp provides the opportunity for the students to learn to conquer their fears through the high elements stations. While it is a challenge-by-choice option where students only attempt the high elements if they are comfortable, students are highly encouraged to participate in the activities. Students will also have team-building activities and light trekking to build up their resilience and ruggedness. The camp facilitates social &amp; emotional learning and provides confidence-building experiences in a fun and exciting outdoor environment. The values of Resilience and Excellence are emphasised in the camp.
@@ -106,7 +101,7 @@ The camp provides the opportunity for the students to learn to conquer their fea
 
 **<u>Swimming</u>**
 
-Swimming develops students’ confidence to manoeuvre their bodies with control while experiencing the sensation of water balance, buoyancy and propulsion, in order to facilitate floating and moving in, under, and on water. The SwimSafer Programme for our Primary 3 students aims to equip our students with water survival skills and develop his/her self-confidence. The areas covered under the swimming programme are:
+Swimming develops students’ confidence to manoeuvre their bodies with control while experiencing the sensation of water balance, buoyancy and propulsion, in order to facilitate floating and moving in, under, and on water. The SwimSafer Programme for our students aims to equip our students with water survival skills and develop his/her self-confidence. The areas covered under the swimming programme are:
 
 a.&nbsp;Survival Skills.&nbsp;Covers drowning prevention techniques in addition to swimming ability. Pupils would be introduced to flotation survival techniques on how to stay alive in water.
 
@@ -116,6 +111,6 @@ b.&nbsp;Education and Awareness Component. Pupils are taught water safety knowle
  
  ![](/images/swimming.jpeg)
  
- **<u>Physical Health and Fitness</u>**
+ **<u>Physical Health and Safety</u>**
 
 Physical Health and Fitness stimulates students’ interest in physical activity as meaningful connections between health concepts and practical applications are made through experiential learning. Our students learn and understand good health practices in nutrition, exercise, safety and hygiene. Students also learn good practices in safety which includes areas such as road, fire and water safety. With these, students will then be equipped with the knowledge, skills and motivation to make informed personal decisions to stay active and healthy.
