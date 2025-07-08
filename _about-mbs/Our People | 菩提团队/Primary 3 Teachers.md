@@ -63,7 +63,7 @@ variant: tiptap
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teachers</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Emails</p>
@@ -146,6 +146,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jessy Ng-Sen Puay Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="sen-puay_hui_jessy@moe.edu.sg" rel="noopener nofollow" target="_blank">sen-puay_hui_jessy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>P3 Diligence</strong>
 </p>
 </td>
@@ -212,7 +224,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lan Ang Chye Seng</p>
+<p>Mr Ian Ang Chye Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ian_ang_chye_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ian_ang_chye_seng@moe.edu.sg</a>
@@ -224,10 +236,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Azuriati Bte Azhar</p>
+<p>Dazzalyn Decruz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_azuriati_azhar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azuriati_azhar@moe.edu.sg</a>
+<p><a href="mailto:nur_azuriati_azhar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dazzalyn_decruz@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -262,7 +274,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Hean Thoon</p>
+<p>Mr Ho Hean Thoon, Andy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_hean_thoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_hean_thoon@moe.edu.sg</a>

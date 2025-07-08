@@ -288,6 +288,14 @@ variant: tiptap
 <p>SH / Science</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Louise Peh Xue Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Internal) / Information and Communications Technology</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Assistant Year Heads</h4>

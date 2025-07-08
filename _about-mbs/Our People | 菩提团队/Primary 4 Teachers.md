@@ -112,6 +112,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ti Tat Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ti_tat_hua@moe.edu.sg" rel="noopener nofollow" target="_blank">ti_tat_hua@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>P4 Compassion</strong>
 </p>
 </td>
@@ -216,13 +228,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jacinda Ng Poh Sian</p>
-<p>Ms Tan Li Li</p>
+<p>Mrs Eunice Yip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_poh_sian_jacinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_poh_sian_jacinda@moe.edu.sg</a>
-</p>
-<p><a href="mailto:tan_li_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_li@moe.edu.sg</a>
+<p><a href="mailto:ng_poh_sian_jacinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_eunice@moe.edu.sg</a>
 </p>
 </td>
 </tr>
