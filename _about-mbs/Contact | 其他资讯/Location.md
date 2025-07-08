@@ -44,8 +44,9 @@ variant: tiptap
 <p>A</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Pupils taking Bus No 63 from Circuit Road to alight. Walk along the sheltered
-walkway and walk in through Gate 1 via side gate.</p>
+<p>Pupils taking Bus No 63, No. 63M and Bus No. 137 from Circuit Road to
+alight. Walk along the sheltered walkway and walk in through Gate 1 via
+side gate.</p>
 </td>
 </tr>
 <tr>
@@ -53,8 +54,9 @@ walkway and walk in through Gate 1 via side gate.</p>
 <p>B</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Pupils taking Bus No 63 from Eunos to alight. Use the signalized pedestrian
-crossing in front of Block 316. Walk in through Gate 1 via side gate</p>
+<p>Pupils taking Bus No 63, No. 63M and Bus No. 137 from Eunos to alight.
+Use the signalized pedestrian crossing in front of Block 316. Walk in through
+Gate 1 via side gate</p>
 </td>
 </tr>
 <tr>
