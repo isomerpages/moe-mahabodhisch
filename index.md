@@ -13,6 +13,16 @@ sections:
         - title: Links for Parents and Students | 家长与学生相关链接
           description: ""
           url: /important-information/links/links/
+  - infopic:
+      title: Young Reporter 2025
+      subtitle: Add an image and text
+      id: infopic
+      description: 8World news reporter visits our school for a meaningful exchange
+        and sharing session with students
+      button: Click Here
+      url: https://www.mahabodhi.moe.edu.sg/young-reporter-2025/
+      image: /images/Slide1.jpg
+      alt: Image alt text
   - infobar:
       title: Serve to Lead Programme 2025
       id: infobar
