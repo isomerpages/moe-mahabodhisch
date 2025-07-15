@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 Events | 2025 活动
 ---
-<h4>8World news reporter visits our school for a meaningful exchange and sharing session with students </h4>
+<h4>8World news reporter visits our school for a meaningful exchange and sharing session with students</h4>
 <p></p>
 <p>On 8 July 2025, reporters from 8world News visited our school for an interactive
 session with students from the Young Reporter Programme and the Videography
