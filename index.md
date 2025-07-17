@@ -15,7 +15,6 @@ sections:
           url: /important-information/links/links/
   - infopic:
       title: Young Reporter 2025
-      subtitle: Add an image and text
       id: infopic
       description: 8World news reporter visits our school for a meaningful exchange
         and sharing session with students
