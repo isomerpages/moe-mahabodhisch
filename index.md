@@ -15,7 +15,6 @@ sections:
           url: /important-information/links/links/
   - infopic:
       title: Young Reporter 2025
-      subtitle: Add an image and text
       id: infopic
       description: 8World news reporter visits our school for a meaningful exchange
         and sharing session with students
@@ -23,6 +22,11 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/young-reporter-2025/
       image: /images/Slide1.jpg
       alt: Image alt text
+  - infobar:
+      title: Back-to-School Term 3, 2025
+      id: infobar
+      button: Click Here
+      url: /back-to-school-term-3-2025/
   - infobar:
       title: Serve to Lead Programme 2025
       id: infobar
