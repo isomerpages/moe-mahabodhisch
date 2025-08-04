@@ -8,4 +8,5 @@ third_nav_title: Student Well Being Newsletters
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Well_Being_Watch_5th_Issue.png">
 </div>
-<p></p>
+<p><a href="/files/MBS_Well_Being_Watch_Issue__5_Term_3_2025__Final__V1.pdf" rel="noopener nofollow" target="_blank">MBS Student Well Being Watch </a>
+</p>
