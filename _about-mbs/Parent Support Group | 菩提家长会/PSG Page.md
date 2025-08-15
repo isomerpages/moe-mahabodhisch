@@ -80,7 +80,7 @@ contributions to the school</p>
 </p>
 <p><strong>EXCO</strong>
 </p>
-<p>Chairperson (主席): Ms Loo Siok Chen</p>
+<p>Chairperson (主席): Ms Loo Siok Chen, PBM</p>
 <p>Vice-Chairperson (副主席): Ms Joyce Yeo</p>
 <p>Vice-Chairperson (副主席): Mr Delvin Ng Wei Han</p>
 <p>PSG EXCO Members: Lim Siew Lay, Sean Kwek Sau Fong, Fann Woon Fong</p>
@@ -106,7 +106,7 @@ contributions to the school</p>
 <p></p>
 </li>
 <li>
-<p>Tracie Tan</p>
+<p>Tracie Lim</p>
 <p></p>
 </li>
 <li>
