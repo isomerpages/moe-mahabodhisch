@@ -14,6 +14,12 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Prefect Investiture 2025
+      id: infopic
+      button: Click Here
+      url: /prefect-investiture-2025/
+      image: /images/Prefect_Investiture_2025.png
+  - infopic:
       title: Racial Harmony Day 2025
       id: infopic
       button: Click Here
@@ -78,9 +84,9 @@ sections:
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
   - infopic:
-      title: Prefect Investiture 2025
+      title: Happy SG60 National Day!
       id: infopic
       button: Click Here
-      url: /prefect-investiture-2025/
-      image: /images/Prefect_Investiture_2025.png
+      url: /sg60-national-day-celebrations-2025/
+      image: /images/SG60_National_Day_Celebration_2025.png
 ---
