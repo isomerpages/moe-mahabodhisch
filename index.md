@@ -88,4 +88,9 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
+  - infopic:
+      title: Cyber Wellness Week 2025
+      id: infopic
+      button: Click Here
+      url: /cyber-wellness-week-2025-empowering-students-for-a-safer-digital-world/
 ---
