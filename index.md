@@ -70,4 +70,11 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
+  - infopic:
+      title: Racial Harmony Day 2025
+      id: infopic
+      button: Click Here
+      url: /racial-harmony-day-2025/
+      image: /images/Racial_Harmony_Day_2025.png
+      alt: Image alt text
 ---
