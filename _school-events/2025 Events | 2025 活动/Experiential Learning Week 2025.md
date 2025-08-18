@@ -1,5 +1,5 @@
 ---
-title: 2025 Experiential Learning Week
+title: Experiential Learning Week 2025
 permalink: /2025-experiential-learning-week/
 variant: tiptap
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: Afternoon With Teachers (AWT)
+title: Afternoon With Teachers (AWT) 2025
 permalink: /afternoon-with-teachers-awt/
 variant: tiptap
 description: ""
@@ -30,4 +30,28 @@ importance of home-school partnership in nurturing each child’s potential.</p>
 <p>Let’s continue to strengthen our strong home-school partnership, fostering
 a vibrant and supportive community where every student can grow, thrive
 and reach their full potential.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="Afternoon with Teachers 2025, Picture 1" src="/images/Afternoon_with_Teachers_2025_Pic_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Afternoon with Teachers 2025, Picture 2" src="/images/Afternoon_with_Teachers_2025_Pic_2.png">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Parents enjoyed an afternoon engaging with School Leaders, HODs, Year
+Heads and teachers to learn more about their child’s educational journey
+in Maha Bodhi School.</p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
