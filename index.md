@@ -13,12 +13,6 @@ sections:
         - title: Links for Parents and Students | 家长与学生相关链接
           description: ""
           url: /important-information/links/links/
-  - infobar:
-      title: Afternoon With Teachers (AWT)
-      id: infobar
-      description: Strong partnership between school and home
-      button: Click here
-      url: /afternoon-with-teachers-awt/
   - infopic:
       title: Young Reporter 2025
       id: infopic
@@ -56,6 +50,12 @@ sections:
       url: /celebrating-the-lny-with-music-and-joy-sbf/
       image: /images/LNY_SBF_photo_1.gif
       alt: Image alt text
+  - infobar:
+      title: Afternoon With Teachers (AWT)
+      id: infobar
+      description: Strong partnership between school and home
+      button: Click here
+      url: /afternoon-with-teachers-awt/
   - infobar:
       title: Tribute to the late Mr Foo Soo Luang
       id: infobar
