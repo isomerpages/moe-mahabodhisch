@@ -32,6 +32,10 @@ a vibrant and supportive community where every student can grow, thrive
 and reach their full potential.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Afternoon with Teachers 2025, Picture 1" src="/images/Afternoon_with_Teachers_2025_Pic_1.png">
+<img style="width: 90%;" height="auto" width="100%" alt="Afternoon with Teachers 2025, Picture 1" src="/images/Afternoon_with_Teachers_2025_Pic_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Afternoon with Teachers 2025, Picture 2" src="/images/Afternoon_with_Teachers_2025_Pic_2.png">
 </div>
 <p></p>
