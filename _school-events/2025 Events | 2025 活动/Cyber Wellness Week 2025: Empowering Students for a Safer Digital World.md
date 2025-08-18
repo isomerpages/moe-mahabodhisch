@@ -14,7 +14,7 @@ assembly, “Little Red Riding Hood and the Big Bad Cyber Wolf,” a creative
 twist on the classic tale that encouraged reflection on how our online
 presence can influence our personal safety and reputation. During recess,
 the courtyard came alive with six interactive cyber wellness stations covering
-topics such as spotting AI-generated images, practising netiquette, and
+topics such as spotting AI-generated images, practicing netiquette, and
 using the S.T.A.R.S. strategy to handle online challenges. Students collected
 clues at each station to unlock a special code and redeem a commemorative
 sticker. The joint efforts of staff, parents and students created a lively,
