@@ -16,3 +16,9 @@ meaning of National Day, making it a memorable and inspiring celebration
 for all.</p>
 <p>&nbsp;</p>
 <p>在菩提学校，国庆庆祝活动洋溢着激动与自豪，全校师生齐聚一堂，共同欢庆国家生日。在礼堂举行的庆祝会上，学校乐队、合唱团及华族舞蹈团带来精彩表演，以动听的音乐、优美的歌声和曼妙的舞姿深深吸引观众。庆祝会结束后，学生们回到课室，参加了一系列富有趣味的活动，这些活动不仅培养了团队合作与创造力，也引导他们思考国庆的意义，让这场庆祝成为一次难忘而振奋人心的经历。</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Happy SG60 National Day!" src="/images/SG60_National_Day_Celebration_2025.png">
+</div>
+<p></p>
