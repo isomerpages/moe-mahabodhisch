@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 Events | 2025 活动
 ---
-<h4><strong>Racial Harmony Day 2025</strong></h4>
+<h4><strong><u>Racial Harmony Day 2025</u></strong></h4>
 <p>On 21 July 2025, Maha Bodhi School celebrated Racial Harmony Day with
 an exciting assembly launch featuring a special performance by the school's
 Drama Club. Through the performance, pupils were reminded of the importance
