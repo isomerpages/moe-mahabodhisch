@@ -15,6 +15,7 @@ badges were presented to the EXCO members of the prefectorial board by
 Venerable Kwang Phing and Mrs See. To conclude the event, prefects were
 encouraged to lead themselves well and to embody the school values as they
 guide and serve others.</p>
+<p></p>
 <p>每年，菩提学校都会举行学生领袖就职典礼，以表扬并正式委任学生领袖加入学生领袖理事会。这项重要的仪式不仅是学生领袖成长旅程中的一个重要里程碑，也提醒他们要秉持卓越的服务精神，以诚信和责任感为学校服务。</p>
 <p>在典礼中，广品法师以及邓校长为学生领袖理事会的执行委员颁发学生领袖徽章，以示肯定与鼓励。活动尾声，学校勉励全体学生领袖应先严于律己、树立榜样，并在引导和服务他人时，体现学校核心价值观。</p>
 <p></p>
