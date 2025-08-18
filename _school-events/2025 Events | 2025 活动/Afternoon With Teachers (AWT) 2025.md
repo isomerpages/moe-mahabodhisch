@@ -38,4 +38,20 @@ and reach their full potential.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Afternoon with Teachers 2025, Picture 2" src="/images/Afternoon_with_Teachers_2025_Pic_2.png">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Parents enjoyed an afternoon engaging with School Leaders, HODs, Year
+Heads and teachers to learn more about their child’s educational journey
+in Maha Bodhi School.</p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
