@@ -14,6 +14,30 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Happy SG60 National Day!
+      id: infopic
+      button: Click Here
+      url: /sg60-national-day-celebrations-2025/
+      image: /images/SG60_National_Day_Celebration_2025.png
+  - infopic:
+      title: Prefect Investiture 2025
+      id: infopic
+      button: Click Here
+      url: /prefect-investiture-2025/
+      image: /images/Prefect_Investiture_2025.png
+  - infopic:
+      title: Cyber Wellness Week 2025
+      id: infopic
+      button: Click Here
+      url: /cyber-wellness-week-2025-empowering-students-for-a-safer-digital-world/
+      image: /images/Cyber_Wellness_Week_2025.png
+  - infopic:
+      title: Racial Harmony Day 2025
+      id: infopic
+      button: Click Here
+      url: /racial-harmony-day-2025/
+      image: /images/Racial_Harmony_Day_2025.png
+  - infopic:
       title: Young Reporter 2025
       id: infopic
       description: 8World news reporter visits our school for a meaningful exchange
