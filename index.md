@@ -14,6 +14,13 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Racial Harmony Day 2025
+      id: infopic
+      button: Click Here
+      url: /racial-harmony-day-2025/
+      image: /images/Racial_Harmony_Day_2025.png
+      alt: Image alt text
+  - infopic:
       title: Young Reporter 2025
       id: infopic
       description: 8World news reporter visits our school for a meaningful exchange
@@ -71,10 +78,9 @@ sections:
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
   - infopic:
-      title: Racial Harmony Day 2025
+      title: Prefect Investiture 2025
       id: infopic
       button: Click Here
-      url: /racial-harmony-day-2025/
-      image: /images/Racial_Harmony_Day_2025.png
-      alt: Image alt text
+      url: /prefect-investiture-2025/
+      image: /images/Prefect_Investiture_2025.png
 ---
