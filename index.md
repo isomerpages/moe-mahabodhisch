@@ -26,6 +26,12 @@ sections:
       url: /prefect-investiture-2025/
       image: /images/Prefect_Investiture_2025.png
   - infopic:
+      title: Cyber Wellness Week 2025
+      id: infopic
+      button: Click Here
+      url: /cyber-wellness-week-2025-empowering-students-for-a-safer-digital-world/
+      image: /images/Cyber_Wellness_Week_2025.png
+  - infopic:
       title: Racial Harmony Day 2025
       id: infopic
       button: Click Here
@@ -88,10 +94,4 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
-  - infopic:
-      title: Cyber Wellness Week 2025
-      id: infopic
-      button: Click Here
-      url: /cyber-wellness-week-2025-empowering-students-for-a-safer-digital-world/
-      image: /images/Cyber_Wellness_Week_2025.png
 ---
