@@ -93,4 +93,5 @@ sections:
       id: infopic
       button: Click Here
       url: /cyber-wellness-week-2025-empowering-students-for-a-safer-digital-world/
+      image: /images/Cyber_Wellness_Week_2025.png
 ---
