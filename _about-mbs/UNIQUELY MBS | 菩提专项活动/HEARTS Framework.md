@@ -6,9 +6,8 @@ description: ""
 image: /images/Hearts_Wall_Mural.jpg
 third_nav_title: UNIQUELY MBS | 菩提专项活动
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MBS___Wall_Murals_for_HEARTS_2025_Final_Copy_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner_slideshow_light.gif">
 </div>
 <h3><strong>Positive Education through the HEARTS Framework</strong></h3>
 <p>Our school partners with key stakeholders to equip our pupils with the
@@ -47,3 +46,7 @@ to strengthen their national and cultural identity.
 </p>
 <p>Through HEARTS, we nurture confident and compassionate learners who are
 ready to thrive in a complex and ever-changing world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner_slideshow_light.gif">
+</div>
+<p></p>
