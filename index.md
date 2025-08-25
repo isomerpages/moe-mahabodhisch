@@ -16,7 +16,7 @@ sections:
   - infobar:
       title: Teachers' Day Celebration
       id: infobar
-      description: Maha Bodhi School will be celebrating Teachers' Day on 4 September 2025.
+      description: Maha Bodhi School will be celebrating Teachers' Day on 4 September.
       button: Click Here
       url: /teachers-day-celebration/
   - infopic:
