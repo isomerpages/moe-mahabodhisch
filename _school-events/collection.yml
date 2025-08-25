@@ -2,7 +2,6 @@ collections:
   school-events:
     output: true
     order:
-      - 2025 Events | 2025 活动/Teachers' Day Celebration.md
       - 2025 Events | 2025 活动/.keep
       - 2025 Events | 2025 活动/SG60 National Day Celebrations 2025.md
       - 2025 Events | 2025 活动/Prefect Investiture 2025.md
