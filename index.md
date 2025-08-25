@@ -94,4 +94,10 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
+  - infobar:
+      title: Teachers' Day Celebration
+      id: infobar
+      description: Maha Bodhi School will be celebrating Teachers' Day on 4 September.
+      button: Click Here
+      url: /teachers-day-celebration/
 ---
