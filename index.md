@@ -13,6 +13,12 @@ sections:
         - title: Links for Parents and Students | 家长与学生相关链接
           description: ""
           url: /important-information/links/links/
+  - infobar:
+      title: Teachers' Day Celebration
+      id: infobar
+      description: Maha Bodhi School will be celebrating Teachers' Day on 4 September 2025.
+      button: Click Here
+      url: /teachers-day-celebration/
   - infopic:
       title: Happy SG60 National Day!
       id: infopic
@@ -94,10 +100,4 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Image alt text
-  - infobar:
-      title: Teachers' Day Celebration
-      id: infobar
-      description: Maha Bodhi School will be celebrating Teachers' Day on 4 September.
-      button: Click Here
-      url: /teachers-day-celebration/
 ---
