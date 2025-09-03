@@ -9,6 +9,24 @@ third_nav_title: Student Well Being Newsletters
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Well_Being_Cover_image_WBW_Issue__6.png">
 </div>
-<p><a href="/files/V2_MBS_Well_Being_Watch_Issue_Issue_5__Term_3_2025__Final_.pdf" rel="noopener nofollow" target="_blank">file</a>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_Well_Being_Watch_Issue__6___Cyber_Wellness_Week_Final__002__Page_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Well_Being_Watch_Issue__6___Cyber_Wellness_Week_Final__002__Page_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Well_Being_Watch_Issue__6___Cyber_Wellness_Week_Final__002__Page_4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Well_Being_Watch_Issue__6___Cyber_Wellness_Week_Final__002__Page_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Well_Being_Watch_Issue__6___Cyber_Wellness_Week_Final__002__Page_6.png">
+</div>
 <p></p>
