@@ -48,6 +48,7 @@ sections:
       button: Click Here
       url: /racial-harmony-day-2025/
       image: /images/Racial_Harmony_Day_2025.png
+      alt: Racial Harmony Day 2025
   - infopic:
       title: Young Reporter 2025
       id: infopic
