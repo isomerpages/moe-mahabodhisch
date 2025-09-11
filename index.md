@@ -34,7 +34,6 @@ sections:
       button: Click Here
       url: /prefect-investiture-2025/
       image: /images/Prefect_Investiture_2025.png
-      alt: Image alt text
   - infopic:
       title: Cyber Wellness Week 2025
       id: infopic
