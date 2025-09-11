@@ -57,7 +57,7 @@ sections:
       button: Click Here
       url: https://www.mahabodhi.moe.edu.sg/young-reporter-2025/
       image: /images/Slide1.jpg
-      alt: Image alt text
+      alt: Young Reporter 2025
   - infobar:
       title: Back-to-School Term 3, 2025
       id: infobar
