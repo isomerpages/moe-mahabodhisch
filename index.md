@@ -85,7 +85,7 @@ sections:
       button: Click Here
       url: /celebrating-the-lny-with-music-and-joy-sbf/
       image: /images/LNY_SBF_photo_1.gif
-      alt: Image alt text
+      alt: Celebrating the LNY@ SBF
   - infobar:
       title: Afternoon With Teachers (AWT)
       id: infobar
