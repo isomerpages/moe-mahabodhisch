@@ -41,6 +41,7 @@ sections:
       button: Click Here
       url: /cyber-wellness-week-2025-empowering-students-for-a-safer-digital-world/
       image: /images/Cyber_Wellness_Week_2025.png
+      alt: Cyber Wellness Week 2025
   - infopic:
       title: Racial Harmony Day 2025
       id: infopic
