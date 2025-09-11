@@ -75,7 +75,7 @@ sections:
       button: Click here
       url: /highlights-of-buddy-programme-2025/
       image: /images/P4__Guiding_P1___2.jpg
-      alt: Image alt text
+      alt: Buddy Programme 2025
   - infopic:
       title: Celebrating the LNY@ SBF
       id: infopic
