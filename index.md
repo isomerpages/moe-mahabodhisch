@@ -21,11 +21,13 @@ sections:
       image: /images/Teachers__Day_Celebration_2025.png
       alt: Image alt text
   - infopic:
-      title: Happy SG60 National Day!
+      title: SG60 National Day Celebration
+      subtitle: A
       id: infopic
       button: Click Here
       url: /sg60-national-day-celebrations-2025/
       image: /images/SG60_National_Day_Celebration_2025.png
+      alt: Image alt text
   - infopic:
       title: Prefect Investiture 2025
       id: infopic
