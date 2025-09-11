@@ -27,24 +27,28 @@ sections:
       button: Click Here
       url: /sg60-national-day-celebrations-2025/
       image: /images/SG60_National_Day_Celebration_2025.png
+      alt: SG60 Nation Day Celebration
   - infopic:
       title: Prefect Investiture 2025
       id: infopic
       button: Click Here
       url: /prefect-investiture-2025/
       image: /images/Prefect_Investiture_2025.png
+      alt: Prefect Investiture 2025
   - infopic:
       title: Cyber Wellness Week 2025
       id: infopic
       button: Click Here
       url: /cyber-wellness-week-2025-empowering-students-for-a-safer-digital-world/
       image: /images/Cyber_Wellness_Week_2025.png
+      alt: Cyber Wellness Week 2025
   - infopic:
       title: Racial Harmony Day 2025
       id: infopic
       button: Click Here
       url: /racial-harmony-day-2025/
       image: /images/Racial_Harmony_Day_2025.png
+      alt: Racial Harmony Day 2025
   - infopic:
       title: Young Reporter 2025
       id: infopic
@@ -53,7 +57,7 @@ sections:
       button: Click Here
       url: https://www.mahabodhi.moe.edu.sg/young-reporter-2025/
       image: /images/Slide1.jpg
-      alt: Image alt text
+      alt: Young Reporter 2025
   - infobar:
       title: Back-to-School Term 3, 2025
       id: infobar
@@ -71,7 +75,7 @@ sections:
       button: Click here
       url: /highlights-of-buddy-programme-2025/
       image: /images/P4__Guiding_P1___2.jpg
-      alt: Image alt text
+      alt: Buddy Programme 2025
   - infopic:
       title: Celebrating the LNY@ SBF
       id: infopic
@@ -81,7 +85,7 @@ sections:
       button: Click Here
       url: /celebrating-the-lny-with-music-and-joy-sbf/
       image: /images/LNY_SBF_photo_1.gif
-      alt: Image alt text
+      alt: Celebrating the LNY@ SBF
   - infobar:
       title: Afternoon With Teachers (AWT)
       id: infobar
