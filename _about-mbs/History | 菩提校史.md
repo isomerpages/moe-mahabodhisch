@@ -169,14 +169,14 @@ classes for Chinese and English streams.</p>
 </tr>
 </tbody>
 </table>
-<h4>The First Principal</h4>
+<h4>Focus on Bilingualism</h4>
 <p>In 1971, Miss Pitt Chin Hui, the principal, retired after a successful
 term in office for 20 years. Mr Foo Soo Luang took over as principal. Mr
 Foo, like his predecessor, put special emphasis on bilingualism. In 1973,
 he encouraged the first batch of 50 Primary 6 Chinese- medium pupils to
 take the PSLE in the English-medium. All of them passed with very good
 grades.</p>
-<p><strong>首任校长</strong>
+<p><strong>专注于双语教育</strong>
 </p>
 <p>1971 年，校长毕俊辉女士在成功任职 20 年后退休。符书銮先生接任校长一职。符先生与前任校长一样，特别重视双语教学。1973 年，他鼓励首批
 50 名受中文教育的小学六年级学生参加以英语为母语的 PSLE 考试。所有学生都以优异的成绩通过了考试</p>
