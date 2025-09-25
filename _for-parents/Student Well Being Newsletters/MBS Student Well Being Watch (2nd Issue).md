@@ -24,7 +24,7 @@ discover how simple actions like praising positive social behaviours and
 role-modelling respectful communication can empower children to navigate
 social situations with confidence and form lasting, meaningful connections
 with others.</p>
-<p>Please read more in the newsletter below.</p>
+<p>Please read more in our newsletter below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MBS_Well_Being_Watch_Issue_2_Cover.png">
 </div>
