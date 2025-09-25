@@ -16,53 +16,68 @@ sections:
   - infopic:
       title: Teachers' Day Celebration 2025
       id: infopic
-      button: Click Here
+      button: Please Click Here to read more
       url: /teachers-day-celebration/
       image: /images/Teachers__Day_Celebration_2025.png
       alt: Image alt text
+      description: Teachers’ Day celebration was marked by a series of meaningful
+        events that reflected the school community’s spirit of gratitude and
+        respect for its educators.
   - infopic:
       title: SG60 National Day Celebration
-      subtitle: A
       id: infopic
-      button: Click Here
+      button: Please Click Here to read more
       url: /sg60-national-day-celebrations-2025/
       image: /images/SG60_National_Day_Celebration_2025.png
       alt: SG60 Nation Day Celebration
+      description: National Day celebrations were filled with excitement and pride as
+        the whole school came together to honour the nation’s birthday.
   - infopic:
       title: Prefect Investiture 2025
       id: infopic
-      button: Click Here
+      button: Please Click Here to read more
       url: /prefect-investiture-2025/
       image: /images/Prefect_Investiture_2025.png
       alt: Prefect Investiture 2025
+      description: Each year, Maha Bodhi School holds a Prefect Investiture to
+        celebrate the appointment of prefects and formally induct them into the
+        Prefectorial Board.
   - infopic:
       title: Cyber Wellness Week 2025
       id: infopic
-      button: Click Here
+      button: Please Click Here to read more
       url: /cyber-wellness-week-2025-empowering-students-for-a-safer-digital-world/
       image: /images/Cyber_Wellness_Week_2025.png
       alt: Cyber Wellness Week 2025
+      description: Cyber Wellness Week was a vibrant celebration of safe and
+        responsible digital living. Read more to learn about use of AI and the
+        interactive activities!
   - infopic:
       title: Racial Harmony Day 2025
       id: infopic
-      button: Click Here
+      button: Please Click Here to read more
       url: /racial-harmony-day-2025/
-      image: /images/Racial_Harmony_Day_2025.png
+      image: /images/RHD_Photo.jpg
       alt: Racial Harmony Day 2025
+      description: Through the celebration of Racial Harmony Day, pupils learnt the
+        importance of respecting different races and religions in our community.
   - infopic:
       title: Young Reporter 2025
       id: infopic
       description: 8World news reporter visits our school for a meaningful exchange
-        and sharing session with students
-      button: Click Here
+        and sharing session with students.
+      button: please Click Here to read more
       url: https://www.mahabodhi.moe.edu.sg/young-reporter-2025/
       image: /images/Slide1.jpg
       alt: Young Reporter 2025
   - infobar:
       title: Back-to-School Term 3, 2025
       id: infobar
-      button: Click Here
+      button: please Click Here to read more
       url: /back-to-school-term-3-2025/
+      description: The Back-to-School (BTS) Programme kicked off on the first day of
+        Term 3 Week 1 to mark the start of a refreshed and purposeful school
+        term.
   - infobar:
       title: Serve to Lead Programme 2025
       id: infobar
