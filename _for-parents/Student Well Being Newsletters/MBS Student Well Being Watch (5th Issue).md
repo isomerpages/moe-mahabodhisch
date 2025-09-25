@@ -18,6 +18,7 @@ emotions to setting effective boundaries that work, we'll guide parents
 through creating a balanced approach to gaming at home. Discover how to
 stay involved in children's digital worlds, teach good gaming etiquette,
 and use parental tools effectively.</p>
+<p>Please read more in our newsletter below.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
