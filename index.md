@@ -35,10 +35,13 @@ sections:
   - infopic:
       title: Prefect Investiture 2025
       id: infopic
-      button: Click Here
+      button: Please Click Here to read more
       url: /prefect-investiture-2025/
       image: /images/Prefect_Investiture_2025.png
       alt: Prefect Investiture 2025
+      description: Each year, Maha Bodhi School holds a Prefect Investiture to
+        celebrate the appointment of prefects and formally induct them into the
+        Prefectorial Board.
   - infopic:
       title: Cyber Wellness Week 2025
       id: infopic
