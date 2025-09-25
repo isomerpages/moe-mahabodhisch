@@ -16,10 +16,13 @@ sections:
   - infopic:
       title: Teachers' Day Celebration 2025
       id: infopic
-      button: Click Here
+      button: Please Click Here to read more
       url: /teachers-day-celebration/
       image: /images/Teachers__Day_Celebration_2025.png
       alt: Image alt text
+      description: Teachers’ Day celebration was marked by a series of meaningful
+        events that reflected the school community’s spirit of gratitude and
+        respect for its educators.
   - infopic:
       title: SG60 National Day Celebration
       subtitle: A
