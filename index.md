@@ -55,10 +55,12 @@ sections:
   - infopic:
       title: Racial Harmony Day 2025
       id: infopic
-      button: Click Here
+      button: Please Click Here to read more
       url: /racial-harmony-day-2025/
       image: /images/Racial_Harmony_Day_2025.png
       alt: Racial Harmony Day 2025
+      description: Through the celebration of Racial Harmony Day, pupils learnt the
+        importance of respecting different races and religions in our community.
   - infopic:
       title: Young Reporter 2025
       id: infopic
