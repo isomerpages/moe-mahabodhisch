@@ -21,6 +21,7 @@ discovered how their words and actions can make a positive difference.
 Parents will discover how these school initiatives reinforce values that
 can be continued at home, creating a unified approach to building respectful
 relationships and inclusive environments where every child belongs.</p>
+<p>Please read more in our newsletter below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MBS_Well_Being_Watch_Issue_3_Cover.png">
 </div>
