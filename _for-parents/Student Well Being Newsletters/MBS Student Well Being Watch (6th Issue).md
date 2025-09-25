@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Student Well Being Newsletters
 ---
-<p><strong>Edition 6</strong>
+<p><strong>6th Edition</strong>
 </p>
 <p><strong>Empowering Our Digital Citizens: Highlights from Cyber Wellness Week</strong>
 </p>
