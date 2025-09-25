@@ -24,6 +24,7 @@ online, and apply the S.T.A.R.S. framework in real-world scenarios.</p>
 in continuing these important conversations at home. Together, we're nurturing
 a generation equipped with the knowledge, skills, and values needed to
 thrive safely in our interconnected digital world.</p>
+<p>Please read more in our newsletter below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Well_Being_Cover_image_WBW_Issue__6.png">
