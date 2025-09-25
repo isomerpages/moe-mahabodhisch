@@ -49,6 +49,9 @@ sections:
       url: /cyber-wellness-week-2025-empowering-students-for-a-safer-digital-world/
       image: /images/Cyber_Wellness_Week_2025.png
       alt: Cyber Wellness Week 2025
+      description: Cyber Wellness Week was a vibrant celebration of safe and
+        responsible digital living. Read more to learn about use of AI and the
+        interactive activities!
   - infopic:
       title: Racial Harmony Day 2025
       id: infopic
