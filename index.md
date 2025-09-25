@@ -66,7 +66,7 @@ sections:
       id: infopic
       description: 8World news reporter visits our school for a meaningful exchange
         and sharing session with students.
-      button: Click Here
+      button: please Click Here to read more
       url: https://www.mahabodhi.moe.edu.sg/young-reporter-2025/
       image: /images/Slide1.jpg
       alt: Young Reporter 2025
