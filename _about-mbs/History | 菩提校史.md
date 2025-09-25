@@ -265,12 +265,39 @@ learning environment.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/History-6.png">
 </div>
 <p>Mr Foo Soo Luang retired in October 1996 after serving the school for
-25 years as its principal. Taking on the task of the principalship was
-Mr Chew Chong Theng who left the school at the end of 2002. Mr Foo Chee
-Meng then became the next principal of the school from end 2002 to 2004.
-&nbsp;Mrs Lim Bee Lay who was then the vice-principal assumed duties as
-Principal from 2005-2013. Mrs Elaine Quek took over the reins as the Principal
-from 2014 to 2021.</p>
+25 years as its principal.</p>
+<p>Mr Foo Soo Luang assumed leadership as Principal in 1971 and served with
+dedication and professionalism for 25 years until his retirement in 1996.
+His visionary leadership and commitment to education transformed Maha Bodhi
+School into a beacon of excellence.</p>
+<p>Under his guidance, the school achieved remarkable milestones. In 1973,
+he encouraged the first batch of 50 Primary 6 Chinese-medium pupils to
+take the PSLE in the English-medium, all of whom passed with excellent
+grades. This significant achievement led to a commendation from the Ministry
+of Education in 1974, with Maha Bodhi School being named one of the top
+ten schools with the highest marks in the English Language. It was a testament
+to Mr Foo’s emphasis on bilingualism and his belief in the students' ability
+to excel in both Chinese and English languages.</p>
+<p>Beyond academic achievements, Mr Foo also championed holistic development
+by introducing various extracurricular activities, such as the brass band,
+lion dance, choir, and art classes, enriching the students’ physical and
+artistic growth. His enduring commitment to nurturing well-rounded individuals
+laid a strong foundation for the school’s future success.</p>
+<p>In 1985, Maha Bodhi School transitioned into a full English-medium school
+under Mr Foo’s stewardship, and in 1990, it became a Special Assistance
+Plan (SAP) school, continuing its emphasis on bilingualism and Asian moral
+values. His leadership also saw the school move into a modern, well-equipped
+new building in 1995, providing students and staff with state-of-the-art
+facilities.</p>
+<p>Mr Foo retired in October 1996, leaving behind a legacy of excellence,
+compassion, and unwavering dedication. His contributions to Maha Bodhi
+School and the broader education landscape will always be cherished and
+remembered.</p>
+<p>Taking on the task of the principalship was Mr Chew Chong Theng who left
+the school at the end of 2002. Mr Foo Chee Meng then became the next principal
+of the school from end 2002 to 2004. &nbsp;Mrs Lim Bee Lay who was then
+the vice-principal assumed duties as Principal from 2005-2013. Mrs Elaine
+Quek took over the reins as the Principal from 2014 to 2021.</p>
 <p>Under the current leadership of Mrs See Lai Kwan, the school will continue
 to strive for excellence in both the academic as well as the non-academic,
 particularly focusing on the school's distinctive niche areas such as Aesthetics
@@ -278,6 +305,13 @@ particularly focusing on the school's distinctive niche areas such as Aesthetics
 <p><strong>符书銮先生</strong>
 </p>
 <p>符书銮先生在担任学校校长 25 年后，于 1996 年 10 月退休。周宗廷先生接任校长一职，并于<strong> </strong>2002
-年底卸任。随后，符致明先生于 2002 年年底至 2004 年担任该校的下一任校长。 2005-2013 年间，时任副校长的周美丽女士接任校长一职。2014
+年底卸任。</p>
+<p>符校长自1971年起担任校长，直至1996年退休。在长达25年的时间里，他以卓越的领导力和无私奉献，带领菩提学校不断迈向辉煌，为学校奠定了卓越的基石，树立了令人敬仰的典范。</p>
+<p>在他的领导下，学校取得了诸多令人瞩目的成就。1973年，他鼓励首批50名华文源流的六年级学生参加英文源流的小学离校考试（PSLE），结果全体学生都考取优异的成绩。这一壮举不仅展现了学生的潜能，也凸显了符校长对双语教育的远见卓识和坚定信念。1974年，教育部特别嘉奖菩提学校，并将其评为英文科成绩最优越的十所学校之一。</p>
+<p>符校长不仅注重学术上的卓越，更倡导学生的全面发展。他在校内推行多种课外活动，包括铜管乐队、舞狮队、合唱团和美术班，为学生提供多样化的成长平台，既丰富了他们的身心发展，也激发了他们的艺术潜能。他用心栽培全面发展的学生，为菩提学校的未来奠定了深厚而坚实的基础。</p>
+<p>在1985年，菩提学校在符校长的领导下转型为全英文源流学校。1990年，学校被选为特选小学（Special Assistance Plan
+School），继续在双语教育以及亚洲道德价值观的传承与弘扬中取得卓越成绩。1995年，学校迁入现代化、设备齐全的新校舍，为师生提供了创新学习的空间，进一步提升了教学与学习环境。</p>
+<p>符校长的一生致力于教育事业。他以满腔的爱心与智慧，深刻影响了无数学生与教师，改变了许多人的人生轨迹。他对菩提学校以及教育领域的杰出贡献将永远被铭记和珍惜。</p>
+<p>随后，符致明先生于 2002 年年底至 2004 年担任该校的下一任校长。 2005-2013 年间，时任副校长的周美丽女士接任校长一职。2014
 至 2021 年，林惠珉女士接任校长一职。</p>
 <p>在现任校长邓丽君女士的领导下，学校将继续在学术和非学术方面精益求精，尤其是在学校的专项领域，如美学（终身学习计划）和有效沟通（应用学习项目).</p>
