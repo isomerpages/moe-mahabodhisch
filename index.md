@@ -25,12 +25,13 @@ sections:
         respect for its educators.
   - infopic:
       title: SG60 National Day Celebration
-      subtitle: A
       id: infopic
-      button: Click Here
+      button: Please Click Here to read more
       url: /sg60-national-day-celebrations-2025/
       image: /images/SG60_National_Day_Celebration_2025.png
       alt: SG60 Nation Day Celebration
+      description: National Day celebrations were filled with excitement and pride as
+        the whole school came together to honour the nation’s birthday.
   - infopic:
       title: Prefect Investiture 2025
       id: infopic
