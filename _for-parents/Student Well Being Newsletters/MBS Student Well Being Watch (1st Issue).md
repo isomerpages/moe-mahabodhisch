@@ -24,7 +24,7 @@ Safer Internet Day, we encourage families to "Take a S.I.P" (Safer Internet
 Pledge) together, reinforcing the importance of building safe and resilient
 online communities where children can thrive digitally while maintaining
 balance in their daily lives.</p>
-<p>Please read more in the newsletter below.</p>
+<p>Please read more in our newsletter below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Well_Being_Newsletter_Issue_1__Cover_.png">
 </div>
