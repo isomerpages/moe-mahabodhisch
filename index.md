@@ -73,8 +73,11 @@ sections:
   - infobar:
       title: Back-to-School Term 3, 2025
       id: infobar
-      button: Click Here
+      button: please Click Here to read more
       url: /back-to-school-term-3-2025/
+      description: The Back-to-School (BTS) Programme kicked off on the first day of
+        Term 3 Week 1 to mark the start of a refreshed and purposeful school
+        term.
   - infobar:
       title: Serve to Lead Programme 2025
       id: infobar
