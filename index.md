@@ -45,7 +45,7 @@ sections:
   - infopic:
       title: Cyber Wellness Week 2025
       id: infopic
-      button: Click Here
+      button: Please Click Here to read more
       url: /cyber-wellness-week-2025-empowering-students-for-a-safer-digital-world/
       image: /images/Cyber_Wellness_Week_2025.png
       alt: Cyber Wellness Week 2025
