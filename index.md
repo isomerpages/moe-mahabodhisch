@@ -125,7 +125,7 @@ sections:
       button: PLEASE CLICK HERE TO READ MORE
       url: /afternoon-with-teachers-awt/
       image: /images/Afternoon_with_Teachers_2025_Pic_1.png
-      alt: Image alt text
+      alt: Afternoon with Teacher 2025
   - infobar:
       title: Tribute to the late Mr Foo Soo Luang
       id: infobar
