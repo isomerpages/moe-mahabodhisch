@@ -126,12 +126,6 @@ sections:
       image: /images/Afternoon_with_Teachers_2025_Pic_1.png
       alt: Image alt text
   - infobar:
-      title: Afternoon With Teachers (AWT)
-      id: infobar
-      description: Strong partnership between school and home
-      button: Click here
-      url: /afternoon-with-teachers-awt/
-  - infobar:
       title: Tribute to the late Mr Foo Soo Luang
       id: infobar
       description: Maha Bodhi School Principal (1971- 1996)
