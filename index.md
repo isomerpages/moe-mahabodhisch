@@ -122,7 +122,7 @@ sections:
       description: Afternoon with Teachers’ sessions, bringing together teachers,
         parents, and guardians together for a meaningful afternoon of connection
         and collaboration.
-      button: Click Here
+      button: PLEASE CLICK HERE TO READ MORE
       url: /afternoon-with-teachers-awt/
       image: /images/Afternoon_with_Teachers_2025_Pic_1.png
       alt: Image alt text
