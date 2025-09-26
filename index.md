@@ -18,9 +18,10 @@ sections:
       id: infopic
       description: Maha Bodhi School has named this newly renovated courtyard Ci Hang
         Garden, officially inaugurated in July 2025.
-      button: Click Here
+      button: PLEASE CLICK HERE TO READ MORE
       url: /ci-hang-garden/
       image: /images/Ci_Hang_Pic_3.jpg
+      alt: Ci Hang Pic 3
   - infopic:
       title: Teachers' Day Celebration 2025
       id: infopic
@@ -83,25 +84,25 @@ sections:
       id: infopic
       description: Back-to-School (BTS) Programme kicked off on the first day of Term
         3 Week 1 to mark the start of a refreshed and purposeful school term.
-      button: Click Here
+      button: PLEASE CLICK HERE TO READ MORE
       url: /back-to-school-term-3-2025/
       image: /images/BTS__Sem_2__Picture_1.jpg
-      alt: Image alt text
+      alt: Back To School (BTS)
   - infopic:
       title: Serve to Lead Programe 2025
       id: infopic
       description: The Serve to Lead Programme brings together student leaders from
         schools to foster teamwork, shared learning, and stronger community
         bonds.
-      button: Click here
+      button: PLEASE CLICK HERE TO READ MORE
       url: /serve-to-lead-programme-2025/
       image: /images/Serve_to_Lead_Picture_1.jpg
-      alt: Image alt text
+      alt: Serve to Lead
   - infopic:
       title: Highlights of Buddy Programme 2025
       id: infopic
       description: Creating a stronger sense of community among Maha Bodhians
-      button: Click here
+      button: PLEASE CLICK HERE TO READ MORE
       url: /highlights-of-buddy-programme-2025/
       image: /images/P4__Guiding_P1___2.jpg
       alt: Buddy Programme 2025
@@ -111,7 +112,7 @@ sections:
       description: On 8 February 2025, our school's Guzheng Ensemble and Choir gave a
         vibrant and heartfelt performance at the Lunar New Year Blessing event
         hosted by the SBF.
-      button: Click Here
+      button: PLEASE CLICK HERE TO READ MORE
       url: /celebrating-the-lny-with-music-and-joy-sbf/
       image: /images/LNY_SBF_photo_1.gif
       alt: Celebrating the LNY@ SBF
@@ -121,15 +122,15 @@ sections:
       description: Afternoon with Teachers’ sessions, bringing together teachers,
         parents, and guardians together for a meaningful afternoon of connection
         and collaboration.
-      button: Click Here
+      button: PLEASE CLICK HERE TO READ MORE
       url: /afternoon-with-teachers-awt/
       image: /images/Afternoon_with_Teachers_2025_Pic_1.png
-      alt: Image alt text
+      alt: Afternoon with Teacher 2025
   - infobar:
       title: Tribute to the late Mr Foo Soo Luang
       id: infobar
       description: Maha Bodhi School Principal (1971- 1996)
-      button: MORE
+      button: PLEASE CLICK HERE TO READ MORE
       url: https://www.mahabodhi.moe.edu.sg/tribute-to-the-late-mr-foo-soo-luang/
   - infopic:
       title: 浸濡活动之慈小与菩提狮城交流计划
@@ -138,5 +139,5 @@ sections:
       button: HIGHLIGHTS
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
-      alt: Image alt text
+      alt: Immersion Program with Tzu Chi
 ---
