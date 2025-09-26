@@ -87,7 +87,7 @@ sections:
       button: PLEASE CLICK HERE TO READ MORE
       url: /back-to-school-term-3-2025/
       image: /images/BTS__Sem_2__Picture_1.jpg
-      alt: Image alt text
+      alt: Back To School (BTS)
   - infopic:
       title: Serve to Lead Programe 2025
       id: infopic
