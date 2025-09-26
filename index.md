@@ -115,6 +115,16 @@ sections:
       url: /celebrating-the-lny-with-music-and-joy-sbf/
       image: /images/LNY_SBF_photo_1.gif
       alt: Celebrating the LNY@ SBF
+  - infopic:
+      title: Afternoon With Teachers (AWT)
+      id: infopic
+      description: Afternoon with Teachers’ sessions, bringing together teachers,
+        parents, and guardians together for a meaningful afternoon of connection
+        and collaboration.
+      button: Click Here
+      url: /afternoon-with-teachers-awt/
+      image: /images/Afternoon_with_Teachers_2025_Pic_1.png
+      alt: Image alt text
   - infobar:
       title: Afternoon With Teachers (AWT)
       id: infobar
