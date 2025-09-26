@@ -84,7 +84,7 @@ sections:
       id: infopic
       description: Back-to-School (BTS) Programme kicked off on the first day of Term
         3 Week 1 to mark the start of a refreshed and purposeful school term.
-      button: Click Here
+      button: PLEASE CLICK HERE TO READ MORE
       url: /back-to-school-term-3-2025/
       image: /images/BTS__Sem_2__Picture_1.jpg
       alt: Image alt text
