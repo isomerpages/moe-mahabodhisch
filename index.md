@@ -94,10 +94,10 @@ sections:
       description: The Serve to Lead Programme brings together student leaders from
         schools to foster teamwork, shared learning, and stronger community
         bonds.
-      button: Click here
+      button: PLEASE CLICK HERE TO READ MORE
       url: /serve-to-lead-programme-2025/
       image: /images/Serve_to_Lead_Picture_1.jpg
-      alt: Image alt text
+      alt: Serve to Lead
   - infopic:
       title: Highlights of Buddy Programme 2025
       id: infopic
