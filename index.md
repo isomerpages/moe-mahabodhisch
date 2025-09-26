@@ -18,7 +18,7 @@ sections:
       id: infopic
       description: Maha Bodhi School has named this newly renovated courtyard Ci Hang
         Garden, officially inaugurated in July 2025.
-      button: Click Here
+      button: PLEASE CLICK HERE TO READ MORE
       url: /ci-hang-garden/
       image: /images/Ci_Hang_Pic_3.jpg
       alt: Ci Hang Pic 3
