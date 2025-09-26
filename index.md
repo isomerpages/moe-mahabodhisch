@@ -14,6 +14,14 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: 慈航园 (Ci Hang Garden)
+      id: infopic
+      description: Maha Bodhi School has named this newly renovated courtyard Ci Hang
+        Garden, officially inaugurated in July 2025.
+      button: Click Here
+      url: /ci-hang-garden/
+      image: /images/Ci_Hang_Pic_3.jpg
+  - infopic:
       title: Teachers' Day Celebration 2025
       id: infopic
       button: Please Click Here to read more
@@ -70,19 +78,25 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/young-reporter-2025/
       image: /images/Slide1.jpg
       alt: Young Reporter 2025
-  - infobar:
+  - infopic:
       title: Back-to-School Term 3, 2025
-      id: infobar
-      button: please Click Here to read more
-      url: /back-to-school-term-3-2025/
-      description: The Back-to-School (BTS) Programme kicked off on the first day of
-        Term 3 Week 1 to mark the start of a refreshed and purposeful school
-        term.
-  - infobar:
-      title: Serve to Lead Programme 2025
-      id: infobar
+      id: infopic
+      description: Back-to-School (BTS) Programme kicked off on the first day of Term
+        3 Week 1 to mark the start of a refreshed and purposeful school term.
       button: Click Here
+      url: /back-to-school-term-3-2025/
+      image: /images/BTS__Sem_2__Picture_1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Serve to Lead Programe 2025
+      id: infopic
+      description: The Serve to Lead Programme brings together student leaders from
+        schools to foster teamwork, shared learning, and stronger community
+        bonds.
+      button: Click here
       url: /serve-to-lead-programme-2025/
+      image: /images/Serve_to_Lead_Picture_1.jpg
+      alt: Image alt text
   - infopic:
       title: Highlights of Buddy Programme 2025
       id: infopic
@@ -101,12 +115,16 @@ sections:
       url: /celebrating-the-lny-with-music-and-joy-sbf/
       image: /images/LNY_SBF_photo_1.gif
       alt: Celebrating the LNY@ SBF
-  - infobar:
+  - infopic:
       title: Afternoon With Teachers (AWT)
-      id: infobar
-      description: Strong partnership between school and home
-      button: Click here
+      id: infopic
+      description: Afternoon with Teachers’ sessions, bringing together teachers,
+        parents, and guardians together for a meaningful afternoon of connection
+        and collaboration.
+      button: Click Here
       url: /afternoon-with-teachers-awt/
+      image: /images/Afternoon_with_Teachers_2025_Pic_1.png
+      alt: Image alt text
   - infobar:
       title: Tribute to the late Mr Foo Soo Luang
       id: infobar
