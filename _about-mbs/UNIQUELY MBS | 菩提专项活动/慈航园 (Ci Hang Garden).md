@@ -31,34 +31,131 @@ cultivation of compassion and wisdom.</p>
 <p>1946年，法师发愿兴办佛化教育，委托毕俊辉女士等人筹建菩提学校，广育英才，弘扬佛法。</p>
 <p>晚年专注讲经著述，1954年圆寂，世寿六十，僧腊四十二。</p>
 <p>“慈航园”的设立，既是我校对法师弘愿与贡献的深切追思，也是延续佛化教育精神、弘扬慈悲智慧的重要象征。</p>
-<table style="minWidth: 50px">
+<h4><strong>Former Courtyard setting</strong></h4>
+<p></p>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ci_Hang_Pic_1.jpg">
+</div>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>The original courtyard served as a communal gathering space where students would come together during break time.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ci_Hang_Pic_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>A heritage display case in the former courtyard, showcasing the school's rich history and student achievements</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Newly renovated courtyard - 慈航园 (<em>Ci Hang Garden)</em></strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ci_Hang_Pic_3.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><em>Students discover and explore the newly transformed </em>慈航园 (<em>Ci Hang Garden)</em><strong><em> </em></strong><em>during their break time.</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ci_Hang_Pic_4.jpg">
+</div>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>The commemorative plaque of </em>慈航园 (<em>Ci Hang Garden),</em><strong><em> </em></strong><em>honouring Reverend Chee Hong's legacy and the school's commitment to Buddhist education</em>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ci_Hang_Pic_5.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Students collaborate at one of the new seating areas, designed to facilitate group discussions and collaborative learning.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ci_Hang_Pic_6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Students gather around the trophy display case, admiring achievements showcased in the beautifully renovated space.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ci_Hang_Pic_7.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>慈航园 (<em>Ci Hang Garden) features clear signage and organised display areas that support various educational activities and events.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ci_Hang_Pic_8.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>慈航园 (<em>Ci Hang Garden) seamlessly blends digital technology with traditional learning through its integrated multimedia setup.</em>
+</p>
 </td>
 </tr>
 </tbody>
