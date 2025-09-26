@@ -102,7 +102,7 @@ sections:
       title: Highlights of Buddy Programme 2025
       id: infopic
       description: Creating a stronger sense of community among Maha Bodhians
-      button: Click here
+      button: PLEASE CLICK HERE TO READ MORE
       url: /highlights-of-buddy-programme-2025/
       image: /images/P4__Guiding_P1___2.jpg
       alt: Buddy Programme 2025
