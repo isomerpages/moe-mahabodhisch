@@ -78,19 +78,25 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/young-reporter-2025/
       image: /images/Slide1.jpg
       alt: Young Reporter 2025
-  - infobar:
+  - infopic:
       title: Back-to-School Term 3, 2025
-      id: infobar
-      button: please Click Here to read more
-      url: /back-to-school-term-3-2025/
-      description: The Back-to-School (BTS) Programme kicked off on the first day of
-        Term 3 Week 1 to mark the start of a refreshed and purposeful school
-        term.
-  - infobar:
-      title: Serve to Lead Programme 2025
-      id: infobar
+      id: infopic
+      description: Back-to-School (BTS) Programme kicked off on the first day of Term
+        3 Week 1 to mark the start of a refreshed and purposeful school term.
       button: Click Here
+      url: /back-to-school-term-3-2025/
+      image: /images/BTS__Sem_2__Picture_1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Serve to Lead Programe 2025
+      id: infopic
+      description: The Serve to Lead Programme brings together student leaders from
+        schools to foster teamwork, shared learning, and stronger community
+        bonds.
+      button: Click here
       url: /serve-to-lead-programme-2025/
+      image: /images/Serve_to_Lead_Picture_1.jpg
+      alt: Image alt text
   - infopic:
       title: Highlights of Buddy Programme 2025
       id: infopic
