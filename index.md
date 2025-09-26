@@ -21,6 +21,7 @@ sections:
       button: Click Here
       url: /ci-hang-garden/
       image: /images/Ci_Hang_Pic_3.jpg
+      alt: Ci Hang Garden
   - infopic:
       title: Teachers' Day Celebration 2025
       id: infopic
