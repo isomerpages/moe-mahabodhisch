@@ -112,7 +112,7 @@ sections:
       description: On 8 February 2025, our school's Guzheng Ensemble and Choir gave a
         vibrant and heartfelt performance at the Lunar New Year Blessing event
         hosted by the SBF.
-      button: Click Here
+      button: PLEASE CLICK HERE TO READ MORE
       url: /celebrating-the-lny-with-music-and-joy-sbf/
       image: /images/LNY_SBF_photo_1.gif
       alt: Celebrating the LNY@ SBF
