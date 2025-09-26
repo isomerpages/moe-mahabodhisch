@@ -139,5 +139,5 @@ sections:
       button: HIGHLIGHTS
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
-      alt: Image alt text
+      alt: Immersion Program with Tzu Chi
 ---
