@@ -13,14 +13,13 @@ third_nav_title: Student Well Being Newsletters
 being teased at school. Is this normal childhood conflict, or something
 more serious? Building on our previous Bully-Free Week activities that
 promoted empathy and inclusion, this edition focuses on the crucial role
-parents play in addressing bullying situations. We explore how to distinguish
-between hurtful behaviours and actual bullying, and provide practical strategies
-for supporting children whether they're experiencing bullying or displaying
-bullying behaviour themselves. Using approaches like the C.H.E.E.R. method,
-parents can learn to navigate these challenging conversations with confidence.
-Discover how to provide emotional support, strengthen children's social
-skills, and work collaboratively with schools to create safer environments
-for all students.</p>
+parents play in addressing bullying situations.</p>
+<p>In this edition, we explore how to distinguish between hurtful behaviours
+and bullying, and provide practical strategies for supporting children
+whether they are experiencing bullying or displaying bullying behaviour
+themselves. Using approaches like the C.H.E.E.R. method, providing emotional
+support and strengthening children's social skills, parents learn to navigate
+these challenging conversations with confidence.</p>
 <p>Please read more in our newsletter below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Issue 4, Term 2, 2025" src="/images/WBW__4__Cover_.png">
