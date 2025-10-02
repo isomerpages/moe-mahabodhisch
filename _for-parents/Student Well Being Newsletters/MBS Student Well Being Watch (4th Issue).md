@@ -7,7 +7,7 @@ third_nav_title: Student Well Being Newsletters
 ---
 <p><strong>4th Edition</strong>
 </p>
-<p><strong>From Hurt to Help: A Parent's Guide to Bullying</strong>
+<p><strong>From Hurt to Help: A Parent's Guide to Address Bullying</strong>
 </p>
 <p>Children sometimes come home upset after being teased at school. How can
 parents tell whether it is a simple disagreement or something more serious?
