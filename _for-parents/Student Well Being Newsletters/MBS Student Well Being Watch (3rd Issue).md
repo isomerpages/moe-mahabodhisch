@@ -10,17 +10,17 @@ third_nav_title: Student Well Being Newsletters
 <p><strong>Together We Rise: Creating a Bully-Free School Community</strong>
 </p>
 <p>At Maha Bodhi School, fostering a culture of kindness, respect, and well-being
-remains at the heart of everything we do. This edition highlights our Well-Being
-(Bully-Free) Week 2025, anchored on the theme "Tease Me Not," where students
-engaged in meaningful activities designed to strengthen friendships and
-build a caring community. Through interactive assembly programmes and six
-engaging booth activities, students learned to distinguish between teasing
-and bullying while developing essential skills to become upstanders. From
-"Fish Out the Bullies" games to creating Kindness Chatterboxes, our pupils
-discovered how their words and actions can make a positive difference.
-Parents will discover how these school initiatives reinforce values that
-can be continued at home, creating a unified approach to building respectful
-relationships and inclusive environments where every child belongs.</p>
+is central to all we do. This edition highlights our Well-Being (Bully-Free)
+Week 2025, themed <strong>“Tease Me Not,”</strong> where students participated
+in activities designed to strengthen friendships and nurture a caring school
+community. Through interactive assembly programmes and six hands-on booth
+activities, students learned to distinguish between teasing and bullying
+while developing the skills to become upstanders. From <em>“Fish Out the Bullies”</em> games
+to creating <em>Kindness Chatterboxes</em>, pupils explored how their words
+and actions can positively impact others.</p>
+<p>Parents will find insights on how these school initiatives reinforce values
+that can be continued at home, supporting respectful relationships and
+inclusive environments where every child feels they belong.</p>
 <p>Please read more in our newsletter below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MBS_Well_Being_Watch_Issue_3_Cover.png">
