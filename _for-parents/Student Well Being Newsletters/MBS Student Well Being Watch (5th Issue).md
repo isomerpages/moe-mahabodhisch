@@ -9,9 +9,9 @@ third_nav_title: Student Well Being Newsletters
 </p>
 <p><strong>Play Safe, Play Smart: Navigating Your Child's Gaming World</strong>
 </p>
-<p><strong>Online gaming has become a regular part of many children’s daily lives, shaping how they spend time and interact with others.</strong> But
-how can parents ensure their kids stay safe online and develop healthy
-digital habits?</p>
+<p>Online gaming has become a regular part of many children’s daily lives,
+shaping how they spend time and interact with others. But how can parents
+ensure their kids stay safe online and develop healthy digital habits?</p>
 <p>In this issue, we explore the realities of children’s gaming experiences
 and share practical strategies for families. From understanding why games
 spark excitement to setting boundaries that actually work, parents will
