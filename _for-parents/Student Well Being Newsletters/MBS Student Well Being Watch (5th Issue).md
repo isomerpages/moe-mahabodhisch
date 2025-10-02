@@ -14,10 +14,9 @@ shaping how they spend time and interact with others. But how can parents
 ensure their kids stay safe online and develop healthy digital habits?</p>
 <p>In this issue, we explore the realities of children’s gaming experiences
 and share practical strategies for families. From understanding why games
-spark excitement to setting boundaries that actually work, parents will
-find guidance on creating balance at home. In this edition, parents will
-learn how to stay engaged in their child’s digital world and make the most
-of parental tools to support safe, enjoyable play.</p>
+spark excitement to setting boundaries, parents will find guidance on helping
+children enjoy gaming in a healthy, balanced way at home. This edition
+also offers insights on parental tools to support safe, enjoyable play.</p>
 <p>Please read more in our newsletter below.</p>
 <table style="minWidth: 75px">
 <colgroup>
