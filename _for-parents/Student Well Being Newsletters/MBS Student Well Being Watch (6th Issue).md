@@ -24,7 +24,7 @@ of responsible online citizens.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cover_image_WBW_Issue_6" src="/images/Cover_image_WBW_Issue__6_.jpg">
 </div>
-<p><a href="/files/Well_Being_Watch_Issue__6___Cyber_Wellness_Week__Final__compressed__1_.pdf" rel="noopener nofollow" target="_blank">Well_Being_Watch_Issue_6</a>
+<p><a href="/files/MBS_Student_Well_Being_Watch_6th_Issue.pdf" rel="noopener nofollow" target="_blank">MBS_Student_Well-Being_Watch_6th Issue</a>
 </p>
 <p></p>
 <p></p>
