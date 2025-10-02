@@ -120,9 +120,9 @@ sections:
   - infopic:
       title: Afternoon With Teachers (AWT)
       id: infopic
-      description: Afternoon with Teachers’ sessions, bringing together teachers,
+      description: "'Afternoon with Teachers’ sessions bring together teachers,
         parents, and guardians together for a meaningful afternoon of connection
-        and collaboration.
+        and collaboration."
       button: PLEASE CLICK HERE TO READ MORE
       url: /afternoon-with-teachers-awt/
       image: /images/Afternoon_with_Teachers_2025_Pic_1.png
