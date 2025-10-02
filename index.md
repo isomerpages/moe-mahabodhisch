@@ -14,6 +14,15 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: “Awesome Awetumn” - 童心同圆
+      id: infopic
+      description: Our school hosted Mid-Autumn Festival and Children's Day in a
+        morning filled with cultural activities and joyful learning.
+      button: Please Click Here to read more
+      url: /awesome-awetumn-lanterns-laughter-and-little-wonders/
+      image: /images/Awesome_Awetumn_1_1.jpg
+      alt: 童心同圆
+  - infopic:
       title: 慈航园 (Ci Hang Garden)
       id: infopic
       description: Maha Bodhi School has named this newly renovated courtyard Ci Hang
