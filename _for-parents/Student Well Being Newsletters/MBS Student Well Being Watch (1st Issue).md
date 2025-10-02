@@ -8,7 +8,7 @@ third_nav_title: Student Well Being Newsletters
 ---
 <p><strong>1<sup>st</sup> Edition</strong>
 </p>
-<p><strong>Managing Screen Time: Supporting Your Child's Digital Well-Being</strong>
+<p><strong>Digital Wellness at Home: Practical Tips for Parents</strong>
 </p>
 <p>Navigating today’s digital landscape brings both exciting opportunities
 and unique challenges for families. This inaugural edition of <em>Well-Being Watch</em> introduces
