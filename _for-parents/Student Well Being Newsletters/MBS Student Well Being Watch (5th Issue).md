@@ -11,13 +11,13 @@ third_nav_title: Student Well Being Newsletters
 </p>
 <p>Online gaming has become more than entertainment for today's children—it's
 where they connect, create, and develop social skills. But how do parents
-help them enjoy games while building healthy digital habits? This issue
-explores the reality behind children's gaming experiences and offers practical
-strategies for families. From understanding why games can trigger strong
-emotions to setting effective boundaries that work, we'll guide parents
-through creating a balanced approach to gaming at home. Discover how to
-stay involved in children's digital worlds, teach good gaming etiquette,
-and use parental tools effectively.</p>
+help them enjoy games while building healthy digital habits?</p>
+<p>This issue explores the reality behind children's gaming experiences and
+offers practical strategies for families. From understanding why games
+can trigger strong emotions to setting effective boundaries that work,
+we'll guide parents through creating a balanced approach to gaming at home.
+Discover how to stay involved in children's digital worlds, teach good
+gaming etiquette, and use parental tools effectively.</p>
 <p>Please read more in our newsletter below.</p>
 <table style="minWidth: 75px">
 <colgroup>
