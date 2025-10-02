@@ -9,17 +9,15 @@ third_nav_title: Student Well Being Newsletters
 </p>
 <p><strong>Empowering Digital Citizens: Navigating the Online World Safely</strong>
 </p>
-<p>At Maha Bodhi School, preparing students to thrive in our digital world
-remains a cornerstone of our educational mission. This edition highlights
-our Term 3 Cyber Wellness Week, where students engaged in meaningful activities
-designed to build essential skills for navigating the online world safely
-and responsibly. Through an engaging theatre performance that reimagined <em>Little Red Riding Hood</em> for
-the digital age and interactive recess stations, students discovered how
-to become confident and caring digital citizens.</p>
-<p>In this edition, parents will find valuable resources and insights to
-continue these important conversations at home, creating a unified approach
-to fostering healthy digital habits and empowering the next generation
-of responsible online citizens.</p>
+<p>This edition of <em>Well-Being Watch</em> spotlights our school’s Term 3
+Cyber Wellness Week, where students took part in meaningful activities
+that strengthened their ability to navigate the online world safely and
+responsibly. From a theatre performance that reimagined <em>Little Red Riding Hood</em> for
+the digital age to interactive recess stations, students explored what
+it means to be confident and caring digital citizens.</p>
+<p>In this edition, parents will find resources and insights to continue
+conversations at home, nurturing healthy digital habits and guiding the
+next generation of responsible online users.</p>
 <p>Please read more in our newsletter below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cover_image_WBW_Issue_6" src="/images/Cover_image_WBW_Issue__6_.jpg">
