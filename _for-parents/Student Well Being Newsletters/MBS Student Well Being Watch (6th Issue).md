@@ -22,23 +22,9 @@ to fostering healthy digital habits and empowering the next generation
 of responsible online citizens.</p>
 <p>Please read more in our newsletter below.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Well_Being_Cover_image_WBW_Issue__6.png">
+<img style="width: 100%" height="auto" width="100%" alt="Cover_image_WBW_Issue_6" src="/images/Cover_image_WBW_Issue__6_.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_Well_Being_Watch_Issue__6___Cyber_Wellness_Week_Final__002__Page_2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Well_Being_Watch_Issue__6___Cyber_Wellness_Week_Final__002__Page_3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Well_Being_Watch_Issue__6___Cyber_Wellness_Week_Final__002__Page_4.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Well_Being_Watch_Issue__6___Cyber_Wellness_Week_Final__002__Page_5.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Well_Being_Watch_Issue__6___Cyber_Wellness_Week_Final__002__Page_6.png">
-</div>
-<p></p>
+<p><a href="/files/Well_Being_Watch_Issue__6___Cyber_Wellness_Week__Final__compressed__1_.pdf" rel="noopener nofollow" target="_blank">Well_Being_Watch_Issue_6</a>
+</p>
 <p></p>
 <p></p>
