@@ -8,7 +8,7 @@ third_nav_title: Student Well Being Newsletters
 ---
 <p><strong>2<sup>nd</sup> Edition</strong>
 </p>
-<p><strong>Building Strong Social Foundations: Nurturing Your Child's Social Skills</strong>
+<p><strong>Supporting Your Child in Building Meaningful Relationships</strong>
 </p>
 <p>Strong social skills help children build confidence and form meaningful
 connections. This edition offers practical tips for parents to support
