@@ -14,6 +14,15 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: “Awesome Awetumn” - 童心同圆
+      id: infopic
+      description: Our school hosted Mid-Autumn Festival and Children's Day in a
+        morning filled with cultural activities and joyful learning.
+      button: Please Click Here to read more
+      url: /awesome-awetumn-lanterns-laughter-and-little-wonders/
+      image: /images/Awesome_Awetumn_1_1.jpg
+      alt: 童心同圆
+  - infopic:
       title: 慈航园 (Ci Hang Garden)
       id: infopic
       description: Maha Bodhi School has named this newly renovated courtyard Ci Hang
@@ -66,7 +75,7 @@ sections:
       id: infopic
       button: Please Click Here to read more
       url: /racial-harmony-day-2025/
-      image: /images/RHD_Photo.jpg
+      image: /images/RHD_Revised.jpg
       alt: Racial Harmony Day 2025
       description: Through the celebration of Racial Harmony Day, pupils learnt the
         importance of respecting different races and religions in our community.
@@ -101,7 +110,8 @@ sections:
   - infopic:
       title: Highlights of Buddy Programme 2025
       id: infopic
-      description: Creating a stronger sense of community among Maha Bodhians
+      description: Senior-junior buddy pairs create a stronger sense of community
+        among Maha Bodhians.
       button: PLEASE CLICK HERE TO READ MORE
       url: /highlights-of-buddy-programme-2025/
       image: /images/P4__Guiding_P1___2.jpg
@@ -119,9 +129,9 @@ sections:
   - infopic:
       title: Afternoon With Teachers (AWT)
       id: infopic
-      description: Afternoon with Teachers’ sessions, bringing together teachers,
+      description: "'Afternoon with Teachers’ sessions bring together teachers,
         parents, and guardians together for a meaningful afternoon of connection
-        and collaboration.
+        and collaboration."
       button: PLEASE CLICK HERE TO READ MORE
       url: /afternoon-with-teachers-awt/
       image: /images/Afternoon_with_Teachers_2025_Pic_1.png
