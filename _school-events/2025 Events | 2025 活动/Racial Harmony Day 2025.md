@@ -19,7 +19,8 @@ and harmony!</p>
 <p>7月21日和22日的课间活动则为学生们提供了亲身体验的机会，让他们进一步了解新加坡多元文化的独特之处。这些活动不仅鼓励学生欣赏彼此的差异，也激励大家携手努力，共同营造一个团结、和谐的社区。这是一场充满意义的庆祝活动，充分展现了我们共同的价值观与对和谐社会的追求。</p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Racial Harmony Day 2025" src="/images/Racial_Harmony_Day_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RHD_Revised.jpg">
 </div>
 <p></p>
