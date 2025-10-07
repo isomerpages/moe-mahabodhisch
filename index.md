@@ -150,4 +150,13 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Immersion Program with Tzu Chi
+  - infopic:
+      title: Deepavali Celebration 2025
+      id: infopic
+      description: Maha Bodhi School ushered in the festive spirit of Deepavali with a
+        vibrant assembly that highlighted the significance of the festival.
+      button: Please click here to read more
+      url: /deepavali-celebrations-2025/
+      image: /images/Deepavali_Collage.jpg
+      alt: Deepavali Celebration 2025
 ---
