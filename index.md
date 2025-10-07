@@ -14,6 +14,25 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Opening of Maha Bodhi School’s Parade Square
+      id: infopic
+      description: The revamped Parade Square at Maha Bodhi School was officially
+        opened in a meaningful ceremony graced by Venerable Seck Kwang Phing and
+        the school leaders.
+      button: Please click here to read more
+      url: /opening-of-maha-bodhi-school-s-parade-square/
+      image: /images/Parade_Square_2.jpg
+      alt: Opening of MBS Parade Square
+  - infopic:
+      title: Deepavali Celebration 2025
+      id: infopic
+      description: Maha Bodhi School ushered in the festive spirit of Deepavali with a
+        vibrant assembly that highlighted the significance of the festival.
+      button: Please click here to read more
+      url: /deepavali-celebrations-2025/
+      image: /images/Deepavali_Collage.jpg
+      alt: Deepavali Celebration 2025
+  - infopic:
       title: “Awesome Awetumn” - 童心同圆
       id: infopic
       description: Our school hosted Mid-Autumn Festival and Children's Day in a
