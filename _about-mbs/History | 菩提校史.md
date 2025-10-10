@@ -49,11 +49,11 @@ open. The first principal was Sister Wong Loon Soo.</p>
 <p></p>
 <h4>The Beginning</h4>
 <p>In 1950, Sister Wong left Singapore and went back to Penang.&nbsp;Miss
-Pitt then took over as principal. Though the school had&nbsp;no proper
-facilities, the school management committee worked hard to keep it running.
-The pupil enrolment increased and the school progressed steadily. Subsequently,
-the school management committee, decided to place the sponsorship of the
-school under the Singapore Buddhist Federation for further development.
+Pitt Chin Hui then took over as principal. Though the school had&nbsp;no
+proper facilities, the school management committee worked hard to keep
+it running. The pupil enrolment increased and the school progressed steadily.
+Subsequently, the school management committee, decided to place the sponsorship
+of the school under the Singapore Buddhist Federation for further development.
 Mr Lee Choon Seng, Chairman of the Singapore Buddhist Federation formed
 a school building committee to raise funds for the development of the school.
 <br>
