@@ -10,7 +10,7 @@ of Buddhist education, delegated Miss Pitt Chin Hui and others, aided by
 Buddhist believers, to undertake the establishing of Maha Bodhi School.
 A shophouse at No. 743, Geylang Road became a temporary school building
 with about 40 pupils. On 12 January 1948, the school was officially declared
-open. The first principal was Sister Wong Loon Soo.</p>
+open. The first Principal was Sister Wong Loon Soo.</p>
 <p><strong>菩提校史</strong>
 </p>
 <p>1946 年，积极倡导佛教教育的灵峰菩提学院慈航法师委托毕俊辉女士等人，在佛教信徒的支持下，开展搭建菩提学校。位于芽笼路 743 号的一间店屋成为了一所临时学校校舍，约有40名学生。1948
@@ -49,10 +49,10 @@ open. The first principal was Sister Wong Loon Soo.</p>
 <p></p>
 <h4>The Beginning</h4>
 <p>In 1950, Sister Wong left Singapore and went back to Penang.&nbsp;Miss
-Pitt Chin Hui then took over as principal. Though the school had&nbsp;no
+Pitt Chin Hui then took over as Principal. Though the school had&nbsp;no
 proper facilities, the school management committee worked hard to keep
 it running. The pupil enrolment increased and the school progressed steadily.
-Subsequently, the school management committee, decided to place the sponsorship
+Subsequently, the School Management Committee, decided to place the sponsorship
 of the school under the Singapore Buddhist Federation for further development.
 Mr Lee Choon Seng, Chairman of the Singapore Buddhist Federation formed
 a school building committee to raise funds for the development of the school.
@@ -170,16 +170,18 @@ classes for Chinese and English streams.</p>
 </tbody>
 </table>
 <h4>Focus on Bilingualism</h4>
-<p>In 1971, Miss Pitt Chin Hui, the principal, retired after a successful
-term in office for 20 years. Mr Foo Soo Luang took over as principal. Mr
-Foo, like his predecessor, put special emphasis on bilingualism. In 1973,
-he encouraged the first batch of 50 Primary 6 Chinese- medium pupils to
-take the PSLE in the English-medium. All of them passed with very good
-grades.</p>
+<p>In 1971, Miss Pitt Chin Hui, the Principal, retired after a successful
+term in office for 20 years.</p>
+<p>Mr Foo Soo Luang took over as principal in 1971. Mr Foo, like his predecessor,
+put special emphasis on bilingualism. In 1973, he encouraged the first
+batch of 50 Primary 6 Chinese- medium pupils to take the PSLE in the English-medium.
+All of them passed with very good grades. It was a testament to Mr Foo's
+emphasis on bilingualism and his belief in the students' ability to excel
+in both Chinese and English language.</p>
 <p><strong>专注于双语教育</strong>
 </p>
 <p>1971 年，校长毕俊辉女士在成功任职 20 年后退休。符书銮先生接任校长一职。符先生与前任校长一样，特别重视双语教学。1973 年，他鼓励首批
-50 名受中文教育的小学六年级学生参加以英语为母语的 PSLE 考试。所有学生都以优异的成绩通过了考试</p>
+50 名受中文教育的小学六年级学生参加以英语为母语的 PSLE 考试。所有学生都以优异的成绩通过了考试。 这一壮举不仅展现了学生的潜能，也凸显了符校长对双语教育的远见卓识和坚定信念。</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -244,73 +246,44 @@ editing studio.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/History-6.jpeg">
 </div>
-<p>Today, Maha Bodhi School is one of the more well-known schools in Singapore.</p>
 <p>With the start of the PERI (Primary School Education Review and Implementation)
 upgrading works in 2015, the school will enter a new phase of development,
 with the addition of enhanced infrastructure that supports the delivery
 of holistic education. The new school facilities will support differentiated
 teaching approaches, enabling our students to benefit from an enhanced
 learning environment.</p>
+<p>Today, Maha Bodhi School is one of the more well-known schools in Singapore.</p>
 <p><strong>下一个千年</strong>
 </p>
 <p>1991 年，在新加坡佛教总会在主席优昙法师（Ven Sek Yiu Torn）的领导下，常年大会上议决，接受政府根据 “以地换地”计划提供的
 1.8 公顷新校址（乌美一道 ），以交换芽笼34巷的土地。新加坡佛教总会承诺建造一座新校舍，为学生提供最新的设备和设施。</p>
 <p>新校舍及其设施的造价将近 2000 万元。1995 年 11 月，学生和教职员工迁入新校舍。新校舍具备完善的现代化设施，如创新中心、两间音乐室、一间乐队室、两间电脑室、一间视听剧场和一间先进的视频编辑室。</p>
-<p>如今，菩提学校已成为新加坡的名校之一。</p>
 <p>随着2015年小学教育检讨及执行（PERI）升级工程的启动，学校将进入新的发展阶段，为学生提供全面教育。翻新工作完善了学校措施，让老师更有效地开展差异化教学，使我们的学生能够从更好的学习环境中受益。</p>
+<p>如今，菩提学校已成为新加坡的名校之一。</p>
 <p><strong>Mr Foo Soo Luang 符书銮先生</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/History-6.png">
 </div>
-<p>Mr Foo Soo Luang retired in October 1996 after serving the school for
-25 years as its principal.</p>
-<p>Mr Foo Soo Luang assumed leadership as Principal in 1971 and served with
-dedication and professionalism for 25 years until his retirement in 1996.
-His visionary leadership and commitment to education transformed Maha Bodhi
-School into a beacon of excellence.</p>
-<p>Under his guidance, the school achieved remarkable milestones. In 1973,
-he encouraged the first batch of 50 Primary 6 Chinese-medium pupils to
-take the PSLE in the English-medium, all of whom passed with excellent
-grades. This significant achievement led to a commendation from the Ministry
-of Education in 1974, with Maha Bodhi School being named one of the top
-ten schools with the highest marks in the English Language. It was a testament
-to Mr Foo’s emphasis on bilingualism and his belief in the students' ability
-to excel in both Chinese and English languages.</p>
-<p>Beyond academic achievements, Mr Foo also championed holistic development
-by introducing various extracurricular activities, such as the brass band,
-lion dance, choir, and art classes, enriching the students’ physical and
-artistic growth. His enduring commitment to nurturing well-rounded individuals
-laid a strong foundation for the school’s future success.</p>
-<p>In 1985, Maha Bodhi School transitioned into a full English-medium school
-under Mr Foo’s stewardship, and in 1990, it became a Special Assistance
-Plan (SAP) school, continuing its emphasis on bilingualism and Asian moral
-values. His leadership also saw the school move into a modern, well-equipped
-new building in 1995, providing students and staff with state-of-the-art
-facilities.</p>
-<p>Mr Foo retired in October 1996, leaving behind a legacy of excellence,
-compassion, and unwavering dedication. His contributions to Maha Bodhi
-School and the broader education landscape will always be cherished and
-remembered.</p>
-<p>Taking on the task of the principalship was Mr Chew Chong Theng who left
-the school at the end of 2002. Mr Foo Chee Meng then became the next principal
-of the school from end 2002 to 2004. &nbsp;Mrs Lim Bee Lay who was then
-the vice-principal assumed duties as Principal from 2005-2013. Mrs Elaine
-Quek took over the reins as the Principal from 2014 to 2021.</p>
-<p>Under the current leadership of Mrs See Lai Kwan, the school will continue
-to strive for excellence in both the academic as well as the non-academic,
-particularly focusing on the school's distinctive niche areas such as Aesthetics
-(Learn for Life Programme) and Communication (Applied Learning Programme).</p>
+<p>Mr Foo Soo Luang served as Principal from 1971 to 1996, leading the school
+with dedication and professionalism for 25 years. Mr Foo's visionary leadership
+and steadfast belief in holistic and bilingual education transformed Maha
+Bodhi School into a beacon of excellence.</p>
+<p>Taking on the task of the Principalship was Mr Chew Chong Theng who served
+as Principal of Maha Bodhi School from end 1996 to 2002. Mr Foo Chee Meng
+then became the next Principal of the school from end 2002 to 2004. &nbsp;Mrs
+Lim Bee Lay who was then the Vice-Principal assumed duties as Principal
+from 2005-2013. Mrs Elaine Quek took over the reins as the Principal from
+2014 to 2021.</p>
+<p>Under the current leadership of Mrs See Lai Kwan from 2022 to present,
+the school will continue to strive for excellence in both the academic
+as well as the non-academic, particularly focusing on the school's distinctive
+niche areas such as Aesthetics (Learn for Life Programme) and Communication
+(Applied Learning Programme).</p>
 <p><strong>符书銮先生</strong>
 </p>
-<p>符书銮先生在担任学校校长 25 年后，于 1996 年 10 月退休。周宗廷先生接任校长一职，并于<strong> </strong>2002
-年底卸任。</p>
 <p>符校长自1971年起担任校长，直至1996年退休。在长达25年的时间里，他以卓越的领导力和无私奉献，带领菩提学校不断迈向辉煌，为学校奠定了卓越的基石，树立了令人敬仰的典范。</p>
-<p>在他的领导下，学校取得了诸多令人瞩目的成就。1973年，他鼓励首批50名华文源流的六年级学生参加英文源流的小学离校考试（PSLE），结果全体学生都考取优异的成绩。这一壮举不仅展现了学生的潜能，也凸显了符校长对双语教育的远见卓识和坚定信念。1974年，教育部特别嘉奖菩提学校，并将其评为英文科成绩最优越的十所学校之一。</p>
-<p>符校长不仅注重学术上的卓越，更倡导学生的全面发展。他在校内推行多种课外活动，包括铜管乐队、舞狮队、合唱团和美术班，为学生提供多样化的成长平台，既丰富了他们的身心发展，也激发了他们的艺术潜能。他用心栽培全面发展的学生，为菩提学校的未来奠定了深厚而坚实的基础。</p>
-<p>在1985年，菩提学校在符校长的领导下转型为全英文源流学校。1990年，学校被选为特选小学（Special Assistance Plan
-School），继续在双语教育以及亚洲道德价值观的传承与弘扬中取得卓越成绩。1995年，学校迁入现代化、设备齐全的新校舍，为师生提供了创新学习的空间，进一步提升了教学与学习环境。</p>
 <p>符校长的一生致力于教育事业。他以满腔的爱心与智慧，深刻影响了无数学生与教师，改变了许多人的人生轨迹。他对菩提学校以及教育领域的杰出贡献将永远被铭记和珍惜。</p>
 <p>随后，符致明先生于 2002 年年底至 2004 年担任该校的下一任校长。 2005-2013 年间，时任副校长的周美丽女士接任校长一职。2014
 至 2021 年，林惠珉女士接任校长一职。</p>
