@@ -243,48 +243,43 @@ the new building in November 1995. It is well equipped with modern facilities
 such as an innovation centre, two music rooms, a band room, two computer
 laboratories, an audio-visual theatre&nbsp;and a state of the art video
 editing studio.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/History-6.jpeg">
-</div>
-<p>With the start of the PERI (Primary School Education Review and Implementation)
-upgrading works in 2015, the school will enter a new phase of development,
-with the addition of enhanced infrastructure that supports the delivery
-of holistic education. The new school facilities will support differentiated
-teaching approaches, enabling our students to benefit from an enhanced
-learning environment.</p>
-<p>Today, Maha Bodhi School is one of the more well-known schools in Singapore.</p>
-<p><strong>下一个千年</strong>
-</p>
-<p>1991 年，在新加坡佛教总会在主席优昙法师（Ven Sek Yiu Torn）的领导下，常年大会上议决，接受政府根据 “以地换地”计划提供的
-1.8 公顷新校址（乌美一道 ），以交换芽笼34巷的土地。新加坡佛教总会承诺建造一座新校舍，为学生提供最新的设备和设施。</p>
-<p>新校舍及其设施的造价将近 2000 万元。1995 年 11 月，学生和教职员工迁入新校舍。新校舍具备完善的现代化设施，如创新中心、两间音乐室、一间乐队室、两间电脑室、一间视听剧场和一间先进的视频编辑室。</p>
-<p>随着2015年小学教育检讨及执行（PERI）升级工程的启动，学校将进入新的发展阶段，为学生提供全面教育。翻新工作完善了学校措施，让老师更有效地开展差异化教学，使我们的学生能够从更好的学习环境中受益。</p>
-<p>如今，菩提学校已成为新加坡的名校之一。</p>
-<p><strong>Mr Foo Soo Luang 符书銮先生</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/History-6.png">
-</div>
 <p>Mr Foo Soo Luang served as Principal from 1971 to 1996, leading the school
-with dedication and professionalism for 25 years. Mr Foo's visionary leadership
+with dedication and professionalism for 25 years. His visionary leadership
 and steadfast belief in holistic and bilingual education transformed Maha
 Bodhi School into a beacon of excellence.</p>
 <p>Taking on the task of the Principalship was Mr Chew Chong Theng who served
 as Principal of Maha Bodhi School from end 1996 to 2002. Mr Foo Chee Meng
 then became the next Principal of the school from end 2002 to 2004. &nbsp;Mrs
 Lim Bee Lay who was then the Vice-Principal assumed duties as Principal
-from 2005-2013. Mrs Elaine Quek took over the reins as the Principal from
-2014 to 2021.</p>
+from 2005-2013.</p>
+<p>Mrs Elaine Quek took over the reins as the Principal from 2014 to 2021.
+With the start of the PERI (Primary School Education Review and Implementation)
+upgrading works in 2015, the school entered a new phase of development,
+with the addition of enhanced infrastructure supporting the delivery of
+holistic education. The new school facilities supported differentiated
+teaching approaches, enabling our students to benefit from an enhanced
+learning environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/History-6.jpeg">
+</div>
 <p>Under the current leadership of Mrs See Lai Kwan from 2022 to present,
 the school will continue to strive for excellence in both the academic
 as well as the non-academic, particularly focusing on the school's distinctive
 niche areas such as Aesthetics (Learn for Life Programme) and Communication
 (Applied Learning Programme).</p>
-<p><strong>符书銮先生</strong>
+<p>Today, Maha Bodhi School is one of the more well-known schools in Singapore.</p>
+<p><strong>下一个千年</strong>
 </p>
-<p>符校长自1971年起担任校长，直至1996年退休。在长达25年的时间里，他以卓越的领导力和无私奉献，带领菩提学校不断迈向辉煌，为学校奠定了卓越的基石，树立了令人敬仰的典范。</p>
-<p>符校长的一生致力于教育事业。他以满腔的爱心与智慧，深刻影响了无数学生与教师，改变了许多人的人生轨迹。他对菩提学校以及教育领域的杰出贡献将永远被铭记和珍惜。</p>
-<p>随后，符致明先生于 2002 年年底至 2004 年担任该校的下一任校长。 2005-2013 年间，时任副校长的周美丽女士接任校长一职。2014
-至 2021 年，林惠珉女士接任校长一职。</p>
+<p>1991 年，在新加坡佛教总会在主席优昙法师（Ven Sek Yiu Torn）的领导下，常年大会上议决，接受政府根据 “以地换地”计划提供的
+1.8 公顷新校址（乌美一道 ），以交换芽笼34巷的土地。新加坡佛教总会承诺建造一座新校舍，为学生提供最新的设备和设施。</p>
+<p>新校舍及其设施的造价将近 2000 万元。1995 年 11 月，学生和教职员工迁入新校舍。新校舍具备完善的现代化设施，如创新中心、两间音乐室、一间乐队室、两间电脑室、一间视听剧场和一间先进的视频编辑室。</p>
+<p>符校长自1971年起担任校长，直至1996年退休。在长达25年的时间里，他以卓越的领导力和无私奉献，带领菩提学校不断迈向辉煌，为学校奠定了卓越的基石，树立了令人敬仰的典范。符校长的一生致力于教育事业。他以满腔的爱心与智慧，深刻影响了无数学生与教师，改变了许多人的人生轨迹。他对菩提学校以及教育领域的杰出贡献将永远被铭记和珍惜。</p>
+<p>随后，符致明先生于 2002 年年底至 2004 年担任该校的下一任校长。 2005-2013 年间，时任副校长的周美丽女士接任校长一职。</p>
+<p>2014 至 2021 年，林惠珉女士接任校长一职。随着2015年小学教育检讨及执行（PERI）升级工程的启动，学校将进入新的发展阶段，为学生提供全面教育。翻新工作完善了学校措施，让老师更有效地开展差异化教学，使我们的学生能够从更好的学习环境中受益。</p>
 <p>在现任校长邓丽君女士的领导下，学校将继续在学术和非学术方面精益求精，尤其是在学校的专项领域，如美学（终身学习计划）和有效沟通（应用学习项目)。</p>
+<p>如今，菩提学校已成为新加坡的名校之一。</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
