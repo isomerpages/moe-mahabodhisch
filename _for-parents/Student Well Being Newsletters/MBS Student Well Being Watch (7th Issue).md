@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Student Well Being Newsletters
 ---
-<p>7th Edition</p>
+<p><strong>7th Edition</strong>
+</p>
+<h4><strong>Mental Health Month</strong></h4>
 <p>As we observe Mental Health Month this October, discover three effective
 strategies that could transform how you support your child's emotional
 well-being at home.</p>
