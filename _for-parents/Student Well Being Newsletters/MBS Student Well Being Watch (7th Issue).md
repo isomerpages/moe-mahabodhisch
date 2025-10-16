@@ -17,3 +17,7 @@ and supportive home environment.</p>
 routines, this issue provides actionable guidance to help strengthen your
 child’s mental wellness.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WBW_Issue_7Cover_Final" src="/images/WBW_Issue__7__Cover____Final.png">
+</div>
+<p></p>
