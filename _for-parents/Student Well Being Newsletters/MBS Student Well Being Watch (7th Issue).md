@@ -20,4 +20,5 @@ child’s mental wellness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="WBW_Issue_7Cover_Final" src="/images/WBW_Issue__7__Cover____Final.png">
 </div>
-<p></p>
+<p><a href="/files/MBS_Student_Well_Being_Watch_7th_issue___Final.pdf" rel="noopener nofollow" target="_blank">MBS Student Well Being Watch 7th Issue</a>
+</p>
