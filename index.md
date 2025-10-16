@@ -14,6 +14,14 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: 2026 P1 Orientation
+      id: infopic
+      description: A Meaningful Start to a New Journey
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /p1-orientation-2025/
+      image: /images/P1_Orientation_Mrs_See_Welcoming_Speech.jpg
+      alt: 2026 P1 ORIENTATION
+  - infopic:
       title: Opening of Maha Bodhi School’s Parade Square
       id: infopic
       description: The revamped Parade Square at Maha Bodhi School was officially
@@ -169,12 +177,4 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Immersion Program with Tzu Chi
-  - infopic:
-      title: 2026 P1 Orientation
-      id: infopic
-      description: A Meaningful Start to a New Journey
-      button: PLEASE CLICK HERE TO READ MORE
-      url: /p1-orientation-2025/
-      image: /images/P1_Orientation_Mrs_See_Welcoming_Speech.jpg
-      alt: 2026 P1 ORIENTATION
 ---
