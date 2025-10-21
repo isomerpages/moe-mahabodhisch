@@ -160,7 +160,7 @@ variant: tiptap
 <p>Mr Chang Jiew Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>–</p>
@@ -171,7 +171,7 @@ variant: tiptap
 <p>Mr Lim Boon Hee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>–</p>
@@ -182,7 +182,7 @@ variant: tiptap
 <p>Mdm Kiong Ah Yin, May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>–</p>
