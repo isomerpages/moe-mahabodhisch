@@ -134,6 +134,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Tan Mui Yee (Vernessa)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_mui_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mui_yee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Chua Hook Kee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,7 +160,7 @@ variant: tiptap
 <p>Mr Chang Jiew Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>–</p>
@@ -159,7 +171,7 @@ variant: tiptap
 <p>Mr Lim Boon Hee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>–</p>
@@ -170,18 +182,7 @@ variant: tiptap
 <p>Mdm Kiong Ah Yin, May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>–</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Mui Yee (Venessa)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Support</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>–</p>
