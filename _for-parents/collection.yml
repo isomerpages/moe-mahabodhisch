@@ -2,6 +2,8 @@ collections:
   for-parents:
     output: true
     order:
+      - Cyber Wellness Acceptable Use Policy (AUP) for use of EdTech Resources
+        Agreement.md
       - General School Information/.keep
       - General School Information/School Information | 菩提概况.md
       - General School Information/Payment via GIRO.md
