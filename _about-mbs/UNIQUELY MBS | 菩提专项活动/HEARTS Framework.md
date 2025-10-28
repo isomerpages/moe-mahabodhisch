@@ -69,6 +69,21 @@ ready to thrive in a complex and ever-changing world.</p>
 <p>借助 HEARTS 框架，我们培育自信、富有同理心的学习者，使他们能够在复杂多变的世界中茁壮成长。</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hearts_Wall_Mural.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mural_HEARTS_H.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mural_E.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mural_A.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mural_R.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mural_T.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mural_S.png">
 </div>
 <p></p>
