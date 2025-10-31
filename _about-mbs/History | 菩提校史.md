@@ -46,7 +46,6 @@ open. The first Principal was Sister Wong Loon Soo.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>The Beginning</h4>
 <p>In 1950, Sister Wong left Singapore and went back to Penang.&nbsp;Miss
 Pitt Chin Hui then took over as Principal. Though the school had&nbsp;no
