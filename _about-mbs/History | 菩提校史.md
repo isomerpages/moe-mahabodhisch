@@ -70,7 +70,8 @@ a school building committee to raise funds for the development of the school.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Pitt Chin Hui</p>
+<p><strong>Miss Pitt Chin Hui</strong>
+</p>
 </td>
 </tr>
 <tr>
