@@ -55,15 +55,16 @@ it running. The pupil enrolment increased and the school progressed steadily.
 Subsequently, the School Management Committee, decided to place the sponsorship
 of the school under the Singapore Buddhist Federation for further development.
 Mr Lee Choon Seng, Chairman of the Singapore Buddhist Federation formed
-a school building committee to raise funds for the development of the school.
-<br>
-<br>
-</p>
+a school building committee to raise funds for the development of the school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:110px;height:140px" height="auto" width="100%" src="/images/History-2.png">
 </div>
 <p>No. 743, Geylang Road – The first Maha Bodhi School in 1948</p>
 <p>1948年， 第 一 所菩提学校设立于芽笼路743号。</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/History-5.png">
+</div>
+<p>Miss Pitt Chin Hui</p>
 <p><strong>开始</strong>
 </p>
 <p>1950年，王弄书居士离开新加坡，回到槟城。毕俊辉女士接掌校长一职。虽然学校没有适当的设施，但学校董事会还是努力不懈地维持学校的运作。学生人数增加，学校稳步发展。后来，学校董事会决定把赞助学校的事宜交由新加坡佛教总会负责，以便学校能进一步发展。新加坡佛教总会主席李俊承先生成立建校委员会，为学校的发展筹款。</p>
@@ -78,7 +79,6 @@ the school was given grant-in-aid and it became a Government-aided school.</p>
 </p>
 <p>在同一年里，位于芽笼 34 巷 50 号的校址被征用。1951 年 1 月 21 日，演本法师为学校奠基并开始施工。1951 年 7 月，学生们正式从店屋搬入新校舍。1951
 年 12 月 1 日，时任英国驻东南亚高级专员马尔科姆·麦克唐纳（Malcolm MacDonald）先生宣布新校正式启用。1957 年，学校获得政府津贴，成为一所政府辅助学校。</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -172,7 +172,7 @@ classes for Chinese and English streams.</p>
 <h4>Focus on Bilingualism</h4>
 <p>In 1971, Miss Pitt Chin Hui, the Principal, retired after a successful
 term in office for 20 years.</p>
-<p>Mr Foo Soo Luang took over as principal in 1971. Mr Foo, like his predecessor,
+<p>Mr Foo Soo Luang took over as Principal in 1971. Mr Foo, like his predecessor,
 put special emphasis on bilingualism. In 1973, he encouraged the first
 batch of 50 Primary 6 Chinese- medium pupils to take the PSLE in the English-medium.
 All of them passed with very good grades. It was a testament to Mr Foo's
@@ -182,7 +182,6 @@ in both Chinese and English language.</p>
 </p>
 <p>1971 年，校长毕俊辉女士在成功任职 20 年后退休。符书銮先生接任校长一职。符先生与前任校长一样，特别重视双语教学。1973 年，他鼓励首批
 50 名受中文教育的小学六年级学生参加以英语为母语的 PSLE 考试。所有学生都以优异的成绩通过了考试。 这一壮举不仅展现了学生的潜能，也凸显了符校长对双语教育的远见卓识和坚定信念。</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -192,16 +191,14 @@ in both Chinese and English language.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/History-5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/History-6.png">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Miss Pitt Chin Hui</strong>
+<p><strong>Mr Foo Soo Luang</strong>
 </p>
 </td>
 </tr>
