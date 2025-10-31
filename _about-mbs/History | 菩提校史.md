@@ -211,13 +211,10 @@ in both Chinese and English language.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/History-6.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
 <p><strong>Mr Foo Soo Luang</strong>
 </p>
 </td>
