@@ -56,15 +56,36 @@ Subsequently, the School Management Committee, decided to place the sponsorship
 of the school under the Singapore Buddhist Federation for further development.
 Mr Lee Choon Seng, Chairman of the Singapore Buddhist Federation formed
 a school building committee to raise funds for the development of the school.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/History-5.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Pitt Chin Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width:110px;height:140px" height="auto" width="100%" src="/images/History-2.png">
 </div>
 <p>No. 743, Geylang Road – The first Maha Bodhi School in 1948</p>
 <p>1948年， 第 一 所菩提学校设立于芽笼路743号。</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/History-5.png">
-</div>
-<p>Miss Pitt Chin Hui</p>
 <p><strong>开始</strong>
 </p>
 <p>1950年，王弄书居士离开新加坡，回到槟城。毕俊辉女士接掌校长一职。虽然学校没有适当的设施，但学校董事会还是努力不懈地维持学校的运作。学生人数增加，学校稳步发展。后来，学校董事会决定把赞助学校的事宜交由新加坡佛教总会负责，以便学校能进一步发展。新加坡佛教总会主席李俊承先生成立建校委员会，为学校的发展筹款。</p>
