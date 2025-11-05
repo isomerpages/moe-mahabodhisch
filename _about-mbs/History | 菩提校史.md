@@ -17,17 +17,13 @@ open. The first Principal was Sister Wong Loon Soo.</p>
 年 1 月 12 日，学校正式开学。学校的首任校长由王弄书居士担任。
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -36,9 +32,6 @@ open. The first Principal was Sister Wong Loon Soo.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="2">
 <p>Reverend Chee Hong</p>
 <p></p>
