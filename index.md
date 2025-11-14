@@ -16,9 +16,9 @@ sections:
   - infopic:
       title: The Purple Parade 2025
       id: infopic
-      description: “Understanding Hearing Loss,” encouraged our students and staff to
-        build greater awareness, empathy, and appreciation for individuals with
-        hearing loss.
+      description: “Understanding Hearing Loss,” the theme of Purple Parade 2025,
+        encouraged our students and staff to have greater empathy for
+        individuals with hearing loss.
       button: PLEASE CLICK HERE TO READ MORE
       url: /the-purple-parade-2025/
       image: /images/2025_Purpele_Parade_MPH.jpg
