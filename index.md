@@ -22,7 +22,7 @@ sections:
       button: PLEASE CLICK HERE TO READ MORE
       url: /the-purple-parade-2025/
       image: /images/2025_Purpele_Parade_MPH.jpg
-      alt: Image alt text
+      alt: Understanding Hearing Loss
   - infopic:
       title: 2026 P1 Orientation
       id: infopic
