@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: The Purple Parade 2025
+      id: infopic
+      description: “Understanding Hearing Loss,” encouraged our students and staff to
+        build greater awareness, empathy, and appreciation for individuals with
+        hearing loss.
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /the-purple-parade-2025/
+      image: /images/2025_Purpele_Parade_MPH.jpg
+      alt: Image alt text
+  - infopic:
       title: 2026 P1 Orientation
       id: infopic
       description: A Meaningful Start to a New Journey
