@@ -36,3 +36,7 @@ shared responsibility.</p>
 <p>随后，参与者参加了一系列互动和创意活动，包括基础手语和指拼法，让学生们亲身体验非语言交流的美感和表现力。活动的亮点之一，是由两校师生共同创作的一幅艺术作品，象征着团结和对包容的共同承诺。这幅作品最终赠予美华小学，作为感谢与持续合作的象征。</p>
 <p>活动在欢乐、自豪与深思中圆满结束，提醒着每一位参与者：包容不仅仅是一场活动，它更是一种思维模式和一份共同的责任。</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Purple Parade 2025 @ MPH" src="/images/2025_Purpele_Parade_MPH.jpg">
+</div>
+<p></p>
