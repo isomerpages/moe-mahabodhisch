@@ -25,7 +25,7 @@ through Project Work.</p>
 through Project Work.</p>
 <p>Students also explored Chinese traditions through the Chinese Culture
 Camp and took part in team-based classroom activities that enhanced social
-bonds and problem-solving skills. They also witnessed their Primary 6 seniors’
+bonds and problem-solving skills. They also witnessed their<strong> Primary 6 </strong>seniors’
 creativity and confidence during the Jumble Sale, where the Primary 6 students
 planned engaging activities, delivered persuasive sales pitches, and raised
 funds for old folks’ homes. All students contributed to the fundraising
