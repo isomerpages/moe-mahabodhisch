@@ -45,3 +45,24 @@ and future-ready learners</p>
 <p>&nbsp;此外，学生们在文化营中深入探索中华传统文化，并参与多项以团队为基础的课堂活动，进一步增强了同伴关系与问题解决能力。他们也见证了六年级学长学姐在义卖会
 (Jumble Sale) 中展现的创造力与自信。六年级学生精心策划了趣味活动，发表具说服力的推销演讲，成功为老人院筹集善款。全体师生也积极参与其中，为筹款活动贡献一份力量。</p>
 <p>&nbsp;2025 年体验式学习周不仅展现了快乐学习的精神，更为学生发展 21 世纪核心能力提供了一个有意义且富启发性的学习平台。通过团队合作、创意发挥与积极倡导，菩提学子持续成长为自信、有爱、面向未来的学习者。</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ELW Day 1" src="/images/ELW_Day_1_Pic.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ELW Day 2" src="/images/ELW_Day_2_Pic.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ELW Day 3" src="/images/ELW_Day_3_Pic.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ELW Day 4" src="/images/ELW_Day_4_Pic.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ELW Day 5" src="/images/ELW_Day_5_Pic.jpg">
+</div>
+<p></p>
