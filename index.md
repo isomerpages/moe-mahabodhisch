@@ -14,6 +14,13 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Experiential Learning Week (ELW) 2025 – Semester 2
+      id: infopic
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /experiential-learning-week-elw-2025-semester-2/
+      image: /images/ELW_Day_1_Pic.jpg
+      alt: Image alt text
+  - infopic:
       title: The Purple Parade 2025
       id: infopic
       description: Purple Parade 2025 - Encouraging empathy and a more inclusive
