@@ -20,6 +20,9 @@ sections:
       url: /experiential-learning-week-elw-2025-semester-2/
       image: /images/ELW_Day_1_Pic.jpg
       alt: Image alt text
+      description: Experiential Learning Week (ELW) is Maha Bodhi School ongoing
+        efforts to nurture and develops students’ Emerging 21st Century
+        Competencies (E21CC).
   - infopic:
       title: The Purple Parade 2025
       id: infopic
