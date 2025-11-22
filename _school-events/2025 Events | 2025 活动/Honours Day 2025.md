@@ -36,16 +36,10 @@ achievements as a school community.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Honours Day Picture 1" src="/images/Honours_Day_1_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Honours Day Picture 2" src="/images/Honours_Day_2.jpg">
 </div>
 </th>
 </tr>
@@ -53,7 +47,7 @@ achievements as a school community.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Honours Day Picture 3" src="/images/Honours_Day_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Honours Day Picture 2" src="/images/Honours_Day_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
