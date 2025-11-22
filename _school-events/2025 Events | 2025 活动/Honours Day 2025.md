@@ -28,4 +28,56 @@ achievements as a school community.</p>
 <p>庆典上颁发了多个奖项，包括菩提之星奖、学科优异奖、华文进步奖、观音堂佛祖庙课外活动进步奖、弥陀基金人才计划奖、柯英奖学金，以及班级前 10%
 优异表现奖。这些奖项旨在肯定学生们的卓越表现、显著进步，以及他们在自我提升方面的努力与坚持。</p>
 <p>庆典尾声，大家向即将调任的副校长——梁冰凌女士致以衷心的感谢。学校管理委员会、校领导、校友会及<a rel="noopener noreferrer nofollow" target="_blank">家长志工团队</a>代表向梁副校长献上鲜花与祝福，感谢她多年来的悉心领导与贡献。随后，学校也向家长志工团队成员颁发感谢状，以表彰他们长期以来对学校的支持与贡献。</p>
-<p>2025 年荣誉日，是全体师生的重要里程碑，见证了大家的共同努力与丰硕成果</p>
+<p>2025 年荣誉日，是全体师生的重要里程碑，见证了大家的共同努力与丰硕成果.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Honours Day Picture 1" src="/images/Honours_Day_1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Honours Day Picture 2" src="/images/Honours_Day_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Honours Day Picture 3" src="/images/Honours_Day_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Honours Day Picture 4" src="/images/Honours_Day_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Honours Day Picture 5" src="/images/Honours_Day_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Honours Day Picture 6" src="/images/Honours_Day_6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
