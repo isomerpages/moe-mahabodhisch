@@ -14,6 +14,15 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Maha Bodhi School Honours Day 2025
+      id: infopic
+      description: 77th Honours Day celebrated our students’ hard work, resilience,
+        and growth. Affirming their commitment to learning and the values.
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /honours-day-2025/
+      image: /images/Honours_Day_5.jpg
+      alt: Honours Day Picture 5
+  - infopic:
       title: Experiential Learning Week (ELW) 2025 – Semester 2
       id: infopic
       button: PLEASE CLICK HERE TO READ MORE
@@ -196,13 +205,4 @@ sections:
       url: https://www.mahabodhi.moe.edu.sg/immersionprogrammewithtzuchi/
       image: /images/Taiwan Immersion 2024/4.jpg
       alt: Immersion Program with Tzu Chi
-  - infopic:
-      title: Maha Bodhi School Honours Day 2025
-      id: infopic
-      description: 77th Honours Day celebrated our students’ hard work, resilience,
-        and growth. Affirming their commitment to learning and the values.
-      button: PLEASE CLICK HERE TO READ MORE
-      url: /honours-day-2025/
-      image: /images/Honours_Day_5.jpg
-      alt: Honours Day Picture 5
 ---
