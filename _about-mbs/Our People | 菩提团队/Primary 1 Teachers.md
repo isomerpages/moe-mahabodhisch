@@ -71,10 +71,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Doris See-Ng Meow Yuan</p>
+<p>Mdm Liu Xin Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_meow_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_meow_yuan@moe.edu.sg</a>
+<p><a href="mailto:liu_xin_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_xin_qi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -84,10 +84,36 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Doris See-Ng Meow Yuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_meow_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_meow_yuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Chin Yee Cindy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_chin_yee_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chin_yee_cindy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P1 Compassion</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Jacinda Ng Poh Sian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_poh_sian_jacinda@moe.edu.sg</p>
+<p><a href="mailto:ng_poh_sian_jacinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_poh_sian_jacinda@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -100,29 +126,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hu_shanshan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_shanshan@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P1 Compassion</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
