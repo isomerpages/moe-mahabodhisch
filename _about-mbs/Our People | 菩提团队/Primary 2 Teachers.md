@@ -237,10 +237,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Siau-Ng Mui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_mui_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mui_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -249,10 +250,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Chang Ting Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="chang_ting_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ting_lee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -260,7 +262,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Elizabeth Tan Pei Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
