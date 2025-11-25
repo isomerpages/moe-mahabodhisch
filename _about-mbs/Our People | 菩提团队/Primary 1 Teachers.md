@@ -183,10 +183,11 @@ variant: tiptap
 <p><strong>P1 Faith</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Chan-Lim Pei Ee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_pei_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pei_ee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -194,10 +195,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Yang Si Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yang_si_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_si_qi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
