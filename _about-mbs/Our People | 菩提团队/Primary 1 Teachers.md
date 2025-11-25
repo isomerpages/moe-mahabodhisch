@@ -71,10 +71,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Doris See-Ng Meow Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_meow_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_meow_yuan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
