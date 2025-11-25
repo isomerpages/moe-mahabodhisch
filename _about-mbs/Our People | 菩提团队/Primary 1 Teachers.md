@@ -207,10 +207,11 @@ variant: tiptap
 <p><strong>P1 Generosity</strong>&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Chua-Lee Kai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_kai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kai_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
