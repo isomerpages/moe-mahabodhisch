@@ -312,10 +312,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Fann-Chew Hwee Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:fann_chew_hwee_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fann_chew_hwee_cheng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -323,10 +324,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lee Eng Bee Angelia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:angelia_lee_eng_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angelia_lee_eng_bee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
