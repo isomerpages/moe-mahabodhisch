@@ -159,21 +159,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Liu-Ng Yueh Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_geok_lian_amelia_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_geok_lian_amelia_b@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -181,10 +171,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lee Jing Theng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_jing_theng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jing_theng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
