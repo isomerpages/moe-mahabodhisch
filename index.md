@@ -14,7 +14,7 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
-      title: Maha Bodhi School 77th Honours Day 2025
+      title: Maha Bodhi School Honours Day 2025
       id: infopic
       description: On 19 November 2025, our school celebrated its 77th Honours Day.
         This occasion marked the hard work, resilience and growth of our
