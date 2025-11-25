@@ -287,10 +287,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Mankiran Kaur D/O Gurdip Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:mankiran_kaur_gurdip_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mankiran_kaur_gurdip_singh@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -298,10 +299,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Annie Teo-Lim Soek Khim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_soek_khim_annie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_soek_khim_annie@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
