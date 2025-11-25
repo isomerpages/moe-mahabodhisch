@@ -196,6 +196,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zalina Binte Salleh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zalina_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zalina_salleh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>P2 Faith</strong>
 </p>
 </td>
@@ -265,18 +277,8 @@ variant: tiptap
 <p>Ms Elizabeth Tan Pei Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_pei_ming_elizabeth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_pei_ming_elizabeth@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
