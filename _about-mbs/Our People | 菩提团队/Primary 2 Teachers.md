@@ -333,25 +333,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>P2 Kindness</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Amidah Bte Aziz&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:amidah_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amidah_aziz@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -359,10 +349,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lai Yean Pean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lai_yean_pean@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_yean_pean@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
