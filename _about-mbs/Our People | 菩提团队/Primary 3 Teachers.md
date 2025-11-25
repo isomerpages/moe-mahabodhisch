@@ -175,21 +175,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Yeo-Ong Sze Sze</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ong_sze_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_sze_sze@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -197,10 +187,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Seah Kim Huah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:seah_kim_huah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_kim_huah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -209,10 +200,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ning Fanye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ning_fanye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ning_fanye@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -220,10 +212,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Chee Keong Clement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_chee_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chee_keong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
