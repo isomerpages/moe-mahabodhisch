@@ -16,8 +16,9 @@ sections:
   - infopic:
       title: Maha Bodhi School Honours Day 2025
       id: infopic
-      description: 77th Honours Day celebrated our students’ hard work, resilience,
-        and growth. Affirming their commitment to learning and the values.
+      description: On 19 November 2025, our school celebrated its 77th Honours Day.
+        This occasion marked the hard work, resilience and growth of our
+        students.
       button: PLEASE CLICK HERE TO READ MORE
       url: /honours-day-2025/
       image: /images/Honours_Day_5.jpg
