@@ -231,10 +231,11 @@ variant: tiptap
 <p><strong>P1 Humility</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Fauziah Bte Mohamood&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:fauziah_mohamood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamood@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -242,10 +243,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Jin Lu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:jin_lu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jin_lu@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
