@@ -134,10 +134,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nina Karmiza Bte Kamarozaman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nina_karmiza@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nina_karmiza@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -145,10 +146,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Eoh Yi Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:eoh_yi_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eoh_yi_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
