@@ -255,10 +255,11 @@ variant: tiptap
 <p><strong>P1 Integrity&nbsp;&nbsp;</strong>&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Oh Chui Hoon Dominique</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:oh_chui_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_chui_hoon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -266,10 +267,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Louise Peh Xue Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:louise_peh_xue_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">louise_peh_xue_min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -278,10 +280,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Ong-Siow Wee Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siow_wee_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siow_wee_han@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -289,10 +292,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Zuo Enqing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zoo_enqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zoo_enqing@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -300,10 +304,11 @@ variant: tiptap
 <p><strong>P1 Kindness</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Lee-Tan Chew Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_chew_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chew_ping@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
