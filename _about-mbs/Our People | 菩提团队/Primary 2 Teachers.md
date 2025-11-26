@@ -190,7 +190,7 @@ variant: tiptap
 <p>Mrs Sheryl Wong-Sim Jia Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mahabodhi.moe.edu.sg/about-mbs/our-people/p1-teachers/sim_jia_yun_sheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_jia_yun_sheryl@moe.edu.sg</a>
+<p><a href="mailto:sim_jia_yun_sheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_jia_yun_sheryl@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -265,7 +265,7 @@ variant: tiptap
 <p>Mdm Chang Ting Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chang_ting_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ting_lee@moe.edu.sg</a>
+<p><a href="mailto:chang_ting_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ting_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
