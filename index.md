@@ -14,6 +14,14 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Maha Bodhi School Graduation Day 2025
+      id: infopic
+      description: 77th Graduation Day commencing with an intimate ceremony in
+        classrooms and MPH where students receiving their Graduation
+        Certificates and MBS Bear.
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Maha Bodhi School Honours Day 2025
       id: infopic
       description: On 19 November 2025, our school celebrated its 77th Honours Day.
