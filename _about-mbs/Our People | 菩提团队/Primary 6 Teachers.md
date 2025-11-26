@@ -159,7 +159,7 @@ variant: tiptap
 <p>Mdm Huang Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:huan_see_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huan_see_lai@moe.edu.sg</a>
+<p><a href="mailto:huang_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_jie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
