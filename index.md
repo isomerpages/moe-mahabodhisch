@@ -20,7 +20,7 @@ sections:
         ceremony in classrooms and in MPH receiving their Graduation
         Certificates plus cute MBS Bear.
       button: PLEASE CLICK HERE TO READ MORE
-      alt: GRADUATION DAY PICTURE 5
+      alt: GRADUATION DAY PICTURE 8
       url: /graduation-day-2025/
       image: /images/Picture_8_Grad_Day.jpg
   - infopic:
