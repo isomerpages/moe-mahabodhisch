@@ -253,10 +253,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ho Hean Thoon, Andy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ho_hean_thoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_hean_thoon@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -264,10 +265,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Yeo Hwee Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yeo_hwee_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_choo@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
