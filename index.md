@@ -22,7 +22,7 @@ sections:
       button: PLEASE CLICK HERE TO READ MORE
       alt: GRADUATION DAY PICTURE 5
       url: /graduation-day-2025/
-      image: /images/Picture_5_Grad_Day.jpg
+      image: /images/Picture_8_Grad_Day.jpg
   - infopic:
       title: Maha Bodhi School Honours Day 2025
       id: infopic
