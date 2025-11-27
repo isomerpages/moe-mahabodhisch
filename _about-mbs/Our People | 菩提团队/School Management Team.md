@@ -160,10 +160,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Low-Lee Minyu</p>
+<p>Ms Angeline Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Mathematics (Covering)</p>
+<p>HOD / Mathematics</p>
 </td>
 </tr>
 </tbody>
