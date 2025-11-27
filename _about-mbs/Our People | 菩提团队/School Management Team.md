@@ -193,7 +193,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Teck Lan</p>
+<p>Ms Wendy Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head / Middle Primary</p>
