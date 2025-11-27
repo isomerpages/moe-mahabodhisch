@@ -180,7 +180,7 @@ variant: tiptap
 <p>P2K, P6CL2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim-ho_lian_poh@moe.edu.sg</a>
+<p><a href="mailto:lim-ho_lian_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim-ho_lian_poh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -193,7 +193,7 @@ variant: tiptap
 <p>P2G, P5CL3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">huan_see_lai@moe.edu.sg</a>
+<p><a href="mailto:huan_see_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huan_see_lai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -206,7 +206,7 @@ variant: tiptap
 <p>P3CL7, P4CL3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">liu_xin_qi@moe.edu.sg</a>
+<p><a href="mailto:liu_xin_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_xin_qi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -219,7 +219,7 @@ variant: tiptap
 <p>P1C, P6FCL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_li_sher@moe.edu.sg</a>
+<p><a href="mailto:wong_li_sher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_li_sher@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -232,7 +232,7 @@ variant: tiptap
 <p>P3CL9, P4CL1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_hui_ching@moe.edu.sg</a>
+<p><a href="mailto:lim_hui_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -245,7 +245,7 @@ variant: tiptap
 <p>P3CL10, P4CL4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_mei_xin_josie@moe.edu.sg</a>
+<p><a href="mailto:lim_mei_xin_josie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mei_xin_josie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -258,7 +258,7 @@ variant: tiptap
 <p>P1E, P5CL4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yew_birui_stephanie_elsie@moe.edu.sg</a>
+<p><a href="mailto:yew_birui_stephanie_elsie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yew_birui_stephanie_elsie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
