@@ -112,7 +112,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chung-Wee Shi Ming</p>
+<p>Ms Rachel Zhou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Character and Citizenship Education</p>
@@ -250,7 +250,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Hwee Choo</p>
+<p>Mr Muhammad Faris</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Character and Citizenship Education</p>
