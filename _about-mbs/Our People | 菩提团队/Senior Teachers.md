@@ -93,6 +93,14 @@ variant: tiptap
 <p>abdul_khabir_abdul_razak@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Chung-Wee Shi Ming (Character and Citizenship Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wee_shi_ming@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
