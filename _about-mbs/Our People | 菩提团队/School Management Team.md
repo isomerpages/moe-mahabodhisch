@@ -282,6 +282,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ong Hao Yu Kent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Salbiah Bte Ishak</p>
 </td>
 <td rowspan="1" colspan="1">
