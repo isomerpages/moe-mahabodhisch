@@ -33,7 +33,7 @@ variant: tiptap
 <p>Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_imn_siew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_imn_siew@moe.edu.sg</a>
+<p><a href="low_imn_siew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_imn_siew@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>FAJ (School counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_puay_gek_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_puay_gek_karen@moe.edu.sg</a>
+<p><a href="lim_puay_gek_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_puay_gek_karen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -57,7 +57,7 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zulhilmi_akmal_supki@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zulhilmi_akmal_supki@moe.edu.sg</a>
+<p><a href="zulhilmi_akmal_supki@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zulhilmi_akmal_supki@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -69,7 +69,7 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loo_yuen_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yuen_hui@moe.edu.sg</a>
+<p><a href="loo_yuen_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yuen_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -81,7 +81,7 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_kia_loong_claron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kia_loong_claron@moe.edu.sg</a>
+<p><a href="tay_kia_loong_claron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kia_loong_claron@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -93,7 +93,7 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_li_lian@moe.edu.sg" rel="noopener nofollow" target="_blank">yap_li_lian@moe.edu.sg</a>
+<p><a href="yap_li_lian@moe.edu.sg" rel="noopener nofollow" target="_blank">yap_li_lian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -105,7 +105,7 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_jin_yin_jean@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_jin_yin_jean@moe.edu.sg</a>
+<p><a href="chan_jin_yin_jean@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_jin_yin_jean@moe.edu.sg</a>
 </p>
 </td>
 </tr>
