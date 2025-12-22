@@ -93,7 +93,7 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="yap_li_lian@schools.gov.sg" rel="noopener nofollow" target="_blank">yap_li_lian@moe.edu.sg</a>
+<p><a href="mailto:yap_li_lian@moe.edu.sg" rel="noopener nofollow" target="_blank">yap_li_lian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -105,7 +105,7 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chan_jin_yin_jean@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_jin_yin_jean@moe.edu.sg</a>
+<p><a href="mailto:chan_jin_yin_jean@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_jin_yin_jean@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Leng Bing Ling</p>
+<p>Ms Lim Chiu Ee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Admin)</p>
@@ -112,7 +112,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chung-Wee Shi Ming</p>
+<p>Ms Rachel Zhou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Character and Citizenship Education</p>
@@ -160,10 +160,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Low-Lee Minyu</p>
+<p>Ms Angeline Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Mathematics (Covering)</p>
+<p>HOD / Mathematics</p>
 </td>
 </tr>
 </tbody>
@@ -193,7 +193,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Teck Lan</p>
+<p>Ms Wendy Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head / Middle Primary</p>
@@ -250,7 +250,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Hwee Choo</p>
+<p>Mr Muhammad Faris</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Character and Citizenship Education</p>
@@ -286,6 +286,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Salbiah Bte Ishak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Science &amp; Environment Education</p>
 </td>
 </tr>
 <tr>

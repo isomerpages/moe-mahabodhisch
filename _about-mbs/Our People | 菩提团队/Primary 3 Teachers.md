@@ -6,7 +6,7 @@ third_nav_title: Our People | 菩提团队
 variant: tiptap
 ---
 <h1><strong>Primary 3 Teachers</strong></h1>
-<h4><strong>P3 Form Teachers (2025)</strong></h4>
+<h4><strong>P3 Form Teachers (2026)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,10 +23,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Teck Lan</p>
+<p>Ms Wendy Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_teck_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_lan@moe.edu.sg</a>
+<p><a href="mailto:lim_li_ching_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_ching_wendy@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -6,7 +6,7 @@ third_nav_title: Our People | 菩提团队
 variant: tiptap
 ---
 <h2><strong>Primary 4 Teachers</strong></h2>
-<h4><strong>P4 Form Teachers (2025)</strong></h4>
+<h4><strong>P4 Form Teachers (2026)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
