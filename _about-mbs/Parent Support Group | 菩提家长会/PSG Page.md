@@ -67,7 +67,7 @@ contributions to the school</p>
 <p>Mr Aaron Ye</p>
 </li>
 <li>
-<p>Mdm Leng Bing Ling</p>
+<p>Ms Lim Chiu Ee</p>
 </li>
 <li>
 <p>Ms Chan Mei Ling</p>
