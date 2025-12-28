@@ -17,7 +17,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Year Head Lower Primary</p>
+<p>Assistant Year Head Lower Primary</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Email&nbsp;&nbsp;</p>
@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Ang Chew Peng</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_chew_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chew_peng@moe.edu.sg</a>
