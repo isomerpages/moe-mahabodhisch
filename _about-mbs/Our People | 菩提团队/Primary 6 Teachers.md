@@ -26,7 +26,9 @@ variant: tiptap
 <p>Mrs Kathryn Pua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_hwee_keng@moe.edu.sg</p>
+<p><a href="mailto:tan_hwee_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hwee_keng@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
