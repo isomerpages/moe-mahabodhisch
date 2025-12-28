@@ -144,7 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhou Huimin, Rachel</p>
+<p>Mrs Lee-Ho Sz Wha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Student Well Being</p>
@@ -234,7 +234,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Wee Teng Alice</p>
+<p>Mrs Low-Lee Minyu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH / Mathematics</p>
@@ -250,7 +250,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Faris</p>
+<p>Ms Yeo Hwee Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Character and Citizenship Education</p>
@@ -262,22 +262,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Co-curricular Activities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhamad Faris Mohamad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / National Education &amp; Social Studies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lee-Ho Sz Wha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Student Well-Being</p>
 </td>
 </tr>
 <tr>
@@ -326,7 +310,7 @@ variant: tiptap
 <p>Mrs Katheryn Pua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH / Primary 5</p>
+<p>AYH / Primary 6</p>
 </td>
 </tr>
 <tr>
@@ -334,7 +318,7 @@ variant: tiptap
 <p>Mr Clifford Seah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (Internal) / Primary 3</p>
+<p>AYH (Internal) / Primary 4</p>
 </td>
 </tr>
 <tr>
@@ -342,7 +326,7 @@ variant: tiptap
 <p>Madam Nur Khadijah Bte Abdul Kadir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (Internal) / Primary 2</p>
+<p>AYH (Internal) / Primary 1</p>
 </td>
 </tr>
 </tbody>
