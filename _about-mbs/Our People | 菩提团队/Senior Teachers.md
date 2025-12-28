@@ -111,6 +111,16 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sim Jia Yun Sheryl (Music)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_jia_yun_sheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_jia_yun_sheryl@moe.edu.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
