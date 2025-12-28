@@ -28,7 +28,8 @@ variant: tiptap
 <p>Madam Nur Khadijah Bte Abdul Kadir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_khadijah_abd_kadir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_khadijah_abd_kadir@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
