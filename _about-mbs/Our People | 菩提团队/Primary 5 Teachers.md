@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang Hwee Pheng</p>
+<p>Mrs Yeo-Ang Hwee Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ang_hwee_pheng@moe.edu.sg</p>
