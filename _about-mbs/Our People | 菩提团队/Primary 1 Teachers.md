@@ -162,8 +162,9 @@ variant: tiptap
 <p>Mrs Liu-Ng Yueh Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_geok_lian_amelia_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_geok_lian_amelia_b@moe.edu.sg</a>
+<p><a href="mailto:ng_yueh_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yueh_yong_a@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -295,7 +296,7 @@ variant: tiptap
 <p>Ms Zuo Enqing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zoo_enqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zoo_enqing@moe.edu.sg</a>
+<p><a href="mailto:zoo_enqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zuo_enqing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
