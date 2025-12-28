@@ -101,6 +101,16 @@ variant: tiptap
 <p>wee_shi_ming@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Xu Yuan-Na (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
