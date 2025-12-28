@@ -25,11 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Madam Nur Khadijah Bte Abdul Kadir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_chew_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chew_peng@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
