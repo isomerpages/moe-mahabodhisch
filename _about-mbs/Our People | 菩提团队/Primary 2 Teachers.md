@@ -30,24 +30,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P2 Assistant Year Head</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Nur Khadijah Bte Abdul Kadir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_khadijah_abd_kadir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_khadijah_abd_kadir@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
