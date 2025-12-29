@@ -296,7 +296,7 @@ variant: tiptap
 <p>Ms Zuo Enqing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zoo_enqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zuo_enqing@moe.edu.sg</a>
+<p><a href="mailto:zuo_enqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zuo_enqing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
