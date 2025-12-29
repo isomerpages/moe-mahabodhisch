@@ -26,25 +26,7 @@ variant: tiptap
 <p>Ms Wendy Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_li_ching_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_ching_wendy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (P3)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Clifford Seah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:clifford_seah_yee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clifford_seah_yee_ping@moe.edu.sg</a>
+<p><a href="mailto:lim_li_ching_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mui_lian_wendy@moe.edu.sg</a>
 </p>
 </td>
 </tr>

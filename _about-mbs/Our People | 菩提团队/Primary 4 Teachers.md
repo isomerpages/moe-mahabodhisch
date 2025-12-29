@@ -23,10 +23,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Teck Lan (Middle Primary YH)</p>
+<p>Ms Wendy Lim</p>
+<p>(Middle Primary YH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_teck_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_lan@moe.edu.sg</a>
+<p><a href="mailto:lee_teck_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mui_lian_wendy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
