@@ -6,7 +6,7 @@ third_nav_title: Our People | 菩提团队
 variant: tiptap
 ---
 <h1><strong>Chinese Teachers</strong></h1>
-<h4><strong>Chinese Teachers (2025)</strong></h4>
+<h4><strong>Chinese Teachers (2026)</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
