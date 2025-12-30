@@ -172,10 +172,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Jing Theng</p>
+<p>Ms Lee Jing Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jing_theng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jing_theng@moe.edu.sg</a>
+<p><a href="mailto:lee_jing_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jing_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
