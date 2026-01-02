@@ -22,7 +22,7 @@ sections:
       button: PLEASE CLICK HERE TO READ MORE
       url: /celebrates-teachers-success-at-the-33rd-sea-games/
       image: /images/Arif___Xiao_Li_Sea_Games_2026.png
-      alt: Image alt text
+      alt: MBS Arif & Xiao Li @ Sea Games
   - infopic:
       title: Maha Bodhi School Graduation Day 2025
       id: infopic
