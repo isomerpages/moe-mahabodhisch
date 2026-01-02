@@ -97,7 +97,7 @@ variant: tiptap
 <p>Mrs Eunice Yip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_poh_sian_jacinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_poh_sian_jacinda@moe.edu.sg</a>
+<p><a href="yeo_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_eunice@moe.edu.sg</a>
 </p>
 </td>
 </tr>
