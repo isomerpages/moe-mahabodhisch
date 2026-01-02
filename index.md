@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Celebrates Teachers’ Success at the 33rd SEA Games
+      id: infopic
+      description: We are proud to share that two of our teachers, Mr Ahmad Arif Bin
+        Ibrahim and Ms Koh Xiao Li, represented Singapore at the 33rd SEA Games
+        in Thailand.
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /celebrates-teachers-success-at-the-33rd-sea-games/
+      image: /images/Arif___Xiao_Li_Sea_Games_2026.png
+      alt: Image alt text
+  - infopic:
       title: Maha Bodhi School Graduation Day 2025
       id: infopic
       description: P6 Students celebrated 77th Graduation Day with a memorable
