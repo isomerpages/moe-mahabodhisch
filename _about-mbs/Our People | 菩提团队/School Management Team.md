@@ -318,7 +318,7 @@ variant: tiptap
 <p>Mr Clifford Seah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (Internal) / Primary 4</p>
+<p>AYH / Primary 4</p>
 </td>
 </tr>
 <tr>
@@ -326,7 +326,7 @@ variant: tiptap
 <p>Madam Nur Khadijah Bte Abdul Kadir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (Internal) / Primary 1</p>
+<p>AYH / Primary 1</p>
 </td>
 </tr>
 </tbody>
