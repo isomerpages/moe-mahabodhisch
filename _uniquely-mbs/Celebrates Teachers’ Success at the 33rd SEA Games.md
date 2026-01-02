@@ -54,13 +54,13 @@ seek to instill in our students.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Arif SG 1" src="/images/Arif_SG_1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Arif SG 1" src="/images/Arif_SG_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Xiao Li SG 5" src="/images/SEA_5.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="Xiao Li SG 5" src="/images/SEA_5.jpg">
 </div>
 </td>
 </tr>
@@ -73,6 +73,9 @@ seek to instill in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Xiao Li SG 7" src="/images/SEA_7.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -84,6 +87,9 @@ seek to instill in our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Xiao Li SG 6" src="/images/SEA_6.jpg">
+</div>
 </td>
 </tr>
 </tbody>
