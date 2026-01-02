@@ -1,4 +1,5 @@
 collections:
   uniquely-mbs:
     output: true
-    order: []
+    order:
+      - Celebrates Teachers’ Success at the 33rd SEA Games.md
