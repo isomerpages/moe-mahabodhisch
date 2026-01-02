@@ -23,8 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Clifford Seah
-<br>(P4 AYH/Internal)</p>
+<p>Mr Clifford Seah (P4 AYH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:clifford_seah_yee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clifford_seah_yee_ping@moe.edu.sg</a>
