@@ -75,6 +75,9 @@ contributions to the school</p>
 <li>
 <p>Ms Stephanie Yew</p>
 </li>
+<li>
+<p>Ms Tan Miao Ling</p>
+</li>
 </ul>
 <p><strong>Parent Support Group Committee (家长支援小组委员会)</strong>
 </p>
