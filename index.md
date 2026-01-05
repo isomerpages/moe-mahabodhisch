@@ -14,7 +14,7 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
-      title: Celebrates Teachers’ Success at the 33rd SEA Games
+      title: Teachers’ Success at the 33rd SEA Games
       id: infopic
       description: We are proud to share that two of our teachers, Mr Ahmad Arif Bin
         Ibrahim and Ms Koh Xiao Li, represented Singapore at the 33rd SEA Games
