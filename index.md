@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Back to School Programme 2026
+      id: infopic
+      description: Our Primary 1 students began their educational journey at Maha
+        Bodhi School with our Back-to-School programme on Friday, 2 January
+        2026.
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /back-to-school-programme-2026/
+      image: /images/BTS_6.jpg
+      alt: BTS - 6
+  - infopic:
       title: Teachers’ Success at the 33rd SEA Games
       id: infopic
       description: We are proud to share that two of our teachers, Mr Ahmad Arif Bin

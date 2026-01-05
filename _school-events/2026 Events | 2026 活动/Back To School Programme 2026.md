@@ -1,8 +1,9 @@
 ---
-title: Back to School Programme 2026
+title: Back To School Programme 2026
 permalink: /back-to-school-programme-2026/
 variant: tiptap
 description: ""
+third_nav_title: 2026 Events | 2026 活动
 ---
 <h4><strong>Back-to-School Programme 2026</strong></h4>
 <p>Our Primary 1 students began their educational journey at Maha Bodhi School
@@ -33,18 +34,10 @@ Support Leaders）的悉心协助下，一年级新生很快适应校园环境�
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BTS - 8" src="/images/BTS_8.jpg">
-</div>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BTS - 9" src="/images/BTS_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="BTS - 8" src="/images/BTS_8.jpg">
 </div>
 </td>
 </tr>
@@ -52,7 +45,7 @@ Support Leaders）的悉心协助下，一年级新生很快适应校园环境�
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BTS - 6" src="/images/BTS_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="BTS - 9" src="/images/BTS_9.jpg">
 </div>
 </td>
 </tr>
@@ -68,7 +61,7 @@ Support Leaders）的悉心协助下，一年级新生很快适应校园环境�
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BTS - 4" src="/images/BTS_4__amended_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="BTS - 6" src="/images/BTS_6.jpg">
 </div>
 </td>
 </tr>
@@ -76,9 +69,17 @@ Support Leaders）的悉心协助下，一年级新生很快适应校园环境�
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BTS - 3" src="/images/BTS_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="BTS - 4" src="/images/BTS_4__amended_.jpg">
 </div>
 </td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BTS - 3" src="/images/BTS_3.jpg">
+</div>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -94,11 +95,6 @@ Support Leaders）的悉心协助下，一年级新生很快适应校园环境�
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BTS - 10" src="/images/BTS_10.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
