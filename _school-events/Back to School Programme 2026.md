@@ -27,4 +27,80 @@ in the years to come.</p>
 Support Leaders）的悉心协助下，一年级新生很快适应校园环境，感受到菩提大家庭的温暖与关怀。</p>
 <p>与此同时，家长们出席了内容充实的家长说明会，了解英语、数学及华文课程的整体安排，并与教师进行交流，进一步认识如何在家中支持孩子的学习与成长。</p>
 <p>在温馨而充满期待的氛围中，菩提学校热烈欢迎一年级新生及其家人加入菩提大家庭。展望未来，学校将持续悉心培育这些幼小的心灵，陪伴他们在未来的学习道路上茁壮成长。</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BTS - 8" src="/images/BTS_8.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BTS - 9" src="/images/BTS_9.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BTS - 6" src="/images/BTS_6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BTS - 7" src="/images/BTS_7.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BTS - 4" src="/images/BTS_4__amended_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BTS - 3" src="/images/BTS_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BTS - 2" src="/images/BTS_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BTS - 10" src="/images/BTS_10.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
