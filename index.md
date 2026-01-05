@@ -22,7 +22,7 @@ sections:
       button: PLEASE CLICK HERE TO READ MORE
       url: /back-to-school-programme-2026/
       image: /images/BTS_6.jpg
-      alt: Image alt text
+      alt: BTS - 6
   - infopic:
       title: Teachers’ Success at the 33rd SEA Games
       id: infopic
