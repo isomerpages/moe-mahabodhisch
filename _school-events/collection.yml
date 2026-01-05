@@ -2,7 +2,6 @@ collections:
   school-events:
     output: true
     order:
-      - Back to School Programme 2026.md
       - 2026 Events | 2026 活动.md
       - 2025 Events | 2025 活动/Graduation Day 2025.md
       - 2025 Events | 2025 活动/Honours Day 2025.md
