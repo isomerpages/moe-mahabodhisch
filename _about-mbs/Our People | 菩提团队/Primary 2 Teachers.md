@@ -82,7 +82,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Chung Wei Ying</p>
+<p>Ms Michelle Chung Wei Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:michelle_chung_wei_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_chung_wei_ying@moe.edu.sg</a>
