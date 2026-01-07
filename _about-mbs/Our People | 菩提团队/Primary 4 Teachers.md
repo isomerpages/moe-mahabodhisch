@@ -131,7 +131,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Xiao Li</p>
+<p>Ms Koh Xiao Li</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_xiao_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_xiao_li@moe.edu.sg</a>
