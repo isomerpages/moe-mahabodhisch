@@ -144,11 +144,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Miao Ling</p>
+<p>Mdm Chen Miao Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_miao_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_miao_ling@moe.edu.sg</a>
-</p>
+<p>chen_miaoxin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
