@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People | 菩提团队
 variant: tiptap
 ---
-<h2>School Management Team</h2>
+<h2><strong>School Management Team</strong></h2>
 <h4>School Leaders</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -286,6 +286,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Internal) / Information and Communications Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Faris Mohamad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/CCE</p>
 </td>
 </tr>
 </tbody>
