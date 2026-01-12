@@ -288,6 +288,14 @@ variant: tiptap
 <p>SH (Internal) / Information and Communications Technology</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Faris Mohamad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/CCE</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Assistant Year Heads</h4>
