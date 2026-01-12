@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People | 菩提团队
 variant: tiptap
 ---
-<h2>School Management Team</h2>
+<h2><strong>School Management Team</strong></h2>
 <h4>School Leaders</h4>
 <table style="minWidth: 50px">
 <colgroup>
