@@ -258,6 +258,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Muhammad Faris Mohamad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Character and Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Muhamad Zulfadly Zaiman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -286,14 +294,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Internal) / Information and Communications Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Faris Mohamad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/CCE</p>
 </td>
 </tr>
 </tbody>
