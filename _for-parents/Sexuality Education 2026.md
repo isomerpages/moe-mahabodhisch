@@ -16,11 +16,10 @@ decisions on sexuality matters. SEd is premised on the importance of the
 family as the basic unit of society. This means encouraging healthy, heterosexual
 marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
-beliefs of the different ethnic and religious communities in Singapore
-on sexuality issues.</p>
+beliefs of the different ethnic and religious</p>
+<p>communities in Singapore on sexuality issues.</p>
 </li>
 </ol>
-<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>The <strong>Goals</strong> of Sexuality Education are:</p>
