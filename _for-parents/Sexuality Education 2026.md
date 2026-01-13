@@ -223,7 +223,7 @@ and how to seek help for themselves and their friends.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h5><strong>2025 Sexuality Education Lessons in CCE</strong></h5>
+<h5><strong>2026 Sexuality Education Lessons in CCE</strong></h5>
 </th>
 </tr>
 <tr>
@@ -311,8 +311,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 </li>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form is also downloadable <strong><a href="https://form.gov.sg/6796225d295695255de26ef4" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-The completed opt-out form is to be submitted <u>by 14 Feb 2025</u>.</p>
+lessons need to complete an opt-out form. This form is also downloadable <strong><a href="https://form.gov.sg/admin/form/695df84c7b3fba2795b5e745" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+The completed opt-out form is to be submitted <strong><u>by 23 Jan 2026</u></strong>.</p>
 </li>
 <li>
 <p>Parents can contact the school at 67442115 or email us at <a href="MBS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mbs@moe.edu.sg</a> for
