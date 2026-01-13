@@ -1,5 +1,5 @@
 ---
-title: Sexuality Education 2025
+title: Sexuality Education 2026
 permalink: /important-information/for-our-pupils/sexuality-education-2022/
 description: ""
 variant: tiptap
@@ -16,11 +16,10 @@ decisions on sexuality matters. SEd is premised on the importance of the
 family as the basic unit of society. This means encouraging healthy, heterosexual
 marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
-beliefs of the different ethnic and religious communities in Singapore
-on sexuality issues.</p>
+beliefs of the different ethnic and religious</p>
+<p>communities in Singapore on sexuality issues.</p>
 </li>
 </ol>
-<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>The <strong>Goals</strong> of Sexuality Education are:</p>
@@ -46,19 +45,19 @@ and</p>
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p></p>
-<p>You may access <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education </a>for
+<p>You may access <strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here </a></strong>for
 more information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>Overview of MAHA BODHI SCHOOL’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of MAHA BODHI SCHOOL’s Sexuality Education Programme for 2026</strong>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may access <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may access <strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a></strong> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
 </li>
@@ -67,7 +66,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>(a) Science</p>
 <p>(b) Character and Citizenship Education (CCE)</p>
 <p></p>
-<p><strong><u>Sexuality Education Lesson</u></strong>
+<p><strong><u>Sexuality Education Lessons</u></strong>
 </p>
 <p></p>
 </li>
@@ -110,7 +109,7 @@ from sexuality-related risks.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h5><strong>2025 Sexuality Education Lessons in CCE</strong></h5>
+<h5><strong>2026 Sexuality Education Lessons in CCE</strong></h5>
 </th>
 </tr>
 <tr>
@@ -166,7 +165,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +185,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -204,7 +203,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -224,7 +223,7 @@ and how to seek help for themselves and their friends.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h5><strong>2025 Sexuality Education Lessons in CCE</strong></h5>
+<h5><strong>2026 Sexuality Education Lessons in CCE</strong></h5>
 </th>
 </tr>
 <tr>
@@ -312,8 +311,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 </li>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form is also downloadable <strong><a href="https://form.gov.sg/6796225d295695255de26ef4" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-The completed opt-out form is to be submitted <u>by 14 Feb 2025</u>.</p>
+lessons need to complete an opt-out form. This form is also downloadable <strong><a href="https://form.gov.sg/admin/form/695df84c7b3fba2795b5e745" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+The completed opt-out form is to be submitted <strong><u>by 23 Jan 2026</u></strong>.</p>
 </li>
 <li>
 <p>Parents can contact the school at 67442115 or email us at <a href="MBS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mbs@moe.edu.sg</a> for
