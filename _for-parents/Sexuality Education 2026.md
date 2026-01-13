@@ -45,8 +45,8 @@ and</p>
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p></p>
-<p>You may access <strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a></strong>
-<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank"></a>for more information on MOE Sexuality Education.</p>
+<p>You may access <strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a></strong>for
+more information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <p></p>
@@ -66,7 +66,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>(a) Science</p>
 <p>(b) Character and Citizenship Education (CCE)</p>
 <p></p>
-<p><strong><u>Sexuality Education Lesson</u></strong>
+<p><strong><u>Sexuality Education Lessons</u></strong>
 </p>
 <p></p>
 </li>
@@ -109,7 +109,7 @@ from sexuality-related risks.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h5><strong>2025 Sexuality Education Lessons in CCE</strong></h5>
+<h5><strong>2026 Sexuality Education Lessons in CCE</strong></h5>
 </th>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ affected, even when oneâ€™s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
