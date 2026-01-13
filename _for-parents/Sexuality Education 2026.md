@@ -45,7 +45,7 @@ and</p>
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p></p>
-<p>You may access <strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a></strong>for
+<p>You may access <strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here </a></strong>for
 more information on MOE Sexuality Education.</p>
 </li>
 </ol>
