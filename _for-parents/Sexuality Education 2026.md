@@ -311,7 +311,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 </li>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form can be accessed <strong><a href="https://form.gov.sg/admin/form/695df84c7b3fba2795b5e745" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+lessons need to complete an opt-out form. This form can be accessed <strong><a href="https://form.gov.sg/6966e756536f53f0e5c9d2c0" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
 The completed opt-out form is to be submitted <strong><u>by 30 Jan 2026</u></strong>.</p>
 </li>
 <li>
