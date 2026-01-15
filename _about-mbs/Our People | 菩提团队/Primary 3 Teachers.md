@@ -243,10 +243,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim- Ho Lian Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim-ho_lian_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim-ho_lian_poh@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
