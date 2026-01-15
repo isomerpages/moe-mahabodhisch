@@ -8,7 +8,7 @@ variant: tiptap
 <h2><strong>Principal’s Message</strong></h2>
 <p></p>
 <p>As we welcome the new year, I am delighted to extend my warmest greetings
-to all members of our Maha Bodhi School community. The year 2025 has been
+to all members of our Maha Bodhi School community. The year 2025 had been
 one of growth and achievement, building upon the foundation laid by our
 pioneering school leaders, staff, students and partners.</p>
 <p>Our school vision of nurturing Inspired Learners of Exemplary Character
