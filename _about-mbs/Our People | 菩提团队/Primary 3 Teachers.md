@@ -147,7 +147,8 @@ variant: tiptap
 <p>Mdm Chen Miao Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_miaoxin@moe.edu.sg</p>
+<p><a href="mailto:chen_miaoxin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_miaoxin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
