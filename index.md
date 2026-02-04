@@ -13,6 +13,13 @@ sections:
         - title: Links for Parents and Students | 家长与学生相关链接
           description: ""
           url: /important-information/links/links/
+  - infobar:
+      title: 2026 Chinese New Year Celebration
+      id: infobar
+      description: Maha Bodhi School will be celebrating Lunar New Year on Monday, 16
+        February 2026, as one big school family, from 7:30 am to 10:30 am.
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /2026-chinese-new-year-celebration/
   - infopic:
       title: Back to School Programme 2026
       id: infopic
