@@ -13,6 +13,16 @@ sections:
         - title: Links for Parents and Students | 家长与学生相关链接
           description: ""
           url: /important-information/links/links/
+  - infopic:
+      title: A Welcoming Space that Brings Culture and Community Together
+      id: infopic
+      description: Newly constructed elegant pavilions enhancing the Chinese cultural
+        environment that add a distinctive and tranquil touch to our school’s
+        landscape.
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /a-welcoming-space-that-brings-culture-and-community-together/
+      image: /images/New_Pavillion___Picture10.jpg
+      alt: New elegant pavilions
   - infobar:
       title: 2026 Chinese New Year Celebration
       id: infobar
