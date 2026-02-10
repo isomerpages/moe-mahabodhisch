@@ -16,8 +16,8 @@ sections:
   - infopic:
       title: A Welcoming Space that Brings Culture and Community Together
       id: infopic
-      description: Newly constructed elegant pavilions enhancing the Chinese cultural
-        environment that add a distinctive and tranquil touch to our school’s
+      description: Newly constructed pavilions enhance the Chinese cultural
+        environment, adding a distinctive and elegant touch to our school’s
         landscape.
       button: PLEASE CLICK HERE TO READ MORE
       url: /a-welcoming-space-that-brings-culture-and-community-together/
