@@ -16,7 +16,7 @@ sections:
   - infopic:
       title: "Chinese New Year 2026: Welcomes the Year of the Horse"
       id: infopic
-      description: Maha Bodhi School welcoming Chinese New Year 2026, the Year of the
+      description: Maha Bodhi School welcomes Chinese New Year 2026, the Year of the
         Horse, with a vibrant celebration that fosters tradition, creativity,
         and togetherness.
       button: PLEASE CLICK HERE TO READ MORE
