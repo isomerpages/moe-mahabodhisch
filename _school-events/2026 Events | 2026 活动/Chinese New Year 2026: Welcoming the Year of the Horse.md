@@ -6,9 +6,8 @@ description: ""
 third_nav_title: 2026 Events | 2026 活动
 ---
 <h4><strong>Chinese New Year 2026: Welcoming the Year of the Horse</strong> 🐎</h4>
-<p>Maha Bodhi School will be welcoming Chinese New Year 2026, the Year of
-the Horse, with a vibrant celebration that fosters tradition, creativity,
-and togetherness.</p>
+<p>Maha Bodhi School welcomes Chinese New Year 2026, the Year of the Horse,
+with a vibrant celebration that fosters tradition, creativity, and togetherness.</p>
 <p>In the lead-up to the festivities, students worked collaboratively to
 transform their classrooms with festive decorations, expressing creativity
 while deepening their understanding of Chinese New Year traditions. The
@@ -18,15 +17,14 @@ flowers to Lord Buddha. The programme was enlivened by a series of dynamic
 cultural performances, creating a joyous and festive atmosphere. Students
 also participated in classroom CNY buddy craft activities that encouraged
 collaboration and shared learning.</p>
-<p>Beyond the concert, CNY celebrations will continue at the school courtyard,
-which will be transformed into a mini Chinese New Year carnival. Through
-traditional games and creative cultural activities, students will have
-opportunities to experience Chinese New Year customs in an interactive
-and enjoyable way.</p>
-<p>Through these planned CNY experiences, students will strengthen friendships
-and develop cultural appreciation. As we gallop into the Year of the Horse,
-Maha Bodhi School wishes all a year filled with vitality, resilience, and
-joyful learning. 🐎</p>
+<p>Beyond the concert, CNY celebrations continued at the school courtyard,
+which was transformed into a mini Chinese New Year carnival. Through traditional
+games and creative cultural activities, students had opportunities to experience
+Chinese New Year customs in an interactive and enjoyable way.</p>
+<p>Through these planned CNY experiences, students strengthened friendships
+and developed cultural appreciation. As we gallop into the Year of the
+Horse, Maha Bodhi School wishes all a year filled with vitality, resilience,
+and joyful learning. 🐎</p>
 <h4><strong>2026年农历新年：喜迎马年</strong> 🐎</h4>
 <p>今年，菩提学校通过一连串热闹欢腾、充满活力的庆祝活动，喜迎2026年农历新年——马年，充分展现了传统文化的魅力、学生的创意巧思，以及校园浓厚的凝聚力。</p>
 <p>首先，为了迎接新年的到来，学生们通力合作，精心装饰教室，在发挥创意的同时，也加深了对农历新年传统文化的理解。庆祝活动于农历新年前夕举行的新春联欢会中达到高潮。联欢会在温馨的新年祝福与向佛陀献花的庄严仪式中拉开序幕，随后一系列充满活力的文化表演轮番登场，为现场营造了喜庆热闹的节日氛围。此外，学生们还与不同年级的伙伴一同参与新年手工制作活动，在合作与分享中收获学习的乐趣。</p>
