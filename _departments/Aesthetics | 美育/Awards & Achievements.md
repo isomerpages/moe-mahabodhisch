@@ -5,5 +5,5 @@ description: ""
 third_nav_title: Aesthetics | 美育
 variant: tiptap
 ---
-<h2>Awards &amp; Achievements</h2>
+<h2></h2>
 <p></p>
