@@ -190,8 +190,7 @@ variant: tiptap
 <p>P1G, P6CL3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:huang_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_jie@moe.edu.sg</a>
-</p>
+<p>huang_jie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
