@@ -255,8 +255,7 @@ variant: tiptap
 <p>P1E, P5CL5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jing_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jing_ting@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
