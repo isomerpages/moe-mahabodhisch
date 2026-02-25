@@ -64,13 +64,13 @@ variant: tiptap
 <p>Chang Ting Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>张婷俐老师</p>
+<p>曾廷丽老师</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P2H, P6CL1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_ting_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_ting_lee@moe.edu.sg</a>
+<p><a href="mailto:zhang_ting_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ting_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
