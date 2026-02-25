@@ -510,8 +510,7 @@ variant: tiptap
 <p>P2I, P6CL2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
-</p>
+<p>xu_yuanna@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
