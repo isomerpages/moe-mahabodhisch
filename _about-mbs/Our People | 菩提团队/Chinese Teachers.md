@@ -561,8 +561,7 @@ variant: tiptap
 <p>P1J, P5CL6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zuo_enqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zuo_enqing@moe.edu.sg</a>
-</p>
+<p>zoo_enqing@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
