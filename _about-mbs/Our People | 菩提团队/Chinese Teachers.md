@@ -51,9 +51,7 @@ variant: tiptap
 <p>P4CL9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_mei_ling@moe.edu.sg</a>
-</p>
-<p></p>
+<p>chan_mei_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
