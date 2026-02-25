@@ -51,9 +51,7 @@ variant: tiptap
 <p>P4CL9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_mei_ling@moe.edu.sg</a>
-</p>
-<p></p>
+<p>chan_mei_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -64,14 +62,13 @@ variant: tiptap
 <p>Chang Ting Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>张婷俐老师</p>
+<p>曾廷丽老师</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P2H, P6CL1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_ting_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_ting_lee@moe.edu.sg</a>
-</p>
+<p>chang_ting_lee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -190,8 +187,7 @@ variant: tiptap
 <p>P1G, P6CL3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:huang_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_jie@moe.edu.sg</a>
-</p>
+<p>huang_jie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -259,8 +255,7 @@ variant: tiptap
 <p>P1E, P5CL5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jing_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jing_ting@moe.edu.sg</a>
-</p>
+<p>lee_jing_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -515,8 +510,7 @@ variant: tiptap
 <p>P2I, P6CL2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
-</p>
+<p>xu_yuanna@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -555,7 +549,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zuo Enqing</p>
@@ -567,8 +561,7 @@ variant: tiptap
 <p>P1J, P5CL6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zuo_enqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zuo_enqing@moe.edu.sg</a>
-</p>
+<p>zuo_enqing@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
