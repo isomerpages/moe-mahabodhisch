@@ -255,7 +255,7 @@ variant: tiptap
 <p>P1E, P5CL5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_jing_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
