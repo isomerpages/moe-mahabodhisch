@@ -70,8 +70,7 @@ variant: tiptap
 <p>P2H, P6CL1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_ting_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ting_lee@moe.edu.sg</a>
-</p>
+<p>chang_ting_lee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
