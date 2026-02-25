@@ -561,7 +561,7 @@ variant: tiptap
 <p>P1J, P5CL6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zoo_enqing@moe.edu.sg</p>
+<p>zuo_enqing@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
