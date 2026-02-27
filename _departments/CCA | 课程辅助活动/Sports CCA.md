@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: CCA | 课程辅助活动
 ---
-<h4></h4>
-<h3>Let's learn more about the respective Sports CCAs that are available in MBS.</h3>
+<p></p>
+<h3><strong>Let's learn more about the respective Sports CCAs that are available in MBS.</strong></h3>
 <p></p>
 <p>Please note that Sport CCAs may require additional an additional practice
 day on weeks leading to a competition.</p>
