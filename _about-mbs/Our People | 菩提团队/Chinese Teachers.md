@@ -280,7 +280,7 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim- Ho Lian Poh</p>
+<p>Lim-Ho Lian Poh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>何连保老师</p>
