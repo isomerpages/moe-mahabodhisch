@@ -106,9 +106,7 @@ variant: tiptap
 <p>Mdm Xu Yuan-Na (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xu_yuanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_yuanna@moe.edu.sg</a>
-</p>
-<p></p>
+<p>xu_yuanna@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -116,9 +114,7 @@ variant: tiptap
 <p>Mdm Sim Jia Yun Sheryl (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_jia_yun_sheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_jia_yun_sheryl@moe.edu.sg</a>
-</p>
-<p></p>
+<p>sim_jia_yun_sheryl@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
