@@ -31,7 +31,7 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 </p>
 <p><strong>For the latest information with regards to our CCA for 2025, please click on the respective tabs under Co-Curricular Activities (CCA) to explore our 4 different types of CCA.</strong>
 </p>
-<h3>2025 CCAs</h3>
+<h3>2026 CCAs</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -55,7 +55,7 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gandhi</p>
+<p>Mrs Uma Ketur Gandhi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:uma_haridas_shah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">uma_haridas_shah@moe.edu.sg</a>
@@ -67,7 +67,7 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Arif</p>
+<p>Mr Ahmad Arif Bin Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ahmad_arif_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_arif_ibrahim@moe.edu.sg</a>
@@ -88,7 +88,7 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Calligraphy Club</p>
+<p>Chinese Calligraphy &amp; Chinese Painting Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hu Shan Shan</p>
@@ -103,10 +103,10 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 <p>Chinese Chess Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eunice See</p>
+<p>Mdm Chang Ting Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="see_yi_jin_eunice@moe.edu.sg" rel="noopener nofollow" target="_blank">see_yi_jin_eunice@moe.edu.sg</a>
+<p><a href="mailto:chang_ting_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ting_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -151,10 +151,22 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joanne Ng-Heng Wee</p>
+<p>Mrs Joanne Ng-Heng Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_mui_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mui_ling@moe.edu.sg</a>
+<p><a href="mailto:heng_jee_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_jee_wee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Debate Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Cheong Leong Sian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_leong_sian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_leong_sian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -163,7 +175,7 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 <p>Drama Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fauziah</p>
+<p>Mdm Fauziah Bte Mohamood</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fauziah_mohamood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamood@moe.edu.sg</a>
@@ -175,7 +187,7 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 <p>Environmental &amp; Science Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ian Ang</p>
+<p>Mr Ian Ang Chye Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ian_ang_chye_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ian_ang_chye_seng@moe.edu.sg</a>
@@ -187,7 +199,7 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 <p>Guzheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr David Chan</p>
+<p>Mr David Chan Yew Meng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="chan_yew_meng_david@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_yew_meng_david@moe.edu.sg</a>
@@ -196,13 +208,13 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOMEC</p>
+<p>HOMEC Club/ Service Learning Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Khariaty</p>
+<p>Mdm Amidah Bte Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="khariaty_jaafar@moe.edu.sg" rel="noopener nofollow" target="_blank">khariaty_jaafar@moe.edu.sg</a>
+<p><a href="mailto:amidah_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amidah_aziz@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -235,7 +247,7 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 <p>Library Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Grace Tan</p>
+<p>Mrs Grace Chew Wan Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew_wan_yee_grace@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_wan_yee_grace@moe.edu.sg</a>
@@ -259,7 +271,7 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rahayu</p>
+<p>Mdm Rahayu Binte Haris</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rahayu_haris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahayu_haris@moe.edu.sg</a>
@@ -283,7 +295,7 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 <p>Tchoukball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Isadora Lee</p>
+<p>Mdm Isadora Lee Wei Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_wei_wei_isadora@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wei_wei_isadora@moe.edu.sg</a>
@@ -292,13 +304,13 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Videography</p>
+<p>Videography &amp; Journalism Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Mei Xin Josie</p>
+<p>Ms Louise Peh Xue Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_mei_xin_josie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mei_xin_josie@moe.edu.sg</a>
+<p><a href="mailto:louise_peh_xue_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">louise_peh_xue_min@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -307,10 +319,10 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 <p>Wushu &amp; Lion Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Li Sher</p>
+<p>Mrs Wong-Tan Miao Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_li_sher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_li_sher@moe.edu.sg</a>
+<p><a href="mailto:tan_miao_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_miao_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
