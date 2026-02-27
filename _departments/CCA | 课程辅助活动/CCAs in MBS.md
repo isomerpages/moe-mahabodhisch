@@ -31,7 +31,7 @@ Head for CCA, Mr Zulfadly Zaiman at <a href="mailto:muhammad_zulfadly_zaiman@moe
 </p>
 <p><strong>For the latest information with regards to our CCA for 2025, please click on the respective tabs under Co-Curricular Activities (CCA) to explore our 4 different types of CCA.</strong>
 </p>
-<h3>2026 CCAs</h3>
+<h3><strong>2026 CCAs</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
