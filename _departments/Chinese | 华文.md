@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Chinese Department</strong></h1>
-<h4><strong>Vision/Mission </strong></h4>
+<h4><strong>Vision/Mission</strong></h4>
 <h4><strong>愿景：</strong>创造优良的学习环境，让学生乐学善用华文华语。</h4>
 <h4><strong>目标：</strong>学生积极地使用华文，与他人进行有效的沟通。</h4>
 <h4><strong>Vision: </strong>Create a positive learning environment that encourages students to enjoy learning and become proficient in using the Chinese language.</h4>
@@ -44,8 +44,7 @@ variant: tiptap
 <p>五年级华文营</p>
 </li>
 </ul>
-<p><strong>Useful Links</strong>
-</p>
+<h4><strong>Useful Links</strong></h4>
 <p><strong>有关华文学习资源的信息：</strong>
 </p>
 <p>知识网 <a href="https://www.ezhishi.com/" rel="noopener noreferrer nofollow" target="_blank">Supplementary Magazine</a>
@@ -56,4 +55,5 @@ variant: tiptap
 </p>
 <p><strong>华文部 </strong><a href="https://www.mbschinese.net/" rel="noopener noreferrer nofollow" target="_blank">Chinese Department</a>
 </p>
+<h4></h4>
 <p></p>
