@@ -4,14 +4,17 @@ permalink: /departments/chinese/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Chinese Department</strong></h1>
+<h4><strong>Chinese Department</strong></h4>
 <h4><strong>Vision/Mission</strong></h4>
-<h4><strong>愿景：</strong>创造优良的学习环境，让学生乐学善用华文华语。</h4>
-<h4><strong>目标：</strong>学生积极地使用华文，与他人进行有效的沟通。</h4>
-<h4><strong>Vision: </strong>Create a positive learning environment that encourages students to enjoy learning and become proficient in using the Chinese language.</h4>
-<h4><strong>Mission: </strong>Students actively use Chinese to engage in effective communication with others.</h4>
-<h3><strong>Key Programmes/Activities</strong></h3>
-<h4><strong>全年活动：</strong></h4>
+<p><strong>愿景：</strong>创造优良的学习环境，让学生乐学善用华文华语。</p>
+<p><strong>目标：</strong>学生积极地使用华文，与他人进行有效的沟通。</p>
+<p><strong>Vision: </strong>Create a positive learning environment that encourages
+students to enjoy learning and become proficient in using the Chinese language.</p>
+<p><strong>Mission: </strong>Students actively use Chinese to engage in effective
+communication with others.</p>
+<h4><strong>Key Programmes/Activities</strong></h4>
+<p><strong>全年活动：</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>阅读·悦读计划</p>
@@ -53,7 +56,7 @@ variant: tiptap
 </p>
 <p>受新加坡考评局批准使用的词典列表 <a href="https://file.go.gov.sg/seab-approveddictionaries.pdf" rel="noopener noreferrer nofollow" target="_blank">Approved Dictionaries</a>
 </p>
-<p><strong>华文部 </strong><a href="https://www.mbschinese.net/" rel="noopener noreferrer nofollow" target="_blank">Chinese Department</a>
+<p>华文部 <a href="https://www.mbschinese.net/" rel="noopener noreferrer nofollow" target="_blank">Chinese Department</a>
 </p>
 <h4></h4>
 <p></p>
