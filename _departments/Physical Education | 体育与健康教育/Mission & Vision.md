@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Physical Education | 体育与健康教育
 variant: tiptap
 ---
-<h2>Mission &amp; Vision</h2>
+<h2><strong>Mission &amp; Vision</strong></h2>
 <h3>Our Mission</h3>
 <p>To engage and equip every student with the necessary skills so that he/
 he develops a positive association and an intrinsic motivation to engage
