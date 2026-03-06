@@ -10,6 +10,10 @@ variant: tiptap
 <p><strong>To inspire, grow and nurture today’s generation through the Art and in the Art</strong>
 </p>
 <h3>Our Vision</h3>
-<p><strong>Creative Leaders</strong>
+<p><strong>Passionate Learners &amp; Advocates </strong>
+</p>
+<p><strong>Confident Leaders</strong>
+</p>
+<p><strong>Empathetic Citizens</strong>
 </p>
 <p></p>
