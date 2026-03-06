@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mathematics | 数学
 variant: markdown
 ---
-## **English Department Goals**
+## **Mathematics Department Goals**
 
 **<u>Confident and Effective Speaker:</u>**
 
