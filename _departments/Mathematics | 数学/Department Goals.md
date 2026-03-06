@@ -3,13 +3,20 @@ title: Department Goals
 permalink: /departments/Mathematics/Department-Goals/
 description: ""
 third_nav_title: Mathematics | 数学
+variant: tiptap
 ---
-## Department Goals
-
-**Department Goals**
-
-To enable pupils to:
-
-*   acquire mathematical concepts and skills
-*   develop into confident problem solvers and effective communicators
-*   cultivate an interest in mathematics
+<h2><strong>Department Goals</strong></h2>
+<p></p>
+<p>To enable pupils to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>acquire mathematical concepts and skills</p>
+</li>
+<li>
+<p>develop into confident problem solvers and effective communicators</p>
+</li>
+<li>
+<p>cultivate an interest in mathematics</p>
+</li>
+</ul>
+<p></p>
