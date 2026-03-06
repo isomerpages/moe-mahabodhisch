@@ -3,13 +3,13 @@ title: Mission & Vision
 permalink: /departments/Aesthetics/permalink/
 description: ""
 third_nav_title: Aesthetics | 美育
+variant: tiptap
 ---
-## Mission & Vision
-
-### Our Mission
-
-**To inspire, grow and nurture today’s generation through the Art and in the Art**
-
-### Our Vision
-
-**Creative Leaders**
+<h2>Mission &amp; Vision</h2>
+<h3>Our Mission</h3>
+<p><strong>To inspire, grow and nurture today’s generation through the Art and in the Art</strong>
+</p>
+<h3>Our Vision</h3>
+<p><strong>Creative Leaders</strong>
+</p>
+<p></p>
