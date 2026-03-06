@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Mathematics | 数学
 variant: tiptap
 ---
-<h2>Department Goals</h2>
-<p><strong>Department Goals</strong>
-</p>
+<h2><strong>Department Goals</strong></h2>
+<p></p>
 <p>To enable pupils to:</p>
 <ul data-tight="true" class="tight">
 <li>
