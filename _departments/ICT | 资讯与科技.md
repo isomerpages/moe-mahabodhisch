@@ -4,8 +4,7 @@ permalink: /ict/
 variant: tiptap
 description: ""
 ---
-<p><strong>Maha Bodhi School ICT Department</strong>
-</p>
+<h4><strong>Maha Bodhi School ICT Department</strong></h4>
 <p><strong>Our Vision</strong>
 <br>To nurture future-ready learners who are <strong>Competent, Responsible, and Discerning users of ICT</strong>,
 equipped with the skills to thrive in an increasingly digital world.</p>
