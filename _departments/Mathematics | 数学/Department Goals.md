@@ -3,23 +3,21 @@ title: Department Goals
 permalink: /departments/Mathematics/Department-Goals/
 description: ""
 third_nav_title: Mathematics | 数学
-variant: markdown
+variant: tiptap
 ---
-## **Mathematics Department Goals**
-
-**<u>Confident and Effective Speaker:</u>**
-
-1.  Develop confident speakers who show awareness of spoken language features, speak with accurate pronunciation and appropriate intonation, use appropriate skills, strategies and language to convey meaning, speak graciously and think on their feet
-**2020 EL Syllabus: Empathetic Communicators**
-
-**<u>Skilful and Avid Reader:</u>**
-
-2.  Build a reading culture – Develop a love for reading
-3.  Develop reading comprehension and viewing skills and learner strategies
-
-**<u>2020 EL Syllabus: Discerning Readers</u>**
-
-Skilful and Fluent Writer:
-
-4.  Instil a joy in writing
-5.  Develop skilful writers with writing techniques and a good mastery of grammar and vocabulary
+<h2>Department Goals</h2>
+<p><strong>Department Goals</strong>
+</p>
+<p>To enable pupils to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>acquire mathematical concepts and skills</p>
+</li>
+<li>
+<p>develop into confident problem solvers and effective communicators</p>
+</li>
+<li>
+<p>cultivate an interest in mathematics</p>
+</li>
+</ul>
+<p></p>
