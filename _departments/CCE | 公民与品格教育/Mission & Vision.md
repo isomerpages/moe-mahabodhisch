@@ -110,9 +110,6 @@ while strengthening understanding of Singapore’s multicultural identity.</p>
 where every student can flourish as a confident and compassionate learner.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mural HEARTS" src="/images/Mural_HEARTS_H.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MBS Wall Murals" src="/images/MBS___Wall_Murals_for_HEARTS_2025_Final_Copy_04.jpg">
 </div>
 <p><strong>2. <u>Education and Career Guidance (ECG) @ Maha Bodhi School</u></strong>
