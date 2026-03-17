@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - 2026 Events | 2026 活动/Serve to Lead Programme 2026.md
       - "2026 Events | 2026 活动/Chinese New Year 2026: Welcoming the Year of the
         Horse.md"
       - 2026 Events | 2026 活动/A Welcoming Space that Brings Culture and
