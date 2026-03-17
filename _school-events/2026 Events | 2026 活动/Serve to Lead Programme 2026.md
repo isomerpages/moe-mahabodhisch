@@ -42,3 +42,48 @@ C.A.R.E. 价值观 与长者沟通——即体贴（Considerate）、专注（At
 “ActiveX 与长者同乐日” 做好准备。</p>
 <p>“以服务促领导”计划的启动，标志着学生领袖们踏上一段充满意义的旅程。在这段旅程中，他们不仅学习如何成为优秀的领导者，更学习以同理心、谦逊与使命感服务社会，在服务中成长,
 在行动中学习。</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student Leader 5" src="/images/Student_Leader_5.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student Leader 3" src="/images/Student_Leader_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student Leader 2" src="/images/Student_Leader_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student Leader 1" src="/images/Student_Leader_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
