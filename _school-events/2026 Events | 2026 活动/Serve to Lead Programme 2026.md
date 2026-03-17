@@ -52,7 +52,7 @@ C.A.R.E. 价值观 与长者沟通——即体贴（Considerate）、专注（At
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Leader 5" src="/images/Student_Leader_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Student Leader 4" src="/images/Student_Leader_4.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
