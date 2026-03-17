@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Serve To Lead 2026
+      id: infopic
+      description: MBS hosted the Serve to Lead VIA programme that empowers student
+        leaders growing through meaningful service-learning experiences
+        impacting community.
+      button: PEASE CLICK HERE TO READ MORE
+      url: /serve-to-lead-programme-2026/
+      image: /images/Student_Leader_4.jpg
+      alt: "Student Leader: Serve to Lead"
+  - infopic:
       title: "Chinese New Year 2026: Welcoming the Year of the Horse"
       id: infopic
       description: Maha Bodhi School welcomes Chinese New Year 2026, the Year of the
