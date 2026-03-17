@@ -21,7 +21,7 @@ sections:
         impacting community.
       button: PEASE CLICK HERE TO READ MORE
       url: /serve-to-lead-programme-2026/
-      image: /images/Student_Leader_4.jpg
+      image: /images/Student_Leader_5.jpg
       alt: "Student Leader: Serve to Lead"
   - infopic:
       title: "Chinese New Year 2026: Welcoming the Year of the Horse"
