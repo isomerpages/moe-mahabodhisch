@@ -80,7 +80,6 @@ contributions to the school</p>
 <p>Vice-Chairperson (副主席): Mr Delvin Ng Wei Han</p>
 <p>PSG EXCO Members: Lim Siew Lay, Sean Kwek Sau Fong, Fann Woon Fong</p>
 <h4><strong>Members:</strong></h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
