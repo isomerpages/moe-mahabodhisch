@@ -80,35 +80,161 @@ contributions to the school</p>
 <p>Vice-Chairperson (副主席): Mr Delvin Ng Wei Han</p>
 <p>PSG EXCO Members: Lim Siew Lay, Sean Kwek Sau Fong, Fann Woon Fong</p>
 <h4><strong>Members:</strong></h4>
-<p>• Aaron Tan</p>
-<p>• Ang Chew Mi</p>
-<p>• Clariece Tan Sok Siang</p>
-<p>• Chia Wan Ting</p>
-<p>• Eddie Tan Khay Ming</p>
-<p>• Gerval Low</p>
-<p>• Goh Aik Song</p>
-<p>• Grace Liu</p>
-<p>• Huang Xinyi, Jacqueline</p>
-<p>• Jennifer Koh</p>
-<p>• Ivory Eng</p>
-<p>• Christopher Lee</p>
-<p>• Patricia Chan</p>
-<p>• Thea Tan</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Aaron Tan</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Jasmine Zhu</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Ang Chew Mi</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Jennifer Koh</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Clariece Tan Sok Siang</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Jolene Tan</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chia Wan Ting</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Patricia Chan</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Eddie Tan Khay Ming</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Renee Lee</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Gerval Low</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Ricky Lai</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Goh Aik Song</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Thea Tan</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Huang Xinyi, Jacqueline</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Tiffany Tan</p>
-<p></p>
 </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Ivory Eng</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p>Tracie Lim</p>
-<p></p>
 </li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
 <li>
-<p>Jolene Tan</p>
-<p></p>
-</li>
-<li>
-<p>Jasmine Zhu</p>
 <p></p>
 <h4><strong>Code of Ethics</strong></h4>
 </li>
