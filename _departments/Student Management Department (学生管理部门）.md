@@ -67,7 +67,7 @@ student leader in his or her role, the respective departments will conduct
 induction sessions. Through these sessions, student leaders will gain a
 clear understanding of leadership expectations, their duties and responsibilities,
 and the essential skills needed to carry out their roles effectively.</p>
-<p>There are 4 tiers in the our students’ leadership journey.</p>
+<p>There are 4 tiers in our students’ leadership journey.</p>
 <p>Tier 1: Self-Leadership</p>
 <p>All P1 to P6 students focus on developing strong character and personal
 responsibility. We build competencies such as self-awareness, social awareness,
