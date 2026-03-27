@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Student Management Department (学生管理部门）.md
       - English | 英文/.keep
       - English | 英文/Department Goals.md
       - English | 英文/Programmes.md
