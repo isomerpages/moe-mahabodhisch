@@ -60,7 +60,7 @@ community.</p>
 <h4><strong>Our Student Leadership Framework</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Leadership Framework" src="/images/Student_Leadership_Framework.png">
+<img style="width: 100%" height="auto" width="100%" alt="Student Leadership Framework V1" src="/images/Student_Leadership_Framework_V1.png">
 </div>
 <p>Leadership development is a whole-school approach. To better equip every
 student leader in his or her role, the respective departments will conduct
