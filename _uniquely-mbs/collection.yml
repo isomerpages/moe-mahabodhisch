@@ -2,6 +2,7 @@ collections:
   uniquely-mbs:
     output: true
     order:
+      - 慈航园 (Ci Hang Garden).md
       - HEARTS Framework.md
       - Special Assistance Plan.md
       - Applied Learning Programme.md
