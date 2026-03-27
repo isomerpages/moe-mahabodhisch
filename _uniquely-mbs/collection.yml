@@ -2,4 +2,5 @@ collections:
   uniquely-mbs:
     output: true
     order:
+      - Conversational Malay Programmes.md
       - Celebrates Teachers’ Success at the 33rd SEA Games.md
