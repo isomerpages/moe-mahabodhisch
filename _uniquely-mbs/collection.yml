@@ -2,5 +2,7 @@ collections:
   uniquely-mbs:
     output: true
     order:
+      - Learn for Life Programme Learning through an Ethnic Arts Programme
+        (LEAP).md
       - Conversational Malay Programmes.md
       - Celebrates Teachers’ Success at the 33rd SEA Games.md
