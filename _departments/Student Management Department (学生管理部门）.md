@@ -62,4 +62,38 @@ community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student Leadership Framework" src="/images/Student_Leadership_Framework.png">
 </div>
+<p>Leadership development is a whole-school approach. To better equip every
+student leader in his or her role, the respective departments will conduct
+induction sessions. Through these sessions, student leaders will gain a
+clear understanding of leadership expectations, their duties and responsibilities,
+and the essential skills needed to carry out their roles effectively.</p>
+<p>There are 4 tiers in the our students’ leadership journey.</p>
+<p>Tier 1: Self-Leadership</p>
+<p>All P1 to P6 students focus on developing strong character and personal
+responsibility. We build competencies such as self-awareness, social awareness,
+and responsible decision-making — guided by our school values of Respect,
+Resilience, Integrity, Compassion, and Excellence. This tier is about serving
+self and becoming a responsible individual.</p>
 <p></p>
+<p>Tier 2: Class Leadership</p>
+<p>Students begin to serve beyond themselves — taking on roles like Class
+Monitors, Reading Champs, PE Rangers, and more (refer to Student Leadership
+Framework). At this stage, students are encouraged to be positive influencers,
+contributing to both their class and school.</p>
+<p>Leadership development is a whole-school approach. To better equip every
+student leader in his or her role, the respective departments will conduct
+induction sessions. Through these sessions, student leaders will gain a
+clear understanding of leadership expectations, their duties and responsibilities,
+and the essential skills needed to carry out their roles effectively.</p>
+<p></p>
+<p>Tier 3: School level Leadership</p>
+<p>Students from Primary 3 to Primary 6 step up further, taking on wider
+responsibilities such as Prefects, Peer Support Leaders, and CCA Leaders.
+These students help shape the school environment, championing important
+causes and becoming leaders among peers.</p>
+<p></p>
+<p>Tier 4: Community Leadership</p>
+<p>Our most experienced leaders — from Primary 5 to Primary 6 — take on high-level
+roles like Prefect Heads and Peer Support Leaders Board. These students
+extend their leadership beyond the school, becoming student advocates who
+serve the school and the wider community.</p>
