@@ -128,7 +128,7 @@ activities and reader’s theatre.</p>
 </li>
 <li>
 <p><strong>Primary 3:</strong> Learning about diverse professions in the areas
-of healthcare, science media related fields.</p>
+of healthcare, science and media related fields.</p>
 </li>
 <li>
 <p><strong>Primary 4:</strong> Deepening self-awareness through reflection
