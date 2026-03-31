@@ -1,5 +1,5 @@
 ---
-title: Student Management Department (学生管理部门）
+title: Student Management  (学生管理）
 permalink: /student-management-department/
 variant: tiptap
 description: ""
