@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Vision and Mission/Student Management  (学生管理）.md
       - Vision and Mission/.keep
       - English | 英文/.keep
       - English | 英文/Department Goals.md
