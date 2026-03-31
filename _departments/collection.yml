@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Vision and Mission.md
       - English | 英文/.keep
       - English | 英文/Department Goals.md
       - English | 英文/Programmes.md
