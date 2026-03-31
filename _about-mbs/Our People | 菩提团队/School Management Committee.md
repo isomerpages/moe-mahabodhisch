@@ -148,25 +148,43 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="Mr Lee Chuan Too" src="/images/Mr_Lee_Chuan_Too.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>SMC Member</strong>
+</p>
+<p>Mr Lee Chuan Too</p>
+<p>李泉裕居士</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="Mr Yeo Tse Tian, Justin" src="/images/Mr_Yeo_Tse_Tian__Justin.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>SMC Member</strong>
+</p>
+<p>Mr Yeo Tse Tian, Justin</p>
+<p>杨子田先生</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="Mr Chew Bin Teck" src="/images/Mr_Chew_Bin_Teck.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>SMC Member</strong>
+</p>
+<p>Mr Chew Bin Teck</p>
+<p>周民德居士</p>
 <p></p>
 </td>
 </tr>
