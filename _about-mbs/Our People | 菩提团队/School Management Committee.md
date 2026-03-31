@@ -170,7 +170,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="Mr Chew Bin Teck" src="/images/Mr_Chew_Bin_Teck.png">
+<img style="width: 43%;" height="auto" width="100%" alt="Mr Chew Bin Teck" src="/images/Mr_Chew_Bin_Teck.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
