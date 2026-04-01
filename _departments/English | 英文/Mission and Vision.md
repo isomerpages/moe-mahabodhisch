@@ -6,40 +6,21 @@ third_nav_title: English | 英文
 variant: tiptap
 ---
 <h1><strong>Vision &amp; Mission</strong></h1>
-<p></p>
-<p></p>
-<p></p>
-<p><strong><u>Confident and Effective Speaker:</u></strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Develop confident speakers who show awareness of spoken language features,
-speak with accurate pronunciation and appropriate intonation, use appropriate
-skills, strategies and language to convey meaning, speak graciously and
-think on their feet <strong>2020 EL Syllabus: Empathetic Communicators</strong>
-</p>
-</li>
-</ol>
-<p><strong><u>Skilful and Avid Reader:</u></strong>
-</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Build a reading culture – Develop a love for reading</p>
-</li>
-<li>
-<p>Develop reading comprehension and viewing skills and learner strategies</p>
-</li>
-</ol>
-<p><strong><u>2020 EL Syllabus: Discerning Readers</u></strong>
-</p>
-<p>Skilful and Fluent Writer:</p>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p>Instil a joy in writing</p>
-</li>
-<li>
-<p>Develop skilful writers with writing techniques and a good mastery of
-grammar and vocabulary</p>
-</li>
-</ol>
+<h4><strong>Strategic Thrust </strong></h4>
+<p><strong>Strategic Thrust 1:</strong> Pupils, Our Focus</p>
+<p>Strategic Objective 1.1: Enhance pupils’ well-being through a caring and
+enabling environment.</p>
+<p>Strategic Objective 1.3: Inspire pupils to be motivated learners and innovative
+problem solvers</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="EL Syllabus" src="/images/EL_syllabus.png">
+</div>
+<h4><strong>Vision: </strong></h4>
+<p>Discerning Readers, Confident Communicators and Empathetic Individuals
+in a Dynamic, Digital World</p>
+<h4><strong>Mission: </strong></h4>
+<p>Develop every child into an avid and critical reader (including digital
+mediums) and a confident speaker with empathy who is equipped with writing
+skills to communicate their ideas effectively with audience, purpose and
+context in mind</p>
 <p></p>
