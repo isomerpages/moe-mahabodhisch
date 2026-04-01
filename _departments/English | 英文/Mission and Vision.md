@@ -11,9 +11,9 @@ variant: tiptap
 <p>Strategic Objective 1.1: Enhance pupils’ well-being through a caring and
 enabling environment.</p>
 <p>Strategic Objective 1.3: Inspire pupils to be motivated learners and innovative
-problem solvers</p>
+problem solvers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="EL Syllabus" src="/images/EL_syllabus.png">
+<img style="width: 50%;" height="auto" width="100%" alt="EL syllabus V1" src="/images/EL_Syllabus_V1.png">
 </div>
 <h4><strong>Vision:</strong></h4>
 <p>Discerning Readers, Confident Communicators and Empathetic Individuals
