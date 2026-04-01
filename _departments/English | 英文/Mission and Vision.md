@@ -5,7 +5,7 @@ description: ""
 third_nav_title: English | 英文
 variant: tiptap
 ---
-<h1><strong>Department Goals</strong></h1>
+<h1><strong>Vision &amp; Mission</strong></h1>
 <p></p>
 <p></p>
 <p></p>
