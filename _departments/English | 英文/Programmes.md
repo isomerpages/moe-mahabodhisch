@@ -5,7 +5,7 @@ description: ""
 third_nav_title: English | 英文
 variant: tiptap
 ---
-<h2>Programmes</h2>
+<h1><strong>Programmes</strong></h1>
 <h3>GEM (Good English Movement) Week</h3>
 <p>The annual GEM (Good English Movement) Week was held in Term 2, Week 5
 from 18 April&nbsp;2022 to 22 April 2022. The 2022 GEM Week learning experiences
@@ -83,7 +83,7 @@ challenge. This year, we have introduced new activities ‘Hear Me Out’ and
 <img style="width: 60%;" height="auto" width="100%" src="/images/Good-English-Movement-week-Picture-9.jpeg">
 </div>
 <p></p>
-<p><strong> P6 Hear Me Out</strong>All these activities, from the poll to
+<p><strong>P6 Hear Me Out</strong>All these activities, from the poll to
 the launch to the GEM activities, were a result of the teachers’ strong
 team spirit and camaraderie in instilling joy of learning in pupils. The
 English department has also garnered the&nbsp;strong support of all the
