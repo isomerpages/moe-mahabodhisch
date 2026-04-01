@@ -5,7 +5,10 @@ description: ""
 third_nav_title: English | 英文
 variant: tiptap
 ---
-<h2><strong>Department Goals</strong></h2>
+<h1><strong>Department Goals</strong></h1>
+<p></p>
+<p></p>
+<p></p>
 <p><strong><u>Confident and Effective Speaker:</u></strong>
 </p>
 <ol data-tight="true" class="tight">
