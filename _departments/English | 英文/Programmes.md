@@ -469,5 +469,26 @@ compositions</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Metacognition and Thinking Routines</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="MetaCognition" src="/images/Metacognition___Thinking.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
