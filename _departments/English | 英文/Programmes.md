@@ -198,8 +198,9 @@ Greatest Number of Books Read</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ELECTA@MBS </strong>(</p>
-<p>Empathetic Listeners. Effective Communicators. Trailblazing Advocates)</p>
+<p><strong>ELECTA@MBS </strong>
+</p>
+<p>Empathetic Listeners. Effective Communicators. Trailblazing Advocates</p>
 </td>
 </tr>
 <tr>
