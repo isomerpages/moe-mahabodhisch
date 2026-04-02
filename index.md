@@ -16,7 +16,7 @@ sections:
   - infopic:
       title: 22nd Outstanding Performance Award Ceremony
       id: infopic
-      description: Our School honour students who demonstrated commendable result in
+      description: Our School honor students who demonstrated commendable result in
         2025 PSLE and demonstrated the values of diligence, resilience and a
         commitment to learning.
       button: PLEASE CLICK HERE TO READ MORE
