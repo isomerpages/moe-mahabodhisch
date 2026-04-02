@@ -7,9 +7,7 @@ variant: tiptap
 ---
 <h1><strong>Programmes</strong></h1>
 <h4><strong><u>Reading Programmes</u></strong></h4>
-<p><strong>(e21CC: Communication, Critical Thinking)</strong>
-</p>
-<p><strong>Discerning, Avid and Critical Readers, Confident and Empathetic Communicators</strong>
+<p><strong>e21CC: Communication, Critical Thinking (Discerning, Avid and Critical Readers, Confident and Empathetic Communicators)</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -19,7 +17,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4>Teachers' Book Recommendation</h4>
+<p>Teachers' Book Recommendation</p>
 </th>
 </tr>
 <tr>
@@ -50,15 +48,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<h4>Reading Chart - Reading Champs Tracking Peers’ Reading</h4>
+<th rowspan="1" colspan="1">
+<p>Reading Chart - Reading Champs Tracking Peers’ Reading</p>
 </th>
 </tr>
 <tr>
@@ -66,9 +63,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Reading Champs" src="/images/Reading_Champs.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -80,7 +74,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Books Recommended by Teachers and Peers Displayed in School Library</h4>
+<p>Books Recommended by Teachers and Peers Displayed in School Library</p>
 </th>
 </tr>
 <tr>
@@ -108,7 +102,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4>Pupils Book Recommendations</h4>
+<p>Pupils Book Recommendations</p>
 </th>
 </tr>
 <tr>
@@ -132,7 +126,8 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Affirming Pupils’ Efforts in their Reading Journey - Classes with the Greatest Number of Books Read</h4>
+<p>Affirming Pupils’ Efforts in their Reading Journey - Classes with the
+Greatest Number of Books Read</p>
 </th>
 </tr>
 <tr>
@@ -144,7 +139,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Reading Journey" src="/images/Reading_Journey_Pic_4.jpg">
 </div>
@@ -159,15 +153,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<h4>Buddy Reading @ Library—P5 tutors reading alongside P2 and P3 tutees</h4>
+<th rowspan="1" colspan="1">
+<p>Buddy Reading @ Library—P5 tutors reading alongside P2 and P3 tutees</p>
 </th>
 </tr>
 <tr>
@@ -176,9 +169,6 @@ variant: tiptap
 <img style="width: 70%;" height="auto" width="100%" alt="Buddy Reading" src="/images/buddy_Reading_Pic_1.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -186,9 +176,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Buddy Reading" src="/images/buddy_Reading_Pic_2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -200,13 +187,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Applied Learning Programme (ALP)</h4>
+<h4><strong>Applied Learning Programme (ALP)</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Confident and Empathetic Communicators: e21CC: Communication, Critical
-Thinking, Adaptive Thinking &amp; Inventive Thinking</p>
+<p><strong>Confident and Empathetic Communicators, e21CC: Communication, Critical Thinking, Adaptive Thinking &amp; Inventive Thinking</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -389,6 +376,72 @@ Assembly</p>
 </div>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong><u>Writing Programmes</u></strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Confident and Empathetic Communicators, e21CC: Communication, Critical Thinking, Adaptive Thinking</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Pupils engaged in using 'Magic School' to enrich their ideas in their
+compositions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Magic School" src="/images/Magic_School_Pic_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Magic School" src="/images/Magic_School_Pic_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Magic School" src="/images/Magic_School_Pic_6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Magic School" src="/images/Magic_School_Pic_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Magic School" src="/images/Magic_School_Pic_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
