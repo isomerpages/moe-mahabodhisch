@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: 22nd Outstanding Performance Award Ceremony
+      id: infopic
+      description: Our School honour students who demonstrated commendable result in
+        2025 PSLE and demonstrated the values of diligence, resilience and a
+        commitment to learning.
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /maha-bodhi-school-celebrates-22nd-outstanding-performance-award-ceremony/
+      image: /images/2026_OPAC_Pic_9.jpg
+      alt: 2026 OPAC
+  - infopic:
       title: Serve To Lead 2026
       id: infopic
       description: MBS hosted the Serve to Lead VIA programme that empowers student
