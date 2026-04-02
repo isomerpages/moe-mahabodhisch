@@ -438,18 +438,33 @@ compositions</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Talk Moves and Making Thinking Visible</strong>
+</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Confident and Empathetic Communicators, e21CC: Communication, Critical Thinking</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Question Formulation Technique (QFT) + Let’s Talk Cards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Let's Talk Cards with QFT" src="/images/Let_s_Talk_Cards_with_QFT_png.jpg">
+</div>
 </td>
 </tr>
 </tbody>
