@@ -44,9 +44,27 @@ for excellence and grow as individuals of character.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_2.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_3.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -56,12 +74,12 @@ for excellence and grow as individuals of character.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_10.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_10.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_1.jpg">
 </div>
 </td>
 </tr>
@@ -72,15 +90,21 @@ for excellence and grow as individuals of character.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_5.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_6.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_4.jpg">
+</div>
 </td>
 </tr>
 <tr>
