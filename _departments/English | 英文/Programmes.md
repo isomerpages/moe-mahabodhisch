@@ -36,13 +36,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Teachers' Book Recommendation" src="/images/EL_book_recommedation_Pic_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Teachers' Book Recommendation" src="/images/EL_book_recommedation_Pic_3.jpg">
 </div>
@@ -88,7 +86,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Library book recommendation" src="/images/Book_Recommendation_in_library_Pic_2.jpg">
 </div>
@@ -174,7 +171,6 @@ Greatest Number of Books Read</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Buddy Reading" src="/images/buddy_Reading_Pic_2.jpg">
 </div>
@@ -202,8 +198,8 @@ Greatest Number of Books Read</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ELECTA@MBS </strong>(Empathetic Listeners. Effective Communicators.
-Trailblazing Advocates)</p>
+<p><strong>ELECTA@MBS </strong>(</p>
+<p>Empathetic Listeners. Effective Communicators. Trailblazing Advocates)</p>
 </td>
 </tr>
 <tr>
