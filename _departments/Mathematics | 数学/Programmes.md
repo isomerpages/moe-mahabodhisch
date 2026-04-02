@@ -104,10 +104,10 @@ Pupils have to apply their problem solving skills while being engaged in
 fun and meaningful tasks. They can look forward to be awarded attractive
 prizes and tokens for their participations.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math-and-science-fiesta_1.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/math-and-science-fiesta_1.jpeg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math-and-science-fiesta_2.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/math-and-science-fiesta_2.jpeg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
