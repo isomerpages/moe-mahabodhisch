@@ -7,7 +7,9 @@ variant: tiptap
 ---
 <h1><strong>Programmes</strong></h1>
 <h4><strong><u>Reading Programmes</u></strong></h4>
-<p><strong>e21CC: Communication, Critical Thinking (Discerning, Avid and Critical Readers, Confident and Empathetic Communicators)</strong>
+<p><strong>e21CC: Communication, Critical Thinking </strong>
+</p>
+<p><strong>Discerning, Avid and Critical Readers, Confident and Empathetic Communicators</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -192,7 +194,9 @@ Greatest Number of Books Read</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Confident and Empathetic Communicators, e21CC: Communication, Critical Thinking, Adaptive Thinking &amp; Inventive Thinking</strong>
+<p><strong>e21CC: Communication, Critical Thinking, Adaptive Thinking &amp; Inventive Thinking</strong>
+</p>
+<p><strong>Confident and Empathetic Communicators, </strong>
 </p>
 </td>
 </tr>
