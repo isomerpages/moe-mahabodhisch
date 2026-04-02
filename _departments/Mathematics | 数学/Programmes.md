@@ -82,6 +82,12 @@ and learning through play.</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Students engaging in Mathematics games at Math Corner during Recess and in classroom</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Equipping pupils with the skills and heuristics for mathematical problem
@@ -99,7 +105,7 @@ for problem solving.</p>
 <p>Math and Science Fiesta is carried out in Term 3 every year. It aims to
 be an engaging platform for pupils to develop the joy of learning mathematics
 and also, to see the relevance of mathematics in their daily lives. There
-are many exciting activities and competitions organised for the pupils.
+are many exciting activities and competitions organized for the pupils.
 Pupils have to apply their problem solving skills while being engaged in
 fun and meaningful tasks. They can look forward to be awarded attractive
 prizes and tokens for their participations.</p>
