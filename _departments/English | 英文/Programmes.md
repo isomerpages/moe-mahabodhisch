@@ -303,7 +303,9 @@ audience and context</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Say It Nicely!" src="/images/Pic_2__Say_It_Nicely.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
