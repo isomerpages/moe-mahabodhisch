@@ -86,7 +86,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Library Book Recommendation" src="/images/Books_Recommendation_in_library.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Library Book Recommendation" src="/images/Books_Recommendation_in_library.jpg">
 </div>
 </td>
 </tr>
@@ -94,7 +94,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Library book recommendation" src="/images/Book_Recommendation_in_library_Pic_2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Library book recommendation" src="/images/Book_Recommendation_in_library_Pic_2.jpg">
 </div>
 </td>
 </tr>
@@ -155,6 +155,40 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Reading Journey" src="/images/Reading_Journey_Pic_2.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4>Buddy Reading @ Library—P5 tutors reading alongside P2 and P3 tutees</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Buddy Reading" src="/images/buddy_Reading_Pic_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Buddy Reading" src="/images/buddy_Reading_Pic_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
