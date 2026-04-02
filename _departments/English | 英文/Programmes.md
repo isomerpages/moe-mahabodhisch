@@ -491,21 +491,20 @@ compositions</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="2">
 <p><strong>Fostering Joy of Learning through PLAY - <u>P</u>urposeful <u>L</u>earning and <u>A</u>uthentic Experience for <u>Y</u>oung Learners</strong>
 </p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p><strong>Motivated Learners, Creative Inquirers, e21CC: Critical Thinking, Adaptive Thinking, Communication</strong>
 </p>
 </td>
@@ -513,22 +512,20 @@ compositions</p>
 <tr>
 <td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PLAY" src="/images/Purposeful_Learning___Authentic_Experience_Pic_3.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="PLAY" src="/images/Purposeful_Learning___Authentic_Experience_Pic_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Purposeful Learning, Authentic Experience" src="/images/Purposeful_Learning___Authentic_Experience_Pic_1.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Purposeful Learning, Authentic Experience" src="/images/Purposeful_Learning___Authentic_Experience_Pic_2.jpg">
+</div>
 </td>
 </tr>
 </tbody>
