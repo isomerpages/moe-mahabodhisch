@@ -107,11 +107,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <h4>Pupils Book Recommendations</h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -122,7 +119,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Book Recommendation" src="/images/Student_Book_Recommendation_in_hall_pic_2.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="Student Book Recommendation" src="/images/Student_Book_Recommendation_in_hall_pic_2.jpg">
 </div>
 </td>
 </tr>
