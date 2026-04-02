@@ -6,7 +6,10 @@ third_nav_title: Science | 科学
 variant: tiptap
 ---
 <h1><strong>Programmes</strong></h1>
-<h3>Our Science programmes are designed to nurture curious, adaptive thinkers and confident communicators. Through hands-on inquiry, collaborative learning, and authentic experiences, students develop the skills to apply Science meaningfully in real-world contexts.</h3>
+<p>Our Science programmes are designed to nurture curious, adaptive thinkers
+and confident communicators. Through hands-on inquiry, collaborative learning,
+and authentic experiences, students develop the skills to apply Science
+meaningfully in real-world contexts.</p>
 <h4><strong>Building Foundations through Inquiry</strong></h4>
 <p><strong>Every Child a Seed Programme </strong>
 <br>P3 students experience the joy of growing plants while observing life
