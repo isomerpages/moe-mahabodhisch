@@ -1,6 +1,6 @@
 ---
 title: Mission & Vision
-permalink: /mission-vision/
+permalink: /student-management-department/mission-vision/
 variant: tiptap
 description: ""
 ---
