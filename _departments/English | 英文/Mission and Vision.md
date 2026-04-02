@@ -22,5 +22,5 @@ in a Dynamic, Digital World</p>
 <p>Develop every child into an avid and critical reader (including digital
 mediums) and a confident speaker with empathy who is equipped with writing
 skills to communicate their ideas effectively with audience, purpose and
-context in mind</p>
+context in mind.</p>
 <p></p>
