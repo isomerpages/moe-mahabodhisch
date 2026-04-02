@@ -73,12 +73,12 @@ and learning through play.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Math Pic 7" src="/images/Math_Picture_7.png">
+<img style="width: 90%;" height="auto" width="100%" alt="Math Pic 7" src="/images/Math_Picture_7.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Math Pic 8" src="/images/Math_Picture_8_png.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Math Pic 8" src="/images/Math_Picture_8_png.jpg">
 </div>
 </td>
 </tr>
@@ -111,7 +111,7 @@ prizes and tokens for their participations.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>E2K (Mathematics)</strong>
+<p><strong>Excellence 2000 (E2K) Mathematics</strong>
 </p>
 </li>
 </ul>
@@ -122,3 +122,4 @@ the love for mathematics through activities such as stories, games and
 puzzles. Various strategies in problem solving will be explored and higher
 order thinking skills will be applied to formulate solutions and communicate
 mathematical reasoning.</p>
+<p></p>
