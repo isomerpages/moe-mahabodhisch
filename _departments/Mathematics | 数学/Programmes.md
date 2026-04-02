@@ -90,7 +90,7 @@ and learning through play.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>A conceptual approach to Problem Solving </strong>
+<p><strong>A conceptual approach to Problem Solving</strong>
 </p>
 <p>Equipping pupils with the skills and heuristics for mathematical problem
 solving is fundamental to the learning of mathematics. The Mathematics
