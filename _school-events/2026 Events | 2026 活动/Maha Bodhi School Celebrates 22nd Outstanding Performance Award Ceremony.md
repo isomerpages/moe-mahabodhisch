@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Events | 2026 活动
 ---
-<p><strong>Maha Bodhi School 22nd Outstanding Performance Award Ceremony</strong>
-</p>
+<h4><strong>Maha Bodhi School 22nd Outstanding Performance Award Ceremony</strong></h4>
 <p>Maha Bodhi School held its 22nd Outstanding Performance Award Ceremony
 to honour our Primary 6 students who demonstrated commendable achievement
 in the Primary School Leaving Examination (PSLE) last year. The ceremony
@@ -25,9 +24,9 @@ distinguished guests, the School Management Committee and School Alumni
 for their steadfast support in making this event meaningful. Their continued
 partnership plays an important role in encouraging our students to strive
 for excellence and grow as individuals of character.</p>
-<p><strong>菩提学校第二十二届杰出表现奖颁奖典礼</strong>
-</p>
+<h4><strong>菩提学校第二十二届杰出表现奖颁奖典礼</strong></h4>
 <p>菩提学校通过颁奖典礼表彰在去年小学离校考试（PSLE）中表现优异的小六学生。今年已是本校举办的第二十二届杰出表现奖颁奖典礼。此典礼不仅表彰学术成就，也致力于弘扬勤奋、坚韧以及对学习负责的价值观。</p>
 <p>我们很荣幸邀请到新加坡佛教总会会长——释广品法师担任主宾。他与菩提学校校长——邓丽君女士一同致辞，勉励学生们继续追求卓越与成长。</p>
 <p>本次颁奖典礼的奖项由菩提学校校友会主席——薛绍平先生、学校督学——陈友明先生，以及释广品法师共同颁发。典礼上也安排了毕业生代表——刘悦丰致辞。他深情回顾了自己在菩提学校六年的学习历程，以及这些经历如何塑造了他的成长。</p>
 <p>学校谨向主宾、各位嘉宾、学校管理委员会以及校友会致以衷心的感谢，感谢他们一直以来的鼎力支持，使本次典礼的意义非凡。他们的持续支持在鼓励学生追求卓越、成长为品格健全的人方面发挥了重要作用。</p>
+<p></p>
