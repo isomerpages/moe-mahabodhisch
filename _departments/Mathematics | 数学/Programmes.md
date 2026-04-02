@@ -90,18 +90,16 @@ and learning through play.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>A conceptual approach to Problem Solving</strong>
+</p>
 <p>Equipping pupils with the skills and heuristics for mathematical problem
 solving is fundamental to the learning of mathematics. The Mathematics
 Department has designed a series of problem solving activities (P1 to P3)
 and heuristics worksheets (P3 – P6) that will systematically enable the
 pupils to be equipped with the different heuristics and model drawing skills
 for problem solving.</p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Math and Science Fiesta</strong>
 </p>
-</li>
-</ul>
 <p>Math and Science Fiesta is carried out in Term 3 every year. It aims to
 be an engaging platform for pupils to develop the joy of learning mathematics
 and also, to see the relevance of mathematics in their daily lives. There
