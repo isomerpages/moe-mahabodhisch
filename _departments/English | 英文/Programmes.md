@@ -415,7 +415,7 @@ compositions</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Magic School" src="/images/Magic_School_Pic_6.jpg">
+<img style="width: 58%;" height="auto" width="100%" alt="Magic School" src="/images/Magic_School_Pic_6.jpg">
 </div>
 </td>
 </tr>
@@ -431,7 +431,9 @@ compositions</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="Magic School" src="/images/Magic_School_Pic_5.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -452,4 +454,5 @@ compositions</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
