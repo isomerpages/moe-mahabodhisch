@@ -73,6 +73,33 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Books Recommended by Teachers and Peers Displayed in School Library</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Library Book Recommendation" src="/images/Books_Recommendation_in_library.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Library book recommendation" src="/images/Book_Recommendation_in_library_Pic_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -80,18 +107,23 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Books Recommended by Teachers and Peers Displayed in School Library</p>
+<th rowspan="1" colspan="1">
+<h4>Pupils Book Recommendations</h4>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Library Book Recommendation" src="/images/Books_Recommendation_in_library.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="Student Book Recommendation" src="/images/Student_Book_Recommendation_in_hall_pic_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student Book Recommendation" src="/images/Student_Book_Recommendation_in_hall_pic_2.jpg">
+</div>
 </td>
 </tr>
 <tr>
