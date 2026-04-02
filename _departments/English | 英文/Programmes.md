@@ -585,35 +585,41 @@ compositions</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="1">
 <p><strong>Engaging our Parents</strong>
 </p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p>Raising Readers Workshop on 6 March 2026 – Conducted by NLB</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Raising Readers Workshop" src="/images/Raising_Readers_Workshop_by_NLB_Pic_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Raising Readers Workshop" src="/images/Raising_Readers_Workshop_by_NLB_Pic_1.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Raising Readers" src="/images/Raising_Readers_Workshop_by_NLB_Pic_3.jpg">
+</div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Raising Readers" src="/images/Raising_Readers_Workshop_by_NLB_Pic_2.jpg">
+</div>
 </td>
 </tr>
 </tbody>
