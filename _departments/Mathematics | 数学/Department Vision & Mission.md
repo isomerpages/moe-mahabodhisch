@@ -11,7 +11,6 @@ of problem-solving skills and E21CC competencies.</p>
 <h4>&nbsp;<strong>Mission</strong></h4>
 <p>To nurture confident problem-solvers and self-regulated learners with
 an interest and love for Mathematics.</p>
-<p>&nbsp;</p>
 <h4><strong>Key Approaches to Teaching and Learning of Mathematics</strong></h4>
 <p><strong>Developing Critical, Adaptive and Inventive Thinking (CAIT) in Our Students</strong>
 </p>
