@@ -63,9 +63,9 @@ the problem using models, diagrams, or mathematical expressions.</p>
 </p>
 <p>Students review their answers to ensure they make sense and that the problem
 has been solved correctly.</p>
-<p>Through the use of the UPS✓ Framework, students develop structured mathematical
-thinking as they learn to understand the problem, plan appropriate strategies,
-solve systematically, and reflect on whether their solutions are reasonable.
+<p>Using the UPS✓ Framework, students develop structured mathematical thinking
+as they learn to understand the problem, plan appropriate strategies, solve
+systematically, and reflect on whether their solutions are reasonable.
 Teachers support this process by using question prompts that guide students’
 thinking and encourage them to explain their reasoning.</p>
 <p>The UPS✓ Framework is implemented progressively across all levels from
