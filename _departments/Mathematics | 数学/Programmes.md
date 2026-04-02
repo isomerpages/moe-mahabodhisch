@@ -42,7 +42,7 @@ and learning through play.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Math Pic 2" src="/images/Math_Picture_2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Math Pic 2" src="/images/Math_Picture_2.png">
 </div>
 </th>
 </tr>
@@ -54,7 +54,7 @@ and learning through play.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Math Pic 4" src="/images/Math_Picture_4_png.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Math Pic 4" src="/images/Math_Picture_4_png.jpg">
 </div>
 </td>
 </tr>
@@ -65,7 +65,9 @@ and learning through play.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="Math Pic 6" src="/images/Math_Picture_6_png.jpg">
+</div>
 </td>
 </tr>
 </tbody>
