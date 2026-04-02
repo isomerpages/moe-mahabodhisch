@@ -193,31 +193,88 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="1">
 <h4>Applied Learning Programme (ALP)</h4>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p>Confident and Empathetic Communicators: e21CC: Communication, Critical
 Thinking, Adaptive Thinking &amp; Inventive Thinking</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>ELECTA@MBS </strong>(Empathetic Listeners. Effective Communicators.
+Trailblazing Advocates)</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vision:</strong>
+</p>
+<p>To nurture every pupil to become an empathetic listener who values diverse
+perspectives, a confident communicator who expresses ideas clearly, and
+a proactive advocate who thinks innovatively and takes purposeful action
+to make a positive impact on the community and environment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Application (Aligned to e21CCs)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Through our ALP, pupils are guided to:</p>
+<p>• Analyse and evaluate real-world issues thoughtfully</p>
+<p>• Articulate ideas clearly, purposefully, and with confidence</p>
+<p>• Share perspectives meaningfully while valuing the voices of others</p>
+<p>• Design and deliver engaging presentations with awareness of purpose,
+audience and context</p>
+<p>• Build rapport and communicate effectively to achieve intended</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Persuasive Book Recommendations</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Persuasive Book recommendation" src="/images/Persuasive_book_recommendation_Pic_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Persuasive Book recommendation" src="/images/Persuasive_book_recommendation_Pic_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Persuasive Book recommendation" src="/images/Persuasive_book_recommendation_Pic_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
