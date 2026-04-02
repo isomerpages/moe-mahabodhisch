@@ -51,7 +51,6 @@ ideas effectively.</p>
 </ul>
 <p>These platforms stretch students’ potential and build confidence in applying
 their knowledge.</p>
-<p>&nbsp;</p>
 <h4><strong>Innovation &amp; Collaborative Learning</strong></h4>
 <p><strong>Project Work </strong>
 <br>Primary 5 students work collaboratively on real-world problems, applying
@@ -61,7 +60,6 @@ problem-solving skills.</p>
 <br>A key highlight of the year, where students engage in fun, hands-on STEM
 activities that promote creativity, curiosity, and the relevance of Science
 in everyday life.</p>
-<p>&nbsp;</p>
 <h4><strong>Student Leadership</strong></h4>
 <p><strong>Einsteins &amp; Environmentalists</strong>
 <br>Student leaders play an active role in promoting Science and environmental
