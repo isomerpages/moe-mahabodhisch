@@ -29,4 +29,108 @@ for excellence and grow as individuals of character.</p>
 <p>我们很荣幸邀请到新加坡佛教总会会长——释广品法师担任主宾。他与菩提学校校长——邓丽君女士一同致辞，勉励学生们继续追求卓越与成长。</p>
 <p>本次颁奖典礼的奖项由菩提学校校友会主席——薛绍平先生、学校督学——陈友明先生，以及释广品法师共同颁发。典礼上也安排了毕业生代表——刘悦丰致辞。他深情回顾了自己在菩提学校六年的学习历程，以及这些经历如何塑造了他的成长。</p>
 <p>学校谨向主宾、各位嘉宾、学校管理委员会以及校友会致以衷心的感谢，感谢他们一直以来的鼎力支持，使本次典礼的意义非凡。他们的持续支持在鼓励学生追求卓越、成长为品格健全的人方面发挥了重要作用。</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_9.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_3.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_10.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_8.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 OPAC" src="/images/2026_OPAC_Pic_7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
