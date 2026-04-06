@@ -24,4 +24,6 @@ variant: tiptap
 </p>
 <p><a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf" rel="noopener nofollow" target="_blank">Toolbox for Parents</a>
 </p>
+<p><a href="https://www.instagram.com/mahabodhischoolofficial/" rel="noopener nofollow" target="_blank">Maha Bodhi School Instagram</a>
+</p>
 <p></p>
