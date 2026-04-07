@@ -131,6 +131,16 @@ interact, and develop essential social skills. By extending the Buddy Programme
 across all levels, the school aimed to instill values of respect, care,
 and kindness, ultimately creating a stronger sense of community among Maha
 Bodhians.</p>
+<p></p>
+<p><strong>Fostering a Caring and Enabling Environment</strong>
+</p>
+<p>The Student Well-Being Department is committed to fostering a caring and
+inclusive school environment. Each year, we organise Well-Being Week (Bully-Free)
+to promote positive peer relationships, raise awareness of hurtful behaviours
+and bullying, and empower students to be upstanders. Following the assembly
+launch, our Peer Support Leaders lead engaging recess activities to reinforce
+key messages in meaningful and interactive ways.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -166,7 +176,20 @@ Bodhians.</p>
 <tr></tr>
 </tbody>
 </table>
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SWB Pic 1" src="/images/SWB_Picture_1.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>A senior guiding his junior buddy to buy food and returning his receptacle.</strong>
 </p>
 <table style="minWidth: 50px">
