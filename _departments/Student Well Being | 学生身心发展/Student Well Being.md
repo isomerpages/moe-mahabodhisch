@@ -254,17 +254,16 @@ key messages in meaningful and interactive ways.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="SWB Pic 5" src="/images/SWB_Picture_5.jpg">
-</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Pic 6" src="/images/SWB_Picture_6.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
