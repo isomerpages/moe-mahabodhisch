@@ -132,15 +132,6 @@ across all levels, the school aimed to instill values of respect, care,
 and kindness, ultimately creating a stronger sense of community among Maha
 Bodhians.</p>
 <p></p>
-<p><strong>Fostering a Caring and Enabling Environment</strong>
-</p>
-<p>The Student Well-Being Department is committed to fostering a caring and
-inclusive school environment. Each year, we organise Well-Being Week (Bully-Free)
-to promote positive peer relationships, raise awareness of hurtful behaviours
-and bullying, and empower students to be upstanders. Following the assembly
-launch, our Peer Support Leaders lead engaging recess activities to reinforce
-key messages in meaningful and interactive ways.</p>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -174,20 +165,6 @@ key messages in meaningful and interactive ways.</p>
 </th>
 </tr>
 <tr></tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SWB Pic 1" src="/images/SWB_Picture_1.jpg">
-</div>
-</th>
-</tr>
 </tbody>
 </table>
 <p><strong>A senior guiding his junior buddy to buy food and returning his receptacle.</strong>
@@ -226,19 +203,16 @@ key messages in meaningful and interactive ways.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_1.gif">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_1.gif">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_2.gif">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_3.gif">
 </div>
@@ -249,16 +223,27 @@ key messages in meaningful and interactive ways.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_4.gif">
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_5.gif">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_5.gif">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Fostering a Caring and Enabling Environment</strong>
+</p>
+<p>The Student Well-Being Department is committed to fostering a caring and
+inclusive school environment. Each year, we organise Well-Being Week (Bully-Free)
+to promote positive peer relationships, raise awareness of hurtful behaviours
+and bullying, and empower students to be upstanders. Following the assembly
+launch, our Peer Support Leaders lead engaging recess activities to reinforce
+key messages in meaningful and interactive ways.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
