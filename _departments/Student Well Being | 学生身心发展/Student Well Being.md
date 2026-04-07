@@ -193,10 +193,8 @@ Bodhians.</p>
 </table>
 <p><strong>Seniors supporting their juniors to make Chinese New Year craft work.</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -212,14 +210,6 @@ Bodhians.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_2.gif">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_3.gif">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -227,14 +217,9 @@ Bodhians.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_4.gif">
 </div>
 </td>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_5.gif">
-</div>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="2">
 <p><strong>Fostering a Caring and Enabling Environment</strong>
 </p>
 <p>The Student Well-Being Department is committed to fostering a caring and
@@ -243,6 +228,45 @@ to promote positive peer relationships, raise awareness of hurtful behaviours
 and bullying, and empower students to be upstanders. Following the assembly
 launch, our Peer Support Leaders lead engaging recess activities to reinforce
 key messages in meaningful and interactive ways.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="SWB Pic 2" src="/images/SWB_Picture_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SWB Pic 4" src="/images/SWB_Picture_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="SWB Pic 3" src="/images/SWB_Picture_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="SWB Pic 5" src="/images/SWB_Picture_5.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pic 6" src="/images/SWB_Picture_6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
