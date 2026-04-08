@@ -29,3 +29,62 @@ global community.</p>
 <p>在4月6这天，活动以一场集会拉开序幕，向学生介绍国际友谊与合作的重要性。在瞬息万变的全球环境中，学生了解到新加坡如何通过建立稳固的伙伴关系，并促进跨文化的相互理解，实现持续发展与繁荣。</p>
 <p>2026年4月7日至9日期间，学校庭院设置了一系列互动活动站点，让学生在实践中体验相关价值观。通过多元互动与合作体验，学生探索不同文化，加深对尊重、同理心与和谐共处的理解。</p>
 <p>通过本次国际友谊日活动，学生进一步认识到新加坡在国际社会中的角色，以及建立有意义联系的重要性。作为关爱他人、富有同理心的社会一员，学生从日常生活中的点滴出发，积极搭建沟通的桥梁，将友谊延伸至更广阔的世界。</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IFD 1" src="/images/IFD_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="IFD 3" src="/images/IFD_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="IFD 4" src="/images/IFD_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="IFD 2" src="/images/IFD_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="IFD 6" src="/images/IFD_6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IFD 5" src="/images/IFD_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="IFD 7" src="/images/IFD_7.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
