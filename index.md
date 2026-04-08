@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: International Friendship Day 2026
+      id: infopic
+      description: "Maha Bodhi School commemorated International Friendship Day (IFD),
+        anchored on the theme “Singapore: Forging Friendships in a Complex
+        World.”"
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /international-friendship-day-2026/
+      image: /images/IFD_1.jpg
+      alt: Image alt text
+  - infopic:
       title: 22nd Outstanding Performance Award Ceremony
       id: infopic
       description: Our School honor students who demonstrated commendable result in
