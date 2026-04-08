@@ -235,13 +235,13 @@ key messages in meaningful and interactive ways.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="SWB Pic 2" src="/images/SWB_Picture_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SWB Pic 2" src="/images/SWB_Picture_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SWB Pic 4" src="/images/SWB_Picture_4.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="SWB Pic 4" src="/images/SWB_Picture_4.jpg">
 </div>
 </td>
 </tr>
@@ -249,11 +249,14 @@ key messages in meaningful and interactive ways.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="SWB Pic 3" src="/images/SWB_Picture_3.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="SWB Pic 3" src="/images/SWB_Picture_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="SWB up stander pics" src="/images/tempImagegTXLba.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -265,16 +268,18 @@ a safe and supportive school environment.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SWB Pic 7" src="/images/SWB_Picture_7.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="SWB Pic 7" src="/images/SWB_Picture_7.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="SWB Pic 8" src="/images/SWB_Picture_8.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Stand Tall, Speak up" src="/images/Stand_Tall__Speak_Up.jpg">
 </div>
 </td>
 </tr>
