@@ -131,6 +131,7 @@ interact, and develop essential social skills. By extending the Buddy Programme
 across all levels, the school aimed to instill values of respect, care,
 and kindness, ultimately creating a stronger sense of community among Maha
 Bodhians.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -166,7 +167,6 @@ Bodhians.</p>
 <tr></tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>A senior guiding his junior buddy to buy food and returning his receptacle.</strong>
 </p>
 <table style="minWidth: 50px">
@@ -193,48 +193,93 @@ Bodhians.</p>
 </table>
 <p><strong>Seniors supporting their juniors to make Chinese New Year craft work.</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_1.gif">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_1.gif">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_2.gif">
 </div>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_4.gif">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Fostering a Caring and Enabling Environment</strong>
+</p>
+<p>The Student Well-Being Department is committed to fostering a caring and
+inclusive school environment. Each year, we organise Well-Being Week (Bully-Free)
+to promote positive peer relationships, raise awareness of hurtful behaviours
+and bullying, and empower students to be upstanders. Following the assembly
+launch, our Peer Support Leaders lead engaging recess activities to reinforce
+key messages in meaningful and interactive ways.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_3.gif">
+<img style="width: 100%" height="auto" width="100%" alt="SWB Pic 2" src="/images/SWB_Picture_2.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="SWB Pic 4" src="/images/SWB_Picture_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="SWB Pic 3" src="/images/SWB_Picture_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="SWB up stander pics" src="/images/tempImagegTXLba.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>In collaboration with the English Department, our upper primary students
+also take on the role of advocates by creating digital posters to raise
+awareness about bullying and how students can support one another in building
+a safe and supportive school environment.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_4.gif">
+<img style="width: 50%;" height="auto" width="100%" alt="SWB Pic 7" src="/images/SWB_Picture_7.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Chinese_New_Year_craft_work_5.gif">
+<img style="width: 50%;" height="auto" width="100%" alt="Stand Tall, Speak up" src="/images/Stand_Tall__Speak_Up.jpg">
 </div>
 </td>
 </tr>
@@ -355,22 +400,20 @@ emails.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="4">
+<th rowspan="1" colspan="2">
 <p><strong>Be Cyber Safe Pop-up</strong>
 </p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="2">
 <p>The ‘Be Cyber Safe Pop-up’ comprises an interactive vending machine and
 interactive digital panels to guide pupils to learn more about the dangers
 in the online world and practical tips to stay safe online.</p>
@@ -383,15 +426,9 @@ in the online world and practical tips to stay safe online.</p>
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Be_Cyber_Safe_Pop_up_1.gif">
 </div>
 </td>
-<td rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_Cyber_Safe_Pop_up_2.gif">
-</div>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="2">
 <p><strong>Understanding good netiquette and proper online behavior through pop-up digital panels</strong>
 </p>
 </td>
@@ -403,11 +440,45 @@ in the online world and practical tips to stay safe online.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_Cyber_Safe_Pop_up_3.gif">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Be_Cyber_Safe_Pop_up_4.gif">
-</div>
+<p><strong>Mental Well-Being</strong>
+</p>
+<p>Mental well-being is an important aspect of every student’s overall development.
+It supports their health, happiness, learning and academic progress. In
+addition to Mental Health Education delivered through the Character and
+Citizenship Education (CCE) curriculum, the school organises assembly programmes
+and recess activities to raise awareness and equip students with strategies
+to care for their own mental well-being.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="SWB Pic 9" src="/images/SWB_Picture_9.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SWb Pic 10" src="/images/SWB_Picture_10.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SWB Pic 11" src="/images/SWB_Picture_11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="SWB Pic 12" src="/images/SWB_Picture_12.jpg">
+</div>
 </td>
 </tr>
 </tbody>
