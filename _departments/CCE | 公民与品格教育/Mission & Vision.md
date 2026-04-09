@@ -194,6 +194,64 @@ Friendship Day, Racial Harmony Day and National Day.</p>
 <p>These platforms deepen students’ understanding of Singapore’s history,
 multicultural identity and shared responsibility in safeguarding the nation’s
 future while strengthening their sense of belonging as citizens.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IFD 1" src="/images/IFD_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IFD 3" src="/images/IFD_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="IFD 4" src="/images/IFD_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IFD 5" src="/images/IFD_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="IFD 7" src="/images/IFD_7.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="IFD 2" src="/images/IFD_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 92%;" height="auto" width="100%" alt="IFD 6" src="/images/IFD_6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>6. <u>Developing Student Voice and Civic Awareness</u></strong>
 </p>
 <p>Beyond national awareness, Maha Bodhi School encourages students to engage
