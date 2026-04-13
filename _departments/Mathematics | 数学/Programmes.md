@@ -18,16 +18,16 @@ variant: tiptap
 </p>
 <p>The Mathematics Department seeks to instil joy in learning Mathematics
 through play, logical thinking games, and puzzles. To foster positive learning
-dispositions while strengthening students’ problem-solving and logical
-thinking skills, a Math Corner featuring logical thinking games and puzzles
-was launched during the Math Fiesta in Term 2, 2025. From 2026 onwards,
-students regularly utilise the Math Corner during recess, providing opportunities
+dispositions while strengthening puils’ problem-solving and logical thinking
+skills, a Math Corner featuring logical thinking games and puzzles was
+launched during the Math Fiesta in Term 2, 2025. From 2026 onwards, pupils
+regularly utilise the Math Corner during recess, providing opportunities
 for informal learning and exploration. Teachers also integrate games into
 classroom lessons to reinforce mathematical concepts, develop problem-solving
-skills, and promote collaboration. Through these experiences, students
-demonstrate greater enthusiasm for Mathematics, strengthen their logical
-thinking and perseverance, and develop positive attitudes towards challenges
-and learning through play.</p>
+skills, and promote collaboration. Through these experiences, pupils demonstrate
+greater enthusiasm for Mathematics, strengthen their logical thinking and
+perseverance, and develop positive attitudes towards challenges and learning
+through play.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
