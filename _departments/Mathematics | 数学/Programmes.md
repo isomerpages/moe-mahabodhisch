@@ -132,12 +132,28 @@ are many exciting activities and competitions organized for the pupils.
 Pupils have to apply their problem solving skills while being engaged in
 fun and meaningful tasks. They can look forward to be awarded attractive
 prizes and tokens for their participations.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/math-and-science-fiesta_1.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/math-and-science-fiesta_1.jpeg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/math-and-science-fiesta_2.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/math-and-science-fiesta_2.jpeg">
 </div>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Excellence 2000 (E2K) Mathematics</strong>
 </p>
 <p>The E2K Math Programme is designed to enrich the learning experiences
