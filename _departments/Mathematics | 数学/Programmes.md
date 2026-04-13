@@ -8,12 +8,6 @@ variant: tiptap
 <h1><strong>Programmes</strong></h1>
 <p><strong>Programmes</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>A Conceptual Approach to Problem Solving</strong>
-</p>
-</li>
-</ul>
 <p><strong>Promoting Joy of Learning</strong>
 </p>
 <p>The Mathematics Department seeks to instil joy in learning Mathematics
@@ -117,6 +111,8 @@ through play.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>A Conceptual Approach to Problem Solving</strong>
+</p>
 <p>Equipping pupils with the skills and heuristics for mathematical problem
 solving is fundamental to the learning of mathematics. The Mathematics
 Department has designed a series of problem solving activities (P1 to P3)
