@@ -26,7 +26,7 @@ strategies, and gain confidence in exploring alternative solutions.</p>
 </p>
 <p>The Mathematics Department adopts a school-wide approach to promote metacognition
 in all students. Teachers consistently use the <strong>UPS√ framework</strong> to
-guide students in planning, monitoring, and evaluating their problem-solving
+guide pupils in planning, monitoring, and evaluating their problem-solving
 processes. Through the explicit teaching of metacognitive strategies, pupils
 are supported in becoming more self-regulated learners who are aware of
 how they think and learn. This structured approach helps pupils develop
@@ -36,7 +36,7 @@ problems. More details about the UPS√ framework are provided below.</p>
 <p><strong>Developing Confident and Independent Problem Solvers</strong>
 </p>
 <p>The Mathematics Department &nbsp;places a strong emphasis on developing
-students into confident and independent problem solvers. To support this,
+pupils into confident and independent problem solvers. To support this,
 the Mathematics Department has adopted the <strong>UPS✓ Framework</strong>,
 a structured approach that guides students through the process of solving
 mathematical word problems.</p>
@@ -71,6 +71,6 @@ Primary 1 to Primary 6, allowing pupils to develop stronger problem-solving
 habits over time. As pupils become more familiar with the framework, they
 grow in confidence and develop the ability to tackle increasingly complex
 problems with independence.</p>
-<p>By nurturing these habits of thinking, our school aims to equip students
+<p>By nurturing these habits of thinking, our school aims to equip pupils
 with the skills, perseverance and confidence to solve problems in both
 mathematics and in real-world situations.</p>
