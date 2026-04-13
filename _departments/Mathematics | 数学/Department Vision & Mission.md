@@ -38,7 +38,7 @@ problems. More details about the UPS√ framework are provided below.</p>
 <p>The Mathematics Department &nbsp;places a strong emphasis on developing
 pupils into confident and independent problem solvers. To support this,
 the Mathematics Department has adopted the <strong>UPS✓ Framework</strong>,
-a structured approach that guides students through the process of solving
+a structured approach that guides pupils through the process of solving
 mathematical word problems.</p>
 <p>The UPS✓ Framework is adapted from the well-known problem-solving process
 introduced by mathematician George Pólya. It helps pupils approach problems
