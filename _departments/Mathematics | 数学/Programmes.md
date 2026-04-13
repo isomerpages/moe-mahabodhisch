@@ -74,7 +74,7 @@ through play.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="Math Pic 5" src="/images/Math_Picture_5_png.jpg">
+<img style="width: 33%;" height="auto" width="100%" alt="Math Pic 5" src="/images/Math_Picture_5_png.jpg">
 </div>
 <p></p>
 </td>
@@ -101,12 +101,9 @@ through play.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Pupils engaging in Mathematics games at Math Corner during Recess and in classroom</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
