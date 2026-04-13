@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 <p>The Mathematics Department seeks to instil joy in learning Mathematics
 through play, logical thinking games, and puzzles. To foster positive learning
-dispositions while strengthening puils’ problem-solving and logical thinking
+dispositions while strengthening pupils’ problem-solving and logical thinking
 skills, a Math Corner featuring logical thinking games and puzzles was
 launched during the Math Fiesta in Term 2, 2025. From 2026 onwards, pupils
 regularly utilise the Math Corner during recess, providing opportunities
@@ -36,44 +36,65 @@ through play.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Math Pic 1" src="/images/Math_Picture1.png">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Math Pic 2" src="/images/Math_Picture_2.png">
-</div>
+<p></p>
 </th>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="Math Pic 1" src="/images/Math_Picture1.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="Math Pic 2" src="/images/Math_Picture_2.png">
+</div>
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Math Pic 3" src="/images/Math_Picture_3.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Math Pic 4" src="/images/Math_Picture_4_png.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Math Pic 5" src="/images/Math_Picture_5_png.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Math Pic 4" src="/images/Math_Picture_4_png.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Math Pic 6" src="/images/Math_Picture_6_png.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="Math Pic 5" src="/images/Math_Picture_5_png.jpg">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Math Pic 6" src="/images/Math_Picture_6_png.jpg">
+</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Math Pic 7" src="/images/Math_Picture_7.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Math Pic 7" src="/images/Math_Picture_7.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,11 +102,17 @@ through play.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="Math Pic 8" src="/images/Math_Picture_8_png.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Students engaging in Mathematics games at Math Corner during Recess and in classroom</strong>
+<p><strong>Pupils engaging in Mathematics games at Math Corner during Recess and in classroom</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -111,12 +138,8 @@ prizes and tokens for their participations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/math-and-science-fiesta_2.jpeg">
 </div>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Excellence 2000 (E2K) Mathematics</strong>
 </p>
-</li>
-</ul>
 <p>The E2K Math Programme is designed to enrich the learning experiences
 of selected pupils who have demonstrated aptitude for mathematics. The&nbsp;E2K&nbsp;Math
 Programme aims to foster independence in mathematical thinking skills and
