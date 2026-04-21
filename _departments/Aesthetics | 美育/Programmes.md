@@ -71,15 +71,14 @@ range of musical expressions—from soulful vocals to dynamic instrumental
 pieces on the piano, drums, violin, cello, flute, ukulele, clarinet, pipa,
 saxophone, and guzheng. It was both heartening and inspiring to witness
 such a rich tapestry of talent within our school community.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Aesth Pic 5" src="/images/Aesth_Picture_5.png">
 </div>
@@ -97,21 +96,22 @@ such a rich tapestry of talent within our school community.</p>
 </div>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
+<p><strong>Instrument Proficiency Programme</strong>
+</p>
+<p>(Ukulele)</p>
+<p><strong>&nbsp;</strong>In line with the revised Primary Music Syllabus,
+students are expected to demonstrate proficiency in a main melodic instrument
+by the end of their six years of primary education. To support this objective
+and nurture students’ musicality and interest in music, the school offers
+a compulsory, progressive Ukulele module for the Primary 3 to Primary 6
+cohorts. This programme provides students with hands-on experience in playing
+the instrument, developing foundational skills in melody, rhythm, and ensemble
+performance, while fostering a lifelong appreciation for music.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Aesth Pic 8" src="/images/Aesth_Picture_8.png">
+</div>
 <p></p>
