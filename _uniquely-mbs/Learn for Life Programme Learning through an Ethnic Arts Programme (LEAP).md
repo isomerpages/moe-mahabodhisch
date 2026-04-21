@@ -413,8 +413,3 @@ reflect the strength and quality of the LEAP programme.</p>
 <p>学生在各类演出、展览与比赛中取得的成果，充分展现了 LEAP 课程的优质成效与特色。</p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
