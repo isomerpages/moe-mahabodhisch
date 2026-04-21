@@ -99,9 +99,9 @@ such a rich tapestry of talent within our school community.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Instrument Proficiency Programme</strong>
+<h4><strong>Instrument Proficiency Programme</strong></h4>
+<p><strong>(Ukulele)</strong>
 </p>
-<p>(Ukulele)</p>
 <p><strong>&nbsp;</strong>In line with the revised Primary Music Syllabus,
 students are expected to demonstrate proficiency in a main melodic instrument
 by the end of their six years of primary education. To support this objective
