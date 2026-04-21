@@ -57,28 +57,15 @@ of artistic exploration and self-discovery.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<h4>&nbsp;<strong>Music Matinee</strong></h4>
+<p>(MBS Got Talent)</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The Music Matinee provided a lively and engaging platform for students
+to share their musical talents. Held in the canteen during recesses, the
+event celebrated the breadth and diversity of our students’ abilities.
+Over 130 live performances captivated audiences, showcasing an impressive
+range of musical expressions—from soulful vocals to dynamic instrumental
+pieces on the piano, drums, violin, cello, flute, ukulele, clarinet, pipa,
+saxophone, and guzheng. It was both heartening and inspiring to witness
+such a rich tapestry of talent within our school community.</p>
