@@ -102,6 +102,89 @@ Chinese Culture and Values)</p>
 <p>Exploration of traditional techniques and artistic philosophy</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>These experiences strengthen students’ connection to Chinese cultural
+roots and develop appreciation for traditional art forms.</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p><strong>Knowing Others </strong>(Raising Inter-Racial Cultural Awareness
+&amp; Promoting NE Ethos)</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Learning Experience</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Focus</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Appreciation of Malay cultural expression and artistic traditions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kompang &amp; Angklung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ensemble music-making and understanding of cultural significance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Batik Painting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hands-on exploration of traditional Malay heritage art</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Through these experiences, students develop respect for diverse cultures
+and strengthen their sense of national identity.</p>
+<p><strong>Tiered Talent Development</strong>
+</p>
+<p>LEAP adopts a tiered approach to nurture students’ interests and talents:</p>
+<p><em>Tier 1 (Mass Exposure)<br></em>All students experience a broad range
+of ethnic arts through the curriculum and enrichment programmes.</p>
+<p><em>Tier 2 (Peak Development)<br></em>Students with strong interest and
+aptitude further develop their artistic potential through Co-Curricular
+Activities, performances, exhibitions, and competitions</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
