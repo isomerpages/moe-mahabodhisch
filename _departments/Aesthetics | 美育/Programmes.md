@@ -7,7 +7,8 @@ variant: tiptap
 ---
 <h2><strong>Programmes</strong></h2>
 <h4><strong>The Spectrum</strong></h4>
-<p>(Learning Beyond Classroom: MBS Bi-Annual Arts Exhibition)</p>
+<p><strong>(Learning Beyond Classroom: MBS Bi-Annual Arts Exhibition)</strong>
+</p>
 <p></p>
 <p>The Spectrum showcased the diverse talents of our school community in
 the MBS Art Gallery, celebrating students’ and staff’s artistic achievements
@@ -57,8 +58,9 @@ of artistic exploration and self-discovery.</p>
 </tr>
 </tbody>
 </table>
-<h4>&nbsp;<strong>Music Matinee</strong></h4>
-<p>(MBS Got Talent)</p>
+<h4><strong>Music Matinee</strong></h4>
+<p><strong>(MBS Got Talent)</strong>
+</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The Music Matinee provided a lively and engaging platform for students
@@ -69,3 +71,47 @@ range of musical expressions—from soulful vocals to dynamic instrumental
 pieces on the piano, drums, violin, cello, flute, ukulele, clarinet, pipa,
 saxophone, and guzheng. It was both heartening and inspiring to witness
 such a rich tapestry of talent within our school community.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Aesth Pic 5" src="/images/Aesth_Picture_5.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Aesth Pic 7" src="/images/Aesth_Picture_7.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="Aesth Pic 6" src="/images/Aesth_Picture_6.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
