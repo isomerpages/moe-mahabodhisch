@@ -36,4 +36,80 @@ for bringing honour to the school!</p>
 <p>&nbsp;</p>
 <p>这些佳绩充分展现了同学们的努力与坚持，也体现了老师及指导老师们悉心栽培与用心指导的成果。在此，我们也衷心感谢学校领导层及家长们一路以来坚定不移的支持与鼓励，陪伴学生走过这段成长旅程。</p>
 <p>我们为同学们追求卓越、满怀自信地展现才华，并以优异表现为校争光，感到无比自豪。谨向所有参与并获奖的同学致以最诚挚的祝贺！</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 SYF Pic 1" src="/images/2026_SYF___Pic_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 SYF Pic 2" src="/images/2026_SYF___Pic_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 SYF Pic 3" src="/images/2026_SYF___Pic_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 SYF Pic 4" src="/images/2026_SYF___Pic_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 SYF Pic 5" src="/images/2026_SYF___Pic_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 SYF Pic 6" src="/images/2026_SYF___Pic_6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 SYF Pic 7" src="/images/2026_SYF___Pic_7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 SYF Pic 8" src="/images/2026_SYF___Pic_8.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 SYF Pic 9" src="/images/2026_SYF___Pic_9.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 SYF Pic 10" src="/images/2026_SYF___Pic_10.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
