@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Maha Bodhi School Shines at 2026 SYF Arts Presentations
+      id: infopic
+      description: Maha Bodhi School is proud to celebrate our students’ commendable
+        achievements at the 2026 Singapore Youth Festival (SYF) Arts
+        Presentations.
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /departments/aesthetics/awards-achievements/
+      image: /images/2026_SYF_Pic_11.jpg
+      alt: 2026 SYF Teams
+  - infopic:
       title: International Friendship Day 2026
       id: infopic
       description: "Maha Bodhi School commemorated International Friendship Day (IFD),
