@@ -3,6 +3,7 @@ title: Applied Learning Programme
 permalink: /about-mbs/UNIQUELY-MBS/Applied-Learning-Programme/
 description: ""
 variant: tiptap
+third_nav_title: Uniquely MBS
 ---
 <h2>Applied Learning Programme</h2>
 <p><strong>APPLIED LEARNING PROGRAMME</strong>

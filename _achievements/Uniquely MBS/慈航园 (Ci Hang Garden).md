@@ -3,6 +3,7 @@ title: 慈航园 (Ci Hang Garden)
 permalink: /ci-hang-garden/
 variant: tiptap
 description: ""
+third_nav_title: Uniquely MBS
 ---
 <h4><strong>慈航园 (<em>Ci Hang Garden)</em></strong></h4>
 <p>To honour the memory of Reverend Chee Hong and his profound dedication

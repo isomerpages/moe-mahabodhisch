@@ -3,6 +3,7 @@ title: Learn for Life Programme Learning through an Ethnic Arts Programme (LEAP)
 permalink: /learn-for-life-programme-learning-through-an-ethnic-arts-programme-leap/
 variant: tiptap
 description: ""
+third_nav_title: Uniquely MBS
 ---
 <h4><strong>Learn for Life Programme (LLP)</strong></h4>
 <h4><strong>Learning through an Ethnic Arts Programme (LEAP)</strong></h4>

@@ -3,6 +3,7 @@ title: Celebrates Teachers’ Success at the 33rd SEA Games
 permalink: /celebrates-teachers-success-at-the-33rd-sea-games/
 variant: tiptap
 description: ""
+third_nav_title: Uniquely MBS
 ---
 <h4><strong>Maha Bodhi School Celebrates Teachers’ Success at the 33rd SEA Games</strong></h4>
 <p>Maha Bodhi School is proud to share that two of our teachers, <strong>Mr Ahmad Arif Bin Ibrahim </strong>and <strong>Ms Koh Xiao Li</strong>,
