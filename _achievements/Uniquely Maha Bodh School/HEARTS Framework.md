@@ -4,7 +4,7 @@ permalink: /hearts-framework/
 variant: tiptap
 description: ""
 image: /images/Hearts_Wall_Mural.jpg
-third_nav_title: Uniquely MBS
+third_nav_title: Uniquely Maha Bodh School
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner_slideshow_light.gif">

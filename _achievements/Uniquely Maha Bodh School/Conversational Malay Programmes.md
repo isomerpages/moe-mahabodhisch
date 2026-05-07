@@ -3,7 +3,7 @@ title: Conversational Malay Programmes
 permalink: /about-mbs/UNIQUELY-MBS/Conversational-Malay-Programmes/
 description: ""
 variant: markdown
-third_nav_title: Uniquely MBS
+third_nav_title: Uniquely Maha Bodh School
 ---
 ## Conversational Malay Programmes
 

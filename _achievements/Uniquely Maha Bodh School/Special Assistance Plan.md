@@ -2,7 +2,7 @@
 title: Special Assistance Plan
 permalink: /about-mbs/uniquely-mbs/special-programmes/
 description: ""
-third_nav_title: Uniquely MBS
+third_nav_title: Uniquely Maha Bodh School
 ---
 ## SAP Programme
 
