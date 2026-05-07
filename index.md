@@ -20,7 +20,7 @@ sections:
         achievements at the 2026 Singapore Youth Festival (SYF) Arts
         Presentations.
       button: PLEASE CLICK HERE TO READ MORE
-      url: /uniquely-maha-bodhi-school/
+      url: /departments/Aesthetics/Awards-Achievements/
       image: /images/2026_SYF_Pic_11.jpg
       alt: 2026 SYF Teams
   - infopic:
