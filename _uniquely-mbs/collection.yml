@@ -1,5 +1,4 @@
 collections:
   uniquely-mbs:
     output: true
-    order:
-      - 慈航园 (Ci Hang Garden).md
+    order: []
