@@ -7,6 +7,6 @@ third_nav_title: Student Well Being Newsletters
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Well Being May Issue" src="/images/WBW_May_2026__Cover_.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Student Well Being May Issue" src="/images/WBW_May_2026__Cover_.png">
 </div>
 <p></p>
