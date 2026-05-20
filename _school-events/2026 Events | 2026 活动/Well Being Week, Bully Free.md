@@ -8,10 +8,10 @@ third_nav_title: 2026 Events | 2026 活动
 <p>At Maha Bodhi School, our Well-Being Week (Bully-Free) brought learning
 to life through meaningful and engaging activities that promoted kindness
 and respect. From interactive assembly skit to meaningful recess activities
-led by our Peer Support</p>
-<p>Leaders and Prefects, students deepened their understanding of how kindness
-can promote positive relationships and the importance of being upstanders.
-In collaboration with the English Department, our students also became
+led by our Peer Support Leaders and Prefects, students deepened their understanding
+of how kindness can promote positive relationships and the importance of
+being upstanders.</p>
+<p>In collaboration with the English Department, our students also became
 advocates for change by creating impactful digital posters to raise awareness
 on bullying and how we can support one another. Together, these efforts
 reflect our shared commitment to nurturing a caring, inclusive school environment
