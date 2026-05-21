@@ -6,7 +6,14 @@ description: ""
 third_nav_title: General School Information
 ---
 <h3><strong>School Uniform Services</strong></h3>
-<p></p><a class="isomer-image-wrapper" href="https://jeepsinguniform.com"><img style="width: 100%" height="auto" width="100%" alt="Jeep Sing Fashion School Uniform 2026 V1" src="/images/Jeep_Sing_Fashion_School_Uniform_2026_V1.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jeep Sing Fashion, school uniform specialist" src="/images/Jeep_Sing_Fashion_School_Uniform_2026_V2.jpg">
+</div>
+<p><strong>Jeep Sing Uniform:</strong>  <a href="https://jeepsinguniform.com" rel="noopener nofollow" target="_blank">https://jeepsinguniform.com</a>
+</p>
+<p><strong>Support Centre:</strong>  <a href="https://bit.ly/JSFSUPPORT" rel="noopener nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>
+</p>
 <h4><strong>2026 Maha Bodhi School Uniform Name Tag Colour</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
