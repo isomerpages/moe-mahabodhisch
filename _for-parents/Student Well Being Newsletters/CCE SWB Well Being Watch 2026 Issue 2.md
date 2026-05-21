@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Student Well Being Newsletters
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Student Well Being May Issue" src="/images/WBW_May_2026__Cover_.png">
+<img style="width: 100%" height="auto" width="100%" alt="CCE SWB well Being Issue 2, Term 2, 2026 V3" src="/images/CCE_SWB__Well_Being_Issue__2__Term_2__2026_v2.jpg">
 </div>
-<p></p>
+<p><a href="/files/CCE_SWB_Growth_Mindset__1_.pdf" rel="noopener nofollow" target="_blank">CCE SWB Growth Mindset Main</a>
+</p>
