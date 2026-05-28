@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: General School Information
 ---
-<h3><strong>School Uniform Services (with effect from 1st July 2026)</strong></h3>
-<p></p>
+<h3><strong>School Uniform Services</strong></h3>
+<h4><strong>Jeep Sing Fashion will be Maha Bodhi School uniform vendor from 1st July 2026</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jeep Sing Fashion, school uniform specialist" src="/images/Jeep_Sing_Fashion_School_Uniform_2026_V2.jpg">
 </div>
