@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: General School Information
 ---
-<h3><strong>School Uniform Services</strong></h3>
+<h3><strong>School Uniform Services (with effect from 1st July 2026)</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jeep Sing Fashion, school uniform specialist" src="/images/Jeep_Sing_Fashion_School_Uniform_2026_V2.jpg">
