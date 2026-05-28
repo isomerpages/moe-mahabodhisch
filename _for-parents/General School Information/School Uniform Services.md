@@ -5,24 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: General School Information
 ---
-<h3>School Uniform Services</h3>
-<h2>School Uniform Services</h2>
-<h4>Shirley Season Wear</h4>
-<p><strong>NORTHSTAR</strong>
+<h3><strong>School Uniform Services</strong></h3>
+<h4><strong>Jeep Sing Fashion will be Maha Bodhi School uniform vendor from 1st July 2026</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jeep Sing Fashion, school uniform specialist" src="/images/Jeep_Sing_Fashion_School_Uniform_2026_V2.jpg">
+</div>
+<p><strong>Jeep Sing Uniform:</strong>  <a href="https://jeepsinguniform.com" rel="noopener nofollow" target="_blank">https://jeepsinguniform.com</a>
 </p>
-<p>7030 Ang Mo Kio Ave 5</p>
-<p>#04-55 (Lift Lobby 1)</p>
-<p>Singapore 569880</p>
-<p><strong>Operating Hours</strong>
+<p><strong>Support Centre:</strong>  <a href="https://bit.ly/JSFSUPPORT" rel="noopener nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>
 </p>
-<p>Jan to Nov, 12 noon – 6pm (Closed on Sun &amp; PH)</p>
-<p>Dec, 12 noon – 6pm (Open daily)</p>
-<p><strong>Note:</strong>
-</p>
-<p>You can order online at&nbsp;<strong><a href="https://www.shirleyuni.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.shirleyuni.com</a></strong> or
-email: <a href="getintouch@shirley.com" rel="noopener noreferrer nofollow" target="_blank">getintouch@shirley.com</a>
-</p>
-<p></p>
 <h4><strong>2026 Maha Bodhi School Uniform Name Tag Colour</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
