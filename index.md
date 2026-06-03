@@ -14,6 +14,14 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Vesak Day Celebration 2026
+      id: infopic
+      description: Maha Bodhi School celebrated Vesak Day began with the Vesak Day
+        Observance Ceremony on 15 May 2026
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /vesak-day-celebrations-maha-bodhi-school-2026/
+      image: /images/Vesak_Day_Pic_3.jpg
+  - infopic:
       title: Maha Bodhi School Shines at 2026 SYF Arts Presentations
       id: infopic
       description: Maha Bodhi School is proud to celebrate our students’ commendable
