@@ -21,7 +21,6 @@ sections:
       button: PLEASE CLICK HERE TO READ MORE
       url: /vesak-day-celebrations-maha-bodhi-school-2026/
       image: /images/Vesak_Day_Pic_3.jpg
-      alt: Image alt text
   - infopic:
       title: Maha Bodhi School Shines at 2026 SYF Arts Presentations
       id: infopic
