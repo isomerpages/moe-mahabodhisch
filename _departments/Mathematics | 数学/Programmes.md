@@ -22,22 +22,6 @@ skills, and promote collaboration. Through these experiences, pupils demonstrate
 greater enthusiasm for Mathematics, strengthen their logical thinking and
 perseverance, and develop positive attitudes towards challenges and learning
 through play.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -112,41 +96,11 @@ through play.</p>
 </p>
 <p>Equipping pupils with the skills and heuristics for mathematical problem
 solving is fundamental to the learning of mathematics. The Mathematics
-Department has designed a series of problem solving activities (P1 to P3)
-and heuristics worksheets (P3 – P6) that will systematically enable the
-pupils to be equipped with the different heuristics and model drawing skills
-for problem solving.</p>
-<p><strong>Math and Science Fiesta</strong>
+Department has designed a series of problem-solving activities and heuristics
+worksheets that will systematically enable the pupils to be equipped with
+the different heuristics and model drawing skills for problem solving.</p>
+<p><strong>Talent Development Mathematics Programmes</strong>
 </p>
-<p>Math and Science Fiesta is carried out in Term 3 every year. It aims to
-be an engaging platform for pupils to develop the joy of learning mathematics
-and also, to see the relevance of mathematics in their daily lives. There
-are many exciting activities and competitions organized for the pupils.
-Pupils have to apply their problem solving skills while being engaged in
-fun and meaningful tasks. They can look forward to be awarded attractive
-prizes and tokens for their participations.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/math-and-science-fiesta_1.jpeg">
-</div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/math-and-science-fiesta_2.jpeg">
-</div>
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <p><strong>Excellence 2000 (E2K) Mathematics</strong>
 </p>
 <p>The E2K Math Programme is designed to enrich the learning experiences
@@ -156,4 +110,29 @@ the love for mathematics through activities such as stories, games and
 puzzles. Various strategies in problem solving will be explored and higher
 order thinking skills will be applied to formulate solutions and communicate
 mathematical reasoning.</p>
+<p><strong>Group Work</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="4 boys in PE attire doing group work during E2K" src="/images/E2K_Pic_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Girls in school uniform doing group work during E2K" src="/images/E2K_Pic_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pupils learning collaboration skills in E2K" src="/images/E2K_Pic_3.png">
+</div>
+<p><strong>Pupil presenting&nbsp;/explaining her solution</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pupils presenting their solution after group work." src="/images/E2K_Pic_4.png">
+</div>
+<p><strong>Mathematics Olympiad Competitions</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Mathematical Olympiad of
+Singapore (NMOS)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raffles Mathematical Olympiad (RMO)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Asia-Pacific Mathematical Olympiad
+for Primary School (APMOPS)</p>
