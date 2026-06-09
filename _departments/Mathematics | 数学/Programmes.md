@@ -10,12 +10,12 @@ variant: tiptap
 </p>
 <p><strong>Promoting Joy of Learning</strong>
 </p>
-<p>The Mathematics Department seeks to instil joy in learning Mathematics
+<p>The Mathematics Department seeks to instill joy in learning Mathematics
 through play, logical thinking games, and puzzles. To foster positive learning
 dispositions while strengthening pupils’ problem-solving and logical thinking
 skills, a Math Corner featuring logical thinking games and puzzles was
 launched during the Math Fiesta in Term 2, 2025. From 2026 onwards, pupils
-regularly utilise the Math Corner during recess, providing opportunities
+regularly utilize the Math Corner during recess, providing opportunities
 for informal learning and exploration. Teachers also integrate games into
 classroom lessons to reinforce mathematical concepts, develop problem-solving
 skills, and promote collaboration. Through these experiences, pupils demonstrate
