@@ -92,6 +92,57 @@ through play.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Experiential Learning Week 2026 (Semester 1)</strong>
+</p>
+<p>During the Experiential Learning Week (ELW) in Term 2 Week 9, the Mathematics
+Department organised a series of engaging Math activities for students
+to learn through play both in the classroom and at the school courtyard.</p>
+<p>A Sudoku Challenge was organised for Primary 1 to Primary 6 pupils during
+recesses, alongside a variety of interesting Mathematics-related games
+made available for free play with their schoolmates. Parent Volunteers
+were present to support the activities by managing the Sudoku Challenge
+and guiding pupils on how to play the games whenever they had queries.</p>
+<p>The participation was overwhelming, with many pupils actively engaged
+in the activities. Pupils were observed enjoying the games while thinking
+strategically and logically as they worked towards solving problems or
+competing with their peers. The joy of learning was clearly evident as
+pupils collaborated, persevered, and applied their thinking skills meaningfully
+through play.</p>
+<p>This experiential learning opportunity also helped to foster positive
+attitudes towards Mathematics by making learning enjoyable, interactive,
+and engaging for pupils.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils learning mathematics the fun way - games" src="/images/ELW_2026_Math___Pic_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils learning mathematics the fun way - games" src="/images/ELW_2026_Math___Pic_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils learning mathematics the fun way using iPad - games" src="/images/ELW_2026_Math___Pic_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils learning mathematics the fun way - games" src="/images/ELW_2026_Math___Pic_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils gathered in courtyard learning mathematics the fun way - games" src="/images/ELW_2026_Math___Pic_5_jpg.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils learning mathematics the fun way - games" src="/images/ELW_2026_Math___Pic_6_jpg.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils learning mathematics the fun way - games" src="/images/ELW_2026_Math___Pic_7_jpg.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils learning mathematics the fun way - games" src="/images/ELW_2026_Math___Pic_8.png">
+</div>
 <p><strong>A Conceptual Approach to Problem Solving</strong>
 </p>
 <p>Equipping pupils with the skills and heuristics for mathematical problem
@@ -114,20 +165,20 @@ mathematical reasoning.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="4 boys in PE attire doing group work during E2K" src="/images/E2K_Pic_1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="4 boys in PE attire doing group work during E2K" src="/images/E2K_Pic_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Girls in school uniform doing group work during E2K" src="/images/E2K_Pic_2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Girls in school uniform doing group work during E2K" src="/images/E2K_Pic_2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pupils learning collaboration skills in E2K" src="/images/E2K_Pic_3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils learning collaboration skills in E2K" src="/images/E2K_Pic_3.png">
 </div>
 <p><strong>Pupil presenting&nbsp;/explaining her solution</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pupils presenting their solution after group work." src="/images/E2K_Pic_4.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils presenting their solution after group work." src="/images/E2K_Pic_4.png">
 </div>
 <p><strong>Mathematics Olympiad Competitions</strong>
 </p>
