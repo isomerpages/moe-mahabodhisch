@@ -262,6 +262,23 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mdm Leong Lye Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_lye_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_lye_chan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
