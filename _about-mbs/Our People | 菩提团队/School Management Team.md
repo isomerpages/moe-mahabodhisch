@@ -261,7 +261,7 @@ variant: tiptap
 <p>Mr Muhammad Faris Mohamad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Character and Citizenship Education</p>
+<p>SH/ Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
@@ -294,6 +294,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Internal) / Information and Communications Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Inda Putri Andayani Rafeah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ (Internal) 21cc</p>
 </td>
 </tr>
 </tbody>
