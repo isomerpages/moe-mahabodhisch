@@ -130,7 +130,7 @@ variant: tiptap
 <p>Mr Tan Teck Ngee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan_teck_ngee@moe.edu.sg</p>
+<p>tan_teck_ngee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
