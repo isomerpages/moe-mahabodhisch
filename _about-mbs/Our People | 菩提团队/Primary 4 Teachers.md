@@ -127,11 +127,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee-Ho Sz Wha</p>
+<p>Mr Tan Teck Ngee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_sz_wha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_sz_wha@moe.edu.sg</a>
-</p>
+<p>Tan_teck_ngee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
