@@ -116,11 +116,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Felicia Ho Pei Shan</p>
+<p>Mdm Soon Su Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:felicia_ho_pei_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">felicia_ho_pei_shan@moe.edu.sg</a>
-</p>
+<p>soon_su_yee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
