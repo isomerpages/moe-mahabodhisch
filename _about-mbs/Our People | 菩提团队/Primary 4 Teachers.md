@@ -71,7 +71,8 @@ variant: tiptap
 <p>Eunise Ong Wei Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong _wei_ning_eunise@moe.edu.sg</p>
+<p><a href="ong _wei_ning_eunise@moe.edu.sg" rel="noopener nofollow" target="_blank">ong _wei_ning_eunise@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +83,8 @@ variant: tiptap
 <p>Liu Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liu_ming@moe.edu.sg</p>
+<p><a href="liu_ming@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_ming@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +121,8 @@ variant: tiptap
 <p>Mdm Soon Su Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>soon_su_yee@moe.edu.sg</p>
+<p><a href="soon_su_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">soon_su_yee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +133,8 @@ variant: tiptap
 <p>Mr Tan Teck Ngee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_teck_ngee@moe.edu.sg</p>
+<p><a href="tan_teck_ngee@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_teck_ngee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
