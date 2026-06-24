@@ -203,6 +203,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>P3 Generosity</strong>
 </p>
 </td>
@@ -249,6 +260,23 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim-ho_lian_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim-ho_lian_poh@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mdm Leong Lye Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_lye_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_lye_chan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mdm Lim Su Fern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim_sufern_a@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
