@@ -68,11 +68,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Qile Daryl</p>
+<p>Eunise Ong Wei Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_qile_daryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_qile_daryl@moe.edu.sg</a>
-</p>
+<p>ong _wei_ning_eunise@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liu Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liu_ming@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
