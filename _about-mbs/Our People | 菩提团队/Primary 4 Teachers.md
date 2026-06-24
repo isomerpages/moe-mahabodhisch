@@ -270,6 +270,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mr Wong Jee Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_jee_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jee_heng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
