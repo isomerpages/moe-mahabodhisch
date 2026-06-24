@@ -334,6 +334,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mdm Qian Bingyun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:qian_bing_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qian_bing_yun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
