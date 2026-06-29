@@ -11,6 +11,14 @@ variant: tiptap
 </p>
 <p><strong>e21CC: Communication, Critical Thinking</strong>
 </p>
+<p>Building a vibrant reading culture through purposeful oracy! Our pupils
+stepped into the role of reading advocates through the Persuasive Book
+Recommendation Programme. From assembly presentations to inter-class book
+sharing sessions, pupils confidently recommended their favourite reads
+using persuasive speaking skills learnt during English lessons.</p>
+<p>Through authentic peer-sharing experiences, pupils strengthened their
+confidence in oral presentation, developed persuasive communication skills
+and deepened their love for reading!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
