@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <p><strong>e21CC: Communication, Critical Thinking</strong>
 </p>
-<p><strong>Building a vibrant reading culture through purposeful oracy! </strong>
+<p><strong>Building a vibrant reading culture through purposeful oracy!</strong>
 </p>
 <p>Our pupils stepped into the role of reading advocates through the Persuasive
 Book Recommendation Programme. From assembly presentations to inter-class
@@ -34,7 +34,19 @@ and deepened their love for reading!</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Pupils in class holding on to their favourite storybook and sharing interesting plot in the story." src="/images/Photo_4.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="Pupils in class holding on to their favourite storybook and sharing interesting plot in the story." src="/images/Photo_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Pupils in class holding on to their favourite storybook and sharing interesting plot in the story." src="/images/Photo_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils in class holding on to their favourite storybook and sharing interesting plot in the story." src="/images/Photo_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils in class holding on to their favourite storybook taking fun photoshoots." src="/images/Photo_7.jpg">
 </div>
 <p></p>
 <table style="minWidth: 50px">
