@@ -155,10 +155,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Faris Bin Mohamad Yusuf</p>
+<p>Alice Han Kian Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_faris_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_faris_mohamad@moe.edu.sg</a>
+<p><a href="han_kian_neo_alice@moe.edu.sg" rel="noopener nofollow" target="_blank">han_kian_neo_alice@moe.edu.sg</a>
 </p>
 </td>
 </tr>
