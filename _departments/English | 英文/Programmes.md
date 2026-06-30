@@ -64,6 +64,10 @@ and deepened their love for reading!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Top-reading P4 and P5 class were rewarded with Movie with Popcorn session." src="/images/Photo_11.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Top-reading P4 and P5 class were rewarded with Movie with Popcorn session." src="/images/Photo_12.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
