@@ -20,7 +20,8 @@ using persuasive speaking skills learnt during English lessons.</p>
 <p>Through authentic peer-sharing experiences, pupils strengthened their
 confidence in oral presentation, developed persuasive communication skills
 and deepened their love for reading!</p>
-<p></p>
+<p><u>Partner classes shared books and inspired one another to read widely.</u>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="2 girls sitting in class dress in Maha Bodhi PE attire holding on to their favourite storybook" src="/images/Photo_1.jpg">
 </div>
@@ -48,7 +49,8 @@ and deepened their love for reading!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Pupils in class holding on to their favourite storybook taking fun photoshoots." src="/images/Photo_7.jpg">
 </div>
-<p></p>
+<p><u>Pupil and Teacher Book Recommendations @ Assembly</u>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Teacher and Pupils in blue and white uniform sharing on their favourite story book during morning assembly." src="/images/Photo_8.jpg">
 </div>
@@ -56,11 +58,13 @@ and deepened their love for reading!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Teacher and pupils sharing their favourite story book during assembly." src="/images/Photo_9.jpg">
 </div>
-<p></p>
+<p><u>Top-reading P1 class rewarded with a class banner</u>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Top reading P1 Class rewarded with a class banner." src="/images/Photo_10.jpg">
 </div>
-<p></p>
+<p><u>Top-reading P4 and P5 classes were rewarded with Movie with Popcorn.</u>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Top-reading P4 and P5 class were rewarded with Movie with Popcorn session." src="/images/Photo_11.jpg">
 </div>
