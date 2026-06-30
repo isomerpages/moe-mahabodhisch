@@ -50,9 +50,20 @@ and deepened their love for reading!</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Pupils in blue and white uniform sharing on their favourite story book during morning assembly." src="/images/Photo_8.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Teacher and Pupils in blue and white uniform sharing on their favourite story book during morning assembly." src="/images/Photo_8.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Teacher and pupils sharing their favourite story book during assembly." src="/images/Photo_9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Top reading P1 Class rewarded with a class banner." src="/images/Photo_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Top-reading P4 and P5 class were rewarded with Movie with Popcorn session." src="/images/Photo_11.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -90,6 +101,7 @@ and deepened their love for reading!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -674,3 +686,4 @@ compositions</p>
 </tbody>
 </table>
 <p></p>
+<p>0</p>
