@@ -11,6 +11,63 @@ variant: tiptap
 </p>
 <p><strong>e21CC: Communication, Critical Thinking</strong>
 </p>
+<p><strong>Building a vibrant reading culture through purposeful oracy!</strong>
+</p>
+<p>Our pupils stepped into the role of reading advocates through the Persuasive
+Book Recommendation Programme. From assembly presentations to inter-class
+book sharing sessions, pupils confidently recommended their favourite reads
+using persuasive speaking skills learnt during English lessons.</p>
+<p>Through authentic peer-sharing experiences, pupils strengthened their
+confidence in oral presentation, developed persuasive communication skills
+and deepened their love for reading!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="2 girls sitting in class dress in Maha Bodhi PE attire holding on to their favourite storybook" src="/images/Photo_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils in class holding on to their reading record and their favourite storybook." src="/images/Photo_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils in class holding on to their reading record and their favourite storybook." src="/images/Photo_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Pupils in class holding on to their favourite storybook and sharing interesting plot in the story." src="/images/Photo_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Pupils in class holding on to their favourite storybook and sharing interesting plot in the story." src="/images/Photo_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils in class holding on to their favourite storybook and sharing interesting plot in the story." src="/images/Photo_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils in class holding on to their favourite storybook taking fun photoshoots." src="/images/Photo_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Teacher and Pupils in blue and white uniform sharing on their favourite story book during morning assembly." src="/images/Photo_8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Teacher and pupils sharing their favourite story book during assembly." src="/images/Photo_9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Top reading P1 Class rewarded with a class banner." src="/images/Photo_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Top-reading P4 and P5 class were rewarded with Movie with Popcorn session." src="/images/Photo_11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Top-reading P4 and P5 class were rewarded with Movie with Popcorn session." src="/images/Photo_12.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -48,6 +105,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -632,3 +690,4 @@ compositions</p>
 </tbody>
 </table>
 <p></p>
+<p>0</p>
