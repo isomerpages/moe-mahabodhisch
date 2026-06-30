@@ -49,6 +49,10 @@ and deepened their love for reading!</p>
 <img style="width: 50%;" height="auto" width="100%" alt="Pupils in class holding on to their favourite storybook taking fun photoshoots." src="/images/Photo_7.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Pupils in blue and white uniform sharing on their favourite story book during morning assembly." src="/images/Photo_8.jpg">
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
