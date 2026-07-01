@@ -35,3 +35,11 @@ a warm, welcoming tone for the new school term.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="Pupils in school attire bonding through games during Back to School Programme" src="/images/BTST32026_3.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Pupils in school attire bonding through games during Back to School Programme" src="/images/BTST32026_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pupils in school attire bonding through games during Back to School Programme" src="/images/BTST32026_5.jpg">
+</div>
+<p></p>
