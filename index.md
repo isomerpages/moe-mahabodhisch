@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Back to School Term 3, 2026
+      id: infopic
+      description: Our Back-to-School Programme welcomed pupils back to school through
+        meaningful opportunities to reconnect with friends and strengthen
+        relationships.
+      button: please click here to read more
+      url: /back-to-school-programme-term-3-2026/
+      image: /images/BTST32026_3.jpg
+      alt: Back to School, Term 3, 2026
+  - infopic:
       title: Vesak Day Celebration 2026
       id: infopic
       description: Maha Bodhi School celebrated Vesak Day began with the Vesak Day
