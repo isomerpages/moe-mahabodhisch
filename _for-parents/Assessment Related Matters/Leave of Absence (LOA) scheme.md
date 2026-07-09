@@ -29,5 +29,5 @@ that enables your child to keep up-to-date with our national curriculum.</p>
 scene.</p>
 </li>
 </ul>
-<p>To apply, please complete the online application form at <a href="https://go.gov.sg/mbs-leaveofabsence" rel="noopener noreferrer nofollow" target="_blank">Application for Leave of Absence</a>
+<p>To apply, please complete the online application form at <a href="https://form.gov.sg/6a4eef1bd65545fe5cae624c" rel="noopener noreferrer nofollow" target="_blank">Application for Leave of Absence</a>
 </p>
