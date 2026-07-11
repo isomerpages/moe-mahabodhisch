@@ -21,4 +21,22 @@ kinder and more positive digital community.</p>
 <p>作为第三学期身心健康周的一部分，菩提学校举办了2026年网络健康周。本次活动以“<strong>争当网络小英雄</strong>！”为主题，帮助学生掌握网络安全知识与技能，培养安全、尊重他人和负责任的网络使用态度。</p>
 <p>学生们在休息时间积极参与了一系列互动展位活动。通过趣味实操游戏与真实生活情境演练，他们学会了在发布信息前三思、识别真假信息、设定健康的线上界限、勇敢抵制网络霸凌，并运用
 S.T.A.R.S. 框架来帮助同伴。此外，学生们还通过充满趣味的线上学习活动，提升了个人数字素养与打字技能。</p>
-<p>这一系列活动让学生进一步明白审慎上网的重要性，并激励每一位学生肩负起个人责任，共同构建一个更安全、更友善、更具正能量的数字社区</p>
+<p>这一系列活动让学生进一步明白审慎上网的重要性，并激励每一位学生肩负起个人责任，共同构建一个更安全、更友善、更具正能量的数字社区.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="3 pupils wearing Maha Bodhi School PE attire posting for photo holding on to the badges." src="/images/2026_CWW_Pic_1.jpg">
+</div>
+<p>Pupils displaying their badges earned from Cyber Wellness game station.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pupils wearing Maha Bodhi School PE attire actively participating in game station." src="/images/2026_CWW_Pic_2.jpg">
+</div>
+<p>Pupils actively engaging in Cyber Wellness game station.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pupils wearing Maha Bodhi School PE attire learning Cyber Wellness through iPads station." src="/images/2026_CWW_Pic_3.jpg">
+</div>
+<p>Pupils learning about Cyber Wellness through iPads station.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pupils learning about Cyber Wellness through laptop station guided by parent volunteer." src="/images/2026_CWW_Pic_4.jpg">
+</div>
+<p>Pupils learning about Cyber Wellness through laptop station guided by
+parent volunteer.</p>
