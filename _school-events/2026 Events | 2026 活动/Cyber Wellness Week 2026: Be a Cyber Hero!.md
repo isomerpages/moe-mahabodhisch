@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Events | 2026 活动
 ---
+<h3><strong>Cyber Wellness Week 2026: Be a Cyber Hero!</strong></h3>
 <p>As part of our Term 3 Well-Being Week, Maha Bodhi School organised <strong>Cyber Wellness Week 2026</strong> with
 the theme <strong>"Be a Cyber Hero!"</strong> to equip students with the
 knowledge and skills to stay safe, respectful and responsible online.</p>
