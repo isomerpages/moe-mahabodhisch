@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: "Cyber Wellness Week 2026: Be a Cyber Hero!"
+      id: infopic
+      description: Cyber Wellness Week 2026 with the theme "Be a Cyber Hero!" to equip
+        students with the knowledge and skills to stay safe, respectful and
+        responsible online.
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /cyber-wellness-week-2026-be-a-cyber-hero/
+      image: /images/2026_CWW_Pic_1.jpg
+      alt: Cyber Wellness Week 2026
+  - infopic:
       title: Back to School Term 3, 2026
       id: infopic
       description: Our Back-to-School Programme welcomed pupils back to school through
