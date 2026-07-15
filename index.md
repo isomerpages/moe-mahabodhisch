@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Dengue Prevention Through NEA’s Project Wolbachia
+      id: infopic
+      description: Students had the opportunity to observe live, non-biting male
+        Wolbachia-Aedes mosquitoes and explore the mosquito life cycle and
+        prevention method by NEA.
+      button: PLEASE CLICK HERE
+      url: /dengue-prevention-through-nea-s-project-wolbachia/
+      image: /images/2026_Project_Wolbachia___Pic_3.jpg
+      alt: PROJECT WOLBACHIA
+  - infopic:
       title: "Cyber Wellness Week 2026: Be a Cyber Hero!"
       id: infopic
       description: Cyber Wellness Week 2026, with the theme "Be a Cyber Hero", equips
@@ -232,14 +242,4 @@ sections:
       alt: SG60 Nation Day Celebration
       description: National Day celebrations were filled with excitement and pride as
         the whole school came together to honour the nation’s birthday.
-  - infopic:
-      title: Dengue Prevention Through NEA’s Project Wolbachia
-      id: infopic
-      description: Students had the opportunity to observe live, non-biting male
-        Wolbachia-Aedes mosquitoes and explore the mosquito life cycle and
-        prevention method by NEA.
-      button: PLEASE CLICK HERE
-      url: /dengue-prevention-through-nea-s-project-wolbachia/
-      image: /images/2026_Project_Wolbachia___Pic_3.jpg
-      alt: PROJECT WOLBACHIA
 ---
