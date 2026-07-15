@@ -20,8 +20,7 @@ remembering <strong>B-L-O-C-K</strong>, we can help break the dengue transmissio
 cycle.</p>
 <p>For families living in dengue cluster areas, remember to follow the <strong>S-A-W</strong> actions
 to reduce the risk of mosquito bites.</p>
-<p>Together, let's keep our homes, school and community dengue-free!</p>
-<p><strong>&nbsp;</strong>
+<p>Together, let's keep our homes, school and community dengue-free!<strong>&nbsp;</strong>
 </p>
 <p><strong>菩提学校的学生通过国家环境局的“沃尔巴克氏菌计划”学习预防骨痛热症知识</strong>
 </p>
