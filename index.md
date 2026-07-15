@@ -16,7 +16,7 @@ sections:
   - infopic:
       title: "Cyber Wellness Week 2026: Be a Cyber Hero!"
       id: infopic
-      description: Cyber Wellness Week 2026, with the theme "Be a Cyber Hero!", equips
+      description: Cyber Wellness Week 2026, with the theme "Be a Cyber Hero", equips
         students with the knowledge and skills to stay safe, respectful and
         responsible online.
       button: PLEASE CLICK HERE TO READ MORE
