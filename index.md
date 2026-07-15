@@ -19,7 +19,7 @@ sections:
       description: Students had the opportunity to observe live, non-biting male
         Wolbachia-Aedes mosquitoes and explore the mosquito life cycle and
         prevention method by NEA.
-      button: PLEASE CLICK HERE
+      button: PLEASE CLICK HERE TO READ MORE
       url: /dengue-prevention-through-nea-s-project-wolbachia/
       image: /images/2026_Project_Wolbachia___Pic_3.jpg
       alt: PROJECT WOLBACHIA
