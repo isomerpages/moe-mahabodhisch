@@ -14,7 +14,7 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
-      title: Infopic
+      title: Kindness Week 2026
       id: infopic
       description: On Kindness Week we paid tribute to our non-teaching staff who work
         tirelessly behind the scenes to keep our school clean, safe and
