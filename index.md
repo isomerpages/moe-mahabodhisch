@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Infopic
+      id: infopic
+      description: On Kindness Week we paid tribute to our non-teaching staff who work
+        tirelessly behind the scenes to keep our school clean, safe and
+        welcoming every day.
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /kindness-week-maha-bodhi-school/
+      image: /images/WhatsApp_Image_2026_07_23_at_12_57_59_PM.jpg
+      alt: KINDNESS WEEK 2026
+  - infopic:
       title: Dengue Prevention Through NEA’s Project Wolbachia
       id: infopic
       description: Students had the opportunity to observe live, non-biting male
