@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Events | 2026 活动
 ---
-<p>As part of Kindness Week on 14 and 15 July, Maha Bodhians paid tribute
-to our non-teaching staff who work tirelessly behind the scenes to keep
-our school clean, safe and welcoming every day.</p>
+<h3><strong>Kindness Week @ Maha Bodhi School</strong></h3>
 <p>Through meaningful acts of appreciation, students designed gift bags,
 made handmade sponge bears, penned heartfelt thank-you notes and contributed
 to a Gratitude Wall filled with messages of thanks. These simple yet thoughtful
