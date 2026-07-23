@@ -21,7 +21,7 @@ sections:
         welcoming every day.
       button: PLEASE CLICK HERE TO READ MORE
       url: /kindness-week-maha-bodhi-school/
-      image: /images/WhatsApp_Image_2026_07_23_at_12_57_59_PM.jpg
+      image: /images/Kindness_Week.jpg
       alt: KINDNESS WEEK 2026
   - infopic:
       title: Dengue Prevention Through NEA’s Project Wolbachia
