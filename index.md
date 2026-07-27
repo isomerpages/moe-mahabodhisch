@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: "Racial Harmony Day: Our People, Our Tapestry"
+      id: infopic
+      description: We celebrated Racial Harmony Day through programs reflecting our
+        cultures, traditions and experiences. Together we form the vibrant
+        tapestry of our nation.
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /racial-harmony-day-our-people-our-tapestry/
+      image: /images/RHD___Pic_5.jpg
+      alt: Racial Harmony Day 2026
+  - infopic:
       title: Kindness Week 2026
       id: infopic
       description: On Kindness Week we paid tribute to our non-teaching staff who work
