@@ -31,3 +31,24 @@ respect and understanding every day.</p>
 和配对游戏，加深对 新加坡多元文化遗产的认识与欣赏。</p>
 <p>当天，师生们也身着色彩缤纷、各具特色的民族服饰，共同展现不同文化的独特魅 力，感受多元文化共融的美好。</p>
 <p>让我们继续以善意、尊重与理解相待，携手编织属于我们的和谐锦绣，共同建设一个 更加团结、包容与友爱的社会。</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students and teachers dressing up for Racial Harmony day" src="/images/RHD___Pic_1.jpg">
+</div>
+<p>Teachers and students dressing up for Racial Harmony Day.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students learning through games guided by parent volunteers." src="/images/RHD___Pic_2.jpg">
+</div>
+<p>Students learning through games guided by parent volunteers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students contributing well-wishes through Harmony Tree" src="/images/RHD___Pic_3.jpg">
+</div>
+<p>Students contributing well-wishes through Harmony Tree.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students learning more on Racial Harmony through iPads." src="/images/RHD___Pic_4.jpg">
+</div>
+<p>Students learning more on Racial Harmony through iPads.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students dressing up for Racial Harmony Day in traditional costume." src="/images/RHD___Pic_5.jpg">
+</div>
+<p>Students dressing up for Racial Harmony Day in traditional costume.</p>
