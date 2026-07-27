@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Events | 2026 活动
 ---
-<p><strong>Racial Harmony Day: Our People, Our Tapestry</strong>
-</p>
+<h4><strong>Racial Harmony Day: Our People, Our Tapestry</strong></h4>
 <p>In this year’s commemoration of Racial Harmony Day, Maha Bodhians celebrated
 the rich diversity that makes Singapore our home. Through an engaging assembly
 programme featuring a Drama Club skit, students reflected on how our different
@@ -23,8 +22,7 @@ beauty of our diverse cultures.</p>
 <p>Together, we can continue to weave a tapestry of harmony by showing kindness,
 respect and understanding every day.</p>
 <p>&nbsp;</p>
-<p><strong>种族和谐日: 众人同心，共织和谐锦绣</strong>
-</p>
+<h4><strong>种族和谐日: 众人同心，共织和谐锦绣</strong></h4>
 <p>在今年的种族和谐日，菩提学校师生齐聚一堂，共同庆祝新加坡丰富多元的文化特 色。通过精彩纷呈的周会活动，包括戏剧学会呈献的短剧表演，同学们进一步了解不
 同文化、传统与生活经历如何相互交融，共同编织出新加坡这幅绚丽多彩的和谐画卷。</p>
 <p>庆祝活动也延续至休息时间。同学们积极参与各项主题活动，参观文化展览与展示 区，在“仁慈树”上写下祝福与善行，并通过网络平台 Wordwall
