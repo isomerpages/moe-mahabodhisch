@@ -52,3 +52,17 @@ respect and understanding every day.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Students dressing up for Racial Harmony Day in traditional costume." src="/images/RHD___Pic_5.jpg">
 </div>
 <p>Students dressing up for Racial Harmony Day in traditional costume.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Learning through games on Racial Harmony Day at courtyard." src="/images/RHD___Pic_6.jpg">
+</div>
+<p>Learning through games on Racial Harmony Day at courtyard.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Learning more on racial harmony through booth display guided by parent volunteers." src="/images/RHD___Pic_7.jpg">
+</div>
+<p>Children learning more on racial harmony through booth display guided
+by parent volunteers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Learning more on racial harmony through booth display guided by parent volunteers." src="/images/RHD___Pic_8.jpg">
+</div>
+<p>Children learning more on racial harmony through booth display guided
+by parent volunteers.</p>
