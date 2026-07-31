@@ -31,7 +31,7 @@ the Maha Bodhi community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2025 Prefect's Leader gathered for Photo Taking during Prefect Investiture 2026" src="/images/Prefect_Investiture___2.jpg">
 </div>
-<p>2025 Prefect's Leader gathered for Photo Taking during Prefect Investiture
+<p>Prefect's Leader gathered for Photo Taking during Prefect Investiture
 2026</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Head Prefect of 2025 giving speech at Prefect Investiture 2026" src="/images/Prefect_Investiture___3.jpg">
