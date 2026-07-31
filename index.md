@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: Prefect Investiture 2026
+      id: infopic
+      description: Prefects' Investiture 2026 formally induct newly appointed prefects
+        into the Prefectorial Board. Serving the community with dedication,
+        integrity and humility.
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /prefects-investiture-2026/
+      image: /images/Prefect_Investiture___1.jpg
+      alt: Image alt text
+  - infopic:
       title: "Racial Harmony Day: Our People, Our Tapestry"
       id: infopic
       description: We celebrated Racial Harmony Day through programs reflecting our
