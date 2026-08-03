@@ -27,7 +27,7 @@ February, March, April, May, July, August, September, and October.</p>
 <p>Distance</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>DistanceUp to 15-seater</p>
+<p>Up to 15-seater</p>
 </th>
 <th rowspan="1" colspan="2">
 <p>&gt;15-seater</p>
