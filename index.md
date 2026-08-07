@@ -14,6 +14,16 @@ sections:
           description: ""
           url: /important-information/links/links/
   - infopic:
+      title: National Day Celebration 2026
+      id: infopic
+      description: On 7 August 2026, Maha Bodhi School proudly celebrated Singapore's
+        61st birthday with a meaningful morning of reflection, gratitude and
+        celebration.
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /national-day-celebration-maha-bodhi-school/
+      image: /images/NDPMBS2026_10.jpg
+      alt: Image alt text
+  - infopic:
       title: Prefect Investiture 2026
       id: infopic
       description: Prefects' Investiture 2026 formally induct newly appointed prefects
