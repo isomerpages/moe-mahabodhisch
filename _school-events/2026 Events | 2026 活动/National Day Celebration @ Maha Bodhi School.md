@@ -73,4 +73,8 @@ class visit .</p>
 </div>
 <p>Guests of honour and SLs were greeted warmly by pupils during class visit
 .</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pupils dressed in red and white waving energetically holding Singapore Flag!" src="/images/NDPMBS2026_1.jpg">
+</div>
+<p>Pupils dressed in red and white waving energetically holding Singapore
+Flag!</p>
