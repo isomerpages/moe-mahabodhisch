@@ -76,5 +76,4 @@ class visit .</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pupils dressed in red and white waving energetically holding Singapore Flag!" src="/images/NDPMBS2026_1.jpg">
 </div>
-<p>Pupils dressed in red and white waving energetically holding Singapore
-Flag!</p>
+<p>Pupils in high spirit dressed in red and white waving Singapore Flag energetically!</p>
