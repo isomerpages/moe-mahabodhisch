@@ -29,7 +29,8 @@ to our community and shaping Singapore's future.</p>
 <p>庆典首先以国庆仪式拉开序幕，随后贵宾们参观了本校的国民教育（NE）展示墙与感恩之心的（AOG）展示墙。学生们通过展示墙表达了对新加坡以及所有为国家发展和繁荣作出贡献人士的感激之情。随后，贵宾们也前往礼堂观赏了精彩的演出。贵宾们此次还走进课室，与学生们进行亲切交流和进行有意义的互动。</p>
 <p>在庆祝新加坡一路走来的辉煌历程之际，菩提学校的莘莘学子也再次铭记：我们每个人都肩负着关爱国家、贡献社区以及共同塑造新加坡未来的重要责任。</p>
 <p>祝新加坡61岁生日快乐！前进吧，新加坡！🇸🇬❤️</p>
-<p></p>
+<p><strong>Click here to know more! </strong>- <a href="https://drive.google.com/file/d/1X3p2X4vmgVyoW559z8CsRj92Tv6426eD/view?usp=share_link" rel="noopener nofollow" target="_blank">National Day Celebration 2026 @ Maha Bodhi School</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Guests of Honour together with Senior School Leaders solemnly taking Singapore Pledge." src="/images/NDPMBS2026_10.jpg">
 </div>
