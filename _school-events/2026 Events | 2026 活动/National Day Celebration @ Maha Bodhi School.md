@@ -61,4 +61,16 @@ with pupils.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Guests of honour and SLs taking group photo together with pupils during class visit ." src="/images/NDPMBS2026_4.jpg">
 </div>
+<p>Guests of honour and SLs taking group photo together with pupils during
+class visit .</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Guests of honour and SLs taking group photo together with pupils during class visit ." src="/images/NDPMBS2026_3.jpg">
+</div>
+<p>Guests of honour and SLs taking group photo together with pupils during
+class visit .</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Guests of honour and SLs were greeted warmly by pupils during class visit ." src="/images/NDPMBS_2.jpg">
+</div>
+<p>Guests of honour and SLs were greeted warmly by pupils during class visit
+.</p>
 <p></p>
