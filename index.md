@@ -13,6 +13,18 @@ sections:
         - title: Links for Parents and Students | 家长与学生相关链接
           description: ""
           url: /important-information/links/links/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Teachers' Day Visitation
+          date: 03 September 2026
+          announcement: "Time & Attire: 11.00 a.m. - 12.30 p.m, current school uniform. Do
+            inform your teachers in advance if you plan to visit. Visitors are
+            reminded to observe school rules and follow the instructions given
+            by our school staff.  Thank you."
+          link_text: PLEASE CLICK HERE TO READ MORE
+          link_url: /teachers-day-visitation-2026/
   - infopic:
       title: National Day Celebration 2026
       id: infopic
