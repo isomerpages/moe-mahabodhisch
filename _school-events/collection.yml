@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - 2026 Events | 2026 活动/Teachers’ Day Visitation 2026.md
       - 2026 Events | 2026 活动/National Day Celebration @ Maha Bodhi School.md
       - 2026 Events | 2026 活动/Prefects' Investiture 2026.md
       - "2026 Events | 2026 活动/Racial Harmony Day: Our People, Our Tapestry.md"
