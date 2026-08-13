@@ -22,7 +22,7 @@ sections:
           announcement: "Time & Attire: 11.00 a.m. - 12.30 p.m, current school uniform. Do
             inform your teachers in advance if you plan to visit. Visitors are
             reminded to observe school rules and follow the instructions given
-            by our school staff.  Thank you."
+            by our school staff."
           link_text: PLEASE CLICK HERE TO READ MORE
           link_url: /teachers-day-visitation-2026/
   - infopic:
