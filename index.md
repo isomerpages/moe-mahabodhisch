@@ -25,11 +25,12 @@ sections:
             by our school staff."
           link_text: PLEASE CLICK HERE TO READ MORE
           link_url: /teachers-day-visitation-2026/
-        - title: Teachers' appreciation post on Padlet
+        - title: Teachers' appreciation posting on Padlet
           date: 20 August 2026
           announcement: Maha Bodhian, teachers' day is just around the corner. Do show
             your acknowledgement & appreciation for your teachers through Padlet
-            post. Letting teachers know their efforts is greatly appreciated.
+            post. Letting teachers know their efforts in nurturing you is
+            greatly appreciated.
           link_text: Click here to post on Padlet
           link_url: https://padlet.com/mahabodhischool/2026-wfmz78oz58xm41qr
   - infopic:
