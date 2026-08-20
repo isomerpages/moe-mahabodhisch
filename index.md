@@ -34,6 +34,15 @@ sections:
           link_text: Click here to post on Padlet
           link_url: https://padlet.com/mahabodhischool/2026-wfmz78oz58xm41qr
   - infopic:
+      title: Mass Games Day 2026
+      id: infopic
+      description: On 6-Aug-2026, our P3, P4 and P5 pupils took part in station games
+        in Badminton, Freeze Ball, and Dribble Ball!
+      button: PLEASE CLICK HERE TO READ MORE
+      url: /mass-games-day-mgd-2026/
+      image: /images/MGD_2026.jpg
+      alt: Pupils in celebrating MGD.
+  - infopic:
       title: National Day Celebration 2026
       id: infopic
       description: On 7 August 2026, Maha Bodhi School proudly celebrated Singapore's
